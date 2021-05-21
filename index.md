@@ -6,13 +6,12 @@ layout: "default"
 
 ## web-projects
 
-- [catalog](/catalog)
-- [libweb](/libweb)
+- [catalog](https://sunarch.github.io/catalog/)
+- [libweb](https://sunarch.github.io/libweb/)
 
 ## projects
 
-- [easypass](/easypass) - diceware passphrase generator
-- [Dungeon Master](/dungeonmaster)
+- [Dungeon Master](https://sunarch.github.io/dungeonmaster/)
 
 ## personal
 
