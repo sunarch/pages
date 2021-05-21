@@ -1,0 +1,9 @@
+vendor
+.bundle
+Gemfile.lock
+
+# Jekyll (from GitHub gitignore repo)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
