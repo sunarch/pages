@@ -6,9 +6,8 @@ layout: "default"
 
 ## web-projects
 
-- [knowledgebase](knowledgebase/knowledgebase.md)
-- [quiz](quiz/quiz.md)
-- [tools](tools/tools.md)
+- [catalog](/catalog)
+- [libweb](/libweb)
 
 ## projects
 
