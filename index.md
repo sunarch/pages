@@ -3,8 +3,6 @@ layout: "default"
 #title: "sunarch"
 #description: "home page on GitHub"
 ---
-{% include breadcrumbs.html %}
-
 ## web-projects
 
 - [catalog](https://sunarch.github.io/catalog/)
