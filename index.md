@@ -1,7 +1,7 @@
 ---
 layout: "default"
-#title: "sunarch"
-#description: "home page on GitHub"
+title: "sunarch"
+description: "home page on GitHub"
 ---
 ## web-projects
 
