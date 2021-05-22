@@ -4,8 +4,6 @@ title: "labels (GitHub)"
 description: "info | sunarch"
 permalink: "/info/github-labels"
 ---
-[< info](info.md)
-
 ## Simple scheme v1
 
 - types

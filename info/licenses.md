@@ -4,8 +4,6 @@ title: "licenses"
 description: "info | sunarch"
 permalink: "/info/licenses"
 ---
-[< info](info.md)
-
 # used
 
 ## MPL-2.0
