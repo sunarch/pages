@@ -2,6 +2,10 @@ vendor
 .bundle
 Gemfile.lock
 
+# Obsidian
+
+.obsidian/workspace
+
 # Jekyll (from GitHub gitignore repo)
 _site/
 .sass-cache/
