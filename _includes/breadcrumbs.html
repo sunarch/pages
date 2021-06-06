@@ -6,7 +6,7 @@
     / {{ page.title }}
   {% else %}
     {% assign crumb_limit = forloop.index %}
-    / <a href="/libweb{% for crumb in crumbs offset: 1 limit: crumb_limit %}/{{ crumb }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' }}</a>
+    / <a href="{% for crumb in crumbs offset: 1 limit: crumb_limit %}/{{ crumb }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' }}</a>
   {% endif %}
 {% endfor %}
 </div>
