@@ -12,6 +12,10 @@ description: "home page on GitHub"
 
 - [Dungeon Master](https://sunarch.github.io/dungeonmaster/)
 
+## challenges
+
+- [Project Euler](challenges/project-euler.md)
+
 ## personal
 
 - [ideas](ideas/ideas.md)

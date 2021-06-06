@@ -4,7 +4,8 @@ Gemfile.lock
 
 # Obsidian
 
-.obsidian/workspace
+.obsidian/*
+!.obsidian/config
 
 # Jekyll (from GitHub gitignore repo)
 _site/
