@@ -2,7 +2,7 @@
 layout: "default"
 title: "ideas"
 description: "sunarch"
-permalink: "/ideas"
+permalink: "/refs/personal/ideas"
 ---
 ## project names
 

@@ -29,9 +29,8 @@ description: "home page on GitHub"
 
 # personal
 
-- [ideas](ideas/ideas.md)
-- [info](info/info.md)
+- [refs](refs.md)
 
 # separated projects
 
-- [filozófia](https://filozofia.github.io)
+- [bolcseszet](https://bolcseszet.github.io)

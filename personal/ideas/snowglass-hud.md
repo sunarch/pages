@@ -2,7 +2,7 @@
 layout: "default"
 title: "Snowglass HUD"
 description: "ideas | sunarch"
-permalink: "/ideas/snowglass-hud"
+permalink: "/refs/personal/ideas/snowglass-hud"
 ---
 - can be used for skiing / snowboarding
 - a HUD ([Head Up Display](https://en.wikipedia.org/wiki/Head-up_display)) built into the ski glasses

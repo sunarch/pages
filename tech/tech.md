@@ -1,8 +1,9 @@
 ---
 layout: "default"
-title: "info"
-description: "sunarch"
-permalink: "/info"
+title: "tech"
+description: "refs - sunarch"
+permalink: "/refs/tech"
 ---
+
 - [GitHub labels](labels.md)
 - [licenses](licenses.md)
