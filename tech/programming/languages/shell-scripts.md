@@ -1,0 +1,33 @@
+---
+layout: "default"
+title: "shell scripts"
+description: "programming language"
+permalink: "/refs/tech/programming/languages/shell-scripts"
+
+type: "scripting"
+standard: "no"
+homepage: ""
+docs: ""
+wikipedia: "https://en.wikipedia.org/wiki/Shell_script"
+---
+
+- type: {{ page.type }}
+- standard: {{ page.standard }}
+
+- [Wikipedia]({{ page.wikipedia }})
+
+# Unix shells
+
+- sh (Bourne shell)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Bourne_shell)
+- [KornShell](http://www.kornshell.org/) (ksh)
+    - [Wikipedia](https://en.wikipedia.org/wiki/KornShell)
+- C shell (csh)
+    - [Wikipedia](https://en.wikipedia.org/wiki/C_shell)
+    - [repository](http://bxr.su/NetBSD/bin/csh/)
+- [TCSH](https://www.tcsh.org/) (tcsh)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Tcsh)
+- [Bash](https://www.gnu.org/software/bash/) (bash)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+- [Z shell / Zsh](https://www.zsh.org/) (zsh)
+    - [Wikipedia](https://en.wikipedia.org/wiki/Z_shell)

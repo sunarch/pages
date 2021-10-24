@@ -5,6 +5,8 @@ description: "catalog | tech refs"
 permalink: "/refs/tech/comms/irc/nickserv"
 ---
 
+- GeekShed - [NickServ Commands](http://www.geekshed.net/commands/nickserv/)
+
 ```/msg NickServ REGISTER $password $email```
 
 ```/msg NickServ VERIFY REGISTER $nick $token```

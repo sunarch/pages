@@ -8,6 +8,7 @@ permalink: "/refs/tech/comms"
 # comms
 
 - [IRC](irc.md)
+- [Matrix](matrix.md)
 
 ## Discord bots
 

@@ -10,3 +10,4 @@ permalink: "/refs/tech"
 - [YouTube](youtube.md)
 - [operating systems](op-sys/op-sys.md)
 - [comms](comms/comms.md)
+- [programming](programming/programming.md)
