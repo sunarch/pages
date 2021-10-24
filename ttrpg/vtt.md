@@ -1,0 +1,15 @@
+---
+layout: "default"
+title: "Virtual TableTop"
+description: "TTRPG"
+permalink: "/refs/ttrpg/vtt"
+---
+
+# TaleSpire
+
+- [homepage](https://talespire.com/)
+- on Steam, set to release Early 2021
+
+# Shard Tabletop
+
+- [homepage](https://www.shardtabletop.com/)

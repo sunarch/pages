@@ -11,3 +11,4 @@ permalink: "/refs"
 - [technology](../tech/tech.md)
 - [food & drink](../culinary/culinary.md)
 - [world](../world/world.md)
+- [ttrpg](../ttrpg/ttrpg.md)
