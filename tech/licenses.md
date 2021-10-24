@@ -1,8 +1,8 @@
 ---
 layout: "default"
 title: "licenses"
-description: "info | sunarch"
-permalink: "/info/licenses"
+description: "tech refs"
+permalink: "/refs/tech/licenses"
 ---
 # used
 
