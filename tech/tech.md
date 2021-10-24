@@ -7,3 +7,4 @@ permalink: "/refs/tech"
 
 - [GitHub labels](labels.md)
 - [licenses](licenses.md)
+- [YouTube](youtube.md)
