@@ -9,3 +9,4 @@ permalink: "/refs/tech"
 - [licenses](licenses.md)
 - [YouTube](youtube.md)
 - [operating systems](op-sys/op-sys.md)
+- [comms](comms/comms.md)
