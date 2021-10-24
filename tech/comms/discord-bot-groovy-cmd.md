@@ -1,0 +1,165 @@
+---
+layout: "default"
+title: "Groovy commands - compact"
+description: "comms | tech refs"
+permalink: "/refs/tech/comms/groovy-cmd"
+---
+
+*updated: 2021-04-27*
+
+##### -play [link or search query]
+- Loads your input and adds it to the queue. If there is no playing track, then it will start playing.
+- Aliases: p, q, queue
+- Permissions: Add to Queue
+
+##### -play file
+- Plays the file attached to the message.
+- Aliases: pf, f
+- Permissions: Add to Queue
+
+##### -join
+- Makes the bot join your voice channel.
+- Aliases: j
+- Permissions: Manage Player
+
+##### -queue
+- Displays the queue.
+- Aliases: q
+- Permissions: View Queue
+
+##### -next
+- Skips to the next song.
+- Aliases: n, skip
+- Permissions: Manage Player
+
+##### -back
+- Skips to the previous song.
+- Aliases: b, previous, prev
+- Permissions: Manage Player
+
+##### -clear
+- Removes all tracks from the queue.
+- Permissions: Manage Queue
+
+##### -jump [track position or title]
+- Skips to the specified track.
+- Aliases: j, goto
+-  Permissions: Manage Player, View Queue
+
+##### -loop track
+- Starts looping your current playing track.
+- Aliases: loop song, lt, ls
+- Permissions: Manage Player
+
+##### -loop queue
+- Starts looping your current queue.
+- Aliases: lq
+- Permissions: Manage Player
+
+##### -loop off
+- Stops looping.
+- Aliases: loop stop
+- Permissions: Manage Player
+
+##### -lyrics
+- Displays lyrics for the playing track.
+- Aliases: ly
+- Permissions: View Queue
+
+##### -lyrics [query]
+- Searches for your query and displays the returned lyrics.
+- Aliases: ly
+- Permissions: View Queue
+
+##### -pause
+- Pauses playback
+- Permissions: Manage Player
+
+##### -resume
+- Resumes playback.
+- Aliases: unpause
+- Permissions: Manage Player
+
+##### -remove [track position or title]
+- Removes the specified track from the queue.
+- Aliases: r, rm, delete, del
+- Permissions: Manage Queue
+
+##### -remove range [start], [end]
+- Removes all the tracks from the specified start to the specified end. Inclusive.
+- Aliases: rr
+- Permissions: Manage Queue
+
+##### -disconnect
+- Disconnects the bot from your voice channel and clears the queue.
+- Aliases: dc, leave, reset
+- Permissions: Manage Player, Manage Queue
+
+##### -shuffle
+- Randomizes the tracks in the queue.
+- Aliases: shuff, shuf, randomize, randomise
+- Permissions: Manage Queue
+
+ ##### -song [song]
+- Displays info about the specified track in the queue.
+- Aliases: nowplaying, np
+- Permissions: View Queue
+
+##### -song
+- Displays info about the playing track.
+- Aliases: nowplaying, np
+- Permissions: View Queue
+
+##### -reset effects
+- Resets all audio effects.
+- Permissions: Manage Player
+
+#####  -fast forward [amount]
+- Fast forwards the player by your specified amount. The default amount is 10 seconds
+- Aliases: ff, fwd
+- Permissions: Manage Player
+
+##### -rewind [amount]
+- Rewinds the player by your specified amount. The default amount is 10 seconds.
+- Aliases: rw
+- Permissions: Manage Player
+
+##### -search [query]
+- Searches for your query on YouTube and lets you choose which songs to queue. To queue a track of the results, just type it's number.
+- Aliases: s
+- Permissions: Add to Queue
+
+##### -seek [position]
+- Sets the playing track's position to the specified position.
+- Permissions: Manage Player
+
+##### -stop
+- Stops the current playing track.
+- Permissions: Manage Player
+
+##### -move [track], [new position]
+- Moves the specified song to the specified position.
+- Aliases: m, mv
+- Permissions: Manage Queue
+
+##### -prefix
+- Displays the bot's prefix in the server.
+
+##### -prefix [new prefix]
+- Changes your server's prefix. After setting a new prefix, the bot will only respond to the new prefix.
+- Permissions: Manage Server
+
+##### -announce
+- Toggles the announcing of "Now playing" messages
+- Permissions: Manage Server
+
+##### -perms
+- Displays all available permissions.
+
+##### -perms [role/user]
+- Displays the currently set permissions of the specified role or user.
+- Permissions: Manage Server
+
+##### -perms [deny/allow/clear] [role or user], [permission]
+- Modifies the permissions of a role or user. You can use "all" to select all permissions.
+- Permissions: Manage Server

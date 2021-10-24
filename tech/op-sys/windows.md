@@ -1,0 +1,56 @@
+---
+layout: "default"
+title: "Windows"
+description: "operating systems | tech refs"
+permalink: "/refs/tech/op-sys/windows"
+---
+
+- [homepage](https://www.microsoft.com/en-us/windows/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+- [attributes](attributes.md)
+
+---
+
+![Windows darkblue 2012 logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg)
+
+*public domain from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Windows_darkblue_2012.svg)*
+
+---
+
+### pagefile.sys
+
+- pagefile size recommendation I read somewhere:
+    - minimum: RAM-size + 300 MiB
+    - maximum: 3 \* RAM-size
+
+# desktop
+
+## Windows 10
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Windows_10)
+
+- [upgrade download page (Hungarian)](https://www.microsoft.com/hu-hu/software-download/windows10) (last checked: 2020-10-17)
+
+# server
+
+## Windows Server 2012 R2
+
+- [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2)
+
+# server tools
+
+## RSAT
+
+- [Remote Server Administration Tools (RSAT) for Windows](https://docs.microsoft.com/en-us/troubleshoot/windows-server/system-management-components/remote-server-administration-tools)
+
+## SCCM
+
+- Microsoft Endpoint Configuration Manager
+- formerly System Center Configuration Manager (SCCM)
+- [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_System_Center_Configuration_Manager)
+- [Complete SCCM Installation Guide and Configuration](https://systemcenterdudes.com/complete-sccm-installation-guide-and-configuration/) by [SystemCenterDudes](https://systemcenterdudes.com/)
+
+## Active Directory Users and Computers
+
+- [Windows 10 & 8: Install Active Directory Users and Computers](https://www.technipages.com/windows-install-active-directory-users-and-computers) by [TechniPages](https://www.technipages.com/)

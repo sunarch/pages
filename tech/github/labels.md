@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "labels (GitHub)"
-description: "info | sunarch"
-permalink: "/info/github-labels"
+title: "labels"
+description: "GitHub"
+permalink: "/refs/tech/github/labels"
 ---
 ## Simple scheme v1
 

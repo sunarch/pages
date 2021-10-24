@@ -5,6 +5,7 @@ description: "refs - sunarch"
 permalink: "/refs/tech"
 ---
 
-- [GitHub labels](labels.md)
+- [GitHub](github/github.md)
 - [licenses](licenses.md)
 - [YouTube](youtube.md)
+- [operating systems](op-sys/op-sys.md)
