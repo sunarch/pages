@@ -12,20 +12,18 @@ description: "home page on GitHub"
 
 ## web
 
-- [catalog](https://sunarch.github.io/catalog/)
-- [libweb](https://sunarch.github.io/libweb/)
 - [OSPK](https://sunarch.github.io/ospk/)
 - [Pocket Bar](https://sunarch.github.io/pocket-bar/)
+- [catalog](https://sunarch.github.io/catalog/)
+- [libweb](https://sunarch.github.io/libweb/)
 
-## C projects
+## C
 
 - enigmatic ([GitHub](https://github.com/sunarch/enigmatic))
 
 # challenges
 
-- [Project Euler](challenges/project-euler.md)
-- LeetCode ([profile](https://leetcode.com/sunarch/))
-- HackerRank ([profile](https://www.hackerrank.com/sunarch))
+- [challenges](challenges/challenges.md)
 
 # personal
 
