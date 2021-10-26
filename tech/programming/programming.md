@@ -7,7 +7,7 @@ permalink: "/refs/tech/programming"
 
 # topics
 
-- [programming languages](prog-lang.md)
+- [programming languages](prog-langs.md)
 - [Clean Code](clean-code.md)
 
 ## ranks
