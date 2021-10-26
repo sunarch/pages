@@ -40,3 +40,15 @@ from contextlib import contextmanager
 ## finance
 
 - [12 Factors of Pain and Suffering (How Developers Screw Up)](https://youtu.be/wm-az9nQJvg)
+
+# snippets
+
+## conditional compilation
+
+- [Conditional compilation in Python](https://stackoverflow.com/questions/560040/conditional-compilation-in-python)
+    - when calling python with the -O or -OO options, `__debug__` will be false
+
+```Python
+if __debug__:
+    doSomething()
+```

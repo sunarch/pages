@@ -31,3 +31,17 @@ wikipedia: "https://en.wikipedia.org/wiki/Shell_script"
     - [Wikipedia](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - [Z shell / Zsh](https://www.zsh.org/) (zsh)
     - [Wikipedia](https://en.wikipedia.org/wiki/Z_shell)
+
+# Windows
+
+## cmd
+
+## PowerShell
+
+### timing
+
+- StackOverflow - [Timing a command's execution in PowerShell](https://stackoverflow.com/questions/3513650/timing-a-commands-execution-in-powershell)
+
+```PowerShell
+Measure-Command { .\script.ps1 | Out-Default }
+```
