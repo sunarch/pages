@@ -14,55 +14,55 @@ permalink: "/refs/tech/programming/languages"
 
 ## primary
 
-- [Javascript](javascript.md)
-- [Python](python.md)
-- [PHP](php.md)
-- [Racket](racket.md)
-- [C](c.md)
-- [HTML](html.md)
-- [CSS](css.md)
-- [LaTeX](latex.md)
+- [Javascript](languages/javascript.md)
+- [Python](languages/python.md)
+- [PHP](languages/php.md)
+- [Racket](languages/racket.md)
+- [C](languages/c.md)
+- [HTML](languages/html.md)
+- [CSS](languages/css.md)
+- [LaTeX](languages/latex.md)
 
 ## secondary
 
-- [Java](java.md)
-- [shell scripts](shell-scripts.md)
+- [Java](languages/java.md)
+- [shell scripts](languages/shell-scripts.md)
 
 ## circumstantial
 
-- [Prolog](prolog.md)
-- [Scratch](scratch.md)
+- [Prolog](languages/prolog.md)
+- [Scratch](languages/scratch.md)
 
 ## project
 
-- [assembly](assembly.md)
-- [GW-BASIC](gw-basic.md)
+- [assembly](languages/assembly.md)
+- [GW-BASIC](languages/gw-basic.md)
 
 ## maybe
 
-- [Ruby](ruby.md)
-- [C++](c-plus-plus.md)
-- [Go](go.md)
-- [Ada](ada.md)
-- [Haskell](haskell.md)
-- [R](r.md)
-- [Clojure](clojure.md)
-- [PostScript](postscript.md)
-- [Rust](rust.md)
-- [Tcl](tcl.md)
+- [Ruby](languages/ruby.md)
+- [C++](languages/c-plus-plus.md)
+- [Go](languages/go.md)
+- [Ada](languages/ada.md)
+- [Haskell](languages/haskell.md)
+- [R](languages/r.md)
+- [Clojure](languages/clojure.md)
+- [PostScript](languages/postscript.md)
+- [Rust](languages/rust.md)
+- [Tcl](languages/tcl.md)
 
 ## other
 
-- [C#](c-sharp.md)
-- [Objective-C](objective-c.md)
-- [Swift](swift.md)
-- [APL](apl.md)
-- [Lisp](lisp.md)
-- [Scala](scala.md)
-- [Lua](lua.md)
-- [Perl](perl.md)
-- [Delphi](delphi.md)
-- [Fortran](fortran.md)
-- [Pascal](pascal.md)
-- [Rockstar](rockstar.md)
-- [Erlang](erlang.md)
+- [C#](languages/c-sharp.md)
+- [Objective-C](languages/objective-c.md)
+- [Swift](languages/swift.md)
+- [APL](languages/apl.md)
+- [Lisp](languages/lisp.md)
+- [Scala](languages/scala.md)
+- [Lua](languages/lua.md)
+- [Perl](languages/perl.md)
+- [Delphi](languages/delphi.md)
+- [Fortran](languages/fortran.md)
+- [Pascal](languages/pascal.md)
+- [Rockstar](languages/rockstar.md)
+- [Erlang](languages/erlang.md)
