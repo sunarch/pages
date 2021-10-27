@@ -1,0 +1,26 @@
+---
+layout: "default"
+title: "pens"
+description: "creative refs"
+permalink: "/refs/creative/pens"
+---
+
+# Lamy
+
+- [Lamy Nib Guide](https://www.lamy.com/en/lamy-nib-guide/)
+    - EF ("extra fine") - 0,36 mm (± 0,06 mm)
+    - F ("fine") - 0,46 mm (± 0,06 mm)
+    - M ("medium") - 0,56 mm (± 0,06 mm) (Z 50)
+    - B ("broad") - 0,675 mm (± 0,075 mm)
+    - BB ("extra broad")
+    - A (beginner)
+    - LH (left-handed) (Z 50)
+    - OM ("left oblique medium")
+    - OB ("left oblique broad")
+    - OBB ("left oblique extra broad")
+    - Calligraphy 1.1 mm (Z 50)
+    - Calligraphy 1.5 mm (Z 50)
+    - Calligraphy 1.9 mm (Z 50)
+- [Care tips and instruction manuals](https://www.lamy.com/en/care-tips/)
+    - [Fountain Pens](https://www.lamy.com/en/care-tips/fountain-pens/)
+- JetPens - [How to Change a Lamy Fountain Pen Nib](https://www.jetpens.com/blog/How-to-Change-a-Lamy-Fountain-Pen-Nib/pt/270)
