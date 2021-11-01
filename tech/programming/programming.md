@@ -9,6 +9,7 @@ permalink: "/refs/tech/programming"
 
 - [programming languages](prog-langs.md)
 - [Clean Code](clean-code.md)
+- [games programming](games.md)
 
 ## ranks
 
@@ -40,6 +41,11 @@ permalink: "/refs/tech/programming"
 # other
 
 - [generative artistry](https://generativeartistry.com/)
+
+## bugs
+
+- Bugzilla (Mozilla) [Bug Writing Guidelines](https://bugzilla.mozilla.org/page.cgi?id=bug-writing.html)
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) by Simon Tatham
 
 ## FizzBuzz
 

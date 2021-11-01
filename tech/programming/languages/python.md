@@ -21,6 +21,21 @@ wikipedia: "https://en.wikipedia.org/wiki/Python_(programming_language)"
 
 scripting, readability, extensible
 
+# features
+
+## Data Classes
+
+- [Python docs](https://docs.python.org/3/library/dataclasses.html)
+- Towards Data Science: [9 Reasons Why You Should Start Using Python Dataclasses](https://towardsdatascience.com/9-reasons-why-you-should-start-using-python-dataclasses-98271adadc66)
+
+# tools
+
+## linting
+
+### Pylint
+
+- [Pylint User Manual](https://pylint.pycqa.org/en/latest/)
+
 # [Python Discord](https://www.pythondiscord.com/)
 
 ## [Python Discord Pixels](https://pixels.pythondiscord.com/)
@@ -40,6 +55,24 @@ from contextlib import contextmanager
 ## finance
 
 - [12 Factors of Pain and Suffering (How Developers Screw Up)](https://youtu.be/wm-az9nQJvg)
+
+# Python games
+
+- [list on Python wiki](https://wiki.python.org/moin/PythonGames)
+- [Free Python Games](http://www.grantjenks.com/docs/freegames/) by [Grant Jenks](https://github.com/grantjenks)
+- StackOverflow: [Does PyGame do 3d?](https://stackoverflow.com/questions/4865636/does-pygame-do-3d)
+
+## [Pygame](https://www.pygame.org)
+
+- interface to the Simple Directmedia Library (SDL)
+- [Python Wiki](https://wiki.python.org/moin/PyGame)
+- GitHub:[pygame/pygame](https://github.com/pygame/pygame)
+- [docs](https://www.pygame.org/docs/)
+
+## [Panda3d](https://www.panda3d.org/)
+
+- GitHub: [panda3d/panda3d](https://github.com/panda3d/panda3d)
+- [docs](https://docs.panda3d.org/1.10/python/index)
 
 # snippets
 
