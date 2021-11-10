@@ -24,3 +24,11 @@ permalink: "/refs/creative/pens"
 - [Care tips and instruction manuals](https://www.lamy.com/en/care-tips/)
     - [Fountain Pens](https://www.lamy.com/en/care-tips/fountain-pens/)
 - JetPens - [How to Change a Lamy Fountain Pen Nib](https://www.jetpens.com/blog/How-to-Change-a-Lamy-Fountain-Pen-Nib/pt/270)
+
+### problem fix
+
+- The Fountain Pen Network: [Loose Nib On My Safari](https://www.fountainpennetwork.com/forum/topic/353478-loose-nib-on-my-safari/)
+
+# YouTube
+
+- [Unsharpen](https://www.youtube.com/c/unsharpen)
