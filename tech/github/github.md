@@ -19,6 +19,14 @@ permalink: "/refs/tech/github"
 - StackOverflow - [GitHub: How can I close the two issues with commit message?](https://stackoverflow.com/questions/60027222/github-how-can-i-close-the-two-issues-with-commit-message#60027286)
 - The GitHub Blog - [Closing Issues via Commit Messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages/)
 
+## upstream
+
+- StackOverflow - [What does 'git remote add upstream' help achieve?](https://stackoverflow.com/questions/8948803/what-does-git-remote-add-upstream-help-achieve)
+
+## pull request
+
+- StackOverflow - [Github: Clean up fork after pull request](https://stackoverflow.com/questions/38641546/github-clean-up-fork-after-pull-request)
+
 # Markdown
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on [GitHub Guides](https://guides.github.com/)

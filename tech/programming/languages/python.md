@@ -85,3 +85,9 @@ from contextlib import contextmanager
 if __debug__:
     doSomething()
 ```
+
+# other
+
+## multiple versions
+
+- Unix & Linux StackExchange - [Install newer & older versions of python on debian?](https://unix.stackexchange.com/questions/188741/install-newer-older-versions-of-python-on-debian)

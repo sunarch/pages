@@ -1,0 +1,39 @@
+---
+layout: "default"
+title: "Linux shells"
+description: "operating systems | tech refs"
+permalink: "/refs/tech/op-sys/linux/shells"
+---
+# info
+
+Display current shell:
+
+`echo $SHELL`
+
+Check valid login shells:
+
+`cat /etc/shells`
+
+## changing shells
+
+Interactively: `chsh`
+
+Non-interactively: `chsh -s SHELL_PATH`
+
+- AskUbuntu - [ChangingShells](https://wiki.ubuntu.com/ChangingShells)
+
+# shells
+
+## sh - Bourne shell
+
+## bash - Bourne Again shell
+
+## zsh - Z shell
+
+- [oh my zsh](https://ohmyz.sh/)
+
+## csh - C Shell
+
+## ksh93 - Korn shell
+
+## tcsh - TC Shell
