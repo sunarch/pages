@@ -9,8 +9,10 @@ permalink: "/refs/tech/comms/irc"
 
 - [Libera.Chat](https://libera.chat/)
     - [webchat](https://web.libera.chat/)
+    - [channels on netsplit](https://netsplit.de/channels/?net=Libera.Chat)
 - [OFTC](https://www.oftc.net/)
     - [webchat](https://webchat.oftc.net/)
+    - [channels on netsplit](https://netsplit.de/channels/?net=OFTC)
 - [freenode](https://freenode.net/) - defunct
     - ["Is Freenode Dead Yet?"](https://isfreenodedeadyet.com/)
 
@@ -21,6 +23,9 @@ permalink: "/refs/tech/comms/irc"
 ## info
 
 - IRC statistics ([ircstats.org](https://www.ircstats.org/))
+- IRC help ([irchelp.org](https://www.irchelp.org/))
+
+- Zandronum Wiki - [IRC:Channel Modes](https://wiki.zandronum.com/IRC:Channel_Modes)
 
 ## aggegators
 

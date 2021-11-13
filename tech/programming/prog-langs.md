@@ -8,7 +8,17 @@ permalink: "/refs/tech/programming/languages"
 # notes
 
 - Esoteric programming language
+    - [Esolang, the esoteric programming languages wiki](https://esolangs.org/wiki/Main_Page)
+        - [Community portal](https://esolangs.org/wiki/Esolang:Community_portal)
+            - IRC: #esolangs on Libera.Chat
+            - Discord
     - [Wikipedia](https://en.wikipedia.org/wiki/Esoteric_programming_language)
+    - [LoUIE](https://catseye.tc/article/List_of_Unfinished_Interesting_Esolangs) -- [Chris Pressey](https://esolangs.org/wiki/Chris_Pressey)'s List of Unfinished Interesting Esolangs
+- theory and design
+    - Programming language design ([proglangdesign.net](https://proglangdesign.net/))
+        - Reddit: [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages)
+        - [irc](https://proglangdesign.net/#join-irc): #proglangdesign on libera.chat
+        - Discord
 
 # list
 
