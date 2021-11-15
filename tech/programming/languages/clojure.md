@@ -30,3 +30,9 @@ a [Lisp](lisp.md) dialect
 ## [Cursive](https://cursive-ide.com/) (IntelliJ IDEA plugin)
 
 - "The IDE for beautiful Clojure(Script) code"
+
+# other implementations
+
+## ClojureScript
+
+- website: [clojurescript.org](https://clojurescript.org/)
