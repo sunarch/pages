@@ -54,3 +54,7 @@ permalink: "/refs/tech/op-sys/windows"
 ## Active Directory Users and Computers
 
 - [Windows 10 & 8: Install Active Directory Users and Computers](https://www.technipages.com/windows-install-active-directory-users-and-computers) by [TechniPages](https://www.technipages.com/)
+
+# misc.
+
+- TechJunkie: [How To Disable the Keylogger in Windows 10(https://www.techjunkie.com/disable-keylogger-windows-10/)
