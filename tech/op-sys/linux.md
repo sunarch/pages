@@ -16,6 +16,10 @@ permalink: "/refs/tech/op-sys/linux"
 - [The Linux Foundation](https://www.linuxfoundation.org/)
 - [Wikipedia: Linux](https://en.wikipedia.org/wiki/Linux)
 
+### publications
+
+- [LinuxInsider](https://linuxinsider.com/)
+
 ### useful pages
 
 - [Linux ate my ram!](https://www.linuxatemyram.com) by [Vidar Holen](https://www.vidarholen.net/contents/index.html) via [GitHub](https://github.com/koalaman/linuxatemyram.com)

@@ -27,6 +27,18 @@ permalink: "/refs/tech/github"
 
 - StackOverflow - [Github: Clean up fork after pull request](https://stackoverflow.com/questions/38641546/github-clean-up-fork-after-pull-request)
 
+## commit signing
+
+- [Managing commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification)
+
+## readme / wiki / gh-pages
+
+- StackOverflow - [What are the main functionality differences between Github Wiki and Readme,](https://stackoverflow.com/questions/32430473/what-are-the-main-functionality-differences-between-github-wiki-and-readme)
+    - `Readme.md` is the packaging
+    - `wiki pages` is made for development/contributors documentation
+    - `gh-pages` branch hosts user documentation
+
+
 # Markdown
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on [GitHub Guides](https://guides.github.com/)

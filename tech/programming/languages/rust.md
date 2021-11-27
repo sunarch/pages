@@ -21,3 +21,8 @@ wikipedia: "https://en.wikipedia.org/wiki/Rust_(programming_language)"
 
 - safe, concurrent, practical
 - OSS, sponsored by Mozilla
+
+# info docs
+
+- [the book](https://doc.rust-lang.org/book/)
+- [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
