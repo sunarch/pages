@@ -88,6 +88,18 @@ if __debug__:
 
 # other
 
+- [Redirecting all kinds of stdout in Python](https://eli.thegreenplace.net/2015/redirecting-all-kinds-of-stdout-in-python/)
+
 ## multiple versions
 
 - Unix & Linux StackExchange - [Install newer & older versions of python on debian?](https://unix.stackexchange.com/questions/188741/install-newer-older-versions-of-python-on-debian)
+
+# music generation
+
+- StackOverflow: [Is there a way to play raw 8bit PCM data using pygame?](https://stackoverflow.com/questions/69531725/is-there-a-way-to-play-raw-8bit-pcm-data-using-pygame)
+
+## packages
+
+- [zacharydenton/wavebender](https://github.com/zacharydenton/wavebender)
+    - [Generate Audio with Python](https://zach.se/generate-audio-with-python/)
+- [benmoran56/chippy](https://github.com/benmoran56/chippy)

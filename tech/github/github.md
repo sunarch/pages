@@ -46,6 +46,8 @@ permalink: "/refs/tech/github"
 
 # general
 
+- [18F/open-source-guide](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)
+
 ## version control
 
 - [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
