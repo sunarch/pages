@@ -1,0 +1,29 @@
+---
+layout: "default"
+title: "tech security"
+description: "tech refs"
+permalink: "/refs/tech/security"
+---
+
+# vulnerabilities
+
+- [CVE® Program website](https://cve.mitre.org/)
+
+## EFAIL (2017)
+
+- in some email clients (config), allowing decryption of PGP and S/MIME content
+- [CVE-2017-17688](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17688) and [CVE-2017-17689](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17689)
+- [homepage](https://efail.de/)
+- [Wikipedia](https://en.wikipedia.org/wiki/EFAIL)
+
+## Shellshock (2014)
+
+- in GNU Bash
+- [CVE-2014-6271](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-6271) and [CVE-2014-7169](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7169)
+
+## Heartbleed (2014)
+
+- in OpenSSL
+- [CVE-2014-0160](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0160)
+- [homepage](https://heartbleed.com/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Heartbleed)

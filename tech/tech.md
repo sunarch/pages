@@ -11,6 +11,7 @@ permalink: "/refs/tech"
 - [operating systems](op-sys/op-sys.md)
 - [comms](comms/comms.md)
 - [programming](programming/programming.md)
+- [security](security.md)
 
 ### misc.
 
