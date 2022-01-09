@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "tech security"
-description: "tech refs"
-permalink: "/refs/tech/security"
+title: "tech vulnerabilities"
+description: "tech security refs"
+permalink: "/refs/tech/security/vulnerabilities"
 ---
 
 # vulnerabilities
