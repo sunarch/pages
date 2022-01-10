@@ -62,3 +62,8 @@ permalink: "/refs/tech/programming"
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
 - UK Gov Digital Service - [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
 - Jake Archibald - [Progressive enhancement is still important](https://jakearchibald.com/2013/progressive-enhancement-still-important/)
+
+# miscellaneous
+
+- Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Polish_notation)
+- Wikipedia: [Backus-Naur form](https://en.wikipedia.org/wiki/Backus-Naur_form)
