@@ -8,3 +8,7 @@
   - home page: https://jekyllrb.com/
   - cheat sheet: https://learn.cloudcannon.com/jekyll-cheat-sheet/
 - [HTMLProofer](https://github.com/gjtorikian/html-proofer) by [Garen Torikian](https://github.com/gjtorikian)
+
+## License
+
+[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
