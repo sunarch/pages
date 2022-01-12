@@ -11,11 +11,6 @@ permalink: "/refs/tech/programming"
 - [Clean Code](clean-code.md)
 - [games programming](games.md)
 
-## ranks
-
-- [StackOverflow DS '16 ranks](prog-lang-stackoverflow-ds-16.md)
-- [video ranks](prog-lang-video-ranks.md)
-
 # learning resources
 
 - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
