@@ -28,6 +28,8 @@ permalink: "/refs/tech/programming/languages"
 - [video ranks](prog-lang-video-ranks.md)
 - [GitHub Octoverse trends](https://octoverse.github.com/#top-languages-over-the-years)
     - 2021: JavaScript, Python, Java, TypeScript. C#, PHP, C++, Shell, C, Ruby
+- [languish](https://tjpalmer.github.io/languish/) ([GitHub](https://github.com/tjpalmer/languish)) by [Tom (tjpalmer)](https://github.com/tjpalmer)
+    - "a web page for exploring programming language trends"
 
 # list
 
