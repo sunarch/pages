@@ -22,6 +22,10 @@ permalink: "/refs/tech/programming"
 - selection → if
 - iteration → while
 
+# articles
+
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
+
 # IDE
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
