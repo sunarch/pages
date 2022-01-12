@@ -14,7 +14,8 @@ permalink: "/refs/tech/op-sys/linux"
 ### links
 
 - [The Linux Foundation](https://www.linuxfoundation.org/)
-- [Wikipedia: Linux](https://en.wikipedia.org/wiki/Linux)
+- Wikipedia: [Linux](https://en.wikipedia.org/wiki/Linux)
+- [The Linux Documentation Project](https://tldp.org/)
 
 ### publications
 

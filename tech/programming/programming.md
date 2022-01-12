@@ -16,6 +16,11 @@ permalink: "/refs/tech/programming"
 - [StackOverflow DS '16 ranks](prog-lang-stackoverflow-ds-16.md)
 - [video ranks](prog-lang-video-ranks.md)
 
+# learning resources
+
+- [Build Your Own Lisp](https://www.buildyourownlisp.com/)
+    - "Learn C and build your own programming language in 1000 lines of code!"
+
 # basics
 
 - sequence

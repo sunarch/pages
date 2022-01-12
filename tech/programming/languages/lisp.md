@@ -17,6 +17,12 @@ wikipedia: "https://en.wikipedia.org/wiki/Lisp_(programming_language)"
 - [documentation]({{ page.docs }})
 - [Wikipedia]({{ page.wikipedia }})
 
+## [people](../people.md)
+- John McCarthy
+    - [Lisp.org](https://lisp.org/)
+- Paul Graham
+    - [Lisp on homepage](http://www.paulgraham.com/lisp.html)
+
 ## dialects of the language family
 
 - Common Lisp
@@ -30,6 +36,10 @@ wikipedia: "https://en.wikipedia.org/wiki/Lisp_(programming_language)"
 
 - [How to Design Programs](https://htdp.org) - book (online)
 - [Build Your Own Lisp](https://www.buildyourownlisp.com) - book (online)
+
+## articles
+
+- [High School Computing: The Inside Story](http://www.trollope.org/scheme.html)
 
 ## other
 

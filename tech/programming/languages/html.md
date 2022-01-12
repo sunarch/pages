@@ -18,3 +18,8 @@ wikipedia: "https://en.wikipedia.org/wiki/HTML"
 - [Wikipedia]({{ page.wikipedia }})
 
 ### description
+
+
+## links
+
+- [The HTML Hell Page](http://catb.org/~esr/html-hell.html) by [Eric S. Raymond](../people.md)
