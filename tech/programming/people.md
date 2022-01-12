@@ -23,6 +23,7 @@ permalink: "/refs/tech/programming/people"
 - [Wikipedia](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 - [homepage](http://www.catb.org/esr/)
     - hacker culture
+        - [The Jargon File](http://www.catb.org/~esr/jargon/html/index.html)
         - [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
         - [The Glider: A Universal Hacker Emblem](http://www.catb.org/~esr/hacker-emblem/)
     - book: [The Cathedral and the Bazaar](http://catb.org/~esr/writings/cathedral-bazaar/index.html)
