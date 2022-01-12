@@ -7,3 +7,10 @@ permalink: "/refs/personal"
 
 - [systems](systems/systems.md)
 - [ideas](ideas/ideas.md)
+
+## creative
+
+- [crea-scores](https://github.com/sunarch/crea-scores)
+    - CC-BY-4.0
+- [crea-writings](https://github.com/sunarch/crea-writings)
+    - CC-BY-SA-4.0

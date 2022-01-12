@@ -1,3 +1,10 @@
+---
+layout: "default"
+title: "games"
+description: "systems - sunarch"
+permalink: "/refs/personal/systems/games"
+---
+
 # games
 
 ## Minecraft

@@ -1,3 +1,10 @@
+---
+layout: "default"
+title: "programs"
+description: "systems - sunarch"
+permalink: "/refs/personal/systems/programs"
+---
+
 # programs
 
 ================================================================================

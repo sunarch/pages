@@ -4,6 +4,10 @@ title: "ideas"
 description: "sunarch"
 permalink: "/refs/personal/ideas"
 ---
+## projects
+
+- scoreboard
+
 ## project names
 
 - resourcerer

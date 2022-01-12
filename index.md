@@ -39,6 +39,17 @@ description: "home page on GitHub"
 - [libmonty](https://github.com/sunarch/libmonty) - Python
 - [libweb](https://sunarch.github.io/libweb/) - HTML, CSS, JavaScript
 
+# games (private indev)
+
+- [craftonaut](https://github.com/sunarch/craftonaut) (Pygame)
+- [dyflissupallur](https://github.com/sunarch/dyflissupallur) (Pygame)
+- [passable-ways](https://github.com/sunarch/passable-ways) (Panda3D)
+
+# ideas indev
+
+- [master-screen](https://github.com/sunarch/master-screen)
+- [simplex](https://github.com/sunarch/simplex)
+
 # challenges
 
 - [challenges](challenges/challenges.md)
@@ -47,6 +58,11 @@ description: "home page on GitHub"
 
 - [personal](personal/personal.md)
 - [RC files](https://github.com/sunarch/sunarch-rc)
+
+# member of projects
+
+- [ELTE DH](member-elte-dh.md)
+- [CoderDojo Karlsruhe](member-coderdojo-karlsruhe.md)
 
 # separated projects
 
