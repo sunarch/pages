@@ -67,6 +67,8 @@ permalink: "/refs/personal/systems/programs"
     - Linux: Snap package
 - [Linux only] GNOME Web (Epiphany browser)
     - `epiphany-browser`
+- [Linux only] Lynx
+    - text based
 - [Windows only] Google Chrome
 
 ### FTP client
