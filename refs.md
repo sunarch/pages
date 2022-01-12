@@ -5,9 +5,8 @@ description: "sunarch"
 permalink: "/refs"
 ---
 
-- [personal](personal/personal.md)
+- [technology](tech/tech.md)
 - [creative](creative/creative.md)
 - [culture](culture/culture.md)
-- [technology](tech/tech.md)
 - [food & drink](culinary/culinary.md)
 - [world](world/world.md)

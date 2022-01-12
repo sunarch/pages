@@ -3,23 +3,41 @@ layout: "default"
 title: "sunarch"
 description: "home page on GitHub"
 ---
+# info
+
+- [info & references](refs.md)
+
 # projects
 
-## Python
+## tools
 
-- easypass ([GitHub](https://github.com/sunarch/easypass))
-- langton ants ([GitHub](https://github.com/sunarch/langton-ants))
+- [easypass](https://github.com/sunarch/easypass)
 
-## web
+## info & references
 
-- [OSPK](https://sunarch.github.io/ospk/)
 - [Pocket Bar](https://sunarch.github.io/pocket-bar/)
 - [catalog](https://sunarch.github.io/catalog/)
-- [libweb](https://sunarch.github.io/libweb/)
 
-## C
+## emulation & modeling
 
-- enigmatic ([GitHub](https://github.com/sunarch/enigmatic))
+- [langton ants](https://github.com/sunarch/langton-ants)
+- [enigmatic](https://github.com/sunarch/enigmatic)
+
+## domain-specific
+
+- [OSPK](https://sunarch.github.io/ospk/)
+
+## libs (misc. collections)
+
+- [libcharlie](https://github.com/sunarch/libcharlie) - C
+- [libcrust](https://github.com/sunarch/libcrust) - shell
+- [libdata](https://github.com/sunarch/libdata) - data
+- [libendeavor](https://github.com/sunarch/libendeavor) - Racket, Scheme, Lisp
+- [libferroxid](https://github.com/sunarch/libfunctor) - Rust
+- [libfunctor](https://github.com/sunarch/libweb) - Haskell
+- [libgoogol](https://github.com/sunarch/libgoogol) - Google Apps Script
+- [libmonty](https://github.com/sunarch/libmonty) - Python
+- [libweb](https://sunarch.github.io/libweb/) - HTML, CSS, JavaScript
 
 # challenges
 
@@ -27,8 +45,12 @@ description: "home page on GitHub"
 
 # personal
 
-- [refs](refs.md)
+- [personal](personal/personal.md)
+- [RC files](https://github.com/sunarch/sunarch-rc)
 
 # separated projects
 
+- [GridRun (esolang)](https://gridrun-esolang.github.io)
+- [Sono Project](https://sono-project.github.io)
 - [bolcseszet](https://bolcseszet.github.io)
+- [3Protocol](https://bolcseszet.github.io)
