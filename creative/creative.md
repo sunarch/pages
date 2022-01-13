@@ -9,6 +9,7 @@ permalink: "/refs/creative"
 
 - [calligraphy](calligraphy.md)
 - [pens](pens.md)
+- [photography](photography.md)
 
 # sharing sites
 

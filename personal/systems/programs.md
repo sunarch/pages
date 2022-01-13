@@ -401,6 +401,10 @@ permalink: "/refs/personal/systems/programs"
 - [Linux only] Thunar (Xfce default)
 - [Linux only] ranger : terminal-based
 
+### hashing
+
+- `libdigest-sha3-perl`
+
 ### system monitor
 
 - [Linux only] htop (console)
