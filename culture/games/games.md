@@ -17,3 +17,8 @@ permalink: "/refs/culture/games"
 # video games
 
 See [catalog](https://sunarch.github.io/catalog/games/video-games).
+
+# crafting
+
+- [Print & Play Games](https://www.printplaygames.com/)
+    - [card templates](https://www.printplaygames.com/prototypes/formatting-guidelines/card-formatting-templates/)

@@ -30,6 +30,13 @@ scripting, readability, extensible
 
 # tools
 
+## versioning
+
+### PyEnv
+
+- GitHub: [pyenv/pyenv](https://github.com/pyenv/pyenv)
+    - [commands](https://github.com/pyenv/pyenv/blob/master/COMMANDS.md)
+
 ## linting
 
 ### Pylint

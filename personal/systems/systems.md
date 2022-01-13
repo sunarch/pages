@@ -16,3 +16,8 @@ permalink: "/refs/personal/systems"
 - [programs](programs.md)
 - [games](games.md)
 - [GitHub](github.com)
+
+## apps
+
+- [general](apps.md)
+- [games](apps-games.md)
