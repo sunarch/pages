@@ -110,3 +110,13 @@ if __debug__:
 - [zacharydenton/wavebender](https://github.com/zacharydenton/wavebender)
     - [Generate Audio with Python](https://zach.se/generate-audio-with-python/)
 - [benmoran56/chippy](https://github.com/benmoran56/chippy)
+
+## beginner project ideas
+
+- freeCodeCamp: [25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/)
+- dataquest: [45 Fun (and Unique) Python Project Ideas for Easy Learning](https://www.dataquest.io/blog/python-projects-for-beginners/)
+- hackr.io: [Cool, Fun & Easy Python Projects for Beginners (with Code)](https://hackr.io/blog/python-projects)
+- MakeUseOf: [10 Python Project Ideas Suitable for Beginners](https://www.makeuseof.com/python-projects-for-beginners/)
+- GeeksForGeeks:
+    - [7 Python Project Ideas for Beginners](https://www.geeksforgeeks.org/7-python-project-ideas-for-beginners/)
+    - [Python Projects – Beginner to Advanced](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/)
