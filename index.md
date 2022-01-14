@@ -43,7 +43,6 @@ description: "home page on GitHub"
 
 - [craftonaut](https://github.com/sunarch/craftonaut) (Pygame)
 - [dyflissupallur](https://github.com/sunarch/dyflissupallur) (Pygame)
-- [passable-ways](https://github.com/sunarch/passable-ways) (Panda3D)
 
 # ideas indev
 
