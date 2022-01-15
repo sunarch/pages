@@ -5,10 +5,6 @@ description: "systems - sunarch"
 permalink: "/refs/personal/systems/apps"
 ---
 
-## messaging
-
-- [Briar](https://briarproject.org/)
-
 ## 2FA / TOTP / authenticator
 
 - [Aegis](https://getaegis.app/)
@@ -16,3 +12,44 @@ permalink: "/refs/personal/systems/apps"
 - [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DAndroid)
     - Wikipedia: [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
 - [Microsoft Authenticator](https://support.microsoft.com/en-us/account-billing/how-to-use-the-microsoft-authenticator-app-9783c865-0308-42fb-a519-8cf666fe0acc)
+
+## tools
+
+- Samsung Calculator
+    - Android / Samsung only
+
+## social
+
+- Instagram
+- Facebook
+
+## messaging
+
+- [Briar](https://briarproject.org/)
+    - currently Android only
+
+### videochat
+
+- Google Meet
+- Microsoft Teams
+
+## docs
+
+- Google Drive, Google Docs, Google Sheets, Google Slides
+- Microsoft OneDrive, Microsoft Word, Microsoft Excel Microsoft PowerPoint
+- Adobe Acrobat, Adobe Scan
+
+## media
+
+### media tools
+
+- PitchLab Pro
+- Shazam
+- Kodak Mobile Film Scanner
+- Exsate Golden Hour
+- Mirror Lab
+- Samsung Voice recorder
+    - Android / Samsung only
+- Samsung Camera
+    - Android / Samsung only
+- Google Wallpapers

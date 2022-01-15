@@ -17,7 +17,11 @@ wikipedia: "https://en.wikipedia.org/wiki/Racket_(programming_language)"
 - [documentation]({{ page.docs }})
 - [Wikipedia]({{ page.wikipedia }})
 
-### description
+## resources
+
+- [Beautiful Racket](https://beautifulracket.com/)
+    - an introduction to language-oriented programming using Racket
+    - by Matthew Butterick
 
 ## lang design
 

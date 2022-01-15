@@ -16,6 +16,7 @@ permalink: "/refs/tech"
 ### misc.
 
 - [Graphviz](graphviz.md)
+- [REST](rest.md)
 
 # other
 

@@ -45,3 +45,24 @@ wikipedia: "https://en.wikipedia.org/wiki/Shell_script"
 ```PowerShell
 Measure-Command { .\script.ps1 | Out-Default }
 ```
+
+# other
+
+## download an entire website
+
+- [How To Download A Website With Wget The Right Way](https://simpleit.rocks/linux/how-to-download-a-website-with-wget-the-right-way/) by Marcelo Canina
+
+```
+wget --wait=2 \
+     --level=inf \
+	 --limit-rate=20K \
+	 --recursive \
+	 --page-requisites \
+	 --user-agent=Mozilla \
+	 --no-parent \
+	 --convert-links \
+	 --adjust-extension \
+	 --no-clobber \
+	 -e robots=off \
+	 https://example.com
+```
