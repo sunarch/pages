@@ -14,4 +14,5 @@ permalink: "/refs/culture/languages/spanish"
 
 ### not working anymore
 
-- [Onoma - Conjugador de verbos en espa](http://www.onoma.es)
+- Onoma - Conjugador de verbos en espa (formerly onoma.es)
+    - currently unavailable

@@ -13,4 +13,4 @@ permalink: "/refs/creative"
 
 # sharing sites
 
-- [ArtStation](https://www.artstation.com)
+- ArtStation (https://www.artstation.com)
