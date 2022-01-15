@@ -45,7 +45,7 @@ scripting, readability, extensible
 
 # [Python Discord](https://www.pythondiscord.com/)
 
-## [Python Discord Pixels](https://pixels.pythondiscord.com/)
+## Python Discord Pixels (website was: https://pixels.pythondiscord.com)
 
 - [Pixel History for the Python Discord Pixels Event of May/June 2021](https://www.kaggle.com/joebanks/python-discord-pixels) by Joe Banks
 

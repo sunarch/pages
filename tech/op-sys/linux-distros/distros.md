@@ -36,8 +36,8 @@ permalink: "/refs/tech/op-sys/linux/distros"
         - [Pop!_OS](https://pop.system76.com) by System76
         - [Ubuntu Studio](https://ubuntustudio.org)
         - [Zorin OS](https://zorinos.com/)
-        - *[Ubuntu GNOME](http://www.ubuntugnome.org) (merged back 2017)*
-        - *[Edubuntu](http://edubuntu.org/) (discontinued 2016)*
+        - *[Ubuntu GNOME](https://ubuntugnome.org/) (merged back 2017)*
+        - *Edubuntu (discontinued 2016)*
         - *[Ubuntu Rescue Remix](http://ubuntu-rescue-remix.org) (discontinued 2015)*
     - *([Raspbian](http://raspbian.org))* -> [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) by the [Raspberry Pi Foundation](https://www.raspberrypi.org)
     - [SteamOS](https://store.steampowered.com/steamos/) by Valve

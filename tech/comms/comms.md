@@ -12,5 +12,7 @@ permalink: "/refs/tech/comms"
 
 ## Discord bots
 
-- [Groovy commands](discord-bot-groovy-cmd.md)
-- [Groovy commands - compact](discord-bot-groovy-cmd-compact)
+- [Groovy](https://groovy.bot/)
+    - ended service
+    - [Groovy commands](discord-bot-groovy-cmd.md)
+    - [Groovy commands - compact](discord-bot-groovy-cmd-compact.md)

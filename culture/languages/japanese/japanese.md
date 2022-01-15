@@ -2,7 +2,7 @@
 layout: "default"
 title: "Japanese"
 description: "languages | culture refs"
-permalink: "/refs/culture/language/japanese"
+permalink: "/refs/culture/languages/japanese"
 ---
 
 ## honorifics

@@ -69,5 +69,5 @@ permalink: "/refs/tech/programming"
 
 # miscellaneous
 
-- Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Polish_notation)
+- Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)
 - Wikipedia: [Backus-Naur form](https://en.wikipedia.org/wiki/Backus-Naur_form)

@@ -5,6 +5,12 @@ description: "tech refs"
 permalink: "/refs/tech/programming/languages"
 ---
 
+- [ranks](prog-lang-ranks.md)
+
+# recommendations
+
+- five recommendations by [ESR](people.md): Python, C/C++, Perl, and LISP
+
 # notes
 
 - Esoteric programming language
@@ -20,16 +26,6 @@ permalink: "/refs/tech/programming/languages"
         - Reddit: [/r/ProgrammingLanguages](https://reddit.com/r/ProgrammingLanguages)
         - [irc](https://proglangdesign.net/#join-irc): #proglangdesign on libera.chat
         - Discord
-
-# ranks
-
-- five recommendations by [ESR](people.md): Python, C/C++, Perl, and LISP
-- [StackOverflow DS '16 ranks](prog-lang-stackoverflow-ds-16.md)
-- [video ranks](prog-lang-video-ranks.md)
-- [GitHub Octoverse trends](https://octoverse.github.com/#top-languages-over-the-years)
-    - 2021: JavaScript, Python, Java, TypeScript. C#, PHP, C++, Shell, C, Ruby
-- [languish](https://tjpalmer.github.io/languish/) ([GitHub](https://github.com/tjpalmer/languish)) by [Tom (tjpalmer)](https://github.com/tjpalmer)
-    - "a web page for exploring programming language trends"
 
 # list
 

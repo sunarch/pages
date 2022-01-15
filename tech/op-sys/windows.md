@@ -8,7 +8,7 @@ permalink: "/refs/tech/op-sys/windows"
 - [homepage](https://www.microsoft.com/en-us/windows/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
 
-- [attributes](attributes.md)
+- [attributes](windows-file-attributes.md)
 
 ---
 

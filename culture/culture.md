@@ -7,7 +7,7 @@ permalink: "/refs/culture"
 
 - [NFT art](nft-art.md)
 - [film festivals](film-festivals.md)
-- [languages](languages.md)
+- [languages](languages/languages.md)
 - [games](games/games.md)
 
 # Blender - Open Projects

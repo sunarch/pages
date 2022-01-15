@@ -7,7 +7,7 @@ permalink: "/refs/personal/systems/ubuntu"
 
 # Ubuntu
 
-See also [RC - Ubuntu](https://github.com/sunarch/sunarch-rc/tree/main/ubuntuhttps://github.com/sunarch/sunarch-rc/tree/main/ubuntu).
+See also [RC - Ubuntu](https://github.com/sunarch/sunarch-rc/tree/main/ubuntu).
 
 ## PPAs
 
