@@ -14,11 +14,11 @@ permalink: "/refs/tech/programming/lang-ranks"
 
 ##  Developer Survey 2016
 
-1. [Javascript](languages/javascript.md)
-3. [C#](languages/c-sharp.md)
-4. [PHP](languages/php.md)
-6. [Java](languages/java.md)
-9. [Python](languages/python.md)
+1. Javascript
+3. C#
+4. PHP
+6. Java
+9. Python
 
 - **+** : C, Ruby, C++, Objective-C
 - **-** : assembly, Go, Swift
