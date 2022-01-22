@@ -60,3 +60,4 @@ permalink: "/refs/tech/comms/irc"
 # articles
 
 - Slant - [What are the best IRC clients for Windows?](https://www.slant.co/topics/1265/~best-irc-clients-for-windows)
+- The Register - [Will the real IRC please stand up? Freenode’s forest fire leaves ashes – and fresh growth](https://www.theregister.com/2021/06/01/freenode_issues_help_irc_grow/)

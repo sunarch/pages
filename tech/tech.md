@@ -24,3 +24,9 @@ permalink: "/refs/tech"
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/) by TeleGeography
 - TeleGeography: [Submarine Cable Map 2019](https://submarine-cable-map-2019.telegeography.com/)
+
+# articles
+
+## tech education
+
+- 24.hu - [„Hogy miért nem küldött még a gyerek feladatot? Hát azért, mert nem tud mivel”](https://24.hu/belfold/2020/04/29/koronavirus-digitalis-online-oktatas-hatranyos-helyzetu-gyerekek-iskolak/)
