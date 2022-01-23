@@ -10,6 +10,8 @@ permalink: "/refs/tech/programming/people"
 - [Wikipedia](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
 - [homepage](http://www.paulgraham.com/)
     - [Beating the Averages](http://www.paulgraham.com/avg.html)
+    - [Revenge of the Nerds](http://www.paulgraham.com/icad.html)
+    - [The Hundred-Year Language](http://www.paulgraham.com/hundred.html)
 
 ## McCarthy, John (jmc)
 

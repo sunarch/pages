@@ -28,6 +28,7 @@ wikipedia: "https://en.wikipedia.org/wiki/Lisp_(programming_language)"
 - Common Lisp
 - Scheme
     - [Racket](racket.md)
+    - [High School Computing: The Inside Story](http://www.trollope.org/scheme.html)
 - [Clojure](clojure.md)
 - Hy
     - Wikipedia: [Hy](https://en.wikipedia.org/wiki/Hy)
