@@ -505,6 +505,18 @@ permalink: "/refs/personal/systems/programs"
 
 ================================================================================
 
+## system
+
+### Linux
+
+- [i3](https://i3wm.org/)
+    - tiling window manager
+- [picom](https://github.com/yshui/picom)
+    - window compositor (used with i3)
+    - a fork of [Compton](https://github.com/chjj/compton/), which is said to have become unmaintained
+
+================================================================================
+
 ## references
 
 # multiplatform
