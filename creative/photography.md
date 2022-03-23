@@ -8,3 +8,11 @@ permalink: "/refs/creative/photography"
 # cameras
 
 - [Comparison of the Panasonic Lumix TZ range](https://www.cameraworld.co.uk/panasonic-tz)
+
+# shops
+
+## Főfotó
+
+- [filmhívás](https://www.fofoto.hu/szolg%C3%A1ltat%C3%A1sok-1/filmh%C3%ADv%C3%A1s)
+- [filmek - színes negatív és dia](https://www.fofoto.hu/webshop/filmek/sz%C3%ADnes-negat%C3%ADv-%C3%A9s-dia)
+- [filmek - fekete-fehér](https://www.fofoto.hu/webshop/filmek/fekete-feh%C3%A9r-filmek)

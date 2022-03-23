@@ -24,3 +24,9 @@ permalink: "/refs/creative/calligraphy"
     - Smaller Nibs
         - Hunt 107 Hawk Quill (recommended)
         - Hunt 102 Crow Quill
+
+## cartridges
+
+- JetPens: [The Best International Short Cartridges](https://www.jetpens.com/blog/The-Best-International-Short-Cartridges/pt/269)
+- The Goulet Pen Co: [Cartridge/Converter Compatibility Guide](https://www.gouletpens.com/pages/cartridge-converter-guide)
+- nibs.com: [Which Ink Cartridges Can Be Used With Which Fountain Pens?](https://www.nibs.com/content/which-ink-cartridges-can-be-used-which-fountain-pens)
