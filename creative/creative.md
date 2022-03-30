@@ -7,7 +7,7 @@ permalink: "/refs/creative"
 
 # subsections
 
-- [calligraphy](calligraphy.md)
+- [calligraphy](calligraphy/calligraphy.md)
 - [pens](pens.md)
 - [photography](photography.md)
 

@@ -1,0 +1,77 @@
+---
+layout: "default"
+title: "Koh-i-noor"
+description: "calligraphy refs"
+permalink: "/refs/creative/calligraphy/koh-i-noor"
+---
+
+# Koh-i-noor
+
+## tus 20g
+
+- fekete, barna, kék, piros, sárga, zöld
+    - Fiók for Arts: 360 Ft (18 Ft/ml)
+- narancs, magenta, lila, fehér, rózsaszín
+    - Fiók for Arts: 450 Ft (22,5 Ft/ml)
+- neon-narancs, neon-piros, neon-sárga, neon-zöld
+    - Fiók for Arts: 450 Ft (22,5 Ft/ml)
+    - Pirex: 620 Ft (31 Ft/ml)
+
+## 2 mm-es töltőceruza
+
+- Toison D'Or 5900 (klipsszel)
+    - Fiók for Arts: 1.990 Ft
+- Versatil 5201 (alu)
+    - szín: sárga
+    - Fiók for Arts: 1.450 Ft
+- Versatil 5211 (műanyag)
+    - színek: [ kék, piros, lila, zöld, sárga ]
+    - Fiók for Arts: 1.290 Ft
+- Versatil 5216 (alu)
+    - színek: [ sötétzöld, világoszöld, sárga, narancssárga, bordó, piros-lila, lila, világoskék, sötétkék, fekete ]
+    - Fiók for Arts: 1.490 Ft
+
+## 2 mm-es töltőceruza betét
+
+- 4190 (12 szál)
+    - 7-féle keménység
+    - Fiók for Arts: 880 Ft
+
+## 5,6 mm-es töltőceruza
+
+- Hardtmuth 5311 (klipsz) (alu) (15 cm) (fekete)
+    - Fiók for Arts: 4.890 Ft
+- Hardtmuth 5312 (klipsz) (alu) (15 cm) (nikkel-szatén)
+    - Fiók for Arts: 6.550 Ft
+- Hardtmuth 5344 (alu) (12 cm) (fekete)
+    - Fiók for Arts: 1.990 Ft
+- Hardtmuth 5359 (klipsz) (alu) (12 cm) (fekete/ezüst)
+    - Fiók for Arts: 3.470 Ft
+- Hardtmuth 5347 (alu) (14 cm) (fekete/piros)
+    - Fiók for Arts: 1.850 Ft
+
+## 5,6 mm-es grafit töltőceruza betét
+
+- Gioconda (6 szál)
+    - keménységek: 2B, 4B, 6B
+    - Fiók for Arts: 990 Ft
+
+## grafitceruza
+
+- Hardtmuth 1500 grafitceruza
+    - keménységek: 8B-B, HB-8H
+    - Fiók for Arts: 160 Ft
+- Progresso 4db-os grafitceruza készlet (fa nélküli)
+    - HB, 2B, 4B, 6B puhasággal
+    - Fiók for Arts: 1.890 Ft
+- Toison D'Or 1900 grafitceruza
+    - keménységek: 8B-B, HB-8H
+    - Fiók for Arts: 180 Ft
+
+## egyéb
+
+- Gioconda akvarell grafitceruza (8800)
+    - Fiók for Arts: 350 Ft
+- Hardtmuth Jumbo grafitrúd (8971) (⌀ 10,5mm)
+    - 4 puhaság
+    - Fiók for Arts: 390 Ft
