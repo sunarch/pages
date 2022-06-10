@@ -63,6 +63,7 @@ See also [RC - Ubuntu](https://github.com/sunarch/sunarch-rc/tree/main/ubuntu).
 - ```git config --global user.signingkey KEY_ID```
 - ```git config --global commit.gpgsign true```
 - ```git config --global init.defaultBranch main```
+- ```git config --global pull.rebase true```
 - clone GitHub repositories into home > Documents > github
 - clone GitLab repositories into home > Documents > gitlab
 
