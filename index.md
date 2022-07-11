@@ -39,33 +39,44 @@ description: "home page on GitHub"
 - [libmonty](https://github.com/sunarch/libmonty) - Python
 - [libweb](https://sunarch.github.io/libweb/) - HTML, CSS, JavaScript
 
-# games (private indev)
+## games (private indev)
 
 - [craftonaut](https://github.com/sunarch/craftonaut) (Pygame)
 - [dyflissupallur](https://github.com/sunarch/dyflissupallur) (Pygame)
 
-# ideas indev
+## ideas indev
 
 - [master-screen](https://github.com/sunarch/master-screen)
 - [simplex](https://github.com/sunarch/simplex)
 
-# challenges
+## challenges
 
 - [challenges](challenges/challenges.md)
 
-# personal
+## personal
 
 - [personal](personal/personal.md)
 - [RC files](https://github.com/sunarch/sunarch-rc)
 
-# member of projects
+## member of projects
 
 - [ELTE DH](member-elte-dh.md)
 - [CoderDojo Karlsruhe](member-coderdojo-karlsruhe.md)
 
-# separated projects
+## separated projects
 
 - [GridRun (esolang)](https://gridrun-esolang.github.io)
 - [Sono Project](https://sono-project.github.io)
 - [bolcseszet](https://bolcseszet.github.io)
 - [3Protocol](https://bolcseszet.github.io)
+
+# GitHub stats
+
+<p align="center">
+  <a href="https://github.com/sunarch">
+    <img src="https://github-readme-stats.vercel.app/api?username=sunarch&show_icons=true&include_all_commits=true&count_private=true" align="center" />
+  </a>
+  <a href="https://github.com/sunarch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunarch&layout=compact&langs_count=12" align="center" />
+  </a>  
+</p>
