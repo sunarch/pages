@@ -96,6 +96,7 @@ if __debug__:
 # other
 
 - [Redirecting all kinds of stdout in Python](https://eli.thegreenplace.net/2015/redirecting-all-kinds-of-stdout-in-python/)
+- [Applications of Python - Scaler Topics](https://www.scaler.com/topics/python/applications-of-python/)
 
 ## multiple versions
 
