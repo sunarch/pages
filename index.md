@@ -13,7 +13,7 @@ description: "home page on GitHub"
 
 - [easypass](https://github.com/sunarch/easypass)
 
-## info & references
+## info projects
 
 - [Pocket Bar](https://sunarch.github.io/pocket-bar/)
 - [catalog](https://sunarch.github.io/catalog/)
@@ -60,15 +60,12 @@ description: "home page on GitHub"
 
 ## member of projects
 
-- [ELTE DH](member-elte-dh.md)
 - [CoderDojo Karlsruhe](member-coderdojo-karlsruhe.md)
 
 ## separated projects
 
 - [GridRun (esolang)](https://gridrun-esolang.github.io)
-- [Sono Project](https://sono-project.github.io)
-- [bolcseszet](https://bolcseszet.github.io)
-- [3Protocol](https://bolcseszet.github.io)
+- [3Protocol](https://3protocol.github.io)
 
 # GitHub stats
 
