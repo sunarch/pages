@@ -7,6 +7,8 @@ permalink: "/refs/personal/ideas"
 ## projects
 
 - scoreboard
+- webvote - web voting system
+- passable-ways - adventure game
 
 ## project names
 
