@@ -14,6 +14,9 @@ permalink: "/refs/personal/ideas"
 
 - resourcerer
 - humanobot
+- dyflissupallur
+    - from Icelandic "dyflissu pallur" = dungeon platform
+    - e.g. a dungeon platformer game
 
 ### random from GitHub
 
