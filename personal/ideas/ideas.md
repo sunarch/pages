@@ -18,6 +18,8 @@ permalink: "/refs/personal/ideas"
     - from Icelandic "dyflissu pallur" = dungeon platform
     - e.g. a dungeon platformer game
 - humanobot
+- moneyflow
+    - e.g. a money management tool
 - passable-ways
     - e.g. for an adventure game
 - resourcerer
