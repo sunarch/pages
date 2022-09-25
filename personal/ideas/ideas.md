@@ -10,6 +10,8 @@ permalink: "/refs/personal/ideas"
 
 ## project names
 
+- conceptable
+    - e.g. a personal note and data management, similar to Notion
 - craftonaut
     - e.g. for an astronaut crafting game, similar to Factorio
 - dyflissupallur
