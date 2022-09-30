@@ -33,8 +33,22 @@ permalink: "/refs/personal/ideas"
 
 ### random from GitHub
 
+- crispy-enigma
+- improved-potato
+- jubilant-broccoli
+- legendary-umbrella
+- musical-enigma
+- musical-train
+- potential-memory
 - potential-pancake
+- stunning-adventure
+- supreme-guide
+- symmetrical engine
+- turbo-eureka
 - upgraded-broccoli
+- upgraded-parakeet
+- urban-doodle
+- vigilant-robot
 
 ## NaNoGenMo
 
