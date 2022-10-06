@@ -1,0 +1,25 @@
+{#
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#}
+<div id="breadcrumbs">
+    {% set current_url = this | url %}
+    {% set crumbs = current_url.split('/') %}
+    {% set crumbs = crumbs[1:-2] %}
+    <a href="/">Home</a>
+    {% set current_path = [] %}
+    {% for crumb in crumbs %}
+        {% if current_path.append(crumb) %}&zwnj;{% endif %}
+        <span>
+            <span>/ </span>
+            <span>
+                <a href="/{{ '/'.join(current_path) }}/">{{ crumb.replace('-', ' ').capitalize() }}</a>
+            </span>
+        </span>
+    {% endfor %}
+
+    {% if this | url != '/' %}
+        <span>/ {{ this.title }}</span>
+    {% endif %}
+</div>

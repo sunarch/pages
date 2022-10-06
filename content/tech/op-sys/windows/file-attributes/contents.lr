@@ -1,0 +1,89 @@
+title: Windows file attributes
+---
+body:
+
+## [ServerFault: "Windows File and Folder “Attributes” A or C"](https://serverfault.com/questions/34692/windows-file-and-folder-attributes-a-or-c):
+
+from the answer of [Kevin Kuphal](https://serverfault.com/users/3657/kevin-kuphal), edited by [Scott Lundberg](https://serverfault.com/users/19488/scott-lundberg)
+
+- R = READONLY
+- H = HIDDEN
+- S = SYSTEM
+- A = ARCHIVE 
+- C = COMPRESSED
+- N = NOT INDEXED
+- L = Reparse Points
+- O = OFFLINE
+- P = Sparse File
+- I = Not content indexed
+- T = TEMPORARY
+- E = ENCRYPTED
+
+> You should pay special attention to the offline attribute because it may affect the behavior of your backup software. Files with the O attribute may be skipped entirely because the software may assume they are stored elsewhere.
+
+## [SuperUser: "What do new Windows 8/10 attributes mean: No scrub file (X), Integrity (V), Pinned (P), Unpinned (U)"](https://superuser.com/questions/1214542/what-do-new-windows-8-10-attributes-mean-no-scrub-file-x-integrity-v-pinn/1215034)
+
+from the answer of [LogicDaemon](https://superuser.com/users/131936/logicdaemon)
+
+```
+>attrib /?
+Displays or changes file attributes.
+
+ATTRIB [+R | -R] [+A | -A] [+S | -S] [+H | -H] [+O | -O] [+I | -I] [+P | -P] [+U | -U]
+       [drive:][path][filename] [/S [/D]] [/L]
+
+  +   Sets an attribute.
+  -   Clears an attribute.
+  R   Read-only file attribute.
+  A   Archive file attribute.
+  S   System file attribute.
+  H   Hidden file attribute.
+  O   Offline attribute.
+  I   Not content indexed file attribute.
+  X   No scrub file attribute.
+  V   Integrity attribute.
+  P   Pinned attribute.
+  U   Unpinned attribute.
+  [drive:][path][filename]
+      Specifies a file or files for attrib to process.
+  /S  Processes matching files in the current folder
+      and all subfolders.
+  /D  Processes folders as well.
+  /L  Work on the attributes of the Symbolic Link versus
+      the target of the Symbolic Link
+```
+
+## [SuperUser: "Windows Explorer's file attribute column values"](https://superuser.com/questions/44812/windows-explorers-file-attribute-column-values)
+
+from the answer of Molly7244, edited by [Devid](https://superuser.com/users/172416/devid)
+
+
+**R = Read-Only:** Most software, when seeing a file marked read-only, will refuse to delete or modify it. This is pretty straight-forward. For example, DOS will say "Access denied" if you try to delete a read-only file. On the other hand, Windows Explorer will happily munch it. Some will choose the middle ground: they will let you modify or delete the file, but only after asking for confirmation.
+
+**H = Hidden:** This one is pretty self-explanatory as well; if the file is marked hidden then under normal circumstances it is hidden from view. DOS will not display the file when you type "DIR" unless a special flag is used, as shown in the earlier example.
+
+**S = System:** This flag is used to tag important files that are used by the system and should not be altered or removed from the disk. In essence, this is like a "more serious" read-only flag and is for the most part treated in this manner. It is also a "super-hidden" attribute. Even if you enable “Show hidden files”, system files will not be displayed. (You can display them by disabling “Hide protected operating system files.”)
+
+**D = Directory:** This is the bit that differentiates between entries that describe files and those that describe subdirectories within the current directory. In theory you can convert a file to a directory by changing this bit. Of course in practice, trying to do this would result in a mess--the entry for a directory has to be in a specific format.
+
+**A = Archive:** This is a special bit that is used as a "communications link" between software applications that modify files, and those that are used for backup. Most backup software allows the user to do an incremental backup, which only selects for backup any files that have changed since the last backup. This bit is used for this purpose. When the backup software backs up ("archives") the file, it clears the archive bit (makes it zero). Any software that modifies the file subsequently, is supposed to set the archive bit. Then, the next time that the backup software is run, it knows by looking at the archive bits which files have been modified, and therefore which need to be backed up. Again, this use of the bit is "voluntary"; the backup software relies on other software to use the archive bit properly; some programs could modify the file without setting the archive attribute, but fortunately most software is "well-behaved" and uses the bit properly. Still, you should not rely on this mechanism absolutely to ensure that your critical files are backed up.
+
+### Missing from the above list:
+
+- **C = Compressed:** compressed files/folder cannot be encrypted.
+
+- **E = Encrypted:** encrypted files/folders cannot be compressed.
+
+- N = NOT INDEXED
+
+- L = Reparse Points
+
+- O = OFFLINE
+
+- P = Sparse File
+
+- I = Not content indexed
+
+- T = TEMPORARY
+
+Combinations are possible, e.g., HSA = Hidden, System, Archive

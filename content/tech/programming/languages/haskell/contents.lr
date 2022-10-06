@@ -1,0 +1,13 @@
+title: Haskell
+---
+body:
+
+- type: functional
+- standard: yes
+- [homepage](https://www.haskell.org/)
+- [documentation](https://www.haskell.org/documentation/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))
+
+### description
+
+purely functional

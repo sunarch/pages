@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% from "macros/blog.html" import render_blog_post %}
+{% from "macros/pagination.html" import render_pagination %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block content_base %}
+    {% for child in this.pagination.items %}
+        {{ render_blog_post(child, from_index=true) }}
+    {% endfor %}
+    {{ render_pagination(this.pagination) }}
+{% endblock %}

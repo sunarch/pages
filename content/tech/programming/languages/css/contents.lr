@@ -1,0 +1,13 @@
+title: CSS
+---
+body:
+
+- type: style
+- standard: yes
+- [homepage](https://www.w3.org/TR/CSS/)
+
+- [Wikipedia](https://en.wikipedia.org/wiki/CSS)
+
+# other
+
+- CSS-tricks - [Star Wars Crawl Text](https://css-tricks.com/snippets/css/star-wars-crawl-text/)

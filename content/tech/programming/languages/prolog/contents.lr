@@ -1,0 +1,14 @@
+title: Prolog
+---
+body:
+
+- type: logic
+- standard: yes
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Prolog)
+- [ISO/IEC 13211-1:1995 - Prolog — Part 1: General core](https://www.iso.org/standard/21413.html)
+- [ISO/IEC 13211-2:2000 - Prolog — Part 2: Modules](https://www.iso.org/standard/20775.html)
+
+### description
+
+logic programming, AI, comput. linguistics

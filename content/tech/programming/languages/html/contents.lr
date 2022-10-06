@@ -1,0 +1,16 @@
+title: HTML
+---
+body:
+
+- type: markup
+- standard: yes
+- [homepage](https://html.spec.whatwg.org/)
+
+- [Wikipedia](https://en.wikipedia.org/wiki/HTML)
+
+### description
+
+
+## links
+
+- [The HTML Hell Page](http://catb.org/~esr/html-hell.html) by [Eric S. Raymond](../people.md)

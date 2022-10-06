@@ -1,0 +1,14 @@
+title: C
+---
+body:
+
+- type: low level
+- standard: yes
+
+- [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)
+- [ISO/IEC 9899:2018 - C](https://www.iso.org/standard/74528.html)
+- [JTC1/SC22/WG14 - C](http://www.open-std.org/jtc1/sc22/wg14/)
+
+### description
+
+efficient mapping to machine code ⇒ replace assembly

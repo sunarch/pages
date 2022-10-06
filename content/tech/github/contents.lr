@@ -1,0 +1,56 @@
+title: GitHub
+---
+body:
+
+- [homepage](https://github.com/)
+
+# info
+
+- [Autolinked references and URLs](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests)
+
+## close issue via commit
+
+- StackOverflow - [GitHub: How can I close the two issues with commit message?](https://stackoverflow.com/questions/60027222/github-how-can-i-close-the-two-issues-with-commit-message#60027286)
+- The GitHub Blog - [Closing Issues via Commit Messages](https://github.blog/2013-01-22-closing-issues-via-commit-messages/)
+
+## upstream
+
+- StackOverflow - [What does 'git remote add upstream' help achieve?](https://stackoverflow.com/questions/8948803/what-does-git-remote-add-upstream-help-achieve)
+
+## pull request
+
+- StackOverflow - [Github: Clean up fork after pull request](https://stackoverflow.com/questions/38641546/github-clean-up-fork-after-pull-request)
+
+## commit signing
+
+- [Managing commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification)
+
+## readme / wiki / gh-pages
+
+- StackOverflow - [What are the main functionality differences between Github Wiki and Readme,](https://stackoverflow.com/questions/32430473/what-are-the-main-functionality-differences-between-github-wiki-and-readme)
+    - `Readme.md` is the packaging
+    - `wiki pages` is made for development/contributors documentation
+    - `gh-pages` branch hosts user documentation
+
+
+# Markdown
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on [GitHub Guides](https://guides.github.com/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by [Adam Pritchard](https://github.com/adam-p)
+
+# general
+
+- [18F/open-source-guide](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)
+
+## version control
+
+- [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
+
+## git
+
+- [homepage](https://git-scm.com/)
+
+# articles
+
+- [Git team workflows: merge or rebase? | Atlassian Git Tutorial](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)

@@ -1,0 +1,16 @@
+title: assembly
+---
+body:
+
+- type: low level
+- standard: no
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+
+### description
+
+low-level, symbolic machine code, arch. dep.
+
+# assemblers
+
+- [NASM](https://nasm.us/)

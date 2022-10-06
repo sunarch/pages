@@ -1,0 +1,21 @@
+title: Racket
+---
+body:
+
+- type: list
+- standard: unknown
+- [homepage](https://racket-lang.org/)
+- [documentation](https://docs.racket-lang.org/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Racket_(programming_language))
+
+## resources
+
+- [Beautiful Racket](https://beautifulracket.com/)
+    - an introduction to language-oriented programming using Racket
+    - by Matthew Butterick
+
+## lang design
+
+- PLT submision to the 2016 language workbench challenge
+    - package: [lwc2016](https://pkgd.racket-lang.org/pkgn/package/lwc2016)
+    - GitHub: [dfeltey/lwc2016](https://github.com/dfeltey/lwc2016)

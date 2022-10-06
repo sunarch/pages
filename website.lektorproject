@@ -1,0 +1,35 @@
+[project]
+name = sunarch.github.io
+locale = en_US
+url = https://sunarch.github.io
+; url_style = relative
+url_style = absolute
+; path
+output_path = ../gh-pages/docs
+; excluded_assets
+included_assets = .nojekyll
+
+; [packages]
+
+; [servers.one]
+; name = server
+; target = link
+; enabled = no
+; default = yes
+
+;[alternatives.hu]
+;name = Hungarian
+; url_prefix
+; url_suffix
+;primary = yes
+;locale = hu_HU
+
+;[alternatives.en]
+;name = English
+;url_prefix = /en/
+; url_suffix
+;primary = no
+;locale = en_US
+
+; [attachment_types]
+; <.file-ext> = <type>
