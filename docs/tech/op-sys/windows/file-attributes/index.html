@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!--
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+<html lang="en-US">
+
+<head>
+    <!-- meta tags (part 1) -->
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <!-- SEO tags - title -->
+    <title>Windows file attributes &middot; sunarch</title>
+    <meta property="og:title" content="Windows file attributes">
+    <meta property="twitter:title" content="Windows file attributes">
+    
+    <!-- SEO tags - locale-->
+    <meta property="og:locale" content="en_US">
+    
+    <!-- SEO tags - description -->
+    <meta name="description" content="personal site | sunarch">
+    <meta property="og:description" content="personal site | sunarch">
+    
+    <!-- SEO tags - path -->
+    <link rel="canonical" href="None/tech/op-sys/windows/file-attributes/">
+    <meta property="og:url" content="None/tech/op-sys/windows/file-attributes/">
+    
+    <!-- SEO tags - other -->
+    <meta property="og:site_name" content="sunarch - personal site">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <!--<meta name="generator" content="GENERATOR">-->
+
+    <!-- SEO tags - script -->
+    <script type="application/ld+json">
+        {"@context": "https://schema.org",
+         "@type": "WebPage",
+         "description": "personal site | sunarch",
+         "headline": "Windows file attributes",
+         "url": "None/tech/op-sys/windows/file-attributes/"
+        }
+    </script>
+
+    <!-- meta tags (part 2) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- link tags -->
+    <link rel="shortcut icon" href="/static/favicon.ico?h=6b2f2b8c">
+    <link rel="icon" type="image/png" href="/static/favicon-16x16.png?h=2619d580" sizes="16x16">
+    <link rel="icon" type="image/png" href="/static/favicon-32x32.png?h=506284aa" sizes="32x32">
+    
+    
+
+    <!-- styles -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+    <link rel="stylesheet" href="/static/css/cayman.css?h=454bbf1f">
+    
+    
+
+    <!-- scripts -->
+    
+</head>
+<body onLoad="eh_load_body();">
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <header class="page-header" role="banner">
+        <h1 class="project-name">Windows file attributes</h1>
+        <h2 class="project-tagline">personal site&#32;|&#32;sunarch</h2>
+    </header>
+    <main id="content" class="main-content" role="main">
+        
+        <div class="container ">
+            
+<div id="breadcrumbs">
+    
+    
+    
+    <a href="/">Home</a>
+    
+    
+        
+        <span>
+            <span>/ </span>
+            <span>
+                <a href="/tech/">Tech</a>
+            </span>
+        </span>
+    
+        
+        <span>
+            <span>/ </span>
+            <span>
+                <a href="/tech/op-sys/">Op sys</a>
+            </span>
+        </span>
+    
+        
+        <span>
+            <span>/ </span>
+            <span>
+                <a href="/tech/op-sys/windows/">Windows</a>
+            </span>
+        </span>
+    
+
+    
+        <span>/ Windows file attributes</span>
+    
+</div>
+        </div>
+        
+        <noscript>
+            <h3>JavaScript is not enabled in your browser!</h3>
+        </noscript>
+
+        
+        <div class="container  content">
+            
+    <div class="page">
+        <h1 class="page-title">Windows file attributes</h1>
+        <h2><a href="https://serverfault.com/questions/34692/windows-file-and-folder-attributes-a-or-c">ServerFault: "Windows File and Folder “Attributes” A or C"</a>:</h2>
+<p>from the answer of <a href="https://serverfault.com/users/3657/kevin-kuphal">Kevin Kuphal</a>, edited by <a href="https://serverfault.com/users/19488/scott-lundberg">Scott Lundberg</a></p>
+<ul>
+<li>R = READONLY</li>
+<li>H = HIDDEN</li>
+<li>S = SYSTEM</li>
+<li>A = ARCHIVE </li>
+<li>C = COMPRESSED</li>
+<li>N = NOT INDEXED</li>
+<li>L = Reparse Points</li>
+<li>O = OFFLINE</li>
+<li>P = Sparse File</li>
+<li>I = Not content indexed</li>
+<li>T = TEMPORARY</li>
+<li>E = ENCRYPTED</li>
+</ul>
+<blockquote><p>You should pay special attention to the offline attribute because it may affect the behavior of your backup software. Files with the O attribute may be skipped entirely because the software may assume they are stored elsewhere.</p>
+</blockquote>
+<h2><a href="https://superuser.com/questions/1214542/what-do-new-windows-8-10-attributes-mean-no-scrub-file-x-integrity-v-pinn/1215034">SuperUser: "What do new Windows 8/10 attributes mean: No scrub file (X), Integrity (V), Pinned (P), Unpinned (U)"</a></h2>
+<p>from the answer of <a href="https://superuser.com/users/131936/logicdaemon">LogicDaemon</a></p>
+<pre><code>&gt;attrib /?
+Displays or changes file attributes.
+
+ATTRIB [+R | -R] [+A | -A] [+S | -S] [+H | -H] [+O | -O] [+I | -I] [+P | -P] [+U | -U]
+       [drive:][path][filename] [/S [/D]] [/L]
+
+  +   Sets an attribute.
+  -   Clears an attribute.
+  R   Read-only file attribute.
+  A   Archive file attribute.
+  S   System file attribute.
+  H   Hidden file attribute.
+  O   Offline attribute.
+  I   Not content indexed file attribute.
+  X   No scrub file attribute.
+  V   Integrity attribute.
+  P   Pinned attribute.
+  U   Unpinned attribute.
+  [drive:][path][filename]
+      Specifies a file or files for attrib to process.
+  /S  Processes matching files in the current folder
+      and all subfolders.
+  /D  Processes folders as well.
+  /L  Work on the attributes of the Symbolic Link versus
+      the target of the Symbolic Link
+</code></pre>
+<h2><a href="https://superuser.com/questions/44812/windows-explorers-file-attribute-column-values">SuperUser: "Windows Explorer's file attribute column values"</a></h2>
+<p>from the answer of Molly7244, edited by <a href="https://superuser.com/users/172416/devid">Devid</a></p>
+<p><strong>R = Read-Only:</strong> Most software, when seeing a file marked read-only, will refuse to delete or modify it. This is pretty straight-forward. For example, DOS will say "Access denied" if you try to delete a read-only file. On the other hand, Windows Explorer will happily munch it. Some will choose the middle ground: they will let you modify or delete the file, but only after asking for confirmation.</p>
+<p><strong>H = Hidden:</strong> This one is pretty self-explanatory as well; if the file is marked hidden then under normal circumstances it is hidden from view. DOS will not display the file when you type "DIR" unless a special flag is used, as shown in the earlier example.</p>
+<p><strong>S = System:</strong> This flag is used to tag important files that are used by the system and should not be altered or removed from the disk. In essence, this is like a "more serious" read-only flag and is for the most part treated in this manner. It is also a "super-hidden" attribute. Even if you enable “Show hidden files”, system files will not be displayed. (You can display them by disabling “Hide protected operating system files.”)</p>
+<p><strong>D = Directory:</strong> This is the bit that differentiates between entries that describe files and those that describe subdirectories within the current directory. In theory you can convert a file to a directory by changing this bit. Of course in practice, trying to do this would result in a mess--the entry for a directory has to be in a specific format.</p>
+<p><strong>A = Archive:</strong> This is a special bit that is used as a "communications link" between software applications that modify files, and those that are used for backup. Most backup software allows the user to do an incremental backup, which only selects for backup any files that have changed since the last backup. This bit is used for this purpose. When the backup software backs up ("archives") the file, it clears the archive bit (makes it zero). Any software that modifies the file subsequently, is supposed to set the archive bit. Then, the next time that the backup software is run, it knows by looking at the archive bits which files have been modified, and therefore which need to be backed up. Again, this use of the bit is "voluntary"; the backup software relies on other software to use the archive bit properly; some programs could modify the file without setting the archive attribute, but fortunately most software is "well-behaved" and uses the bit properly. Still, you should not rely on this mechanism absolutely to ensure that your critical files are backed up.</p>
+<h3>Missing from the above list:</h3>
+<ul>
+<li><p><strong>C = Compressed:</strong> compressed files/folder cannot be encrypted.</p>
+</li>
+<li><p><strong>E = Encrypted:</strong> encrypted files/folders cannot be compressed.</p>
+</li>
+<li><p>N = NOT INDEXED</p>
+</li>
+<li><p>L = Reparse Points</p>
+</li>
+<li><p>O = OFFLINE</p>
+</li>
+<li><p>P = Sparse File</p>
+</li>
+<li><p>I = Not content indexed</p>
+</li>
+<li><p>T = TEMPORARY</p>
+</li>
+</ul>
+<p>Combinations are possible, e.g., HSA = Hidden, System, Archive</p>
+
+    </div>
+
+        </div>
+        
+        
+        <footer class="site-footer">
+            <span class="site-footer-owner">
+                <a href="https://github.com/sunarch/sunarch.github.io">sunarch.github.io</a>
+                <span>&copy;</span>
+                <span>&#32;2017-2022&#32;</span>
+                <a href="https://github.com/sunarch">sunarch</a>
+            </span>
+            <span>-</span>
+            <span class="site-footer-credits">
+                <span>Published via</span>
+                <a href="https://pages.github.com">GitHub Pages</a>
+            </span>
+        </footer>
+    </main>
+</body>
+</html>

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<!--
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+<html lang="en-US">
+
+<head>
+    <!-- meta tags (part 1) -->
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <!-- SEO tags - title -->
+    <title>Groovy commands &middot; sunarch</title>
+    <meta property="og:title" content="Groovy commands">
+    <meta property="twitter:title" content="Groovy commands">
+    
+    <!-- SEO tags - locale-->
+    <meta property="og:locale" content="en_US">
+    
+    <!-- SEO tags - description -->
+    <meta name="description" content="personal site | sunarch">
+    <meta property="og:description" content="personal site | sunarch">
+    
+    <!-- SEO tags - path -->
+    <link rel="canonical" href="None/tech/comms/discord-bot-groovy-cmd/">
+    <meta property="og:url" content="None/tech/comms/discord-bot-groovy-cmd/">
+    
+    <!-- SEO tags - other -->
+    <meta property="og:site_name" content="sunarch - personal site">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <!--<meta name="generator" content="GENERATOR">-->
+
+    <!-- SEO tags - script -->
+    <script type="application/ld+json">
+        {"@context": "https://schema.org",
+         "@type": "WebPage",
+         "description": "personal site | sunarch",
+         "headline": "Groovy commands",
+         "url": "None/tech/comms/discord-bot-groovy-cmd/"
+        }
+    </script>
+
+    <!-- meta tags (part 2) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- link tags -->
+    <link rel="shortcut icon" href="/static/favicon.ico?h=6b2f2b8c">
+    <link rel="icon" type="image/png" href="/static/favicon-16x16.png?h=2619d580" sizes="16x16">
+    <link rel="icon" type="image/png" href="/static/favicon-32x32.png?h=506284aa" sizes="32x32">
+    
+    
+
+    <!-- styles -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+    <link rel="stylesheet" href="/static/css/cayman.css?h=454bbf1f">
+    
+    
+
+    <!-- scripts -->
+    
+</head>
+<body onLoad="eh_load_body();">
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <header class="page-header" role="banner">
+        <h1 class="project-name">Groovy commands</h1>
+        <h2 class="project-tagline">personal site&#32;|&#32;sunarch</h2>
+    </header>
+    <main id="content" class="main-content" role="main">
+        
+        <div class="container ">
+            
+<div id="breadcrumbs">
+    
+    
+    
+    <a href="/">Home</a>
+    
+    
+        
+        <span>
+            <span>/ </span>
+            <span>
+                <a href="/tech/">Tech</a>
+            </span>
+        </span>
+    
+        
+        <span>
+            <span>/ </span>
+            <span>
+                <a href="/tech/comms/">Comms</a>
+            </span>
+        </span>
+    
+
+    
+        <span>/ Groovy commands</span>
+    
+</div>
+        </div>
+        
+        <noscript>
+            <h3>JavaScript is not enabled in your browser!</h3>
+        </noscript>
+
+        
+        <div class="container  content">
+            
+    <div class="page">
+        <h1 class="page-title">Groovy commands</h1>
+        <p><em>updated: 2021-04-27</em></p>
+<h5>-play [link or search query]</h5>
+<ul>
+<li>Loads your input and adds it to the queue. If there is no playing track, then it will start playing.</li>
+<li>Aliases: p, q, queue</li>
+<li>Permissions: Add to Queue</li>
+</ul>
+<h5>-play file</h5>
+<ul>
+<li>Plays the file attached to the message.</li>
+<li>Aliases: pf, f</li>
+<li>Permissions: Add to Queue</li>
+</ul>
+<h5>-join</h5>
+<ul>
+<li>Makes the bot join your voice channel.</li>
+<li>Aliases: j</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-queue</h5>
+<ul>
+<li>Displays the queue.</li>
+<li>Aliases: q</li>
+<li>Permissions: View Queue</li>
+</ul>
+<h5>-next</h5>
+<ul>
+<li>Skips to the next song.</li>
+<li>Aliases: n, skip</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-back</h5>
+<ul>
+<li>Skips to the previous song.</li>
+<li>Aliases: b, previous, prev</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-clear</h5>
+<ul>
+<li>Removes all tracks from the queue.</li>
+<li>Permissions: Manage Queue</li>
+</ul>
+<h5>-jump [track position or title]</h5>
+<ul>
+<li>Skips to the specified track.</li>
+<li>Aliases: j, goto</li>
+<li>Permissions: Manage Player, View Queue</li>
+</ul>
+<h5>-loop track</h5>
+<ul>
+<li>Starts looping your current playing track.</li>
+<li>Aliases: loop song, lt, ls</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-loop queue</h5>
+<ul>
+<li>Starts looping your current queue.</li>
+<li>Aliases: lq</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-loop off</h5>
+<ul>
+<li>Stops looping.</li>
+<li>Aliases: loop stop</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-lyrics</h5>
+<ul>
+<li>Displays lyrics for the playing track.</li>
+<li>Aliases: ly</li>
+<li>Permissions: View Queue</li>
+</ul>
+<h5>-lyrics [query]</h5>
+<ul>
+<li>Searches for your query and displays the returned lyrics.</li>
+<li>Aliases: ly</li>
+<li>Permissions: View Queue</li>
+</ul>
+<h5>-pause</h5>
+<ul>
+<li>Pauses playback</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-resume</h5>
+<ul>
+<li>Resumes playback.</li>
+<li>Aliases: unpause</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-remove [track position or title]</h5>
+<ul>
+<li>Removes the specified track from the queue.</li>
+<li>Aliases: r, rm, delete, del</li>
+<li>Permissions: Manage Queue</li>
+</ul>
+<h5>-remove range [start], [end]</h5>
+<ul>
+<li>Removes all the tracks from the specified start to the specified end. Inclusive.</li>
+<li>Aliases: rr</li>
+<li>Permissions: Manage Queue</li>
+</ul>
+<h5>-disconnect</h5>
+<ul>
+<li>Disconnects the bot from your voice channel and clears the queue.</li>
+<li>Aliases: dc, leave, reset</li>
+<li>Permissions: Manage Player, Manage Queue</li>
+</ul>
+<h5>-shuffle</h5>
+<ul>
+<li>Randomizes the tracks in the queue.</li>
+<li>Aliases: shuff, shuf, randomize, randomise</li>
+<li><p>Permissions: Manage Queue</p>
+<p>##### -song [song]</p>
+</li>
+<li>Displays info about the specified track in the queue.</li>
+<li>Aliases: nowplaying, np</li>
+<li>Permissions: View Queue</li>
+</ul>
+<h5>-song</h5>
+<ul>
+<li>Displays info about the playing track.</li>
+<li>Aliases: nowplaying, np</li>
+<li>Permissions: View Queue</li>
+</ul>
+<h5>-reset effects</h5>
+<ul>
+<li>Resets all audio effects.</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-fast forward [amount]</h5>
+<ul>
+<li>Fast forwards the player by your specified amount. The default amount is 10 seconds</li>
+<li>Aliases: ff, fwd</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-rewind [amount]</h5>
+<ul>
+<li>Rewinds the player by your specified amount. The default amount is 10 seconds.</li>
+<li>Aliases: rw</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-search [query]</h5>
+<ul>
+<li>Searches for your query on YouTube and lets you choose which songs to queue. To queue a track of the results, just type it's number.</li>
+<li>Aliases: s</li>
+<li>Permissions: Add to Queue</li>
+</ul>
+<h5>-seek [position]</h5>
+<ul>
+<li>Sets the playing track's position to the specified position.</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-stop</h5>
+<ul>
+<li>Stops the current playing track.</li>
+<li>Permissions: Manage Player</li>
+</ul>
+<h5>-move [track], [new position]</h5>
+<ul>
+<li>Moves the specified song to the specified position.</li>
+<li>Aliases: m, mv</li>
+<li>Permissions: Manage Queue</li>
+</ul>
+<h5>-prefix</h5>
+<ul>
+<li>Displays the bot's prefix in the server.</li>
+</ul>
+<h5>-prefix [new prefix]</h5>
+<ul>
+<li>Changes your server's prefix. After setting a new prefix, the bot will only respond to the new prefix.</li>
+<li>Permissions: Manage Server</li>
+</ul>
+<h5>-announce</h5>
+<ul>
+<li>Toggles the announcing of "Now playing" messages</li>
+<li>Permissions: Manage Server</li>
+</ul>
+<h5>-perms</h5>
+<ul>
+<li>Displays all available permissions.</li>
+</ul>
+<h5>-perms [role/user]</h5>
+<ul>
+<li>Displays the currently set permissions of the specified role or user.</li>
+<li>Permissions: Manage Server</li>
+</ul>
+<h5>-perms [deny/allow/clear] [role or user], [permission]</h5>
+<ul>
+<li>Modifies the permissions of a role or user. You can use "all" to select all permissions.</li>
+<li>Permissions: Manage Server</li>
+</ul>
+
+    </div>
+
+        </div>
+        
+        <hr>
+        <div class="container  content">
+            <h2>subpages:</h2>
+            <ul>
+            
+                <li>
+                    <a href="/tech/comms/discord-bot-groovy-cmd/compact/">Groovy commands - compact</a>
+                </li>
+            
+            </ul>
+        </div>
+        
+        
+        <footer class="site-footer">
+            <span class="site-footer-owner">
+                <a href="https://github.com/sunarch/sunarch.github.io">sunarch.github.io</a>
+                <span>&copy;</span>
+                <span>&#32;2017-2022&#32;</span>
+                <a href="https://github.com/sunarch">sunarch</a>
+            </span>
+            <span>-</span>
+            <span class="site-footer-credits">
+                <span>Published via</span>
+                <a href="https://pages.github.com">GitHub Pages</a>
+            </span>
+        </footer>
+    </main>
+</body>
+</html>
