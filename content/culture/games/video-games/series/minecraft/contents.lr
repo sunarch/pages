@@ -1,0 +1,20 @@
+title: Minecraft
+---
+body:
+
+# Minecraft
+
+- launcher: standalone game launcher (Mojang)
+- Linux: yes
+- Windows: yes
+
+## mods
+
+#### Sodium
+
+- "Modern rendering engine and client-side optimization mod for Minecraft"
+- incompatible with Optifine
+- compatible with Fabric
+- [homepage](https://jellysquid.me/projects)
+- on [modrinth](https://modrinth.com/mod/sodium) (linked from homepage download)
+- on [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sodium)
