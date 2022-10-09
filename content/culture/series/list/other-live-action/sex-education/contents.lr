@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Sex Education
+---
+sources:
+    Netflix Original (Comedy)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 02)
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt7767422/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 17
+---
+imdb_runtime_min: 45
+---
+imdb_genres:
+    Comedy
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Laurie Nunn
+---
+imdb_summary: A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.
+---
+wikipedia_link:
+---
+body:
+
+

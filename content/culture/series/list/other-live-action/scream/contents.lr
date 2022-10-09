@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Scream: The TV Series
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: unknown (season 03)
+---
+ep_per_season: 6-13
+---
+imdb_link: https://www.imdb.com/title/tt3921180/
+---
+imdb_year: 2015
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 29
+---
+imdb_runtime_min: 45
+---
+imdb_genres:
+    Crime
+    Drama
+    Horror
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Jay Beattie
+    Jill E. Blotevogel
+    Dan Dworkin
+    Brett Matthews
+---
+imdb_summary: A serialized anthology series that follows a group of teenagers being targeted by a masked serial killer.
+---
+wikipedia_link:
+---
+body:
+
+

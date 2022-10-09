@@ -1,0 +1,11 @@
+title: series collection: second
+---
+body:
+
+## live-action
+
+{% include series-table.html format="standard" category="live-action" type="collection" filter="second" %}
+
+## animation
+
+{% include series-table.html format="standard" category="animation" type="collection" filter="second" %}

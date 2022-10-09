@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: Naruto
+---
+sources:
+---
+available:
+---
+original_language: Japanese
+---
+watched: true
+---
+tags:
+    animation
+    second
+---
+air_status: ended (season 01)
+---
+ep_per_season: 220
+---
+imdb_link: https://www.imdb.com/title/tt0409591/
+---
+imdb_year: 2002
+---
+imdb_year_finish: 2007
+---
+imdb_seasons: 1
+---
+imdb_episodes: 220
+---
+imdb_runtime_min: 24
+---
+imdb_genres:
+    Animation
+    Action
+    Adventure
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Masashi Kishimoto
+---
+imdb_summary: Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.
+---
+wikipedia_link:
+---
+body:
+
+

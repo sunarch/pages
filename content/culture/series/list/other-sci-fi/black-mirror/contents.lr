@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Black Mirror
+---
+sources:
+    Channel 4 (S01-02)
+    Netflix continuation
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 05)
+---
+ep_per_season: 3
+---
+imdb_link: https://www.imdb.com/title/tt2085059/
+---
+imdb_year: 2011
+---
+imdb_year_finish:
+---
+imdb_seasons: 5
+---
+imdb_episodes: 22
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Sci-Fi
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Charlie Brooker
+---
+imdb_summary: An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.
+---
+wikipedia_link:
+---
+body:
+
+

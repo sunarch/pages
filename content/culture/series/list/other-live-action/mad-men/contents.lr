@@ -1,0 +1,47 @@
+_model: page-series
+---
+description: series
+---
+title: Mad Men
+---
+sources:
+    amc
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+---
+air_status:
+---
+ep_per_season: 13 +14
+---
+imdb_link: https://www.imdb.com/title/tt0804503/
+---
+imdb_year: 2007
+---
+imdb_year_finish: 2015
+---
+imdb_seasons: 7
+---
+imdb_episodes: 92
+---
+imdb_runtime_min: 47
+---
+imdb_genres:
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.
+---
+wikipedia_link:
+---
+body:
+
+

@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Good Place
+---
+sources:
+    NBC
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 04)
+---
+ep_per_season: 12-13
+---
+imdb_link: https://www.imdb.com/title/tt4955642/
+---
+imdb_year: 2016
+---
+imdb_year_finish: 2020
+---
+imdb_seasons: 4
+---
+imdb_episodes: 50
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Comedy
+    Drama
+    Fantasy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Michael Schur
+---
+imdb_summary: Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.
+---
+wikipedia_link:
+---
+body:
+
+

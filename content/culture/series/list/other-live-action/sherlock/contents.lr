@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Sherlock
+---
+sources:
+    BBC
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 04)
+---
+ep_per_season: 3
+---
+imdb_link: https://www.imdb.com/title/tt1475582/
+---
+imdb_year: 2010
+---
+imdb_year_finish:
+---
+imdb_seasons: 4
+---
+imdb_episodes: 15
+---
+imdb_runtime_min: 88
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Mark Gatiss
+    Steven Moffat
+---
+imdb_summary: A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.
+---
+wikipedia_link:
+---
+body:
+
+

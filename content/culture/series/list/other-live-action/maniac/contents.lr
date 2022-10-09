@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Maniac
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt5580146/
+---
+imdb_year: 2018
+---
+imdb_year_finish: 2018
+---
+imdb_seasons: 1
+---
+imdb_episodes: 10
+---
+imdb_runtime_min: 40
+---
+imdb_genres:
+    Comedy
+    Drama
+    Sci-Fi
+---
+imdb_type: TV Mini-Series
+---
+imdb_creators:
+---
+imdb_summary: Two strangers are drawn to a mysterious pharmaceutical trial that will, they're assured, with no complications or side-effects whatsoever, solve all of their problems, permanently. Things do not go as planned.
+---
+wikipedia_link:
+---
+body:
+
+

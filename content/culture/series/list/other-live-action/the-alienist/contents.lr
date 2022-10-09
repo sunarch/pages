@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: The Alienist
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: potential (season 02)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt4604612/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 11
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Newspaper illustrator John Moore meets with criminal psychologist (alienist) Dr. Laszlo Kreizler to investigate a serial killer in New York during the late 19th century.
+---
+wikipedia_link:
+---
+body:
+
+

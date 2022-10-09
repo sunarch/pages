@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Homeland
+---
+sources:
+    Showtime
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 08)
+---
+ep_per_season: 12
+---
+imdb_link: https://www.imdb.com/title/tt1796960/
+---
+imdb_year: 2011
+---
+imdb_year_finish: 2020
+---
+imdb_seasons: 8
+---
+imdb_episodes: 96
+---
+imdb_runtime_min: 55
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Alex Gansa
+    Howard Gordon
+---
+imdb_summary: A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.
+---
+wikipedia_link:
+---
+body:
+
+

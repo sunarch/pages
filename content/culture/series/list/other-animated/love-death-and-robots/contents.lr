@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Love, Death & Robots
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    animation
+---
+air_status:
+---
+ep_per_season: 18
+---
+imdb_link: https://www.imdb.com/title/tt9561862/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 19
+---
+imdb_runtime_min: 15
+---
+imdb_genres:
+    Animation
+    Short
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy.
+---
+wikipedia_link:
+---
+body:
+
+

@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Game of Thrones
+---
+sources:
+    HBO
+---
+available:
+    HBO GO
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 08)
+---
+ep_per_season: 6-10
+---
+imdb_link: https://www.imdb.com/title/tt0944947/
+---
+imdb_year: 2011
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 8
+---
+imdb_episodes: 73
+---
+imdb_runtime_min: 57
+---
+imdb_genres:
+    Action
+    Adventure
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    David Benioff
+    D.B. Weiss
+---
+imdb_summary: Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.
+---
+wikipedia_link:
+---
+body:
+
+

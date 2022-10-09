@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Supergirl
+---
+sources:
+    CW
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: expected (season 06)
+---
+ep_per_season: 20-23
+---
+imdb_link: https://www.imdb.com/title/tt4016454/
+---
+imdb_year: 2015
+---
+imdb_year_finish:
+---
+imdb_seasons: 6
+---
+imdb_episodes: 110
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Action
+    Adventure
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Ali Adler
+    Greg Berlanti
+    Andrew Kreisberg
+---
+imdb_summary: The adventures of Superman's cousin in her own superhero career.
+---
+wikipedia_link:
+---
+body:
+
+

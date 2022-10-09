@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Blacklist
+---
+sources:
+    NBC
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: expected (season 08)
+---
+ep_per_season: 22-23
+---
+imdb_link: https://www.imdb.com/title/tt2741602/
+---
+imdb_year: 2013
+---
+imdb_year_finish:
+---
+imdb_seasons: 8
+---
+imdb_episodes: 152
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Jon Bokenkamp
+---
+imdb_summary: A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.
+---
+wikipedia_link:
+---
+body:
+
+

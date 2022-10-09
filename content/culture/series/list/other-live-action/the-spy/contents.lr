@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Spy
+---
+sources:
+    Netflix
+    Canal+ (France)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 01)
+---
+ep_per_season: 6
+---
+imdb_link: https://www.imdb.com/title/tt5952634/
+---
+imdb_year: 2019
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 1
+---
+imdb_episodes: 6
+---
+imdb_runtime_min: 53
+---
+imdb_genres:
+    Drama
+    History
+---
+imdb_type: TV Mini-Series
+---
+imdb_creators:
+    Gideon Raff
+---
+imdb_summary: Based on the life of the Israeli spy, Eli Cohen.
+---
+wikipedia_link:
+---
+body:
+
+

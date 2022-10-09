@@ -1,0 +1,5 @@
+title: all series
+---
+body:
+
+{% include series-table.html format="compact" category="all" type="all" filter="" %}

@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: iZombie
+---
+sources:
+    CW
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 05)
+---
+ep_per_season: 13-19
+---
+imdb_link: https://www.imdb.com/title/tt3501584/
+---
+imdb_year: 2015
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 5
+---
+imdb_episodes: 71
+---
+imdb_runtime_min: 42
+---
+imdb_genres:
+    Comedy
+    Crime
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Diane Ruggiero-Wright
+    Rob Thomas
+---
+imdb_summary: A medical resident finds that being a zombie has its perks, which she uses to assist the police.
+---
+wikipedia_link:
+---
+body:
+
+

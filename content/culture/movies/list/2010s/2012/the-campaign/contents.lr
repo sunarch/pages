@@ -1,0 +1,33 @@
+_model: page-movie
+---
+description: movie
+---
+title: The Campaign
+---
+available:
+---
+original_language: English
+---
+watched: false:
+---
+tags:
+---
+imdb_link: https://www.imdb.com/title/tt1790886/
+---
+imdb_year: 2012
+---
+imdb_runtime_min: 85
+---
+imdb_genres: Comedy
+---
+imdb_type:
+---
+imdb_directors: Jay Roach
+---
+imdb_summary: An incumbent Representative embroiled in personal scandal faces a no-holds-barred challenge from a naive newcomer funded by two unscrupulous billionaire lobbyist brothers.
+---
+wikipedia_link:
+---
+body:
+
+

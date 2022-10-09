@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Castle
+---
+sources:
+    abc
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 08)
+---
+ep_per_season: 10-24
+---
+imdb_link: https://www.imdb.com/title/tt1219024/
+---
+imdb_year: 2009
+---
+imdb_year_finish: 2016
+---
+imdb_seasons: 8
+---
+imdb_episodes: 173
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Comedy
+    Crime
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Andrew W. Marlowe
+---
+imdb_summary: After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.
+---
+wikipedia_link:
+---
+body:
+
+

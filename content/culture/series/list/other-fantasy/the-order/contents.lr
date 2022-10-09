@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: The Order
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: renewed (season 02)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt8295472/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 20
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Fantasy
+    Horror
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Dennis Heaton
+    Shelley Eriksen
+---
+imdb_summary: Out to avenge his mother's death, a college student pledges to a secret order and lands in a war between werewolves and practitioners of dark magic.
+---
+wikipedia_link:
+---
+body:
+
+

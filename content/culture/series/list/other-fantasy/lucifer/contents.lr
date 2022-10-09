@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Lucifer
+---
+sources:
+    Fox (S01-03)
+    Netflix continuation
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 04)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt4052886/
+---
+imdb_year: 2015
+---
+imdb_year_finish:
+---
+imdb_seasons: 5
+---
+imdb_episodes: 83
+---
+imdb_runtime_min: 42
+---
+imdb_genres:
+    Crime
+    Drama
+    Fantasy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Tom Kapinos
+---
+imdb_summary: Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.
+---
+wikipedia_link:
+---
+body:
+
+

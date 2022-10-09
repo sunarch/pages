@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: House of Cards
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 06)
+---
+ep_per_season: 8-13
+---
+imdb_link: https://www.imdb.com/title/tt1856010/
+---
+imdb_year: 2013
+---
+imdb_year_finish: 2018
+---
+imdb_seasons: 6
+---
+imdb_episodes: 73
+---
+imdb_runtime_min: 51
+---
+imdb_genres:
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Beau Willimon
+---
+imdb_summary: A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.
+---
+wikipedia_link:
+---
+body:
+
+

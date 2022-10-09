@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: The Americans
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 13 +10
+---
+imdb_link: https://www.imdb.com/title/tt2149175/
+---
+imdb_year: 2013
+---
+imdb_year_finish: 2018
+---
+imdb_seasons: 6
+---
+imdb_episodes: 75
+---
+imdb_runtime_min: 44
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: At the height of the Cold War two Russian agents pose as your average American couple, complete with family.
+---
+wikipedia_link:
+---
+body:
+
+

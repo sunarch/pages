@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: BoJack Horseman
+---
+sources:
+    Netflix Original (Animation - Adult animation)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    animation
+    second
+---
+air_status: ended (season 06)
+---
+ep_per_season: 12-16
+---
+imdb_link: https://www.imdb.com/title/tt3398228/
+---
+imdb_year: 2014
+---
+imdb_year_finish: 2020
+---
+imdb_seasons: 6
+---
+imdb_episodes: 77
+---
+imdb_runtime_min: 25
+---
+imdb_genres:
+    Animation
+    Comedy
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Raphael Bob-Waksberg
+---
+imdb_summary: BoJack Horseman was the star of the hit television show \"Horsin' Around\" in the '80s and '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.
+---
+wikipedia_link:
+---
+body:
+
+

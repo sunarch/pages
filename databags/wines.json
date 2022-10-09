@@ -1,0 +1,63 @@
+[
+    {
+        "manufacturer": "Villion",
+        "name": "Zak Skobbejak Shiraz",
+        "year": 2019,
+        "region": "Walker Bay",
+        "country": "South Africa",
+        "vivino_link": "https://www.vivino.com/jacobus-viljoen-et-fils-zak-skobbejak-shiraz/w/8598622?year=2019",
+        "vivino_tags": ["South Africa", "Walker Bay", "Villion", "Red wine" "Shiraz/Syrah"],
+        "tasted": [
+            {"date": "Dec 2021", "rated": 5}
+        ]
+    },
+    {
+        "manufacturer": "Trapiche",
+        "name": "Oak Cask Malbec",
+        "year": 2019,
+        "region": "Mendoza",
+        "country": "Argentina",
+        "vivino_link": "https://www.vivino.com/trapiche-oak-cask-malbec/w/1135810?year=2019",
+        "vivino_tags": ["Argentina", "Mendoza", "Trapiche", "Red wine", "Malbec"],
+        "tasted": [
+            {"date": "Oct 2021", "rated": 5}
+        ]
+    },
+    {
+        "manufacturer": "Dr. Loosen",
+        "name": "Riesling Trocken Blauschiefer",
+        "year": 2018,
+        "region": "Mosel",
+        "country": "Germany",
+        "vivino_link": "https://www.vivino.com/dr-loosen-riesling-trocken-blauschiefer/w/1209222?year=2018",
+        "vivino_tags": ["Germany", "Mosel", "Dr. Loosen", "White wine", "Riesling"],
+        "tasted": [
+            {"date": "Aug 2021", "rated": 5}
+        ]
+    },
+    {
+        "manufacturer": "Piper-Heidsieck",
+        "name": "Vintage Brut Champagne",
+        "year": 2012,
+        "region": "Champagne",
+        "country": "France",
+        "vivino_link": "https://www.vivino.com/piper-heidsieck-champagne-vintage-brut-champagne/w/1987655?year=2012",
+        "vivino_tags": ["France", "Champagne", "Piper-Heidsieck", "Sparkling wine", "Blend"],
+        "tasted": [
+            {"date": "Jun 2021", "rated": 5}
+        ]
+
+    },
+    {
+        "manufacturer": "Château Tour Saint-Pierre",
+        "name": "Saint-Émilion Grand Cru",
+        "year": 2008,
+        "region": "Saint-Émilion Grand Cru",
+        "country": "France",
+        "vivino_link": "https://www.vivino.com/tour-saint-pierre-saint-emilion-grand-cru/w/1188827?year=2008",
+        "vivino_tags": ["France", "Saint-Émilion Grand Cru", "Château Tour Saint-Pierre", "Red wine", "Blend"],
+        "tasted": [
+            {"date": "Apr 2021", "rated": 5}
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Criminal Minds
+---
+sources:
+    CBS
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 15)
+---
+ep_per_season: 10-25
+---
+imdb_link: https://www.imdb.com/title/tt0452046/
+---
+imdb_year: 2005
+---
+imdb_year_finish: 2020
+---
+imdb_seasons: 15
+---
+imdb_episodes: 323
+---
+imdb_runtime_min: 42
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Jeff Davis
+---
+imdb_summary: The cases of the F.B.I. Behavioral Analysis Unit (B.A.U.), an elite group of profilers who analyze the nation's most dangerous serial killers and individual heinous crimes in an effort to anticipate their next moves before they strike again.
+---
+wikipedia_link:
+---
+body:
+
+

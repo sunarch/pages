@@ -1,0 +1,55 @@
+_model: page-series
+---
+description: series
+---
+title: Lost in Space
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: renewed (season 02)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt5232792/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 21
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Adventure
+    Drama
+    Family
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Irwin Allen
+    Matt Sazama
+    Burk Sharpless
+---
+imdb_summary: After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.
+---
+wikipedia_link:
+---
+body:
+
+

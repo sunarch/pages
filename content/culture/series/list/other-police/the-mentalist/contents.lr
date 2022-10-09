@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: The Mentalist
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 07)
+---
+ep_per_season: 13-24
+---
+imdb_link: https://www.imdb.com/title/tt1196946/
+---
+imdb_year: 2008
+---
+imdb_year_finish: 2015
+---
+imdb_seasons: 7
+---
+imdb_episodes: 151
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Bruno Heller
+---
+imdb_summary: A famous "psychic" outs himself as a fake, and starts working as a consultant for the California Bureau of Investigation so he can find "Red John", the madman who killed his wife and daughter.
+---
+wikipedia_link:
+---
+body:
+
+

@@ -1,0 +1,48 @@
+_model: page-series
+---
+description: series
+---
+title: The Newsroom
+---
+sources:
+    HBO
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 9-10 +6
+---
+imdb_link: https://www.imdb.com/title/tt1870479/
+---
+imdb_year: 2012
+---
+imdb_year_finish: 2014
+---
+imdb_seasons: 3
+---
+imdb_episodes: 25
+---
+imdb_runtime_min: 55
+---
+imdb_genres:
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A newsroom undergoes some changes in its workings and morals as a new team is brought in, bringing unexpected results for its existing news anchor.
+---
+wikipedia_link:
+---
+body:
+
+

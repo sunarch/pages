@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: The Man in the High Castle
+---
+sources:
+    Amazon Prime Original
+---
+available:
+    Amazon Prime
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: upcoming in 2019 (season 04)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt1740299/
+---
+imdb_year: 2015
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 4
+---
+imdb_episodes: 40
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Sci-Fi
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators: Frank Spotnitz
+---
+imdb_summary: In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.
+---
+wikipedia_link:
+---
+body:
+
+

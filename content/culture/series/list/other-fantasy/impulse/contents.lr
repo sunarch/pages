@@ -1,0 +1,55 @@
+_model: page-series
+---
+description: series
+---
+title: Impulse
+---
+sources:
+    YouTube Originals
+---
+available:
+    YouTube
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 02)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt6160506/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 20
+---
+imdb_runtime_min: 50
+---
+imdb_genres:
+    Action
+    Drama
+    Sci-Fi
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Jeffrey Lieber
+---
+imdb_summary: A young woman discovers she has the extraordinary power of teleportation.
+---
+wikipedia_link:
+---
+body:
+
+- [YouTube channel](https://www.youtube.com/channel/UCgLQkRAZsFN6fhqxFyx8qhQ)
+    - [Season 1 playlist](https://www.youtube.com/playlist?list=PLINwjXK120_JpGB6mRJ0oJxOdFGjxekIp)
+    - [Season 2 playlist](https://www.youtube.com/playlist?list=PLINwjXK120_IgM8eDMz6eiM9Vpd4QbYHB)

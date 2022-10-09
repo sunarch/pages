@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: Californication
+---
+sources:
+    Showtime
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 12
+---
+imdb_link: https://www.imdb.com/title/tt0904208/
+---
+imdb_year: 2007
+---
+imdb_year_finish: 2014
+---
+imdb_seasons: 7
+---
+imdb_episodes: 84
+---
+imdb_runtime_min: 28
+---
+imdb_genres:
+    Comedy
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A writer tries to juggle his career, his relationship with his daughter and his ex-girlfriend, as well as his appetite for beautiful women.
+---
+wikipedia_link:
+---
+body:
+
+

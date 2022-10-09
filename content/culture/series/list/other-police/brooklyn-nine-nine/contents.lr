@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: Brooklyn Nine-Nine
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 18-23
+---
+imdb_link: https://www.imdb.com/title/tt2467372/
+---
+imdb_year: 2013
+---
+imdb_year_finish:
+---
+imdb_seasons: 8
+---
+imdb_episodes: 144
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Comedy
+    Crime
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: An immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer.
+---
+wikipedia_link:
+---
+body:
+
+

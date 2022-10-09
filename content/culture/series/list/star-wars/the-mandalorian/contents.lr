@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Mandalorian
+---
+sources:
+    Disney+ Original
+---
+available:
+    Disney+
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 02)
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt8111088/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 9
+---
+imdb_runtime_min: 30
+---
+imdb_genres:
+    Action
+    Adventure
+    Sci-Fi
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Jon Favreau
+---
+imdb_summary: The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.
+---
+wikipedia_link:
+---
+body:
+
+

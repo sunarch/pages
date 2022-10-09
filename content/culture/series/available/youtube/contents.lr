@@ -1,0 +1,5 @@
+title: series available: YouTube
+---
+body:
+
+{% include series-table.html format="standard" category="all" type="available" filter="YouTube" %}

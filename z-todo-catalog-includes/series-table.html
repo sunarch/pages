@@ -1,0 +1,112 @@
+<table style="display: table; width: 100%;">
+<tbody>
+
+{% assign table_row_counter = 0 %}
+
+{% if include.type == "interested" %}
+    {% assign data_source = site.data.series-interested %}
+{% else %}
+    {% assign data_source = site.series %}
+{% endif %}
+
+{% for series in data_source %}
+
+    {% assign is_in_category = false %}
+
+    {% case include.category %}
+        {% when "all" %}
+            {% assign is_in_category = true %}
+        {% else %}
+            {% if series.d_category == include.category %}
+                {% assign is_in_category = true %}
+            {% endif %}
+    {% endcase %}
+
+    {% assign display_row = false %}
+
+    {% if is_in_category %}
+        {% case include.type %}
+            {% when "collection" %}
+                {% if series.d_tags contains include.filter %}
+                    {% assign display_row = true %}
+                {% endif %}
+            {% when "available" %}
+                {% if series.d_available contains include.filter %}
+                    {% assign display_row = true %}
+                {% endif %}
+            {% when "all" %}
+                {% assign display_row = true %}
+            {% else %}
+                {% assign display_row = false %}
+        {% endcase %}
+    {% endif %}
+
+    {% if display_row %}
+        {% assign table_row_counter = table_row_counter | plus: 1 %}
+
+        {% case include.format == "standard" %}
+            {% when "standard" %}
+                <tr>
+                    <td>
+                        <span style="margin-right: 5pt;">{{ table_row_counter }}.</span>
+                        {% if include.type != "interested" %}
+                        <a href="{{ series.permalink }}" target="_self" style="">
+                        {% endif %}
+                            <span style="font-weight: bold;">{{ series.title }}</span>
+                        {% if include.type != "interested" %}
+                        </a>
+                        {% endif %}
+                        <span style="margin-left: 5pt;">({{ series.imdb_year_start }}&nbsp;–&nbsp;{{ series.imdb_year_finish }})</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span>{{ series.imdb_runtime }}</span>
+                        <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
+                        <span>{% for genre in series.imdb_genre %}{{ genre }}{% if genre != series.imdb_genre.last %}, {% endif %}{% endfor %}</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>{{ series.imdb_seasons }}&nbsp;seasons with {{ series.d_ep_per_season }}&nbsp;episodes ({{ series.imdb_episodes }}&nbsp;total)</td>
+                </tr>
+                {% if include.type == "watching" %}
+                <tr>
+                    <td>
+                        <span>[&nbsp;s{{ series.d_watch_done_seasons }}e{{ series.d_watch_done_episodes }}&nbsp;{{ series.d_watch_done_comment }}&nbsp;]</span>
+                        <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
+                        <span>{{ series.d_air_status }} — {{ series.d_air_season }}</span>
+                    </td>
+                </tr>
+                {% else %}
+                <tr>
+                    <td><a href="{{ series.imdb_link }}" target="_blank">IMDb:</a> {{ series.imdb_summary }}</td>
+                </tr>
+                {% endif %}
+            
+            {% when "compact" %}
+                <tr>
+                    <td>{{ table_row_counter }}.</td>
+                    <td>
+                        {% if include.type != "interested" %}
+                        <a href="{{ series.permalink }}" target="_self" style="">
+                        {% endif %}
+                            <span style="font-weight: bold;">{{ series.title }}</span>
+                        {% if include.type != "interested" %}
+                        </a>
+                        {% endif %}
+                        <span style="margin-left: 5pt;">({{ series.imdb_year_start }}&nbsp;–&nbsp;{{ series.imdb_year_finish }})</span>
+                    </td>
+                    <td>
+                        {% for available in series.d_available %}{{ available }}{% if available != series.d_available.last %}, {% endif %}{% endfor %}
+                    </td>
+                </tr>
+            
+            {% else %}
+                FORMAT ERROR.
+        {% endcase %}
+
+    {% endif %}
+    
+{% endfor %}
+</tbody>
+</table>

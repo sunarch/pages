@@ -1,0 +1,101 @@
+{% extends 'base-page.html' %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block content %}
+    <table style="display: table; width: 100%;">
+        <tbody>
+            <tr>
+                <td>
+                    <span style="font-weight: bold;">{{ this.title }}</span>
+                    <span style="margin-left: 5pt;">({{ this.imdb_year}})</span>
+                    {% if this.original_language != "English" %}
+                        <span style="margin-left: 5pt;">({{ this.original_language}})</span>
+                    {% endif %}
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span>
+                        {% if this.imdb_runtime_min == '' %}
+                            (?)
+                        {% else %}
+                            {% set runtime_mod_60 = this.imdb_runtime_min % 60 %}
+                            <span>{{ (this.imdb_runtime_min / 60) | round(0, 'floor') | int }}</span>
+                            <span>&#32;h&#32;<span>
+                            {% if runtime_mod_60 < 10 %}
+                                <span>0</span>
+                            {% else %}
+                                <span>{{ runtime_mod_60 }}</span>
+                            {% endif %}
+                            <span>&#32;min</span>
+                        {% endif %}
+                    </span>
+                    {% if this.imdb_genres %}
+                        <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
+                    {% endif %}
+                    <span>
+                        {% for genre in this.imdb_genres %}
+                            {{ genre }}
+                            {% if genre != this.imdb_genres[-1] %}, {% endif %}
+                        {% endfor %}
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span>Director(s):&nbsp;</span>
+                    <span>
+                        {% for director in this.imdb_directors %}
+                            {{ director }}
+                            {% if director != this.imdb_directors[-1] %}, {% endif %}
+                        {% endfor %}
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    {% if this.watched %}
+                        <span>[watched]</span>
+                    {% else %}
+                        <span>[Watchlist]</span>
+                    {% endif %}
+                    {% if this.tags %}
+                        <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
+                    {% endif %}
+                    <span>
+                        {% for tag in this.tags %}
+                            {{ tag }}
+                            {% if tag != this.tags[-1] %}, {% endif %}
+                        {% endfor %}
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="{{ this.imdb_link }}" target="_blank">IMDb:</a>
+                    {{ this.imdb_summary }}
+                </td>
+            </tr>
+            {% if this.wikipedia_link != '' %}
+                <tr>
+                    <td>
+                        <a href="{{ this.wikipedia_link }}" target="_blank">Wikipedia</a>
+                    </td>
+                </tr>
+            {% endif %}
+            <tr>
+                <td>
+                    <span>Available:&nbsp;</span>
+                    <span>
+                        {% for available in this.available %}
+                            {{ available }}
+                            {% if available != this.available[-1] %}, {% endif %}
+                        {% endfor %}
+                    </span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    {{ this.body }}
+{% endblock %}

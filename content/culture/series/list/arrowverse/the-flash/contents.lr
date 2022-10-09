@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: The Flash
+---
+sources:
+    CW
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: expected (season 07)
+---
+ep_per_season: 22
+---
+imdb_link: https://www.imdb.com/title/tt3107288/
+---
+imdb_year: 2014
+---
+imdb_year_finish:
+---
+imdb_seasons: 7
+---
+imdb_episodes: 137
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Action
+    Adventure
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Greg Berlanti
+    Geoff Johns
+    Andrew Kreisberg
+---
+imdb_summary: After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, fighting crime in Central City.
+---
+wikipedia_link:
+---
+body:
+
+

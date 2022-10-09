@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Another Life
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: renewed (season 02)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt8369840/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 11
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Adventure
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Aaron Martin
+---
+imdb_summary: Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact.
+---
+wikipedia_link:
+---
+body:
+
+

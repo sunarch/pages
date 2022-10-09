@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Barry
+---
+sources:
+    HBO
+---
+available:
+    HBO Max
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: renewed (season 03)
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt5348176/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 17
+---
+imdb_runtime_min: 30
+---
+imdb_genres:
+    Action
+    Comedy
+    Crime
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Alec Berg
+    Bill Hader
+---
+imdb_summary: A hit man from the Midwest moves to Los Angeles and gets caught up in the city's theatre arts scene.
+---
+wikipedia_link:
+---
+body:
+
+

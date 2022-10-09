@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Archer
+---
+sources:
+    FX (FOX)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    animation
+    second
+---
+air_status: renewed (season 11)
+---
+ep_per_season: 9
+---
+imdb_link: https://www.imdb.com/title/tt1486217/
+---
+imdb_year: 2009
+---
+imdb_year_finish:
+---
+imdb_seasons: 11
+---
+imdb_episodes: 119
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Animation
+    Action
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Adam Reed
+---
+imdb_summary: Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones.
+---
+wikipedia_link:
+---
+body:
+
+

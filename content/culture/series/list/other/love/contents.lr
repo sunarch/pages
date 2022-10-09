@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Love
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 10-12
+---
+imdb_link: https://www.imdb.com/title/tt4061080/
+---
+imdb_year: 2016
+---
+imdb_year_finish: 2018
+---
+imdb_seasons: 3
+---
+imdb_episodes: 34
+---
+imdb_runtime_min: 50
+---
+imdb_genres:
+    Comedy
+    Drama
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A program that follows a couple who must navigate the exhilarations and humiliations of intimacy, commitment and other things they were hoping to avoid.
+---
+wikipedia_link:
+---
+body:
+
+

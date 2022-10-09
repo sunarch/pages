@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: Girls
+---
+sources:
+    HBO
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 10-12
+---
+imdb_link: https://www.imdb.com/title/tt1723816/
+---
+imdb_year: 2012
+---
+imdb_year_finish: 2017
+---
+imdb_seasons: 6
+---
+imdb_episodes: 62
+---
+imdb_runtime_min: 28
+---
+imdb_genres:
+    Comedy
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A comedy about the experiences of a group of girls in their early 20s.
+---
+wikipedia_link:
+---
+body:
+
+

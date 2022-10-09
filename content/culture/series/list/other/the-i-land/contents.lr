@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: The I-Land
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 7
+---
+imdb_link: https://www.imdb.com/title/tt9067020/
+---
+imdb_year: 2019
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 1
+---
+imdb_episodes: 7
+---
+imdb_runtime_min: 40
+---
+imdb_genres:
+    Adventure
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: When ten people wake up on a treacherous island with no memory of who they are and how they got there, they set off on a trek to try to get back home, only to discover the world is not as it seems.
+---
+wikipedia_link:
+---
+body:
+
+

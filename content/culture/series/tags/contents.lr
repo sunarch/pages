@@ -1,0 +1,141 @@
+title: series tags
+---
+body:
+
+- title: text
+
+- d_source:
+  - ABC
+  - Adult Swim
+  - Amazon Prime Original
+  - Apple TV+ Original
+  - BBC
+  - Canal+ (France)
+  - CBS
+  - Channel 4
+  - CW
+  - Disney+ Original
+  - ESPN
+  - Fox
+  - Freeform (ABC Family)
+  - FX (Fox)
+  - HBO
+  - HBO Max Original
+  - History Channel
+  - Hulu Original
+  - Lifetime
+  - NBC
+  - Netflix Original (Drama)
+  - Netflix Original (Comedy)
+  - Netflix Original (Animation)
+  - Netflix Original (Kids & family / Animated)
+  - Netflix Original (Anime)
+  - Netflix Original (non-English)
+  - Netflix co-production
+  - Netflix continuation
+  - Netflix exclusive int'l distribution
+  - Nickelodeon
+  - Peacock Original (Drama) [NBC]
+  - Showtime
+  - Sky One
+  - SyFy
+  - TBS
+  - TNT
+  - usa
+  - YouTube Originals
+  - ZDF
+- d_available:
+  - Amazon Prime
+  - Apple TV+
+  - Crunchyroll
+  - Disney+
+  - HBO GO
+  - HBO Max
+  - Netflix
+  - YouTube
+  - [part]
+  - X
+  - DVD
+  - VHS
+
+- d_original_language / d_available_language / d_available_subtitle:
+  - Hungarian
+  - English
+  - German
+  - Spanish
+  - Arabic
+  - Japanese
+  - Hebrew
+
+- d_sort_level:
+  - top
+  - second
+  - other
+  - documentary
+  - (unsorted)
+
+- d_sort_category:
+  - live-action
+  - animation
+  - documentary
+
+- d_watch_status:
+  - followed
+  - (available)
+  - sometimes
+  - waiting
+  - potential
+  - stopped
+  - finished
+- d_watch_done_seasons: number
+- d_watch_done_episodes: number
+- d_watch_done_comment:
+  - episode number text
+  - F (season finale)
+  - FF (series finale)
+
+- d_air_status:
+  - available
+  - ongoing
+  - renewed
+  - expected
+  - pending
+  - ended
+- d_air_season: season XX (with text comment)
+
+-  d_ep_per_season: number range
+
+- imdb_link: link
+- imdb_year_start: year
+- imdb_year_finish: year
+- imdb_seasons: number
+- imdb_episodes: number
+- imdb_runtime: Xh XXmin
+- imdb_genre: list
+  - Action
+  - Adventure
+  - Animation
+  - Biography
+  - Comedy
+  - Crime
+  - Documentary
+  - Drama
+  - Family
+  - Fantasy
+  - History
+  - Horror
+  - Music
+  - Mystery
+  - Romance
+  - Sci-Fi
+  - Short
+  - Talk-Show
+  - Thriller
+- imdb_type:
+  - TV Series
+  - TV Mini-Series
+- imdb_creators: list - [{name: name, link: link}]
+- imdb_image: link
+- imdb_summary: text
+
+- wikipedia_link: link

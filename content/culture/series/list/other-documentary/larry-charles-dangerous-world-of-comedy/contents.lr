@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: Larry Charles' Dangerous World of Comedy
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    documentary
+---
+air_status:
+---
+ep_per_season: 4
+---
+imdb_link: https://www.imdb.com/title/tt9654082/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 1
+---
+imdb_episodes: 4
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Documentary
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Legendary comedy writer and director Larry Charles travels the world in search of humor in the most unusual, unexpected and dangerous places.
+---
+wikipedia_link:
+---
+body:
+
+

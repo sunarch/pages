@@ -1,0 +1,48 @@
+_model: page-series
+---
+description: series
+---
+title: Magic for Humans
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 6
+---
+imdb_link: https://www.imdb.com/title/tt8425308/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 12
+---
+imdb_runtime_min: 23
+---
+imdb_genres:
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Justin Willman preforms magic tricks on the street.
+---
+wikipedia_link:
+---
+body:
+
+

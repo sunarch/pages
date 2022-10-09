@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: The Vampire Diaries
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 08)
+---
+ep_per_season: 16-23
+---
+imdb_link: https://www.imdb.com/title/tt1405406/
+---
+imdb_year: 2009
+---
+imdb_year_finish: 2017
+---
+imdb_seasons: 8
+---
+imdb_episodes: 171
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Drama
+    Fantasy
+    Horror
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Julie Plec
+    Kevin Williamson
+---
+imdb_summary: The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.
+---
+wikipedia_link:
+---
+body:
+
+

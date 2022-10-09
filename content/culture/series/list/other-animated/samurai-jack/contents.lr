@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: Samurai Jack
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    animation
+    other
+---
+air_status: ended (season 05)
+---
+ep_per_season: 13 +10
+---
+imdb_link: https://www.imdb.com/title/tt0278238/
+---
+imdb_year: 2001
+---
+imdb_year_finish: 2017
+---
+imdb_seasons: 5
+---
+imdb_episodes: 62
+---
+imdb_runtime_min: 25
+---
+imdb_genres:
+    Animation
+    Action
+    Adventure
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Genndy Tartakovsky
+---
+imdb_summary: A samurai sent through time fights to return home and save the world.
+---
+wikipedia_link:
+---
+body:
+
+

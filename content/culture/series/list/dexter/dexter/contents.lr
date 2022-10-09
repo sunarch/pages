@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Dexter
+---
+sources:
+    Showtime
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 08)
+---
+ep_per_season: 12
+---
+imdb_link: https://www.imdb.com/title/tt0773262/
+---
+imdb_year: 2006
+---
+imdb_year_finish: 2013
+---
+imdb_seasons: 8
+---
+imdb_episodes: 96
+---
+imdb_runtime_min: 53
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    James Manos Jr.
+---
+imdb_summary: By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.
+---
+wikipedia_link:
+---
+body:
+
+

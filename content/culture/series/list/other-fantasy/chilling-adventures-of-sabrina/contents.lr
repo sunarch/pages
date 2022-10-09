@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Chilling Adventures of Sabrina
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: renewed (part 4)
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt7569592/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 4
+---
+imdb_episodes: 36
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Fantasy
+    Horror
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Roberto Aguirre-Sacasa
+---
+imdb_summary: As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.
+---
+wikipedia_link:
+---
+body:
+
+

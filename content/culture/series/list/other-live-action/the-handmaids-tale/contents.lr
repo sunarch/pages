@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Handmaid's Tale
+---
+sources:
+    Hulu Original
+---
+available:
+    HBO Max
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: renewed (season 04)
+---
+ep_per_season: 10-13
+---
+imdb_link: https://www.imdb.com/title/tt5834204/
+---
+imdb_year: 2017
+---
+imdb_year_finish:
+---
+imdb_seasons: 4
+---
+imdb_episodes: 46
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Sci-Fi
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Bruce Miller
+---
+imdb_summary: Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.
+---
+wikipedia_link:
+---
+body:
+
+

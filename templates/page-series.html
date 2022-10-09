@@ -1,0 +1,137 @@
+{% extends 'base-page.html' %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block content %} 
+    <table style="display: table; width: 100%;">
+        <tbody>
+            <tr>
+                <td colspan="2" style="text-align: center; font-weight: bold;">
+                    <a href="{{ this.imdb_link }}">IMDb</a>
+                </td>
+            </tr>
+            {% if this.imdb_type != "" %}
+            <tr>
+                <td>type</td>
+                <td>{{ this.imdb_type }}</td>
+            </tr>
+            {% endif %}
+            <tr>
+                <td>years</td>
+                <td>
+                    <span>{{ this.imdb_year }}&nbsp;—&nbsp;</span>
+                    {% if this.imdb_year_finish %}
+                    <span>{{ this.imdb_year_finish }}</span>
+                    {% else %}
+                    <span>ongoing</span>
+                    {% endif %}
+                </td>
+            </tr>
+            <tr>
+                <td>listed seasons / episodes</td>
+                <td>{{ this.imdb_seasons }}&nbsp;/&nbsp;{{ this.imdb_episodes }}</td>
+            </tr>
+            {% if this.ep_per_season != "" %}
+            <tr>
+                <td>episodes per season</td>
+                <td>{{ this.ep_per_season }}</td>
+            </tr>
+            {% endif %}
+            {% if this.imdb_runtime_min != "" %}
+            <tr>
+                <td>episode runtime</td>
+                <td>{{ this.imdb_runtime_min }} min</td>
+            </tr>
+            {% endif %}
+            {% if this.imdb_genres != "" %}
+            <tr>
+                <td>genre</td>
+                <td>
+                    {% for genre in this.imdb_genres %}
+                        {{ genre }}
+                        {% if genre != this.imdb_genres[-1] %}, {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+            {% if this.imdb_creators != "" %}
+            <tr>
+                <td>creators</td>
+                <td>
+                    {% for creator in this.imdb_creators %}
+                        {{ creator }}
+                        {% if creator != this.imdb_creators[-1] %}, {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+            {% if this.imdb_summary != "" %}
+            <tr>
+                <td colspan="3">{{ this.imdb_summary }}</td>
+            </tr>
+            {% endif %}
+        </tbody>
+    </table>
+
+    <h2>status</h2>
+    <table style="display: table; width: 100%;">
+        <tbody>
+            <tr>
+                <td>air status</td>
+                <td>{{ this.air_status }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>general</h2>
+    <table style="display: table; width: 100%;">
+        <tbody>
+            {% if this.sources != [] %}
+            <tr>
+                <td>source</td>
+                <td>
+                    {% for source in this.sources %}
+                        {{ source }}
+                        {% if source != this.sources[-1] %}, {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+            {% if this.available != [] %}
+            <tr>
+                <td>availablity</td>
+                <td>
+                    {% for available in this.available %}
+                        {{ available }}
+                        {% if available != this.available[-1] %}, {% endif %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+            {% if this.wikipedia_link != "" %}
+            <tr>
+                <td>Wikipedia</td>
+                <td>{{ this.wikipedia_link }}</td>
+            </tr>
+            {% endif %}
+            {% if this.original_language not in ["", "English"] %}
+            <tr>
+                <td>original language</td>
+                <td>{{ this.original_language }}</td>
+            </tr>
+            {% endif %}
+        </tbody>
+    </table>
+
+    {% if this.watched %}
+    <h2>personal tags</h2>
+    <ul>
+        {% for tag in this.tags %}
+            <li>{{ tag }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    </table>
+
+    {{ this.body }}
+{% endblock %}

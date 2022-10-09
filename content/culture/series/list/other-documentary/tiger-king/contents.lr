@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: Tiger King: Murder, Mayhem and Madness
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt11823076/
+---
+imdb_year: 2020
+---
+imdb_year_finish: 2020
+---
+imdb_seasons: 1
+---
+imdb_episodes: 8
+---
+imdb_runtime_min: 317
+---
+imdb_genres:
+    Documentary
+    Crime
+---
+imdb_type: TV Mini-Series
+---
+imdb_creators:
+---
+imdb_summary: A rivalry between big cat eccentrics takes a dark turn when Joe Exotic, a controversial animal park boss, is caught in a murder-for-hire plot.
+---
+wikipedia_link:
+---
+body:
+
+

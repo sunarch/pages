@@ -1,0 +1,55 @@
+_model: page-series
+---
+description: series
+---
+title: Rick and Morty
+---
+sources:
+    Adult Swim
+---
+available:
+    Netflix
+    HBO Max
+---
+original_language:
+---
+watched: true
+---
+tags:
+    animation
+    second
+---
+air_status: ongoing (season 05)
+---
+ep_per_season: 10-11
+---
+imdb_link: https://www.imdb.com/title/tt2861424/
+---
+imdb_year: 2013
+---
+imdb_year_finish:
+---
+imdb_seasons: 4
+---
+imdb_episodes: 41
+---
+imdb_runtime_min: 23
+---
+imdb_genres:
+    Animation
+    Adventure
+    Comedy
+---
+imdb_type:
+---
+imdb_creators:
+    Dan Harmon
+    Justin Roiland
+---
+imdb_summary: An animated series that follows the exploits of a super scientist and his not-so-bright grandson.
+---
+wikipedia_link:
+---
+body:
+
+

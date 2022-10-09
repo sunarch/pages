@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Witcher
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 02)
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt5180504/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 16
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Action
+    Adventure
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Lauren Schmidt
+---
+imdb_summary: Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
+---
+wikipedia_link:
+---
+body:
+
+

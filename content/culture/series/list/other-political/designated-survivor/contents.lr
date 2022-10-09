@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Designated Survivor
+---
+sources:
+    ABC
+    Netflix exclusive int'l distribution
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 03)
+---
+ep_per_season: 10-22
+---
+imdb_link: https://www.imdb.com/title/tt5296406/
+---
+imdb_year: 2016
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 3
+---
+imdb_episodes: 53
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Action
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    David Guggenheim
+---
+imdb_summary: A low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the line of succession.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Designated_Survivor_(TV_series)
+---
+body:
+
+

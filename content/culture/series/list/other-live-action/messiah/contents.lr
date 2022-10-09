@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Messiah
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 01)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt7671598/
+---
+imdb_year: 2020
+---
+imdb_year_finish: 2020
+---
+imdb_seasons: 1
+---
+imdb_episodes: 10
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Drama
+    Mystery
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Michael Petroni
+---
+imdb_summary: When a CIA officer investigates a man, and his followers, attracting international attention through acts of public disruption, she embarks on a global high-stakes mission to uncover whether he is a divine entity, or a deceptive con artist.
+---
+wikipedia_link:
+---
+body:
+
+

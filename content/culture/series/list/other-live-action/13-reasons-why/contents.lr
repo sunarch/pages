@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: 13 Reasons Why
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: renewed (season 04 (last))
+---
+ep_per_season: 13
+---
+imdb_link: https://www.imdb.com/title/tt1837492/
+---
+imdb_year: 2017
+---
+imdb_year_finish:
+---
+imdb_seasons: 4
+---
+imdb_episodes: 49
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Brian Yorkey
+---
+imdb_summary: Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.
+---
+wikipedia_link:
+---
+body:
+
+

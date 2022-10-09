@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Altered Carbon
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: renewed (season 02)
+---
+ep_per_season: 8-10
+---
+imdb_link: https://www.imdb.com/title/tt2261227/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 18
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Action
+    Drama
+    Sci-Fi
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Laeta Kalogridis
+---
+imdb_summary: Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom.
+---
+wikipedia_link:
+---
+body:
+
+

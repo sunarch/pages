@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Die Deutschen
+---
+sources:
+    ZDF
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    documentary
+---
+air_status: available (season 02)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt1236350/
+---
+imdb_year: 2008
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 20
+---
+imdb_runtime_min:
+---
+imdb_genres:
+    Documentary
+    History
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Uwe Kersken
+---
+imdb_summary:
+---
+wikipedia_link:
+---
+body:
+
+

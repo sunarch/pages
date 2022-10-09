@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: This Is Us
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 18
+---
+imdb_link: https://www.imdb.com/title/tt5555260/
+---
+imdb_year: 2016
+---
+imdb_year_finish:
+---
+imdb_seasons: 6
+---
+imdb_episodes: 74
+---
+imdb_runtime_min: 45
+---
+imdb_genres:
+    Comedy
+    Drama
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.
+---
+wikipedia_link:
+---
+body:
+
+

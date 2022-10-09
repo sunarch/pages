@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Westworld
+---
+sources:
+    HBO
+---
+available:
+    HBO Max
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: available (season 03)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt0475784/
+---
+imdb_year: 2016
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 28
+---
+imdb_runtime_min: 62
+---
+imdb_genres:
+    Drama
+    Mystery
+    Sci-Fi
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Lisa Joy
+    Jonathan Nolan
+---
+imdb_summary: Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.
+---
+wikipedia_link:
+---
+body:
+
+

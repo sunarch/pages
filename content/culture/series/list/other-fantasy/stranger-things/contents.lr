@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Stranger Things
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: possible (seasons 04, 05)
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt4574334/
+---
+imdb_year: 2016
+---
+imdb_year_finish:
+---
+imdb_seasons: 4
+---
+imdb_episodes: 33
+---
+imdb_runtime_min: 51
+---
+imdb_genres:
+    Drama
+    Fantasy
+    Horror
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Matt Duffer
+    Ross Duffer
+---
+imdb_summary: When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.
+---
+wikipedia_link:
+---
+body:
+
+

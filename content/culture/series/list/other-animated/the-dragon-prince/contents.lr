@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: The Dragon Prince
+---
+sources:
+    Netflix Original (Children and family / Animated)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    animation
+    second
+---
+air_status: pending (season 04)
+---
+ep_per_season: 9
+---
+imdb_link: https://www.imdb.com/title/tt8688814/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 27
+---
+imdb_runtime_min: 26
+---
+imdb_genres:
+    Animation
+    Adventure
+    Family
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Aaron Ehasz
+    Justin Richmond
+---
+imdb_summary: Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.
+---
+wikipedia_link:
+---
+body:
+
+

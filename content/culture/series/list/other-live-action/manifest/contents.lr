@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Manifest
+---
+sources:
+    NBC
+---
+available:
+    HBO Max
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+    other
+---
+air_status: renewed (season 02)
+---
+ep_per_season: 16
+---
+imdb_link: https://www.imdb.com/title/tt8421350/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 2
+---
+imdb_episodes: 29
+---
+imdb_runtime_min: 43
+---
+imdb_genres:
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Jeff Rake
+---
+imdb_summary: After being presumed dead, passengers onboard Flight 828 return and discover the world has aged five years. As they reintegrate into society, they begin to experience guiding voices and visions, and soon a deeper mystery unfolds.
+---
+wikipedia_link:
+---
+body:
+
+

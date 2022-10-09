@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Narcos
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt2707408/
+---
+imdb_year: 2015
+---
+imdb_year_finish: 2017
+---
+imdb_seasons: 3
+---
+imdb_episodes: 30
+---
+imdb_runtime_min: 49
+---
+imdb_genres:
+    Biography
+    Crime
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.
+---
+wikipedia_link:
+---
+body:
+
+

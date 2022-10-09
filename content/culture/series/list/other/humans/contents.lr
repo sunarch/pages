@@ -1,0 +1,49 @@
+_model: page-series
+---
+description: series
+---
+title: Humans
+---
+sources:
+    amc
+---
+available:
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+---
+air_status:
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt4122068/
+---
+imdb_year: 2015
+---
+imdb_year_finish: 2018
+---
+imdb_seasons: 3
+---
+imdb_episodes: 24
+---
+imdb_runtime_min: 42
+---
+imdb_genres:
+    Drama
+    Sci-Fi
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: In a parallel present where the latest must-have gadget for any busy family is a 'Synth' - a highly-developed robotic servant that's so similar to a real human it's transforming the way we live.
+---
+wikipedia_link:
+---
+body:
+
+

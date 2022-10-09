@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Once Upon a Time
+---
+sources:
+    abc
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: ended (season 07)
+---
+ep_per_season: 22-23
+---
+imdb_link: https://www.imdb.com/title/tt1843230/
+---
+imdb_year: 2011
+---
+imdb_year_finish: 2018
+---
+imdb_seasons: 7
+---
+imdb_episodes: 156
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Adventure
+    Fantasy
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Adam Horowitz
+    Edward Kitsis
+---
+imdb_summary: A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed.
+---
+wikipedia_link:
+---
+body:
+
+

@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Avatar: The Last Airbender
+---
+sources:
+    Nickelodeon
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    animation
+    top
+---
+air_status: ended (season 03)
+---
+ep_per_season: 20-21
+---
+imdb_link:https://www.imdb.com/title/tt0417299/
+---
+imdb_year: 2005
+---
+imdb_year_finish: 2008
+---
+imdb_seasons: 3
+---
+imdb_episodes: 66
+---
+imdb_runtime_min: 23
+---
+imdb_genres:
+    Animation
+    Action
+    Adventure
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Michael Dante DiMartino
+    Bryan Konietzko
+---
+imdb_summary: In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.
+---
+wikipedia_link:
+---
+body:
+
+

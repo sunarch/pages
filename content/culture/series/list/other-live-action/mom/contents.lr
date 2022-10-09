@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Mom
+---
+sources:
+    CBS
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: expected (season 08)
+---
+ep_per_season: 19-22
+---
+imdb_link: https://www.imdb.com/title/tt2660806/
+---
+imdb_year: 2013
+---
+imdb_year_finish:
+---
+imdb_seasons: 8
+---
+imdb_episodes: 152
+---
+imdb_runtime_min: 30
+---
+imdb_genres:
+    Comedy
+    Drama
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Gemma Baker
+    Eddie Gorodetsky
+    Chuck Lorre
+---
+imdb_summary: A newly sober single mom tries to pull her life together in Napa Valley while dealing with her wayward mother.
+---
+wikipedia_link:
+---
+body:
+
+

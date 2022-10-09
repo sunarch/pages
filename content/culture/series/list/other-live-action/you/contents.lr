@@ -1,0 +1,56 @@
+_model: page-series
+---
+description: series
+---
+title: You
+---
+sources:
+    Lifetime
+    Netflix exclusive int’l distribution
+    Netflix Continuation (S2)
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    other
+---
+air_status: uncertain
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt7335184/
+---
+imdb_year: 2018
+---
+imdb_year_finish:
+---
+imdb_seasons: 3
+---
+imdb_episodes: 21
+---
+imdb_runtime_min: 45
+---
+imdb_genres:
+    Crime
+    Drama
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Sera Gamble
+    Greg Berlanti
+---
+imdb_summary: A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.
+---
+wikipedia_link:
+---
+body:
+
+

@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: Breaking Bad
+---
+sources:
+---
+available:
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 05)
+---
+ep_per_season: 7-16
+---
+imdb_link: https://www.imdb.com/title/tt0903747/
+---
+imdb_year: 2008
+---
+imdb_year_finish: 2013
+---
+imdb_seasons: 5
+---
+imdb_episodes: 62
+---
+imdb_runtime_min: 49
+---
+imdb_genres:
+    Crime
+    Drama
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Vince Gilligan
+---
+imdb_summary: A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.
+---
+wikipedia_link:
+---
+body:
+
+

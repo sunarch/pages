@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Wu Assassins
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    live-action
+    other
+---
+air_status: available (season 01)
+---
+ep_per_season: 10
+---
+imdb_link: https://www.imdb.com/title/tt8652642/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 1
+---
+imdb_episodes: 10
+---
+imdb_runtime_min: 44
+---
+imdb_genres:
+    Action
+    Crime
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Tony Krantz
+    John Wirth
+---
+imdb_summary: A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.
+---
+wikipedia_link:
+---
+body:
+
+

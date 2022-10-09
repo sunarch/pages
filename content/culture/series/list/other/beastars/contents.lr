@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Beastars
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language:
+---
+watched: false
+---
+tags:
+    animation
+---
+air_status:
+---
+ep_per_season: 12
+---
+imdb_link: https://www.imdb.com/title/tt11043632/
+---
+imdb_year: 2019
+---
+imdb_year_finish:
+---
+imdb_seasons: 1
+---
+imdb_episodes: 12
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Animation
+    Crime
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: In a school populated by anthropomorphic animals, a humble wolf with anxiety investigates a classmate's sudden murder, while contending with his bewildering feelings for a kindly dwarf rabbit.
+---
+wikipedia_link:
+---
+body:
+
+

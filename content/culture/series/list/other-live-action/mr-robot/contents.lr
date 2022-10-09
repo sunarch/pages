@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Mr. Robot
+---
+sources:
+    usa
+---
+available:
+    HBO Max
+---
+original_language:
+---
+watched: true
+---
+tags:
+    live-action
+    second
+---
+air_status: ended (season 04)
+---
+ep_per_season: 10-13
+---
+imdb_link: https://www.imdb.com/title/tt4158110/
+---
+imdb_year: 2015
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 4
+---
+imdb_episodes: 46
+---
+imdb_runtime_min: 49
+---
+imdb_genres:
+    Crime
+    Drama
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Sam Esmail
+---
+imdb_summary: Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for.
+---
+wikipedia_link:
+---
+body:
+
+
