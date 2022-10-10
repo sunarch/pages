@@ -1,0 +1,35 @@
+_model: arabic-letters
+---
+title: Arabic letters
+---
+source_alphabet: arabic_alphabet
+---
+source_other: arabic_other
+---
+source_numbers: arabic_numbers
+---
+body:
+
+## Unicode info
+
+### Arabic
+
+- Range: 0600—06FF
+- Number of characters: 256
+- [Unicode Table: Arabic](https://unicode-table.com/en/blocks/arabic/)
+
+### Arabic Presentation Forms-B
+
+- Range: FE70—FEFF
+- Number of characters: 144
+- [Unicode Table: Arabic Presentation Forms-B](https://unicode-table.com/en/blocks/arabic-presentation-forms-b/)
+
+### Arabic Presentation Forms-A
+
+- Range: FB50—FDFF
+- Number of characters: 688
+- [Unicode Table: Arabic Presentation Forms-A](https://unicode-table.com/en/blocks/arabic-presentation-forms-a/)
+
+### Arabic alphabet
+
+- [Unicode Table: Arabic alphabet](https://unicode-table.com/en/alphabets/arab/)

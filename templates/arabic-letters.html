@@ -1,0 +1,112 @@
+{% extends 'base-page.html' %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block content %}
+    <!--
+    This work is licensed under a
+    Creative Commons Attribution-ShareAlike 4.0 International License.
+    (https://creativecommons.org/licenses/by-sa/4.0/)
+    -->
+    <style>
+        td {
+            font-size: 12pt;
+        }
+        .arabic {
+            font-size: 20pt;
+        }
+        .translit {
+            font-size: 14pt;
+        }
+    </style>
+    <h2>betők</h2>
+    <ul>
+        <li>
+            <span>Wikipedia: </span>
+            <a href="https://en.wikipedia.org/wiki/Arabic_alphabet">Arabic alphabet</a>
+        </li>
+    </ul>
+    <table>
+        <tbody>
+            <tr>
+                <th colspan="5">betű</th>
+                <th rowspan="2">név</th>
+                <th colspan="2" rowspan="2">átírás</th>
+                <th rowspan="2">nap / hold</th>
+            </tr>
+            <tr>
+                <th>main</th>
+                <th>isolated</th>
+                <th>final</th>
+                <th>medial</th>
+                <th>initial</th>
+            </tr>
+            {% for letter in bag(this.source_alphabet).values() %}
+            <tr>
+                <td class="arabic">
+                    <a href="{{ letter.arabic_utf_link }}" alt="{{ letter.arabic_utf_name }}">{{ letter.arabic }}</a>
+                </td>
+                <td class="arabic">
+                    <a href="{{ letter.isolated_utf_link }}" alt="{{ letter.isolated_utf_name }}">{{ letter.isolated }}</a>
+                </td>
+                <td class="arabic">
+                    <a href="{{ letter.final_utf_link }}" alt="{{ letter.final_utf_name }}">{{ letter.final }}</a>
+                </td>
+                <td class="arabic">
+                    <a href="{{ letter.medial_utf_link }}" alt="{{ letter.medial_utf_name }}">{{ letter.medial }}</a>
+                </td>
+                <td class="arabic">
+                    <a href="{{ letter.initial_utf_link }}" alt="{{ letter.initial_utf_name }}">{{ letter.initial }}</a>
+                </td>
+                <td>{{ letter.name }}</td>
+                <td class="translit">
+                    <a href="{{ letter.small_utf_link }}" alt="{{ letter.small_utf_name }}">{{ letter.small }}</a>
+                </td>
+                <td class="translit">
+                    <a href="{{ letter.capital_utf_link }}" alt="{{ letter.capital_utf_name }}">{{ letter.capital }}</a>
+                </td>
+                <td>{{ letter.sun_moon }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <h2>további betűk / jelek</h2>
+    <table>
+        <tbody>
+            <tr>
+                <th>betű / jel</th>
+                <th>név</th>
+                <th>átírás</th>
+            </tr>
+            {% for item in bag(this.source_other).values() %}
+            <tr>
+                <td class="arabic">
+                    <a href="{{ item.arabic_unicode_link }}" alt="{{ item.arabic_unicode_name }}">{{ item.arabic }}</a>
+                </td>
+                <td>{{ item.academic_name }}</td>
+                <td class="translit">
+                    <a href="{{ item.academic_small_unicode_link }}" alt="{{ item.academic_small_unicode_name }}">{{ item.academic_small }}</a>
+                    <span> / </span>
+                    <a href="{{ item.academic_capital_unicode_link }}" alt="{{ item.academic_capital_unicode_name }}">{{ item.academic_capital }}</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <h2>számok</h2>
+    <table>
+        <tbody>
+            <tr>
+                <th>nyugati arab</th>
+                <th>keleti arab</th>
+            </tr>
+            {% for number in bag(this.source_numbers).values() %}
+            <tr>
+                <td>{{ number.western_arabic }}</td>
+                <td class="arabic">{{ number.eastern_arabic }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {{ this.body }}
+{% endblock %}
