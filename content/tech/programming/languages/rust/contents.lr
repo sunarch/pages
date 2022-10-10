@@ -17,3 +17,7 @@ body:
 
 - [the book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+
+# Rust 🦀 and WebAssembly 🕸
+
+- [Rust-WASM book](https://rustwasm.github.io/docs/book/)

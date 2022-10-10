@@ -72,6 +72,10 @@ from contextlib import contextmanager
 - GitHub: [panda3d/panda3d](https://github.com/panda3d/panda3d)
 - [docs](https://docs.panda3d.org/1.10/python/index)
 
+# data visualization
+
+- [Python Charts](https://www.pythoncharts.com/)
+
 # snippets
 
 ## conditional compilation
