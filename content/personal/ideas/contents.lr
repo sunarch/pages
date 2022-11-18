@@ -20,6 +20,8 @@ body:
     - e.g. a money management tool
 - `passable-ways`
     - e.g. an adventure game
+- `QuicPic`
+    - picture-based service (maybe a pixelfed instance)
 - `space-admin`
     - e.g. for community space administration
 - `verbose-invention`
