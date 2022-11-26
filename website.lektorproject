@@ -7,7 +7,7 @@ url_style = absolute
 ; path
 output_path = ../gh-pages/docs
 ; excluded_assets
-included_assets = .nojekyll
+included_assets = .nojekyll, keybase.txt
 
 ; [packages]
 
