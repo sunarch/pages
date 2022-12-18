@@ -10,7 +10,7 @@ sources:
 available:
     HBO Max
 ---
-original_language:
+original_language: English
 ---
 watched: true
 ---
@@ -18,7 +18,7 @@ tags:
     live-action
     second
 ---
-air_status: available (season 03)
+air_status: renewed for season 04
 ---
 ep_per_season: 10
 ---
@@ -47,7 +47,7 @@ imdb_creators:
 ---
 imdb_summary: Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Westworld_(TV_series)
 ---
 body:
 
