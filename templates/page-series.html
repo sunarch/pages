@@ -123,12 +123,16 @@
         </tbody>
     </table>
 
-    {% if this.watched %}
+    {% if this.seen %}
     <h2>personal tags</h2>
+    <li>Seen: {{ seen }}</li>
+    <li>Rating: {{ rating }}</li>
     <ul>
-        {% for tag in this.tags %}
-            <li>{{ tag }}</li>
-        {% endfor %}
+        <li>Tags:<ul>
+            {% for tag in this.tags %}
+                <li>{{ tag }}</li>
+            {% endfor %}
+        </ul></li>
     </ul>
     {% endif %}
     </table>
