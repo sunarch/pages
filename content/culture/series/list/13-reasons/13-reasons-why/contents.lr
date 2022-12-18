@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 4 (last)
 ---
-rating: unsorted
+rating: C-tier
 ---
 tags:
     live-action
     other
 ---
-air_status: renewed (season 04 (last))
+air_status: ended with season 04
 ---
 ep_per_season: 13
 ---
@@ -28,7 +28,7 @@ imdb_link: https://www.imdb.com/title/tt1837492/
 ---
 imdb_year: 2017
 ---
-imdb_year_finish:
+imdb_year_finish: 2020
 ---
 imdb_seasons: 4
 ---
@@ -47,7 +47,7 @@ imdb_creators:
 ---
 imdb_summary: Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/13_Reasons_Why
 ---
 body:
 

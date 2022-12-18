@@ -5,20 +5,21 @@ description: series
 title: Narcos
 ---
 sources:
+    Netflix Original (Drama)
 ---
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 3 (last)
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
 ---
-air_status:
+air_status: ended (season 3)
 ---
 ep_per_season: 10
 ---
@@ -45,8 +46,9 @@ imdb_creators:
 ---
 imdb_summary: A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Narcos
 ---
 body:
 
+- continued by [Narcos: Mexico](../narcos-mexico)
 

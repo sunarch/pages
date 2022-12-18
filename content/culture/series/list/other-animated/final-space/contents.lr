@@ -11,17 +11,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: seasons 1-3 (all)
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     animation
     other
 ---
-air_status: renewed (season 03)
+air_status: ended with season 03
 ---
 ep_per_season: 13
 ---
@@ -50,7 +50,7 @@ imdb_creators:
 ---
 imdb_summary: An astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Final_Space
 ---
 body:
 

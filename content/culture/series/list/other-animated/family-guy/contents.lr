@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Family Guy
+---
+sources:
+---
+available:
+    Disney+
+    Netflix (in part)
+---
+original_language: English
+---
+seen: seasons 1-20
+---
+rating: D-tier
+---
+tags:
+    animation
+---
+air_status: season 20 available
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt0182576/
+---
+imdb_year: 1999
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Animation
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Family_Guy
+---
+body:
+
+

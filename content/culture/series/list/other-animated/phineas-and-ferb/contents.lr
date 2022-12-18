@@ -8,17 +8,17 @@ sources:
 ---
 available:
 ---
-original_language:
+original_language: English
 ---
 seen: some
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     animation
     other
 ---
-air_status: ended (season 04)
+air_status: ended with 4 seasons
 ---
 ep_per_season: 26-38
 ---
@@ -37,7 +37,7 @@ imdb_runtime_min: 15
 imdb_genres:
     Animation
     Action
-    Comedy
+    Adventure
 ---
 imdb_type: TV Series
 ---
@@ -47,7 +47,7 @@ imdb_creators:
 ---
 imdb_summary: Phineas and Ferb invent, scheme, and stay one step ahead of their bratty sister. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Phineas_and_Ferb
 ---
 body:
 

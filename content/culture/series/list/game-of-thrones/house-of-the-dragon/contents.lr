@@ -8,12 +8,13 @@ sources:
     HBO
 ---
 available:
+    HBO Max
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 1
 ---
-rating: unsorted
+rating: A-tier
 ---
 tags:
     spin-off
@@ -24,7 +25,7 @@ ep_per_season: 10
 ---
 imdb_link: https://www.imdb.com/title/tt11198330/
 ---
-imdb_year:
+imdb_year: 2022
 ---
 imdb_year_finish:
 ---
@@ -32,7 +33,7 @@ imdb_seasons: 1
 ---
 imdb_episodes: 10
 ---
-imdb_runtime_min:
+imdb_runtime_min: 60
 ---
 imdb_genres:
     Fantasy
@@ -41,10 +42,11 @@ imdb_type: TV Series
 ---
 imdb_creators:
 ---
-imdb_summary: The story of the House Targaryen set 300 years before the events of 'Game of Thrones'
+imdb_summary: The story of the House Targaryen set 200 years before the events of Game of Thrones (2011).
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/House_of_the_Dragon
 ---
 body:
 
+- prequel series for: [Game of Thrones](../game-of-thrones)
 

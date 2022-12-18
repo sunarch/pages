@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Crown
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language: English
+---
+seen: seasons 1-4
+---
+rating: B-tier
+---
+tags:
+    live-action
+---
+air_status: season 5 available, renewed for season 6 (last)
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt4786824/
+---
+imdb_year: 2016
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 58
+---
+imdb_genres:
+    Biography
+    Drama
+    History
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/The_Crown_(TV_series)
+---
+body:
+
+

@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Smallville
+---
+sources:
+    WB
+    CW
+---
+available:
+    HBO Max
+---
+original_language: English
+---
+seen: season 1-2
+---
+rating: B-tier
+---
+tags:
+---
+air_status: ended (season 10)
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt0279600/
+---
+imdb_year: 2001
+---
+imdb_year_finish: 2011
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Action
+    Adventure
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A young Clark Kent struggles to find his place in the world as he learns to harness his alien powers for good and deals with the typical troubles of teenage life in Smallville, Kansas.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Smallville
+---
+body:
+
+

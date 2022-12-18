@@ -9,17 +9,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: s01e01 - e04
 ---
-rating: unsorted
+rating: D-tier
 ---
 tags:
     live-action
     other
 ---
-air_status: available (season 01)
+air_status: season 01 available
 ---
 ep_per_season: 10
 ---
@@ -48,7 +48,7 @@ imdb_creators:
 ---
 imdb_summary: A warrior chosen as the latest and last Wu Assassin must search for the powers of an ancient triad and restore balance in San Francisco's Chinatown.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Wu_Assassins
 ---
 body:
 

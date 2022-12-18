@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Bridgerton
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language: English
+---
+seen: season 1-2
+---
+rating: B-tier
+---
+tags:
+    live-action
+---
+air_status: renewed for seasons 3, 4
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt8740790/
+---
+imdb_year: 2020
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Drama
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Bridgerton
+---
+body:
+
+

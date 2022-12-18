@@ -8,19 +8,19 @@ sources:
     HBO
 ---
 available:
-    HBO GO
+    HBO Max
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 1-8 (all)
 ---
-rating: unsorted
+rating: A-tier
 ---
 tags:
     live-action
     second
 ---
-air_status: ended (season 08)
+air_status: ended with season 8
 ---
 ep_per_season: 6-10
 ---
@@ -49,8 +49,9 @@ imdb_creators:
 ---
 imdb_summary: Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Game_of_Thrones
 ---
 body:
 
+- prequel series: [House of the Dragon](../house-of-the-dragon)
 

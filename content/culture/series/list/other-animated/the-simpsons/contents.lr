@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: The Simpsons
+---
+sources:
+---
+available:
+---
+original_language: English
+---
+seen: some
+---
+rating: C-tier
+---
+tags:
+    animation
+    other
+---
+air_status: season 32 expected
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt0096697/
+---
+imdb_year: 1989
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Animation
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: The satiric adventures of a working-class family in the misfit city of Springfield.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/The_Simpsons
+---
+body:
+
+

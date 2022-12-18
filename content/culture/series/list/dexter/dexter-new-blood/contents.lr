@@ -1,0 +1,50 @@
+_model: page-series
+---
+description: series
+---
+title: Dexter: New Blood
+---
+sources:
+    Showtime
+---
+available:
+---
+original_language: English
+---
+seen:
+---
+rating: unsorted
+---
+tags:
+---
+air_status:
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt14164730/
+---
+imdb_year: 2021
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min:
+---
+imdb_genres:
+    Adventure
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Set 10 years after Dexter Morgan went missing in the eye of Hurricane Laura, he is now living under an assumed name in Upstate New York, far from his original home in Miami.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Dexter:_New_Blood
+---
+body:
+
+- continuation of: [Dexter](../dexter)
+

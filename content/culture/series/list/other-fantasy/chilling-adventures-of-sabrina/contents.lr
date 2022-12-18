@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: parts 1-4 (all)
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
     second
 ---
-air_status: renewed (part 4)
+air_status: ended with part 4
 ---
 ep_per_season: 8
 ---
@@ -28,7 +28,7 @@ imdb_link: https://www.imdb.com/title/tt7569592/
 ---
 imdb_year: 2018
 ---
-imdb_year_finish:
+imdb_year_finish: 2020
 ---
 imdb_seasons: 4
 ---
@@ -48,7 +48,7 @@ imdb_creators:
 ---
 imdb_summary: As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Chilling_Adventures_of_Sabrina_(TV_series)
 ---
 body:
 

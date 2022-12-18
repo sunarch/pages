@@ -1,0 +1,52 @@
+_model: page-series
+---
+description: series
+---
+title: Mindhunter
+---
+sources:
+    Netflix (other)
+---
+available:
+    Netflix
+---
+original_language: English
+---
+seen: season 1-2 (all)
+---
+rating: C-tier
+---
+tags:
+---
+air_status: ended with season 02
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt5290382/
+---
+imdb_year: 2017
+---
+imdb_year_finish: 2019
+---
+imdb_seasons: 2
+---
+imdb_episodes:
+---
+imdb_runtime_min: 60
+---
+imdb_genres:
+    Crime
+    Drama
+    Thriller
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Mindhunter_(TV_series)
+---
+body:
+
+

@@ -1,0 +1,51 @@
+_model: page-series
+---
+description: series
+---
+title: Loki
+---
+sources:
+    Disney+ Original
+---
+available:
+    Disney+
+---
+original_language: English
+---
+seen:
+---
+rating:
+---
+tags:
+---
+air_status: season 2 expected
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt9140554/
+---
+imdb_year: 2021
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min:
+---
+imdb_genres:
+    Action
+    Adventure
+    Fantasy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A new Marvel chapter with Loki at its center.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Loki_(TV_series)
+---
+body:
+

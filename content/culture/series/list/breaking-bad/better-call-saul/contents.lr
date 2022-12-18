@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Better Call Saul
+---
+sources:
+    AMC
+---
+available:
+    Netflix
+---
+original_language: English
+---
+seen: seasons 1-5
+---
+rating: B-tier
+---
+tags:
+    live-action
+    second
+---
+air_status: ended with season 6
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt3032476/
+---
+imdb_year: 2015
+---
+imdb_year_finish: 2021
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min:
+---
+imdb_genres:
+    Crime
+    Drama
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Better_Call_Saul
+---
+body:
+
+

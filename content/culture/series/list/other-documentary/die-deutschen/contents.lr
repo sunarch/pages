@@ -9,16 +9,16 @@ sources:
 ---
 available:
 ---
-original_language:
+original_language: German
 ---
 seen: some
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     documentary
 ---
-air_status: available (season 02)
+air_status: season 02 available
 ---
 ep_per_season: 10
 ---
@@ -43,9 +43,9 @@ imdb_type: TV Series
 imdb_creators:
     Uwe Kersken
 ---
-imdb_summary:
+imdb_summary: Documentary series about 1.000 years of German history. Reviewing the history from about 955 a.d. to the modern day monarchy and World War I.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Die_Deutschen
 ---
 body:
 

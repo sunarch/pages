@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Arcane
+---
+sources:
+---
+available:
+    Netflix
+---
+original_language: English
+---
+seen: season 1
+---
+rating: A-tier
+---
+tags:
+    animation
+---
+air_status: season 2 expected
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt11126994/
+---
+imdb_year: 2021
+---
+imdb_year_finish:
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 41
+---
+imdb_genres:
+    Animation
+    Action
+    Adventure
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions-and the power that will tear them apart.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Arcane_(TV_series)
+---
+body:
+
+- titled onscreen as _**Arcane: League of Legends**_
+

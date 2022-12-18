@@ -9,11 +9,11 @@ sources:
 ---
 available:
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 1-8 (all)
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
@@ -47,8 +47,13 @@ imdb_creators:
 ---
 imdb_summary: By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Dexter_(TV_series)
 ---
 body:
 
+other IMDb summary:
+
+> He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and nights committing them. Golden Globe winner Michael C. Hall stars in the hit SHOWTIME Original Series.
+
+- continuation: [Dexter: New Blood](../dexter-new-blood)
 

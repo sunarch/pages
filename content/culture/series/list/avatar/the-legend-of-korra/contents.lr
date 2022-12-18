@@ -9,17 +9,17 @@ sources:
 ---
 available:
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: books 1-4 (all)
 ---
-rating: unsorted
+rating: S-tier
 ---
 tags:
     animation
     top
 ---
-air_status: ended (season 04)
+air_status: ended with book 04
 ---
 ep_per_season: 12-14
 ---
@@ -48,8 +48,9 @@ imdb_creators:
 ---
 imdb_summary: Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/The_Legend_of_Korra
 ---
 body:
 
+- original series: [Avatar: The Last Airbender](../the-last-airbender)
 

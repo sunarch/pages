@@ -5,15 +5,17 @@ description: series
 title: Brooklyn Nine-Nine
 ---
 sources:
+    Fox
+    NBC
 ---
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: seasons 1-7
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
@@ -26,7 +28,7 @@ imdb_link: https://www.imdb.com/title/tt2467372/
 ---
 imdb_year: 2013
 ---
-imdb_year_finish:
+imdb_year_finish: 2021
 ---
 imdb_seasons: 8
 ---
@@ -44,8 +46,37 @@ imdb_creators:
 ---
 imdb_summary: An immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine
 ---
 body:
 
+other IMDb summary:
+
+> "Brooklyn Nine-Nine" follows the exploits of hilarious Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.
+
+## seasons (8) / episodes
+
+### season 1
+- original network: Fox
+
+### season 2
+- original network: Fox
+
+### season 3
+- original network: Fox
+
+### season 4
+- original network: Fox
+
+### season 5
+- original network: Fox
+
+### season 6
+- original network: NBC
+
+### season 7
+- original network: NBC
+
+### season 8
+- original network: NBC
 

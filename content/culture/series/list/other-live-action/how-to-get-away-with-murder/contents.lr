@@ -10,17 +10,16 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 1-6 (all)
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
-    other
 ---
-air_status: ongoing (season 06 (last))
+air_status: ended with season 6
 ---
 ep_per_season: 15
 ---
@@ -28,13 +27,13 @@ imdb_link: https://www.imdb.com/title/tt3205802/
 ---
 imdb_year: 2014
 ---
-imdb_year_finish:
+imdb_year_finish: 2020
 ---
 imdb_seasons: 6
 ---
 imdb_episodes: 90
 ---
-imdb_runtime_min: 42
+imdb_runtime_min: 43
 ---
 imdb_genres:
     Crime
@@ -50,6 +49,6 @@ imdb_summary: A group of ambitious law students and their brilliant criminal def
 ---
 wikipedia_link:
 ---
-body:
+body: https://en.wikipedia.org/wiki/How_to_Get_Away_with_Murder
 
 

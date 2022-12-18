@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: seasons 1-13
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     animation
     second
 ---
-air_status: renewed (season 11)
+air_status: season 13 available
 ---
 ep_per_season: 9
 ---
@@ -48,7 +48,7 @@ imdb_creators:
 ---
 imdb_summary: Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Archer_(2009_TV_series)
 ---
 body:
 

@@ -8,19 +8,19 @@ sources:
     Sky One
 ---
 available:
-    HBO GO
+    HBO Max
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: seasons 1-3 (all)
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
     other
 ---
-air_status: renewed (seasons 02,03)
+air_status: ended with seasons 03
 ---
 ep_per_season: 8
 ---
@@ -28,7 +28,7 @@ imdb_link: https://www.imdb.com/title/tt2177461/
 ---
 imdb_year: 2018
 ---
-imdb_year_finish:
+imdb_year_finish: 2022
 ---
 imdb_seasons: 3
 ---
@@ -47,7 +47,7 @@ imdb_creators:
 ---
 imdb_summary: Diana Bishop, historian and witch, accesses Ashmole 782 and knows she must solve its mysteries. She is offered help by the enigmatic Matthew Clairmont, but he's a vampire and witches should never trust vampires.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/A_Discovery_of_Witches_(TV_series)
 ---
 body:
 

@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: seasons 1-9
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
     other
 ---
-air_status: expected (season 08)
+air_status: renewed for season 10
 ---
 ep_per_season: 22-23
 ---
@@ -48,7 +48,7 @@ imdb_creators:
 ---
 imdb_summary: A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)
 ---
 body:
 

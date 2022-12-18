@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: The Big Bang Theory
+---
+sources:
+---
+available:
+    HBO Max
+---
+original_language: English
+---
+seen: season 1-12 (all)
+---
+rating: C-tier
+---
+tags:
+    live-action
+    other
+---
+air_status: ended with 12 seasons
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt0898266/
+---
+imdb_year: 2007
+---
+imdb_year_finish: 2019
+---
+imdb_seasons:
+---
+imdb_episodes:
+---
+imdb_runtime_min: 22
+---
+imdb_genres:
+    Comedy
+    Romance
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.
+---
+wikipedia_link:
+---
+body:
+
+- prequel series: [Yound Sheldon](../young-sheldon)
+

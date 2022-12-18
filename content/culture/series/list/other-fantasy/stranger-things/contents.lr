@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 1-4
 ---
-rating: unsorted
+rating: A-tier
 ---
 tags:
     live-action
     second
 ---
-air_status: possible (seasons 04, 05)
+air_status: renewed for season 5
 ---
 ep_per_season: 8
 ---
@@ -49,7 +49,7 @@ imdb_creators:
 ---
 imdb_summary: When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Stranger_Things
 ---
 body:
 

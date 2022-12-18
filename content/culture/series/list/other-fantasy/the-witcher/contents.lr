@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: season 1-3
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
     second
 ---
-air_status: available (season 02)
+air_status: season 04 expected
 ---
 ep_per_season: 8
 ---
@@ -48,7 +48,7 @@ imdb_creators:
 ---
 imdb_summary: Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/The_Witcher_(TV_series)
 ---
 body:
 

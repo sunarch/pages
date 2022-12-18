@@ -10,17 +10,17 @@ sources:
 available:
     Netflix
 ---
-original_language:
+original_language: English
 ---
-seen: some
+seen: seasons 1-3
 ---
-rating: unsorted
+rating: B-tier
 ---
 tags:
     live-action
     second
 ---
-air_status: available (season 02)
+air_status: renewed for season 4
 ---
 ep_per_season: 8
 ---
@@ -47,7 +47,7 @@ imdb_creators:
 ---
 imdb_summary: A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.
 ---
-wikipedia_link:
+wikipedia_link: https://en.wikipedia.org/wiki/Sex_Education_(TV_series)
 ---
 body:
 
