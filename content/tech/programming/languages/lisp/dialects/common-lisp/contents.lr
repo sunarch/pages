@@ -1,0 +1,35 @@
+title: Common Lisp
+---
+body:
+
+- [Common-Lisp.net](https://common-lisp.net/)
+- [lisp-lang.org](https://lisp-lang.org/)
+- Wikipedia: [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
+- CLiki: the common lisp wiki: [cliki.net](https://www.cliki.net/)
+- The Common Lisp Cookbook: [lispcookbook.github.io/cl-cookbook](https://lispcookbook.github.io/cl-cookbook/)
+    - GitHub: [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook)
+
+## SBCL - Steel Bank Common Lisp
+
+- homepage: [sbcl.org](https://www.sbcl.org/)
+- Wikipedia: [Steel Bank Common Lisp](https://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp)
+
+## CLISP
+
+> an ANSI Common Lisp Implementation
+
+- [Sourceforge](https://clisp.sourceforge.io/)
+
+## books
+
+- "Common Lisp the Language, 2nd Edition" by Guy L. Steele
+    - CMU Artificial Intelligence Repository
+        - [main link](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
+        - [AFS link](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html)
+- Chapter 2 of ANSI Common Lisp, by Paul Graham.
+    - [sep.yimg.com](https://sep.yimg.com/ty/cdn/paulgraham/acl2.txt)
+
+## other info
+
+- Wikipedia: [Common Lisp - The function namespace](https://en.wikipedia.org/wiki/Common_Lisp#The_function_namespace)
+

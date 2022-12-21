@@ -1,0 +1,46 @@
+title: JavaScript libraries
+---
+body:
+
+# misc.
+
+## jQuery
+
+- homepage: [jquery.com](https://jquery.com/)
+- Wikipedia: [jQuery](https://en.wikipedia.org/wiki/JQuery)
+
+# Svelte
+
+- homepage: [svelte.dev](https://svelte.dev/)
+- Wikipedia: [Svelte](https://en.wikipedia.org/wiki/Svelte)
+
+# graphical
+
+## Babylon.js
+
+- homepage: [babylonjs.com](https://www.babylonjs.com/)
+- 3D rendering, WebGL
+
+## three.js
+
+- homepage: [threejs.org](https://threejs.org/)
+- 3D rendering, WebGL
+
+# charts
+
+> Open source HTML5 Charts
+
+## Chart.js
+
+- homepage: [chartjs.org](https://www.chartjs.org/)
+
+# canvas
+
+## EaselJS
+
+- homepage: [createjs.com/easeljs](https://www.createjs.com/easeljs)
+
+## Fabric.js
+
+- homepage: [fabricjs.com](http://fabricjs.com/)
+

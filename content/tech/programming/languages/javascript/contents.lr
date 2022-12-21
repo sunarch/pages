@@ -13,13 +13,19 @@ body:
 
 web. prototype-based, no I/O incl., general
 
-# libraries
+# static site generators
 
-- [Babylon.js](https://www.babylonjs.com/)
-    - 3D rendering, WebGL
-- [three.js](https://threejs.org/)
-    - 3D rendering, WebGL
+## Gatsby
+
+- homepage: [gatsbyjs.com](https://www.gatsbyjs.com/)
+- Wikipedia: [Gatsby (JavaScript framework)](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework))
+
 
 # articles
 
-- [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
+- kryogenix.org: [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
+- Daily Dev Tips: [JavaScript detecting which key is pressed](https://daily-dev-tips.com/posts/javascript-detecting-which-key-is-pressed/)
+
+# Q&As
+
+- Stack Overflow: [function - javascript canvas detect click on shape](https://stackoverflow.com/questions/12625766/javascript-canvas-detect-click-on-shape)
