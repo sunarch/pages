@@ -1,4 +1,4 @@
-# sunarch.github.io - `gh-pages` publishing branch
+# sunarch.codeberg.page - `pages` publishing branch
 
 ## license
 
