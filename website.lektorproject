@@ -1,13 +1,13 @@
 [project]
-name = sunarch.github.io
+name = sunarch.codeberg.page
 locale = en_US
-url = https://sunarch.github.io
+url = https://sunarch.codeberg.page
 ; url_style = relative
 url_style = absolute
 ; path
-output_path = ../gh-pages/docs
+output_path = ../pages
 ; excluded_assets
-included_assets = .nojekyll, keybase.txt
+included_assets = keybase.txt, LICENSE, README.md, .nojekyll
 
 ; [packages]
 

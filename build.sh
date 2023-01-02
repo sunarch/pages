@@ -2,4 +2,4 @@
 
 lektor build
 
-rm -r ../gh-pages/docs/.lektor/
+rm -r ../pages/.lektor/
