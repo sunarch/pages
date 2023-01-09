@@ -19,19 +19,19 @@ rating: C-tier
 tags:
     live-action
 ---
-air_status: renewed for season 3
+air_status: finished with season 3
 ---
-ep_per_season:
+ep_per_season: 10 + 8
 ---
 imdb_link: https://www.imdb.com/title/tt3007572/
 ---
 imdb_year: 2020
 ---
-imdb_year_finish:
+imdb_year_finish: 2022
 ---
-imdb_seasons:
+imdb_seasons: 3
 ---
-imdb_episodes:
+imdb_episodes: 28
 ---
 imdb_runtime_min: 48
 ---
@@ -43,6 +43,9 @@ imdb_genres:
 imdb_type: TV Series
 ---
 imdb_creators:
+    Meredith Averill
+    Carlton Cuse
+    Aron Eli Coleite
 ---
 imdb_summary: After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.
 ---

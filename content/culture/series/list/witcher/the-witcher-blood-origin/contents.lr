@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: The Witcher: Blood Origin
+---
+sources:
+    Netflix Original (Drama)
+---
+available:
+    Netflix
+---
+original_language: English
+---
+seen: season 1 (all)
+---
+rating: B-tier
+---
+tags:
+    live-action
+---
+air_status: finished with season 1
+---
+ep_per_season: 4
+---
+imdb_link: https://www.imdb.com/title/tt12785720/
+---
+imdb_year: 2022
+---
+imdb_year_finish: 2022
+---
+imdb_seasons: 1
+---
+imdb_episodes: 4
+---
+imdb_runtime_min: 50
+---
+imdb_genres:
+    Action
+    Adventure
+    Drama
+---
+imdb_type: TV Mini Series
+---
+imdb_creators:
+    Declan De Barra
+---
+imdb_summary: More than a thousand years before the events of "The Witcher," seven outcasts in an Elven world join forces in a quest against an all-powerful empire.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/The_Witcher:_Blood_Origin
+---
+body:
+
+
