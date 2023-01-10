@@ -58,6 +58,14 @@ body:
 - UK Gov Digital Service - [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
 - Jake Archibald - [Progressive enhancement is still important](https://jakearchibald.com/2013/progressive-enhancement-still-important/)
 
+## Literate Programming
+
+- introduced in 1984 by Donald Knuth
+- Wikipedia: [Literate programming](https://en.wikipedia.org/wiki/Literate_programming)
+- the [Eve](https://witheve.com) language
+- [Blaze](https://blaze.oat.sh) by 0atman
+    - intro blog post: [Blaze: A lightweight literate programing preprocessor](https://www.0atman.com/articles/17/blaze)
+
 # miscellaneous
 
 - Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)

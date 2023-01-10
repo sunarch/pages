@@ -27,3 +27,7 @@ a [Lisp](lisp.md) dialect
 ## ClojureScript
 
 - website: [clojurescript.org](https://clojurescript.org/)
+
+# forum entries
+
+- StackOverflow: [Clojure, can macros do something that couldn't be done with a function](https://stackoverflow.com/questions/43973727/clojure-can-macros-do-something-that-couldnt-be-done-with-a-function)
