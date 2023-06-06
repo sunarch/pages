@@ -1,0 +1,103 @@
+title: Posts related to Rust controversies
+---
+body:
+
+## 2023
+
+### June 5
+
+- [Rust is being destroyed from the inside](https://youtu.be/QEnuzwCWpgQ)
+    - by [Let's Get Rusty](https://www.youtube.com/@letsgetrusty) on YouTube
+
+---
+
+### May 30
+
+- ["In addition to the Rust statement, ..."](https://hackmd.io/@joshtriplett/Hyd7SGX82)
+    - by [Josh Triplett](https://hackmd.io/@joshtriplett) on HackMD
+- [Statement on RustConf & Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
+    - by "Shepherd, ThePhD" on Shepherd's Oasis
+    > [...] we will be withdrawing our involvement in all Rust Project-related matters.
+
+### May 29
+
+- [On the RustConf keynote](https://blog.rust-lang.org/2023/05/29/RustConf.html)
+    - Rust leadership team on the [Rust Blog](https://blog.rust-lang.org)
+- [tweet](https://twitter.com/rustconf/status/1662959141823057921)
+  by RustConf organizers on Twitter [@rustconf](https://twitter.com/rustconf)
+    - Leah Silber [@wifelette](https://twitter.com/wifelette)
+    - Sage Griffin [@sgrif](https://twitter.com/sgrif)
+- [The RustConf Drama](https://youtu.be/9z82HO31mxU)
+    - by [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen) on YouTube
+
+### May 28
+
+- [Why I left Rust](https://www.jntrnr.com/why-i-left-rust/)
+    - by JT on their blog, [JT's blog](https://www.jntrnr.com)
+    - related: on [Hacker News](https://news.ycombinator.com/item?id=36101501)
+- [Mastodon post](https://pony.social/@thephd/110446817486174177)
+  by ThePhD [@thephd@pony.social](https://pony.social/@thephd)
+    - JeanHeyd Meneide's response to “Why I left Rust”
+    - related: on [Hacker News](https://news.ycombinator.com/item?id=36105637)
+- [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
+    - by Amos - [fasterthanlime](https://gist.github.com/fasterthanlime) on GitHub Gist:
+    - [additional version](https://fasterthanli.me/articles/rust-the-wrong-people-are-resigning) on their blog, [fasterthanli.me](https://fasterthanli.me)
+
+### May 27
+
+- [A governance system, if you can keep it](https://without.boats/blog/if-you-can-keep-it/)
+    - by Saoirse on their blog, [Without boats, dreams dry up](https://without.boats)
+- [Stepping Down From RustConf and Rust Project Controversy](https://youtu.be/TB0cXGvuw9A)
+    - by [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) on YouTube
+
+### May 26
+
+- [I Am No Longer Speaking at RustConf 2023](https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023)
+    - by JeanHeyd Meneide (ThePhD) on their blog, [The Pasture](https://thephd.dev)
+
+---
+
+### April 19
+
+- [CrabLang: A Response to Corporate Control and the Importance of Creative Freedom](https://loftwah.medium.com/crablang-a-response-to-corporate-control-and-the-importance-of-creative-freedom-8cb8781844fd)
+    - by [Dean Lofts](https://loftwah.medium.com/) on Medium
+    - referenced: [CrabLang](https://crablang.org)
+
+### April 11
+
+- [Rust Foundation IS DOING WHAT????](https://youtu.be/gutR_LNoZw0)
+    - by [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) on YouTube
+
+### April 7
+
+- [tweet](https://twitter.com/rust_foundation/status/1644132378858729474)
+  by the Rust Foundation on Twitter [@rust_foundation](https://twitter.com/rust_foundation)
+    - Rust Trademark Policy
+
+---
+---
+
+## 2022
+
+### October 6
+
+
+- [Governance Update](https://blog.rust-lang.org/inside-rust/2022/10/06/governance-update.html)
+    - by Ryan Levick on behalf of Rust leadership on the [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/)
+
+---
+---
+
+## 2021
+
+### November 23
+
+- [Rust dust-up as entire moderation team resigns. Why? They won't really say](https://www.theregister.com/2021/11/23/rust_moderation_team_quits/)
+    - by [Tim Anderson](https://www.theregister.com/Author/Tim-Anderson) for [The Register](https://www.theregister.com/)
+
+### November 22
+
+- mod team resignation [#671](https://github.com/rust-lang/team/pull/671) (PR)
+    - in [rust-lang/team](https://github.com/rust-lang/team) on GitHub
+    - by Andrew Gallant [@BurntSushi](https://github.com/BurntSushi)
+      on the behalf of The Rust Moderation Team (Andre, Andrew and Matthieu)
