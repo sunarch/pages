@@ -36,6 +36,7 @@ body:
     - /usr/share/backgrounds/
     - [backdrops]
     - [?]
+    - /usr/share/wallpapers
 - gdm
     - /etc/gdm3/
     - /usr/share/gdm/
