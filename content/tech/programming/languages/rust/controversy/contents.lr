@@ -15,9 +15,14 @@ body:
 
 - ["In addition to the Rust statement, ..."](https://hackmd.io/@joshtriplett/Hyd7SGX82)
     - by [Josh Triplett](https://hackmd.io/@joshtriplett) on HackMD
+    - alternate link: [HackMD](https://hackmd.io/p3VG_bK9TXOvtgh1oA2yZQ)
+    - on the [Wayback Machine](https://web.archive.org/web/20230530192938/https://hackmd.io/p3VG_bK9TXOvtgh1oA2yZQ?view)
 - [Statement on RustConf & Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
     - by "Shepherd, ThePhD" on Shepherd's Oasis
     > [...] we will be withdrawing our involvement in all Rust Project-related matters.
+- [private tweet](https://twitter.com/_joshgould/status/1663594940197228544)
+  by Josh Gould on Twitter [@_joshgould](https://twitter.com/_joshgould)
+  - on the [Wayback Machine](https://web.archive.org/web/20230530184648/https://twitter.com/_joshgould/status/1663594940197228544)
 
 ### May 29
 
@@ -29,6 +34,10 @@ body:
     - Sage Griffin [@sgrif](https://twitter.com/sgrif)
 - [The RustConf Drama](https://youtu.be/9z82HO31mxU)
     - by [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen) on YouTube
+- [tweet](https://twitter.com/rustconf/status/1663317140550860800)
+  by RustConf organizers on Twitter [@rustconf](https://twitter.com/rustconf)
+    - Leah Silber [@wifelette](https://twitter.com/wifelette)
+    - on the [Wayback Machine](https://web.archive.org/web/20230531000739/https://twitter.com/rustconf/status/1663317140550860800)
 
 ### May 28
 
@@ -42,6 +51,9 @@ body:
 - [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
     - by Amos - [fasterthanlime](https://gist.github.com/fasterthanlime) on GitHub Gist:
     - [additional version](https://fasterthanli.me/articles/rust-the-wrong-people-are-resigning) on their blog, [fasterthanli.me](https://fasterthanli.me)
+- [tweet](https://twitter.com/wifelette/status/1662938961248129025)
+  by Leah Silber on Twitter [@wifelette](https://twitter.com/wifelette)
+  - on the [Wayback Machine](https://web.archive.org/web/20230528222356/https://twitter.com/wifelette/status/1662938961248129025)
 
 ### May 27
 
@@ -60,7 +72,7 @@ body:
 ### April 19
 
 - [CrabLang: A Response to Corporate Control and the Importance of Creative Freedom](https://loftwah.medium.com/crablang-a-response-to-corporate-control-and-the-importance-of-creative-freedom-8cb8781844fd)
-    - by [Dean Lofts](https://loftwah.medium.com/) on Medium
+    - by [Dean Lofts](https://loftwah.medium.com) on Medium
     - referenced: [CrabLang](https://crablang.org)
 
 ### April 11
@@ -81,9 +93,14 @@ body:
 
 ### October 6
 
-
 - [Governance Update](https://blog.rust-lang.org/inside-rust/2022/10/06/governance-update.html)
     - by Ryan Levick on behalf of Rust leadership on the [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/)
+
+### May 19
+
+- [Governance Update](https://blog.rust-lang.org/inside-rust/2022/05/19/governance-update.html)
+    - by Ryan Levick and Mara Bos on the [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/)
+    - referenced: [Rust Governance Interview Questions](https://hackmd.io/@ryanlevick/By2RKtMec) by [Ryan Levick](https://hackmd.io/@ryanlevick) on [HackMD](https://hackmd.io)
 
 ---
 ---
