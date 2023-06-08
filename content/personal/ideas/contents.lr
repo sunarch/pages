@@ -4,6 +4,7 @@ body:
 
 ## projects
 
+- project governance management
 - RESTful RPG - an RPG game playable via an API
 - scoreboard
 
@@ -15,6 +16,7 @@ body:
     - e.g. a personal note and data management, similar to Notion
 - `craftonaut`
     - e.g. an astronaut-based crafting game, similar to Factorio
+- `go-round` - Go game and tournament management
 - `humanobot`
 - `moneyflow`
     - e.g. a money management tool
