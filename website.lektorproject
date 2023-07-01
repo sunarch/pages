@@ -7,7 +7,7 @@ url_style = absolute
 ; path
 output_path = ../pages
 ; excluded_assets
-included_assets = keybase.txt, LICENSE, README.md, .nojekyll
+included_assets = keybase.txt, LICENSE, README.md, .nojekyll, .domains
 
 ; [packages]
 
