@@ -1,9 +1,6 @@
+title: DCEU
 ---
-layout: "default"
-title: "DCEU"
-description: "list of movies | catalog"
-permalink: "/media/movies/dceu"
----
+body:
 
 *DC Extended Universe*
 

@@ -1,9 +1,6 @@
+title: MCU
 ---
-layout: "default"
-title: "MCU"
-description: "list of movies | catalog"
-permalink: "/media/movies/mcu"
----
+body:
 
 *Marvel Cinematic Universe*
 
