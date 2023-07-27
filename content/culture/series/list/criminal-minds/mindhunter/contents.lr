@@ -20,7 +20,7 @@ tags:
 ---
 air_status: ended with season 02
 ---
-ep_per_season:
+ep_per_season: 10, 9
 ---
 imdb_link: https://www.imdb.com/title/tt5290382/
 ---
@@ -30,7 +30,7 @@ imdb_year_finish: 2019
 ---
 imdb_seasons: 2
 ---
-imdb_episodes:
+imdb_episodes: 19
 ---
 imdb_runtime_min: 60
 ---
