@@ -212,3 +212,50 @@ body:
 - [docs](https://www.tcl-lang.org/doc/)
 - Wikipedia: [Tcl](https://en.wikipedia.org/wiki/Tcl)
 - embeddable extension language
+
+## comparison
+
+- ADT: [Algebraic data type](https://en.wikipedia.org/wiki/Algebraic_data_type)
+- S.T. [Category:Statically typed programming languages](https://en.wikipedia.org/wiki/Category:Statically_typed_programming_languages)
+- [Compiled language](https://en.wikipedia.org/wiki/Compiled_language)
+- HOF: [Higher-order function](https://en.wikipedia.org/wiki/Higher-order_function)
+- LoC: Jaron file [languages of choice](http://www.catb.org/~esr/jargon/html/L/languages-of-choice.html)
+- HBH: [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html) by Eric S. Raymond
+- ImO: [Immutable object](https://en.wikipedia.org/wiki/Immutable_object)
+
+| score | name        | S.T | ADT | compiled | HOF | LoC   | HBH | ImO  |
+| ----- | ----------- | --- | --- | -------- | --- | ----- | --- | ---- |
+| 1 + 1 | assembly    |     |     | yes      |     | old   |     |      |
+| 4     | C           | yes |     | yes      |     | yes   | 3rd |      |
+| 4 + 2 | C++         |     | yes | yes      | yes | old   | 3.a | yes  |
+| 3 + 1 | C#          | yes |     | bytecode | yes |       |     | yes  |
+| 1 + 1 | Clojure     |     |     | Java BC  | yes |       |     |      |
+| 4     | Common Lisp |     |     | yes      | yes | yes   | 2nd |      |
+| 4     | D           | yes |     | yes      | yes |       |     | yes  |
+| 2     | Dart        |     | yes |          | yes |       |     |      |
+| 1 + 1 | Elixir      |     |     | bytecode | yes |       |     |      |
+| 1 + 1 | Erlang      |     |     | bytecode | yes |       |     |      |
+| 3 + 1 | F#          | yes | yes | bytecode | yes |       |     |      |
+| 1     | Forth       |     |     | yes      |     |       |     |      |
+| 2 + 1 | Fortran     | yes |     | yes      |     | old   |     |      |
+| 3 + 1 | Go          | yes |     | yes      | yes |       | 2nd |      |
+| 4     | Haskell     |     | yes | yes      | yes |       |     | yes  |
+| 3 + 3 | Java        |     | yes | bytecode | yes | yes   | 2.a | part |
+| 2     | JavaScript  |     |     |          | yes |       |     | new  |
+| 3 + 1 | Kotlin      | yes | yes | Java BC  | yes |       |     |      |
+| 1     | Lua         |     |     |          | yes |       |     |      |
+| 2 + 1 | Nim         | yes | yes | C-like   |     |       |     |      |
+| 4     | OCaml       | yes | yes | yes      | yes |       |     |      |
+| 4 + 1 | Perl        |     | yes |          | yes | yes   | 4th | part |
+| 1     | PHP         |     |     |          | yes |       |     |      |
+| 0 + 1 | Prolog      |     |     |          |     | small |     |      |
+| 4 + 1 | Python      |     | yes |          | yes | yes   | 1st | part |
+| 1     | R           |     |     |          | yes |       |     |      |
+| 1 + 1 | Racket      |     | yes |          |     |       |     | part |
+| 0     | Ruby        |     |     |          |     |       |     |      |
+| 5     | Rust        | yes | yes | yes      | yes |       |     | yes  |
+| 2 + 1 | Scala       |     | yes | Java BC  |     |       |     | yes  |
+| 0     | shell       |     |     |          |     |       |     |      |
+| 4     | Swift       | yes | yes | yes      | yes |       |     |      |
+| 2     | TypeScript  | yes | yes |          |     |       |     |      |
+| 2     | Zig         | yes |     | yes      |     |       |     |      |

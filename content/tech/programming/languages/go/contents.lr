@@ -1,0 +1,12 @@
+title: Go
+---
+body:
+
+- homepage: [go.dev](https://go.dev)
+- Wikipedia: [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language))
+- [Go by Example](https://gobyexample.com)
+
+### criticism
+
+- fasterthanlime: [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) (Feb 28, 2020)
+    - follow-up - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) (Apr 29, 2022)
