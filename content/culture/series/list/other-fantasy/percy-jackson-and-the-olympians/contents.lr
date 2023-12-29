@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Percy Jackson and the Olympians
+---
+sources:
+    Disney+
+---
+available:
+    Disney+
+---
+original_language: English
+---
+seen: seasons started
+---
+rating: unrated
+---
+tags:
+    live-action
+    other
+---
+air_status: season 1 ongoing
+---
+ep_per_season: 8
+---
+imdb_link: https://www.imdb.com/title/tt12324366/
+---
+imdb_year: 2023
+---
+imdb_year_finish:
+---
+imdb_seasons: 1
+---
+imdb_episodes: 8
+---
+imdb_runtime_min: 45
+---
+imdb_genres:
+    Action
+    Adventure
+    Family
+---
+imdb_type: TV Series
+---
+imdb_creators:
+---
+imdb_summary: Demigod Percy Jackson leads a quest across America to prevent a war among the Olympian gods.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Percy_Jackson_and_the_Olympians_(TV_series)
+---
+body:
+
+- related: [Percy Jackson & the Olympians: The Lightning Thief](https://www.imdb.com/title/tt0814255/) (2010) (Chris Columbus)
