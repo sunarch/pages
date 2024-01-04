@@ -2,3 +2,11 @@ title: Factorio
 ---
 body:
 
+### Walking speed
+
+From [Mgis09](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=55469dddddddddasda) on the [forum](https://forums.factorio.com/viewtopic.php?p=478395#p478395):
+
+```
+/c game.player.print(game.player.character_running_speed_modifier)
+/c game.player.character_running_speed_modifier = 3
+```
