@@ -1,0 +1,54 @@
+_model: page-series
+---
+description: series
+---
+title: Bones
+---
+sources:
+---
+available:
+    Disney+
+---
+original_language: English
+---
+seen: seasons 1-12 (all)
+---
+rating: B-tier
+---
+tags:
+    live-action
+    other
+---
+air_status: ended with season 12
+---
+ep_per_season: 12-26
+---
+imdb_link: https://www.imdb.com/title/tt0460627/
+---
+imdb_year: 2005
+---
+imdb_year_finish: 2017
+---
+imdb_seasons: 12
+---
+imdb_episodes: 245
+---
+imdb_runtime_min: 40
+---
+imdb_genres:
+    Crime
+    Drama
+    Mystery
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    Hart Hanson
+---
+imdb_summary: F.B.I. Special Agent Seeley Booth teams up with the Jeffersonian's top anthropologist, Dr. Temperance Brennan, to investigate cases where all that's left of the victims are their bones.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Bones_(TV_series)
+---
+body:
+
+

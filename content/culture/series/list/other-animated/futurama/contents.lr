@@ -1,0 +1,53 @@
+_model: page-series
+---
+description: series
+---
+title: Futurama
+---
+sources:
+---
+available:
+    Disney+
+---
+original_language: English
+---
+seen: season 1-11
+---
+rating: B-tier
+---
+tags:
+    animation
+---
+air_status: 
+---
+ep_per_season:
+---
+imdb_link: https://www.imdb.com/title/tt0149460/
+---
+imdb_year: 1999
+---
+imdb_year_finish:
+---
+imdb_seasons: 14
+---
+imdb_episodes: 180
+---
+imdb_runtime_min: 41
+---
+imdb_genres:
+    Animation
+    Adventure
+    Comedy
+---
+imdb_type: TV Series
+---
+imdb_creators:
+    David X. Cohen
+    Matt Groening
+---
+imdb_summary: Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999.
+---
+wikipedia_link: https://en.wikipedia.org/wiki/Futurama
+---
+body:
+
