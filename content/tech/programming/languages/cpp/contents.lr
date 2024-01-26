@@ -11,3 +11,8 @@ body:
 ### description
 
 systems programming, performance, efficiency
+
+### articles
+
+- Lucian Radu Teodorescu: [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/) (Overload, 30(172) -- Dec 8-14, 2022)
+    - Sean Baxter: [New Circle notes](https://github.com/seanbaxter/circle/blob/master/new-circle/README.md)

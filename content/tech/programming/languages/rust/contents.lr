@@ -21,3 +21,12 @@ body:
 # Rust 🦀 and WebAssembly 🕸
 
 - [Rust-WASM book](https://rustwasm.github.io/docs/book/)
+
+# useful crates
+
+- [clap](https://docs.rs/clap/latest/clap/): Command Line Argument Parser for Rust
+- [inquire](https://docs.rs/inquire/latest/inquire/index.html): a library for building interactive prompts on terminals
+
+# articles
+
+- fasterthanlime: [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) (Feb 7, 2022)

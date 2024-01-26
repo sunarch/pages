@@ -1,0 +1,20 @@
+title: Zig
+---
+body:
+
+- type: low level
+- standard: no
+
+- [homepage](https://ziglang.org)
+- [Wikipedia](https://en.wikipedia.org/wiki/Shell_script)
+- documentation of [master](https://ziglang.org/documentation/master/)
+- forum: [Ziggit](https://ziggit.dev)
+- [Zig.News](https://zig.news) (built on Forem)
+
+## games
+
+- Raylib bindings: GitHub [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig)
+
+### articles
+
+- Samarth Hattangady: [Writing and Releasing a game in zig](https://zig.news/chapliboy/writing-and-releasing-a-game-in-zig-13f3) (Mar 1, 2023)

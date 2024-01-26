@@ -6,7 +6,7 @@ body:
 
 # recommendations
 
-- five recommendations by [ESR](people.md): Python, C/C++, Perl, and LISP
+- five recommendations by [ESR](../people.md): Python, C/C++, Perl, and LISP
 
 # notes
 
@@ -28,6 +28,10 @@ body:
 
 - [Programming People](https://leftoversalad.com/c/015_programmingpeople/)
   by [Leftover Salad](https://leftoversalad.com)
+
+# presentations
+
+- Tony Hoare: [Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) (QCon -- Aug 25, 2009)
 
 # list
 
