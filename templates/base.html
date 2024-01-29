@@ -13,10 +13,12 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         <h2 class="project-tagline">{% if this.description %}{{ this.description }}{% else %}{{ bag('site.general.description') }}{% endif %}&#32;|&#32;{{ bag('site.general.title') }}</h2>
     </header>
     <main id="content" class="main-content" role="main">
+
         {# BREADCRUMBS #}
         <div class="container {% if this.full_width %}full-width{% endif %}">
             {% include "includes/breadcrumbs.html" %}
         </div>
+
         {# NOSCRIPT #}
         <noscript>
             <h3>JavaScript is not enabled in your browser!</h3>
@@ -26,10 +28,13 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         <div class="container {% if this.full_width %}full-width{% endif %} content">
             {% block content_base %}{% endblock %}
         </div>
+
+        {# CHILDREN #}
         {% if this.children %}
         <hr>
-        <div class="container {% if this.full_width %}full-width{% endif %} content">
-            <h2>subpages:</h2>
+        <details class="{% if this.full_width %}full-width{% endif %}">
+            {% set children_count = this.children | list | count %}
+            <summary>{{ this.children.length }}subpage{% if children_count > 1 %}s{% endif %}</summary>
             <ul>
             {% for child in this.children | sort(attribute='title') %}
                 <li>
@@ -37,8 +42,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                 </li>
             {% endfor %}
             </ul>
-        </div>
+        </details>
         {% endif %}
+
         {# FOOTER #}
         <footer class="site-footer">
             <span class="site-footer-owner">
