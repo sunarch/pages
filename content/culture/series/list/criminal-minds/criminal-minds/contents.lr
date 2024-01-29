@@ -11,7 +11,7 @@ available:
 ---
 original_language: English
 ---
-seen: season 1-15 (all)
+seen: season 1-16
 ---
 rating: B-tier
 ---
@@ -19,7 +19,7 @@ tags:
     live-action
     other
 ---
-air_status: ended with season 15
+air_status: season 17 expected
 ---
 ep_per_season: 10-25
 ---
@@ -29,9 +29,9 @@ imdb_year: 2005
 ---
 imdb_year_finish: 2020
 ---
-imdb_seasons: 15
+imdb_seasons: 17
 ---
-imdb_episodes: 323
+imdb_episodes: 335
 ---
 imdb_runtime_min: 42
 ---
@@ -51,4 +51,8 @@ wikipedia_link: https://en.wikipedia.org/wiki/Criminal_Minds
 ---
 body:
 
+- Criminal Minds
+    - seasons 1-15
+- Criminal Minds: Evolution
+    - seasons 16 --
 
