@@ -4,63 +4,91 @@ description: home page on GitHub
 ---
 body:
 
-## JavaScript & web tech.
+(Mostly) hobbyist developer
+- current primary: Python
+- for the web: JavaScript
+- some low-level: Rust, Zig, C
+- some: Lisp (Chez Scheme / Racket)
+- plans: Elixir, Haskell
+- to read: Go
 
-- [webapps](https://github.com/sunarch/webapps)
-    - tools
-        - distribution
-        - JS info
-        - Pocket Bar
-    - games
-        - Next Best Guess
+Interested in Open Source / FOSS.
 
-## Python
+Located in Budapest, Hungary 🇭🇺 .
 
-- [bookend](https://github.com/sunarch/bookend)
-- [glossanea](https://github.com/sunarch/glossanea)
-- [libmonty](https://github.com/sunarch/libmonty)
+#### contacts
+
+- Mastodon: <a rel="me" href="https://fosstodon.org/@sunarch">sunarch</a> on [fosstodon.org](https://fosstodon.org)
+- email (see the GitHub profile)
+
+## personal projects
+
+in various stages of development, mostly in early ones
+
+### simulations and Art-Net
+
+- [libmonty: Art-Net](https://codeberg.org/sunarch/libmonty-artnet)
+- [libferroxid: Art-Net](https://codeberg.org/sunarch/libferroxid-artnet)
+- [quadrille](https://codeberg.org/sunarch/quadrille) - square grid simulations
+    - `cogol` - Conway's Game of Life
+    - `lants` - Langton Ants
+
+### GoToPub
+
+experimental GoToSocial and Fediverse client
+
+- [gotopub](https://codeberg.org/sunarch/gotopub) - in Rust, for CLI
+- [gotopub-py](https://codeberg.org/sunarch/gotopub-py)
+
+### continuations
+
+- [bookend](https://github.com/sunarch/bookend) - a book management tool
+
+### Firefox extensions
+
+- [Center Body](https://codeberg.org/sunarch/center-body)
+
+### small projects or prototypes
+
+- [enigmatic](https://codeberg.org/sunarch/enigmatic) - an Enigma emulator in C
+- [Found Terminal](https://codeberg.org/sunarch/found-terminal)
+- [glossanea](https://codeberg.org/sunarch/glossanea) - a language learning tool
+
+### Python
+
+- [Python package template](https://github.com/sunarch/template-python-package)
+
+
+- [libmonty](https://codeberg.org/sunarch/libmonty)
+- [libmonty-hexdump](https://codeberg.org/sunarch/libmonty-hexdump)
+- [libmonty-logging](https://codeberg.org/sunarch/libmonty-logging)
+- [libmonty-tools](https://codeberg.org/sunarch/libmonty-tools)
     - easypass
-    - hexer
     - soundboard
-- [libmonty: Art-Net](https://github.com/sunarch/libmonty-artnet)
-- [libmonty: esolangs](https://github.com/sunarch/libmonty-esolangs)
+
+### web projects
+
+- [webapps](https://sunarch.github.io/webapps/) - small tools and games
+    - planned dev: Next Best Guess
+- [OSPK](https://codeberg.org/sunarch/ospk) (collaboration in high school)
+
+### ideas with intent
+
+- [libferroxid-packets](https://codeberg.org/sunarch/libferroxid-packets) - internet packets
+- [moonscribe](https://codeberg.org/sunarch/moonscribe) - creative generator
+- [organizator](https://codeberg.org/sunarch/organizator)
+- [streetpaper](https://codeberg.org/sunarch/streetpaper) - newspaper distribution manager
+
+### esolangs
+
+- [esolangs](https://codeberg.org/sunarch/esolangs) - mainly ideas
     - EL comodo
     - EL montaje
     - GridRun
-- [moonscribe](https://github.com/sunarch/moonscribe)
-- [organizator](https://github.com/sunarch/organizator)
-- [quadrille](https://github.com/sunarch/quadrille)
-    - `cogol` - Conway's Game of Life
-    - `lants` - Langton Ants
-- [Python package template](https://github.com/sunarch/template-python-package)
 
-## C
+### personal
 
-- [enigmatic](https://github.com/sunarch/enigmatic)
+- [challenges](./challenges)
+- system files: [sunarch RC](https://codeberg.org/sunarch/sunarch-rc)
+- artistic project under the name [3Protocol](https://3protocol.com)
 
-## Rust
-
-- [libferroxid: Art-Net](https://github.com/sunarch/libferroxid-artnet)
-
-## Firefox extensions
-
-- [Center Body](https://github.com/sunarch/center-body)
-
-## misc.
-
-- [exploratory](https://github.com/sunarch/exploratory)
-- [resources](https://github.com/sunarch/resources)
-
-## personal
-
-- [sunarch RC](https://github.com/sunarch/sunarch-rc)
-
-## 3Protocol
-
-- [homepage](https://3protocol.github.io)
-- [scores](https://github.com/3Protocol/scores)
-
-## projects with others
-
-- SZAT: [Master Screen](https://github.com/szerepasztal-tarsasag/master-screen)
-- JandTech: [OSPK](https://github.com/JandTech/ospk)
