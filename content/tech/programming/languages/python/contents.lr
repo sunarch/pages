@@ -1,12 +1,86 @@
 title: Python
 ---
+_model: programming-language
+---
+homepage: https://www.python.org
+---
+docs: https://docs.python.org/3/
+---
+repository: https://github.com/python/cpython
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Python_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Python_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Python_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1991
+---
+latest_release: 3.12.1 (Dec 2023)
+---
+developer: Python Software Foundation
+---
+designed_by: Guido van Rossum
+---
+license: Python Software Foundation License
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 402
+---
+feature_adt: yes
+---
+feature_compiled: Python BC
+---
+feature_hacker: 1st
+---
+feature_hof: yes
+---
+feature_immutable: part
+---
+feature_jargon: yes
+---
+feature_static_typing: --
+---
+sum_rankings: 38
+---
+ranking_ieee_spectrum: 1 (1.0)
+---
+ranking_ieee_spectrum_jobs: 2 (0.8913)
+---
+ranking_ieee_spectrum_trending: 1 (1.0)
+---
+ranking_pypl: 1 (28.11 %)
+---
+ranking_redmonk: 2
+---
+ranking_stackoverflow_popular: 3 (49.28%)
+---
+ranking_stackoverflow_desired: 2
+---
+ranking_stackoverflow_paying: 25
+---
+ranking_tiobe: 1 (13.97%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/python/
+---
+sunarch: primary
+---
 body:
 
 - type: general
 - standard: yes
-- [homepage](https://www.python.org/)
-- [documentation](https://docs.python.org/3/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [entry in the Jargon File](http://www.catb.org/~esr/jargon/html/P/Python.html)
 
 ### description
 

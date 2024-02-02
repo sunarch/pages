@@ -1,13 +1,90 @@
 title: C
 ---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/C_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/C_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/C_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de: https://de.wikibooks.org/wiki/C-Programmierung
+---
+wikibooks_en: https://en.wikibooks.org/wiki/C_Programming
+---
+wikibooks_hu: https://hu.wikibooks.org/wiki/Programoz%C3%A1s_C_nyelven
+---
+family:
+---
+first_appeared: 1972
+---
+latest_release: C17 (Jun 2018)
+---
+developer: ISO/IEC JTC 1 / SC 22 / WG 14
+---
+designed_by: Dennis Ritchie
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 400
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_hacker: 3rd
+---
+feature_hof: --
+---
+feature_immutable:
+---
+feature_jargon: yes
+---
+feature_static_typing: yes
+---
+sum_rankings: 95
+---
+ranking_ieee_spectrum: 4 (0.4641)
+---
+ranking_ieee_spectrum_jobs: 7 (0.3048)
+---
+ranking_ieee_spectrum_trending: 7 (0.3497)
+---
+ranking_pypl: 4 (6.92 %) (w/C++)
+---
+ranking_redmonk: 10
+---
+ranking_stackoverflow_popular: 10 (19.34%)
+---
+ranking_stackoverflow_desired: 13
+---
+ranking_stackoverflow_paying: 38
+---
+ranking_tiobe: 2 (11.44%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/c/
+---
+sunarch: some
+---
 body:
 
 - type: low level
 - standard: yes
 
-- [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)
 - [ISO/IEC 9899:2018 - C](https://www.iso.org/standard/74528.html)
 - [JTC1/SC22/WG14 - C](http://www.open-std.org/jtc1/sc22/wg14/)
+- [Jargon File entry](http://www.catb.org/~esr/jargon/html/C/C.html)
+    - Jargon File entry for [Classic C](http://www.catb.org/~esr/jargon/html/C/Classic-C.html)
 
 ### description
 

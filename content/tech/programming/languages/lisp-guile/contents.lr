@@ -1,0 +1,80 @@
+title: Guile
+---
+_model: programming-language
+---
+homepage: https://www.gnu.org/software/guile/
+---
+docs: https://www.gnu.org/software/guile/manual/html_node/
+---
+repository: https://savannah.gnu.org/git/?group=guile
+---
+wikipedia_de: https://de.wikipedia.org/wiki/GNU_Guile
+---
+wikipedia_en: https://en.wikipedia.org/wiki/GNU_Guile
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family: Lisp
+---
+first_appeared: 1993
+---
+latest_release: 3.0.9 (Jan 2023)
+---
+developer: GNU Project
+---
+designed_by: Aubrey Jaffer, Tom Lord, Miles Bader
+---
+license: LGPL-3.0-or-later
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 435
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+

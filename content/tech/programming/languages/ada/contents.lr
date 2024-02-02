@@ -1,0 +1,82 @@
+title: Ada
+---
+_model: programming-language
+---
+homepage: https://www.adaic.org
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Ada_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Ada_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Ada_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Ada_Programming
+---
+wikibooks_hu:
+---
+family: Pascal
+---
+first_appeared: 1980
+---
+latest_release: Ada 2022 (2023)
+---
+developer:
+---
+designed_by: Jean Ichbiah, Tucker Taft
+---
+license: proprietary
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: (loss)
+---
+feature_static_typing:
+---
+sum_rankings: 283
+---
+ranking_ieee_spectrum: 36 (0.0107)
+---
+ranking_ieee_spectrum_jobs: 29 (0.0173)
+---
+ranking_ieee_spectrum_trending: 30 (0.0122)
+---
+ranking_pypl: 15 (1.08 %)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 42 (0.77%)
+---
+ranking_stackoverflow_desired: 42
+---
+ranking_stackoverflow_paying: 42
+---
+ranking_tiobe: 26 (0.62%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- standard exists
+- safety, maintainability, extra strong typing

@@ -1,0 +1,81 @@
+title: Elixir
+---
+_model: programming-language
+---
+homepage: https://elixir-lang.org
+---
+docs: https://elixir-lang.org/docs.html
+---
+repository: https://github.com/elixir-lang/elixir
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Elixir_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Elixir_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2012
+---
+latest_release: 1.16.0 (Dec 2023)
+---
+developer:
+---
+designed_by: José Valim
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 101
+---
+feature_adt:
+---
+feature_compiled: BEAM VM
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 264
+---
+ranking_ieee_spectrum: 33 (0.0116)
+---
+ranking_ieee_spectrum_jobs: 40 (0.0049)
+---
+ranking_ieee_spectrum_trending: 34 (0.0109)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 29 (2.32%)
+---
+ranking_stackoverflow_desired: 20
+---
+ranking_stackoverflow_paying: 6
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: tried
+---
+body:
+
+- on BEAN, the Erlang VM

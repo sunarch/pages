@@ -1,12 +1,85 @@
 title: CSS
 ---
+_model: programming-language
+---
+homepage: https://www.w3.org/TR/CSS/
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Cascading_Style_Sheets
+---
+wikipedia_en: https://en.wikipedia.org/wiki/CSS
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/CSS
+---
+wikibooks_de: https://de.wikibooks.org/wiki/Websiteentwicklung:_CSS
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Cascading_Style_Sheets
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1996
+---
+latest_release: CSS 3
+---
+developer: World Wide Web Consortium (W3C)
+---
+designed_by:
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 162
+---
+ranking_ieee_spectrum: 10 (0.1390) (HTML)
+---
+ranking_ieee_spectrum_jobs: 8 (0.2978) (HTML)
+---
+ranking_ieee_spectrum_trending: 8 (0.2020) (HTML)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: 6
+---
+ranking_stackoverflow_popular: 2 (52.97%) (w/HTML)
+---
+ranking_stackoverflow_desired: 4 (w/HTML)
+---
+ranking_stackoverflow_paying: 43 (w/HTML)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: web
+---
 body:
 
 - type: style
 - standard: yes
-- [homepage](https://www.w3.org/TR/CSS/)
-
-- [Wikipedia](https://en.wikipedia.org/wiki/CSS)
 
 # other
 

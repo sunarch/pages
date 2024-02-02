@@ -1,0 +1,106 @@
+title: Clojure
+---
+_model: programming-language
+---
+homepage: https://clojure.org
+---
+docs: http://clojure-doc.org
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Clojure
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Clojure
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Clojure_Programming
+---
+wikibooks_hu:
+---
+family: Lisp
+---
+first_appeared: 2007
+---
+latest_release: 1.11.1 (April 2022)
+---
+developer:
+---
+designed_by: Rich Hickey
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 101
+---
+feature_adt:
+---
+feature_compiled: Java VM
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 275
+---
+ranking_ieee_spectrum: 31 (0.0122)
+---
+ranking_ieee_spectrum_jobs: 45 (0.0011)
+---
+ranking_ieee_spectrum_trending: 28 (0.0147)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 35 (1.26%)
+---
+ranking_stackoverflow_desired: 29
+---
+ranking_stackoverflow_paying: 5
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: plan
+---
+body:
+
+- type: other
+- standard: unknown
+
+### description
+
+a [Lisp](lisp.md) dialect
+
+### other
+
+- [Leiningen](https://leiningen.org/)
+
+# IDE
+
+## [Cursive](https://cursive-ide.com/) (IntelliJ IDEA plugin)
+
+- "The IDE for beautiful Clojure(Script) code"
+
+# other implementations
+
+## ClojureScript
+
+- website: [clojurescript.org](https://clojurescript.org/)
+
+# forum entries
+
+- StackOverflow: [Clojure, can macros do something that couldn't be done with a function](https://stackoverflow.com/questions/43973727/clojure-can-macros-do-something-that-couldnt-be-done-with-a-function)

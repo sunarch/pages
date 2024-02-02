@@ -1,0 +1,82 @@
+title: Swift
+---
+_model: programming-language
+---
+homepage: https://swift.org
+---
+docs: https://swift.org/documentation/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Swift_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Swift_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Swift_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2014
+---
+latest_release: 5.9.2 (Dec 2023)
+---
+developer: Apple Inc. and open-source contributors
+---
+designed_by: Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.
+---
+license: Apache License 2.0
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 400
+---
+feature_adt: yes
+---
+feature_compiled: yes
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 136
+---
+ranking_ieee_spectrum: 16 (0.0629)
+---
+ranking_ieee_spectrum_jobs: 18 (0.0638)
+---
+ranking_ieee_spectrum_trending: 14 (0.0707)
+---
+ranking_pypl: 9 (2.75 %)
+---
+ranking_redmonk: 11
+---
+ranking_stackoverflow_popular: 20 (4.65%)
+---
+ranking_stackoverflow_desired: 17
+---
+ranking_stackoverflow_paying: 15
+---
+ranking_tiobe: 16 (0.89%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/swift/
+---
+sunarch:
+---
+body:
+
+- corporate by Apple
+- [Apple Developer - Swift](https://developer.apple.com/swift/)

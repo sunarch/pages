@@ -1,0 +1,32 @@
+title: YAML
+---
+_model: tech-project
+---
+homepage: https://yaml.org
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/YAML
+---
+wikipedia_en: https://en.wikipedia.org/wiki/YAML
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+category:
+---
+body:
+
+- [Online YAML Tools](https://onlineyamltools.com)
+- [Markdown & YAML cheat sheet](https://learntheweb.courses/topics/markdown-yaml-cheat-sheet/#yaml)

@@ -1,13 +1,87 @@
 title: LaTeX
 ---
+_model: programming-language
+---
+homepage: https://www.latex-project.org
+---
+docs:
+---
+repository: https://github.com/latex3/latex2e
+---
+wikipedia_de: https://de.wikipedia.org/wiki/LaTeX
+---
+wikipedia_en: https://en.wikipedia.org/wiki/LaTeX
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/LaTeX
+---
+wikibooks_de: https://de.wikibooks.org/wiki/LaTeX-Kompendium
+---
+wikibooks_en: https://en.wikibooks.org/wiki/LaTeX
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1984
+---
+latest_release: (Nov 2023)
+---
+developer:
+---
+designed_by: Leslie Lamport
+---
+license: LaTeX Project Public License (LPPL)
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 435
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl:  n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: some
+---
 body:
 
 - type: descriptor
 - standard: unknown
-- [homepage](https://www.latex-project.org/)
 
-- [Wikipedia](https://en.wikipedia.org/wiki/LaTeX)
-- [Wikibooks](https://en.wikibooks.org/wiki/LaTeX)
+- Jargon File entry on [TeX](http://www.catb.org/~esr/jargon/html/T/TeX.html)
 
 ### KOMA-Script
 

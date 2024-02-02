@@ -1,12 +1,85 @@
 title: Rust
 ---
+_model: programming-language
+---
+homepage: https://www.rust-lang.org
+---
+docs: https://www.rust-lang.org/learn
+---
+repository: https://github.com/rust-lang/rust
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Rust_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Rust_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Rust_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2015
+---
+latest_release: 1.75.0 (Dec 2023)
+---
+developer: Rust Foundation
+---
+designed_by: Graydon Hoare
+---
+license: MIT and Apache 2.0
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 500
+---
+feature_adt: yes
+---
+feature_compiled: yes
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable: yes
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 148
+---
+ranking_ieee_spectrum: 18 (0.0576)
+---
+ranking_ieee_spectrum_jobs: 30 (0.0162)
+---
+ranking_ieee_spectrum_trending: 17 (0.0510)
+---
+ranking_pypl: 11 (2.23 %)
+---
+ranking_redmonk: 19
+---
+ranking_stackoverflow_popular: 14 (13.05%)
+---
+ranking_stackoverflow_desired: 6
+---
+ranking_stackoverflow_paying: 14
+---
+ranking_tiobe: 19 (0.79%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/rust/
+---
+sunarch: some
+---
 body:
 
 - type: general
 - standard: unknown
-- [homepage](https://www.rust-lang.org/)
-- [documentation](https://doc.rust-lang.org/std/index.html)
-- [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 ### description
 

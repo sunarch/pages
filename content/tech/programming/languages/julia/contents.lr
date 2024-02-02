@@ -1,0 +1,81 @@
+title: Julia
+---
+_model: programming-language
+---
+homepage: https://julialang.org
+---
+docs: https://docs.julialang.org/en/v1/
+---
+repository: https://github.com/JuliaLang/julia
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Julia_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Julia_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2012
+---
+latest_release: 1.10.0 (Dec 2023)
+---
+developer: Jeff Bezanson, Stefan Karpinski, Viral B. Shah, et al.
+---
+designed_by: Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah
+---
+license: MIT
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 288
+---
+ranking_ieee_spectrum: 30 (0.0146)
+---
+ranking_ieee_spectrum_jobs: 42 (0.0034)
+---
+ranking_ieee_spectrum_trending: 42 (0.0073)
+---
+ranking_pypl: 23 (0.56 %)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 36 (1.15%)
+---
+ranking_stackoverflow_desired: 26
+---
+ranking_stackoverflow_paying: 35
+---
+ranking_tiobe: 33 (0.40%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- designed for statistical and scientific computing

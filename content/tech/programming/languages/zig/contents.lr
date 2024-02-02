@@ -1,13 +1,86 @@
 title: Zig
 ---
+_model: programming-language
+---
+homepage: https://ziglang.org
+---
+docs: https://ziglang.org/documentation/master/
+---
+repository: https://github.com/ziglang/zig
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Zig_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Zig_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2016
+---
+latest_release: 0.11.0 (Aug 2023)
+---
+developer:
+---
+designed_by: Andrew Kelley
+---
+license: MIT
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 200
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 343
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 41 (0.83%)
+---
+ranking_stackoverflow_desired: 22
+---
+ranking_stackoverflow_paying: 1
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: tried
+---
 body:
 
 - type: low level
 - standard: no
 
-- [homepage](https://ziglang.org)
-- [Wikipedia](https://en.wikipedia.org/wiki/Shell_script)
-- documentation of [master](https://ziglang.org/documentation/master/)
 - forum: [Ziggit](https://ziggit.dev)
 - [Zig.News](https://zig.news) (built on Forem)
 

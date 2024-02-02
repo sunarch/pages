@@ -1,11 +1,85 @@
 title: shell scripts
 ---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Shellskript
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Shell_script
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+latest_release:
+---
+developer:
+---
+designed_by:
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 156
+---
+ranking_ieee_spectrum: 12 (0.1286)
+---
+ranking_ieee_spectrum_jobs: 9 (0.2547)
+---
+ranking_ieee_spectrum_trending: 11 (0.1420)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: 12
+---
+ranking_stackoverflow_popular: 6 (32.37%)
+---
+ranking_stackoverflow_desired: 8
+---
+ranking_stackoverflow_paying: 17
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: some
+---
 body:
 
 - type: scripting
 - standard: no
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Shell_script)
 
 # Unix shells
 
@@ -46,14 +120,14 @@ Measure-Command { .\script.ps1 | Out-Default }
 ```
 wget --wait=2 \
      --level=inf \
-	 --limit-rate=20K \
-	 --recursive \
-	 --page-requisites \
-	 --user-agent=Mozilla \
-	 --no-parent \
-	 --convert-links \
-	 --adjust-extension \
-	 --no-clobber \
-	 -e robots=off \
-	 https://example.com
+     --limit-rate=20K \
+     --recursive \
+     --page-requisites \
+     --user-agent=Mozilla \
+     --no-parent \
+     --convert-links \
+     --adjust-extension \
+     --no-clobber \
+     -e robots=off \
+     https://example.com
 ```

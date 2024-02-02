@@ -1,0 +1,81 @@
+title: Lua
+---
+_model: programming-language
+---
+homepage: https://www.lua.org
+---
+docs: https://www.lua.org/docs.html
+---
+repository: https://www.lua.org/source/
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Lua
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Lua_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Lua_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1993
+---
+latest_release: 5.4.6 (May 2023)
+---
+developer:
+---
+designed_by: Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo
+---
+license: MIT License
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled: --
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 253
+---
+ranking_ieee_spectrum: 26 (0.0225)
+---
+ranking_ieee_spectrum_jobs: 46 (0.0011)
+---
+ranking_ieee_spectrum_trending: 46 (0.0063)
+---
+ranking_pypl: 20 (0.85 %)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 17 (6.09%)
+---
+ranking_stackoverflow_desired: 19
+---
+ranking_stackoverflow_paying: 22
+---
+ranking_tiobe: 36 (0.37%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- embeddable extension language

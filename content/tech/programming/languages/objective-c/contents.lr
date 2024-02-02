@@ -1,0 +1,81 @@
+title: Objective-C
+---
+_model: programming-language
+---
+homepage:
+---
+docs: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+---
+repository:
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Objective-C
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Objective-C_Programming
+---
+wikibooks_hu:
+---
+family: C
+---
+first_appeared: 1984
+---
+latest_release: 2.0
+---
+developer:
+---
+designed_by: Tom Love and Brad Cox
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 211
+---
+ranking_ieee_spectrum: 25 (0.0271)
+---
+ranking_ieee_spectrum_jobs: 23 (0.0410)
+---
+ranking_ieee_spectrum_trending: 25 (0.0286)
+---
+ranking_pypl: 10 (2.37 %)
+---
+ranking_redmonk: 16
+---
+ranking_stackoverflow_popular: 30 (2.31%)
+---
+ranking_stackoverflow_desired: 39
+---
+ranking_stackoverflow_paying: 12
+---
+ranking_tiobe: 31 (0.46%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- corporate by Apple, replaced by Swift

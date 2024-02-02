@@ -1,0 +1,81 @@
+title: LabView
+---
+_model: programming-language
+---
+homepage: https://www.ni.com/labview
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/LabVIEW
+---
+wikipedia_en: https://en.wikipedia.org/wiki/LabVIEW
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1986
+---
+latest_release: LabVIEW 2023 Q3 (Jul 2023)
+---
+developer: National Instruments
+---
+designed_by:
+---
+license: proprietary
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 364
+---
+ranking_ieee_spectrum: 41 (0.0091)
+---
+ranking_ieee_spectrum_jobs: 26 (0.0233)
+---
+ranking_ieee_spectrum_trending: 39 (0.0089)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+> Laboratory Virtual Instrument Engineering Workbench

@@ -1,16 +1,92 @@
-title: Lisp
+title: LISP
+---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Lisp
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Lisp_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1960
+---
+latest_release:
+---
+developer: Steve Russell, Timothy P. Hart, Mike Levin
+---
+designed_by: John McCarthy
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 200
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: 2nd
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: yes
+---
+feature_static_typing: --
+---
+sum_rankings: 310
+---
+ranking_ieee_spectrum: 49 (0.0048)
+---
+ranking_ieee_spectrum_jobs: 50 (0.0003)
+---
+ranking_ieee_spectrum_trending: 48 (0.0036)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 33 (1.53%)
+---
+ranking_stackoverflow_desired: 30
+---
+ranking_stackoverflow_paying: 7
+---
+ranking_tiobe: 42 (0.28%)
+---
+ranking_tiobe_url:
+---
+sunarch:
 ---
 body:
 
+> LISt Processing language
+
 - type: list
 - standard: yes
-- homepage ..
-- documentation ..
-- [Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [entry in the Jargon File](http://www.catb.org/~esr/jargon/html/L/LISP.html)
 
 ## [people](../people.md)
 - John McCarthy
-    - [Lisp.org](https://lisp.org/)
+    - [Lisp.org](https://lisp.org)
 - Paul Graham
     - [Lisp on homepage](http://www.paulgraham.com/lisp.html)
 
@@ -18,9 +94,9 @@ body:
 
 - Common Lisp
 - Scheme
-    - [Racket](racket.md)
+    - [Racket](./racket)
     - [High School Computing: The Inside Story](http://www.trollope.org/scheme.html)
-- [Clojure](clojure.md)
+- [Clojure](./clojure)
 - Hy
     - Wikipedia: [Hy](https://en.wikipedia.org/wiki/Hy)
 

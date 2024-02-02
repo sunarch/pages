@@ -1,12 +1,85 @@
 title: HTML
 ---
+_model: programming-language
+---
+homepage: https://html.spec.whatwg.org
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Hypertext_Markup_Language
+---
+wikipedia_en: https://en.wikipedia.org/wiki/HTML
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/HTML
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1993
+---
+latest_release: Living Standard
+---
+developer: W3C / WHATWG
+---
+designed_by:
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt: N/A
+---
+feature_compiled: N/A
+---
+feature_hacker: N/A
+---
+feature_hof: N/A
+---
+feature_immutable: N/A
+---
+feature_jargon: N/A
+---
+feature_static_typing: N/A
+---
+sum_rankings: 162
+---
+ranking_ieee_spectrum: 10 (0.1390)
+---
+ranking_ieee_spectrum_jobs: 8 (0.2978)
+---
+ranking_ieee_spectrum_trending: 8 (0.2020)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: 6 (CSS)
+---
+ranking_stackoverflow_popular: 2 (52.97%) (w/CSS)
+---
+ranking_stackoverflow_desired: 4 (w/CSS)
+---
+ranking_stackoverflow_paying: 43 (w/CSS)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: web
+---
 body:
 
 - type: markup
 - standard: yes
-- [homepage](https://html.spec.whatwg.org/)
-
-- [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 ### description
 

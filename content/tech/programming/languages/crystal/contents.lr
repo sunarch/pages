@@ -1,0 +1,79 @@
+title: Crystal
+---
+_model: programming-language
+---
+homepage: https://crystal-lang.org
+---
+docs: https://crystal-lang.org/reference/1.11/
+---
+repository: https://github.com/crystal-lang/crystal
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Crystal_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Crystal_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2014
+---
+latest_release: 1.11.2 (Jan 2024)
+---
+developer: Manas Technology Solutions
+---
+designed_by: Ary Borenszweig, Juan Wajnerman, Brian Cardiff
+---
+license: Apache License 2.0
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 397
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 47 (0.44%)
+---
+ranking_stackoverflow_desired: 43
+---
+ranking_stackoverflow_paying: 28
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:

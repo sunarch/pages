@@ -1,0 +1,82 @@
+title: MIT/GNU Scheme
+---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/MIT/GNU_Scheme
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1979
+---
+latest_release: 11.2 (Mar 2021)
+---
+developer: MIT
+---
+designed_by: Chris Hanson, Guillermo J. Rozas, Taylor R. Campbell, Stephen Adams, Matt Birkholz, Arthur A. Gleckler, Joe Marshall, Brian A. LaMacchia, Mark Friedman, Henry M. Wu
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 420
+---
+ranking_ieee_spectrum: 52 (0.0013) (as Scheme)
+---
+ranking_ieee_spectrum_jobs: 56 (as Scheme)
+---
+ranking_ieee_spectrum_trending: 54 (0.0006) (as Scheme)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- GNU/FSF homepage: [gnu.org](https://www.gnu.org/software/mit-scheme/)
+

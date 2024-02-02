@@ -1,0 +1,83 @@
+title: Verilog
+---
+_model: programming-language
+---
+homepage:
+---
+docs: https://ieeexplore.ieee.org/document/5985443
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Verilog
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Verilog
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Verilog
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Programmable_Logic/Verilog
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1984
+---
+latest_release:
+---
+developer: IEEE
+---
+designed_by: Prabhu Goel, Phil Moorby and Chi-Lai Huang
+---
+license:
+---
+category: deprecated
+---
+comparison_include: false
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 342
+---
+ranking_ieee_spectrum: 28 (0.0176)
+---
+ranking_ieee_spectrum_jobs: 27 (0.0204)
+---
+ranking_ieee_spectrum_trending: 29 (0.0147)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- hardware description language
+- IEEE 1364 standard
+- basis of the more recent and extended [SystemVerilog](../verilog-system) (IEEE 1800)

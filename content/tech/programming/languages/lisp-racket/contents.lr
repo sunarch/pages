@@ -1,0 +1,94 @@
+title: Racket
+---
+_model: programming-language
+---
+homepage: https://racket-lang.org
+---
+docs: https://docs.racket-lang.org
+---
+repository: https://github.com/racket/racket
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Racket_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Racket_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1995
+---
+latest_release: 8.11.1 (Nov 2023)
+---
+developer: PLT Inc.
+---
+designed_by: PLT Inc.
+---
+license: MIT or Apache 2.0
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 101
+---
+feature_adt: yes
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable: part
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 420
+---
+ranking_ieee_spectrum: 52 (0.0013) (as Scheme)
+---
+ranking_ieee_spectrum_jobs: 56 (as Scheme)
+---
+ranking_ieee_spectrum_trending: 54 (0.0006) (as Scheme)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: some
+---
+body:
+
+- type: list
+- standard: unknown
+
+## resources
+
+- [Beautiful Racket](https://beautifulracket.com/)
+    - an introduction to language-oriented programming using Racket
+    - by Matthew Butterick
+
+## lang design
+
+- PLT submision to the 2016 language workbench challenge
+    - package: [lwc2016](https://pkgd.racket-lang.org/pkgn/package/lwc2016)
+    - GitHub: [dfeltey/lwc2016](https://github.com/dfeltey/lwc2016)

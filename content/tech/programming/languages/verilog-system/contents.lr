@@ -1,0 +1,83 @@
+title: SystemVerilog
+---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/SystemVerilog
+---
+wikipedia_en: https://en.wikipedia.org/wiki/SystemVerilog
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2002
+---
+latest_release: IEEE 1800-2023 (Dec 2023)
+---
+developer: IEEE
+---
+designed_by: Synopsys, later IEEE
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 342
+---
+ranking_ieee_spectrum: 28 (0.0176) (Verilog)
+---
+ranking_ieee_spectrum_jobs: 27 (0.0204) (Verilog)
+---
+ranking_ieee_spectrum_trending: 29 (0.0147) (Verilog)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- hardware description language
+- IEEE 1800 standard
+- based on [Verilog](../verilog) (IEEE 1364)

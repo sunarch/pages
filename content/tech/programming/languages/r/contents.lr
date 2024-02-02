@@ -1,0 +1,81 @@
+title: R
+---
+_model: programming-language
+---
+homepage: https://www.r-project.org
+---
+docs: https://cran.r-project.org/manuals.html
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/R_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/R_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/R_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de: https://de.wikibooks.org/wiki/GNU_R
+---
+wikibooks_en: https://en.wikibooks.org/wiki/R_Programming
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1993
+---
+latest_release: 4.3.2 (Oct 2023)
+---
+developer: R Core Team
+---
+designed_by: Ross Ihaka, Robert Gentleman
+---
+license: GNU GPL v2
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 163
+---
+ranking_ieee_spectrum: 11 (0.1316)
+---
+ranking_ieee_spectrum_jobs: 17 (0.0685)
+---
+ranking_ieee_spectrum_trending: 13 (0.1080)
+---
+ranking_pypl: 6 (4.75 %)
+---
+ranking_redmonk: 12
+---
+ranking_stackoverflow_popular: 21 (4.23%)
+---
+ranking_stackoverflow_desired: 24
+---
+ranking_stackoverflow_paying: 36
+---
+ranking_tiobe: 23 (0.74%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- statistical computation

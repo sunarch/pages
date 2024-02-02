@@ -1,0 +1,80 @@
+title: Arc
+---
+_model: programming-language
+---
+homepage: http://arclanguage.org
+---
+docs: http://www.arclanguage.org/tut.txt
+---
+repository:
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Arc_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family: Lisp
+---
+first_appeared: 2008
+---
+latest_release: 3.2 (Oct 2018)
+---
+developer: Paul Graham, Robert Morris, Arc community
+---
+designed_by: Paul Graham
+---
+license: Artistic License 2.0
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 435
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+

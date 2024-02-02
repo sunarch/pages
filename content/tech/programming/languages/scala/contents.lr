@@ -1,0 +1,82 @@
+title: Scala
+---
+_model: programming-language
+---
+homepage: https://www.scala-lang.org
+---
+docs: https://docs.scala-lang.org
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Scala_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Scala_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Scala
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2004
+---
+latest_release: 2.13.12 (Sep 2023)
+---
+developer: Programming Methods Laboratory of École Polytechnique Fédérale de Lausanne
+---
+designed_by: Martin Odersky
+---
+license: Apache 2.0
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 301
+---
+feature_adt: yes
+---
+feature_compiled: Java VM
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable: yes
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 194
+---
+ranking_ieee_spectrum: 21 (0.0449)
+---
+ranking_ieee_spectrum_jobs: 19 (0.0585)
+---
+ranking_ieee_spectrum_trending: 22 (0.0390)
+---
+ranking_pypl: 21 (0.59 %)
+---
+ranking_redmonk: 14
+---
+ranking_stackoverflow_popular: 27 (2.77%)
+---
+ranking_stackoverflow_desired: 25
+---
+ranking_stackoverflow_paying: 8
+---
+ranking_tiobe: 37 (0.34%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- standard exists
+- runs on Java platform (different ideologies)

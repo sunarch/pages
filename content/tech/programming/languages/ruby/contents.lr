@@ -1,0 +1,86 @@
+title: Ruby
+---
+_model: programming-language
+---
+homepage: https://www.ruby-lang.org/en/
+---
+docs: https://www.ruby-lang.org/en/documentation/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Ruby_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Ruby_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Ruby_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1995
+---
+latest_release: 3.3.0 (Dec 2023)
+---
+developer: Yukihiro Matsumoto, et al.
+---
+designed_by: Yukihiro Matsumoto
+---
+license: Ruby License
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 134
+---
+ranking_ieee_spectrum: 14 (0.0680)
+---
+ranking_ieee_spectrum_jobs: 20 (0.0555)
+---
+ranking_ieee_spectrum_trending: 18 (0.0507)
+---
+ranking_pypl: 17 (0.98 %)
+---
+ranking_redmonk: 9
+---
+ranking_stackoverflow_popular: 16 (6.23%)
+---
+ranking_stackoverflow_desired: 18
+---
+ranking_stackoverflow_paying: 4
+---
+ranking_tiobe: 18 (0.80%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/ruby/
+---
+sunarch:
+---
+body:
+
+- OO, scripting, productivity
+- web framework: Ruby on Rails
+- framework: [Jekyll](https://jekyllrb.com/)
+    - "Transform your plain text into static websites and blogs."
+    - info pages:
+        - DigitalOcean - [How To Control URLs and Links in Jekyll](https://www.digitalocean.com/community/tutorials/how-to-control-urls-and-links-in-jekyll)

@@ -1,0 +1,202 @@
+{% extends 'base-page.html' %}
+
+{% block template_styles %}
+<link rel="stylesheet" href="{{ '/static/css/proglangs.css' | asseturl }}">
+{% endblock %}
+
+{% block title %}{{ this.title }}{% if this.category == 'deprecated' %} (deprecated){% endif %}{% endblock %}
+
+{% block content %}
+    <table style="display: table; width: 100%; margin-bottom: 20pt;">
+        <tbody>
+            {% if this.homepage | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Homepage</td>
+                <td><a target="_blank" href="{{ this.homepage }}">{{ this.homepage | replace("https://", "") }}</a></td>
+            </tr>
+            {% endif %}
+            {% if this.docs | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Documentation</td>
+                <td><a target="_blank" href="{{ this.docs }}">{{ this.docs | replace("https://", "") }}</a></td>
+            </tr>
+            {% endif %}
+            {% if this.repository | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Repository</td>
+                <td><a target="_blank" href="{{ this.repository }}">{{ this.repository | replace("https://", "") }}</a></td>
+            </tr>
+            {% endif %}
+            {% if this.wikipedia_en | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Wikipedia</td>
+                <td>
+                    {% if this.wikipedia_de | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikipedia_de }}">Deutsch</a> ]
+                    {% endif %}
+                    {% if this.wikipedia_en | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikipedia_en }}">English</a> ]
+                    {% endif %}
+                    {% if this.wikipedia_hu | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikipedia_hu }}">Magyar</a> ]
+                    {% endif %}
+                </td>
+            </tr>
+            {% endif %}
+            {% if this.wikibook_en | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Wikibooks</td>
+                <td>
+                    {% if this.wikibooks_de | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikibooks_de }}">Deutsch</a> ]
+                    {% endif %}
+                    {% if this.wikibook_en | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikibook_en }}">English</a> ]
+                    {% endif %}
+                    {% if this.wikibook_hu | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikibook_hu }}">Magyar</a> ]
+                    {% endif %}
+                </td>
+            </tr>
+            {% endif %}
+            {% if this.first_appeared | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">First appeared</td>
+                <td>{{ this.first_appeared }} ({{ 2024 - this.first_appeared }} years)</td>
+            </tr>
+            {% endif %}
+            {% if this.latest_release | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Latest release</td>
+                <td>{{ this.latest_release }}</td>
+            </tr>
+            {% endif %}
+            {% if this.designed_by | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Designed by</td>
+                <td>{{ this.designed_by }}</td>
+            </tr>
+            {% endif %}
+            {% if this.developer | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Developer</td>
+                <td>{{ this.developer }}</td>
+            </tr>
+            {% endif %}
+            {% if this.family | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Language family</td>
+                <td>{{ this.family }}</td>
+            </tr>
+            {% endif %}
+            {% if this.license | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">License</td>
+                <td>{{ this.license }}</td>
+            </tr>
+            {% endif %}
+        </tbody>
+    </table>
+    {{ this.body }}
+    <h2>Comparison values</h2>
+    <table style="display: table; width: 100%; margin-bottom: 20pt;">
+        <tbody>
+            <tr>
+                <td style="font-weight: bold;">Score</td>
+                <td>{{ this.comparison_score }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>Features</h3>
+    <table style="display: table; width: 100%; margin-bottom: 20pt;">
+        <tbody>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.adt.link_url') }}">{{ bag('proglang_features.adt.description') }}</a></td>
+                <td>{{ this.feature_adt }}</td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.compiled.link_url') }}">{{ bag('proglang_features.compiled.description') }}</a></td>
+                <td>{{ this.feature_compiled }}</td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.hof.link_url') }}">{{ bag('proglang_features.hof.description') }}</a></td>
+                <td>{{ this.feature_hof }}</td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.immutable.link_url') }}">{{ bag('proglang_features.immutable.description') }}</a></td>
+                <td>{{ this.feature_immutable }}</td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.static_typing.link_url') }}">{{ bag('proglang_features.static_typing.description') }}</a></td>
+                <td>{{ this.feature_static_typing }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>References</h3>
+    <table style="display: table; width: 100%; margin-bottom: 20pt;">
+        <tbody>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.hacker.link_url') }}">{{ bag('proglang_features.hacker.description') }}</a></td>
+                <td>{{ this.feature_hacker }}</td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_features.jargon.link_url') }}">{{ bag('proglang_features.jargon.description') }}</a></td>
+                <td>{{ this.feature_jargon }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>Rankings</h3>
+    <table style="display: table; width: 100%; margin-bottom: 20pt;">
+        <tbody>
+            <tr>
+                <td style="font-weight: bold;">Sum</td>
+                <td colspan="2">{{ this.sum_rankings }}</td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.ieee_spectrum.general_url') }}">{{ bag('proglang_rankings.ieee_spectrum.description') }}</a></td>
+                <td>{{ this.ranking_ieee_spectrum }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.ieee_spectrum.latest_url') }}">{{ bag('proglang_rankings.ieee_spectrum.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.ieee_spectrum_jobs.general_url') }}">{{ bag('proglang_rankings.ieee_spectrum_jobs.description') }}</a></td>
+                <td>{{ this.ranking_ieee_spectrum_jobs }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.ieee_spectrum_jobs.latest_url') }}">{{ bag('proglang_rankings.ieee_spectrum_jobs.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.ieee_spectrum_trending.general_url') }}">{{ bag('proglang_rankings.ieee_spectrum_trending.description') }}</a></td>
+                <td>{{ this.ranking_ieee_spectrum_trending }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.ieee_spectrum_trending.latest_url') }}">{{ bag('proglang_rankings.ieee_spectrum_trending.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.pypl.general_url') }}">{{ bag('proglang_rankings.pypl.description') }}</a></td>
+                <td>{{ this.ranking_pypl }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.pypl.latest_url') }}">{{ bag('proglang_rankings.pypl.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.redmonk.general_url') }}">{{ bag('proglang_rankings.redmonk.description') }}</a></td>
+                <td>{{ this.ranking_redmonk }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.redmonk.latest_url') }}">{{ bag('proglang_rankings.redmonk.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.stackoverflow_popular.general_url') }}">{{ bag('proglang_rankings.stackoverflow_popular.description') }}</a></td>
+                <td>{{ this.ranking_stackoverflow_popular }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.stackoverflow_popular.latest_url') }}">{{ bag('proglang_rankings.stackoverflow_popular.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.stackoverflow_desired.general_url') }}">{{ bag('proglang_rankings.stackoverflow_desired.description') }}</a></td>
+                <td>{{ this.ranking_stackoverflow_desired }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.stackoverflow_desired.latest_url') }}">{{ bag('proglang_rankings.stackoverflow_desired.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.stackoverflow_paying.general_url') }}">{{ bag('proglang_rankings.stackoverflow_paying.description') }}</a></td>
+                <td>{{ this.ranking_stackoverflow_paying }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.stackoverflow_paying.latest_url') }}">{{ bag('proglang_rankings.stackoverflow_paying.latest') }}</a></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;"><a target="_blank" href="{{ bag('proglang_rankings.tiobe.general_url') }}">{{ bag('proglang_rankings.tiobe.description') }}</a></td>
+                <td>{{ this.ranking_tiobe }}</td>
+                <td><a target="_blank" href="{{ bag('proglang_rankings.tiobe.latest_url') }}">{{ bag('proglang_rankings.tiobe.latest') }}</td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}

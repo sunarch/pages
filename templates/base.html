@@ -5,7 +5,10 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 <html lang="en-US">
-{% include "includes/head.html" %}
+<head>
+    {% include "includes/head.html" %}
+    {% block template_styles %}{% endblock %}
+</head>
 <body onLoad="eh_load_body();">
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">

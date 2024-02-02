@@ -1,0 +1,81 @@
+title: APL
+---
+_model: programming-language
+---
+homepage: https://aplwiki.com
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/APL_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/APL_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/APL
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1966
+---
+latest_release:
+---
+developer: Larry Breed, Dick Lathwell, Roger Moore and others
+---
+designed_by: Kenneth E. Iverson
+---
+license: mixed
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 402
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 49 (0.26%)
+---
+ranking_stackoverflow_desired: 47
+---
+ranking_stackoverflow_paying: 27
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- math, spreadsheets, w/ special graphic symbols

@@ -1,0 +1,81 @@
+title: Hy
+---
+_model: programming-language
+---
+homepage: https://hylang.org
+---
+docs: https://docs.hylang.org/en/stable/
+---
+repository: https://github.com/hylang/hy
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Hy
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2013
+---
+latest_release: 0.28.0 (Jan 2024)
+---
+developer: Hy Core team
+---
+designed_by: Paul Tagliamonte
+---
+license: MIT-style
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 1
+---
+feature_adt:
+---
+feature_compiled: Python BC
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 435
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch: tried
+---
+body:
+
+> Hy is a Lisp dialect that's embedded in Python.

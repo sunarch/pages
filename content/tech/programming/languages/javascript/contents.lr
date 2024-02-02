@@ -1,11 +1,86 @@
 title: JavaScript
 ---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/JavaScript
+---
+wikipedia_en: https://en.wikipedia.org/wiki/JavaScript
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/JavaScript
+---
+wikibooks_de: https://de.wikibooks.org/wiki/Websiteentwicklung:_JavaScript
+---
+wikibooks_en: https://en.wikibooks.org/wiki/JavaScript
+---
+wikibooks_hu: https://hu.wikibooks.org/wiki/Java_Script
+---
+family:
+---
+first_appeared: 1995
+---
+latest_release: ECMAScript 2021 (Jun 2021)
+---
+developer:
+---
+designed_by: Brendan Eich of Netscape, then others
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 200
+---
+feature_adt:
+---
+feature_compiled: --
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable: new
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 63
+---
+ranking_ieee_spectrum: 5 (0.4638)
+---
+ranking_ieee_spectrum_jobs: 4 (0.5514)
+---
+ranking_ieee_spectrum_trending: 3 (0.5540)
+---
+ranking_pypl: 3 (8.57 %)
+---
+ranking_redmonk: 1
+---
+ranking_stackoverflow_popular: 1 (63.61%)
+---
+ranking_stackoverflow_desired: 1
+---
+ranking_stackoverflow_paying: 39
+---
+ranking_tiobe: 6 (2.77%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/javascript/
+---
+sunarch: web
+---
 body:
 
 - type: general
 - standard: yes
 
-- [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 - [W3Schools tutorial](https://www.w3schools.com/js/default.asp)
 - [ECMA-262 - ECMAScript® 2021 language specification](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 

@@ -1,0 +1,79 @@
+title: Raku
+---
+_model: programming-language
+---
+homepage: https://raku.org
+---
+docs: https://docs.raku.org
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Raku_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Raku_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family: Perl
+---
+first_appeared: 2015
+---
+latest_release: 6.d 'Diwali'(Oct 2020)
+---
+developer: Raku community
+---
+designed_by: Larry Wall
+---
+license: GNU GPL or Artistic License 2
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 395
+---
+ranking_ieee_spectrum: 58
+---
+ranking_ieee_spectrum_jobs: 52
+---
+ranking_ieee_spectrum_trending: 58
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 51 (0.18%)
+---
+ranking_stackoverflow_desired: 50
+---
+ranking_stackoverflow_paying: 24
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:

@@ -1,0 +1,87 @@
+title: V
+---
+_model: programming-language
+---
+homepage: https://vlang.io
+---
+docs:
+---
+repository: https://github.com/vlang/v
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/V_(programming_language)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2019
+---
+latest_release: 0.4.4 (Jan 2024)
+---
+developer:
+---
+designed_by: Alexander Medvednikov
+---
+license: MIT
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 500
+---
+feature_adt: yes
+---
+feature_compiled: yes
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable: yes
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 435
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+### l-m
+
+- language contributor
+- homepage: [l-m.dev](https://l-m.dev)
+- YouTube: [l-m](https://www.youtube.com/@l-mdotdev)
+    - [Read Fast, Write Fast, Run Faster: How To Maintain And Iterate With V - SYNCS 2023](https://youtu.be/pchEsYwA74Q)
+        - article: [Present a talk in 5 days with no experience](https://l-m.dev/cs/presenting_syncs_talk/)

@@ -1,0 +1,81 @@
+title: GAMS
+---
+_model: programming-language
+---
+homepage: https://www.gams.com
+---
+docs: https://www.gams.com/latest/docs/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/General_Algebraic_Modeling_System
+---
+wikipedia_en: https://en.wikipedia.org/wiki/General_algebraic_modeling_system
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1976
+---
+latest_release: 45.7.0 (Jan 2024)
+---
+developer: GAMS Development Corporation
+---
+designed_by:
+---
+license: proprietary
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 425
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: 38 (0.33%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+> General algebraic modeling system

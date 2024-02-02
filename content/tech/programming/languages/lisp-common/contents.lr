@@ -1,0 +1,110 @@
+title: Common Lisp
+---
+_model: programming-language
+---
+homepage: https://common-lisp.net
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Common_Lisp
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Common_Lisp
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Common_Lisp
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family: Lisp
+---
+first_appeared: 1984
+---
+latest_release:
+---
+developer: ANSI X3J13 committee
+---
+designed_by: Scott Fahlman, Richard P. Gabriel, David A. Moon, Kent Pitman, Guy Steele, Dan Weinreb
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 400
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_hacker: (2nd)
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: (yes)
+---
+feature_static_typing: --
+---
+sum_rankings: 310
+---
+ranking_ieee_spectrum: 49 (0.0048) (as Lisp)
+---
+ranking_ieee_spectrum_jobs: 50 (0.0003) (as Lisp)
+---
+ranking_ieee_spectrum_trending: 48 (0.0036) (as Lisp)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 33 (1.53%) (as Lisp)
+---
+ranking_stackoverflow_desired: 30 (as Lisp)
+---
+ranking_stackoverflow_paying: 7 (as Lisp)
+---
+ranking_tiobe: 42 (0.28%) (as Lisp)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- [Common-Lisp.net](https://common-lisp.net/)
+- [lisp-lang.org](https://lisp-lang.org/)
+- CLiki: the common lisp wiki: [cliki.net](https://www.cliki.net/)
+- The Common Lisp Cookbook: [lispcookbook.github.io/cl-cookbook](https://lispcookbook.github.io/cl-cookbook/)
+    - GitHub: [LispCookbook/cl-cookbook](https://github.com/LispCookbook/cl-cookbook)
+
+## SBCL - Steel Bank Common Lisp
+
+- homepage: [sbcl.org](https://www.sbcl.org/)
+- Wikipedia: [Steel Bank Common Lisp](https://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp)
+
+## CLISP
+
+> an ANSI Common Lisp Implementation
+
+- [Sourceforge](https://clisp.sourceforge.io/)
+
+## books
+
+- "Common Lisp the Language, 2nd Edition" by Guy L. Steele
+    - CMU Artificial Intelligence Repository
+        - [main link](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
+        - [AFS link](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html)
+- Chapter 2 of ANSI Common Lisp, by Paul Graham.
+    - [sep.yimg.com](https://sep.yimg.com/ty/cdn/paulgraham/acl2.txt)
+
+## other info
+
+- Wikipedia: [Common Lisp - The function namespace](https://en.wikipedia.org/wiki/Common_Lisp#The_function_namespace)
+

@@ -1,0 +1,80 @@
+title: SQL
+---
+_model: programming-language
+---
+homepage: https://www.iso.org/standard/76583.html
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/SQL
+---
+wikipedia_en: https://en.wikipedia.org/wiki/SQL
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/SQL
+---
+wikibooks_de: https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_SQL
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Structured_Query_Language
+---
+wikibooks_hu:
+---
+family: Query language
+---
+first_appeared: 1974
+---
+latest_release: SQL:2023 (Jun 2023)
+---
+developer: ISO/IEC JTC 1 / SC 32 / WG 3
+---
+designed_by: Donald D. Chamberlin, Raymond F. Boyce
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 119
+---
+ranking_ieee_spectrum: 7 (0.3397)
+---
+ranking_ieee_spectrum_jobs: 1 (1.0)
+---
+ranking_ieee_spectrum_trending: 5 (0.4427)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 4 (48.66%)
+---
+ranking_stackoverflow_desired: 5
+---
+ranking_stackoverflow_paying: 37
+---
+ranking_tiobe: 9 (1.46%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/sql/
+---
+sunarch:
+---
+body:
+

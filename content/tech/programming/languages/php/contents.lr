@@ -1,12 +1,85 @@
 title: PHP
 ---
+_model: programming-language
+---
+homepage: https://www.php.net
+---
+docs: https://www.php.net/docs.php
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/PHP
+---
+wikipedia_en: https://en.wikipedia.org/wiki/PHP
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/PHP
+---
+wikibooks_de: https://de.wikibooks.org/wiki/Websiteentwicklung:_PHP
+---
+wikibooks_en: https://en.wikibooks.org/wiki/PHP_Programming
+---
+wikibooks_hu: https://hu.wikibooks.org/wiki/PHP
+---
+family:
+---
+first_appeared: 1995
+---
+latest_release: 8.3.2 (Jan 2024)
+---
+developer:  The PHP Development Team, Zend Technologies, PHP Foundation
+---
+designed_by: Rasmus Lerdorf
+---
+license: dual
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled: --
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 134
+---
+ranking_ieee_spectrum: 13 (0.1186)
+---
+ranking_ieee_spectrum_jobs: 16 (0.0728)
+---
+ranking_ieee_spectrum_trending: 12 (0.1144)
+---
+ranking_pypl: 7 (4.57 %)
+---
+ranking_redmonk: 4
+---
+ranking_stackoverflow_popular: 11 (18.58%)
+---
+ranking_stackoverflow_desired: 14
+---
+ranking_stackoverflow_paying: 50
+---
+ranking_tiobe: 7 (1.79%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/php/
+---
+sunarch: some
+---
 body:
 
 - type: general
 - standard: no
-- [homepage](https://www.php.net/)
-- [documentation]({https://www.php.net/docs.php)
-- [Wikipedia](https://en.wikipedia.org/wiki/PHP)
 
 ### description
 

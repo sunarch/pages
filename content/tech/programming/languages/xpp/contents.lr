@@ -1,0 +1,81 @@
+title: X++
+---
+_model: programming-language
+---
+homepage:
+---
+docs: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-ref/xpp-language-reference
+---
+repository:
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Microsoft_Dynamics_365#Microsoft_Dynamics_AX
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+latest_release:
+---
+developer:
+---
+designed_by:
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 418
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: 34 (0.39%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- Dynamics AX 2012 - [X++ Language Programming Guide](https://learn.microsoft.com/en-us/dynamicsax-2012/developer/x-language-programming-guide)

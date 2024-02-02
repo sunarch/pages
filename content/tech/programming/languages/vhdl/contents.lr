@@ -1,0 +1,83 @@
+title: VHDL
+---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Very_High_Speed_Integrated_Circuit_Hardware_Description_Language
+---
+wikipedia_en: https://en.wikipedia.org/wiki/VHDL
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/VHDL
+---
+wikibooks_de: https://de.wikibooks.org/wiki/VHDL-Tutorium
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Programmable_Logic/VHDL
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1983
+---
+latest_release: IEEE 1076-2019 (Dec 2019)
+---
+developer:
+---
+designed_by:
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 366
+---
+ranking_ieee_spectrum: 35 (0.0107)
+---
+ranking_ieee_spectrum_jobs: 33 (0.0118)
+---
+ranking_ieee_spectrum_trending: 40 (0.0089)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+> VHSIC (Very High Speed Integrated Circuit) Hardware Description Language
+
+

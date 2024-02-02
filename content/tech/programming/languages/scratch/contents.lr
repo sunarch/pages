@@ -1,0 +1,81 @@
+title: Scratch
+---
+_model: programming-language
+---
+homepage: https://scratch.mit.edu
+---
+docs: https://scratch-wiki.info
+---
+repository: https://github.com/raspberrypi/scratch
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Scratch_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Scratch_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Scratch
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2003
+---
+latest_release: Scratch 3.29.1 (offline editor) (Feb 2022)
+---
+developer: MIT Media Lab
+---
+designed_by:
+---
+license: multiple
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 394
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: 10 (1.44%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/scratch/
+---
+sunarch: tried
+---
+body:
+
+- visual programming language

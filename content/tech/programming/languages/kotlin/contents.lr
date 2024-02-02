@@ -1,0 +1,80 @@
+title: Kotlin
+---
+_model: programming-language
+---
+homepage: https://kotlinlang.org
+---
+docs: https://kotlinlang.org/docs/home.html
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Kotlin_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Kotlin_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2011
+---
+latest_release: 1.9.21 (Nov 2023)
+---
+developer: JetBrains
+---
+designed_by: JetBrains
+---
+license: Apache License 2.0
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 301
+---
+feature_adt: yes
+---
+feature_compiled: Java VM
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 159
+---
+ranking_ieee_spectrum: 19 (0.0523)
+---
+ranking_ieee_spectrum_jobs: 21 (0.0486)
+---
+ranking_ieee_spectrum_trending: 19 (0.0498)
+---
+ranking_pypl: 13 (1.75 %)
+---
+ranking_redmonk: 17
+---
+ranking_stackoverflow_popular: 15 (9.06%)
+---
+ranking_stackoverflow_desired: 12
+---
+ranking_stackoverflow_paying: 26
+---
+ranking_tiobe: 17 (0.85%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/kotlin/
+---
+sunarch:
+---
+body:
+

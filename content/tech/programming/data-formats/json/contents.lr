@@ -1,0 +1,36 @@
+title: JSON
+---
+_model: tech-project
+---
+homepage: https://www.json.org/json-en.html
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/JavaScript_Object_Notation
+---
+wikipedia_en: https://en.wikipedia.org/wiki/JSON
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/JSON
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+category:
+---
+body:
+
+# tools
+
+## linting
+
+- JSONLint: [jsonlint.com](https://jsonlint.com/)
+

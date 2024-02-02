@@ -1,0 +1,79 @@
+title: Solidity
+---
+_model: programming-language
+---
+homepage: https://soliditylang.org
+---
+docs: https://docs.soliditylang.org
+---
+repository: https://github.com/ethereum/solidity
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Solidity
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Solidity
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Solidity
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2014
+---
+latest_release: 0.8.21 (Jul 2023)
+---
+developer: Christian Reitwiessner, Alex Beregszaszi, several former Ethereum core contributors
+---
+designed_by: Gavin Wood
+---
+license: GNU GPLv3
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled: Ethereum VM
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 385
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 34 (1.33%)
+---
+ranking_stackoverflow_desired: 31
+---
+ranking_stackoverflow_paying: 41
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:

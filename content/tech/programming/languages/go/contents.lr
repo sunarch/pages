@@ -1,10 +1,87 @@
 title: Go
 ---
+_model: programming-language
+---
+homepage: https://go.dev
+---
+docs: https://go.dev/doc/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Go_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Go_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Go_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2009
+---
+latest_release: 1.21.6 (Jan 2024)
+---
+developer: The Go Authors (Google)
+---
+designed_by: Robert Griesemer, Rob Pike, Ken Thompson
+---
+license: 3-clause BSD + patent
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 301
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_hacker: 2nd
+---
+feature_hof: yes
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 98
+---
+ranking_ieee_spectrum: 8 (0.2157)
+---
+ranking_ieee_spectrum_jobs: 12 (0.0819)
+---
+ranking_ieee_spectrum_trending: 9 (0.1921)
+---
+ranking_pypl: 12 (2.04 %)
+---
+ranking_redmonk: 14
+---
+ranking_stackoverflow_popular: 13 (13.24%)
+---
+ranking_stackoverflow_desired: 9
+---
+ranking_stackoverflow_paying: 10
+---
+ranking_tiobe: 11 (1.38%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/go/
+---
+sunarch: read
+---
 body:
 
-- homepage: [go.dev](https://go.dev)
-- Wikipedia: [Go (programming language)](https://en.wikipedia.org/wiki/Go_(programming_language))
+- old homepage: golang.org
 - [Go by Example](https://gobyexample.com)
+- standard exists
+- low level, systems programming
 
 ### criticism
 

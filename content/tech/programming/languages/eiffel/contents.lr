@@ -1,0 +1,79 @@
+title: Eiffel
+---
+_model: programming-language
+---
+homepage: https://www.eiffel.org
+---
+docs: https://www.eiffel.org/documentation
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Eiffel_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Eiffel_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Eiffel_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1986
+---
+latest_release: EiffelStudio 23.09 (Oct 2023
+---
+developer: Eiffel Software
+---
+designed_by: Bertrand Meyer
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 420
+---
+ranking_ieee_spectrum: 56
+---
+ranking_ieee_spectrum_jobs: 53
+---
+ranking_ieee_spectrum_trending: 57 (0.0001)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: 47 (0.24%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:

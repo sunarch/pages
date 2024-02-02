@@ -1,0 +1,81 @@
+title: MATLAB
+---
+_model: programming-language
+---
+homepage: https://www.mathworks.com/products/matlab.html
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Matlab
+---
+wikipedia_en: https://en.wikipedia.org/wiki/MATLAB
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/MATLAB
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/MATLAB_Programming
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1979
+---
+latest_release: R2023b Update 6 (Jan 2024)
+---
+developer: MathWorks
+---
+designed_by: Cleve Moler
+---
+license:
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: --
+---
+sum_rankings: 211
+---
+ranking_ieee_spectrum: 20 (0.0502)
+---
+ranking_ieee_spectrum_jobs: 13 (0.0819)
+---
+ranking_ieee_spectrum_trending: 21 (0.0420)
+---
+ranking_pypl: 14 (1.64 %)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 23 (3.81%)
+---
+ranking_stackoverflow_desired: 36
+---
+ranking_stackoverflow_paying: 49
+---
+ranking_tiobe: 14 (0.97%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/matlab/
+---
+sunarch:
+---
+body:
+
+> MATrix LABoratory

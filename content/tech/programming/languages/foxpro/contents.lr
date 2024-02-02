@@ -1,0 +1,82 @@
+title: Visual FoxPro
+---
+_model: programming-language
+---
+homepage: http://msdn.microsoft.com/vfoxpro
+---
+docs: https://learn.microsoft.com/en-us/previous-versions/visualstudio/foxpro/mt490117(v=msdn.10)
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Microsoft_Visual_FoxPro
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Visual_FoxPro
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+latest_release: v9.0 SP2 (Oct 2007) (FINAL)
+---
+developer: Microsoft
+---
+designed_by:
+---
+license: proprietary
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 0
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 409
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: 25 (0.67%)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- predecessor: FoxPro
+    - [Wikipedia (English)](https://en.wikipedia.org/wiki/FoxPro)

@@ -1,0 +1,82 @@
+title: C#
+---
+_model: programming-language
+---
+homepage:
+---
+docs: https://learn.microsoft.com/en-us/dotnet/csharp/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/C-Sharp
+---
+wikipedia_en: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/C_Sharp
+---
+wikibooks_de: https://de.wikibooks.org/wiki/Arbeiten_mit_.NET:_C-Sharp
+---
+wikibooks_en: https://en.wikibooks.org/wiki/C_Sharp_Programming
+---
+wikibooks_hu: https://hu.wikibooks.org/wiki/C_Sharp_programoz%C3%A1s
+---
+family: C
+---
+first_appeared: 2000
+---
+latest_release: 12.0 (Nov 2023)
+---
+developer: Mads Torgersen (Microsoft)
+---
+designed_by: Anders Hejlsberg (Microsoft)
+---
+license: per compiler
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 301
+---
+feature_adt:
+---
+feature_compiled: CLI/.NET
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable: yes
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 81
+---
+ranking_ieee_spectrum: 6 (0.3973)
+---
+ranking_ieee_spectrum_jobs: 6 (0.3076)
+---
+ranking_ieee_spectrum_trending: 6 (0.4187)
+---
+ranking_pypl: 5 (6.73 %)
+---
+ranking_redmonk: 5
+---
+ranking_stackoverflow_popular: 8 (27.62%)
+---
+ranking_stackoverflow_desired: 7
+---
+ranking_stackoverflow_paying: 33
+---
+ranking_tiobe: 5 (7.16%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/csharp/
+---
+sunarch:
+---
+body:
+
+- corporate copy of Java by Microsoft
+- standard exists

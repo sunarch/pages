@@ -1,0 +1,79 @@
+title: Visual Basic (.NET)
+---
+_model: programming-language
+---
+homepage:
+---
+docs: https://learn.microsoft.com/en-us/dotnet/visual-basic/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Visual_Basic_.NET
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Visual_Basic_(.NET)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Visual_Basic_.NET
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2001
+---
+latest_release: 17.8.3 (Dec 2023)
+---
+developer: Microsoft
+---
+designed_by: Microsoft
+---
+license: Roslyn compiler: Apache License 2.0
+---
+category:
+---
+comparison_include: false
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 215
+---
+ranking_ieee_spectrum: 24 (0.0326)
+---
+ranking_ieee_spectrum_jobs: 14 (0.0757)
+---
+ranking_ieee_spectrum_trending: 20 (0.0427)
+---
+ranking_pypl: 24 (0.51 %)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 22 (4.07%) (.Net)
+---
+ranking_stackoverflow_desired: 34
+---
+ranking_stackoverflow_paying: 48
+---
+ranking_tiobe: 8 (1.60%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/visual-basic/
+---
+sunarch:
+---
+body:

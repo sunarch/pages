@@ -1,12 +1,85 @@
 title: Haskell
 ---
+_model: programming-language
+---
+homepage: https://www.haskell.org
+---
+docs: https://www.haskell.org/documentation/
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Haskell_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Haskell_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Haskell_(programoz%C3%A1si_nyelv)
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1990
+---
+latest_release: Haskell 2010 (Jul 2010)
+---
+developer:
+---
+designed_by: Lennart Augustsson, Dave Barton, Brian Boutel, Warren Burton, Joseph Fasel, Kevin Hammond, Ralf Hinze, Paul Hudak, John Hughes, Thomas Johnsson, Mark Jones, Simon Peyton Jones, John Launchbury, Erik Meijer, John Peterson, Alastair Reid, Colin Runciman, Philip Wadler
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 500
+---
+feature_adt: yes
+---
+feature_compiled: yes
+---
+feature_hacker: --
+---
+feature_hof: yes
+---
+feature_immutable: yes
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+sum_rankings: 301
+---
+ranking_ieee_spectrum: 43 (0.007)
+---
+ranking_ieee_spectrum_jobs: 51 (0.0003)
+---
+ranking_ieee_spectrum_trending: 43 (0.0065)
+---
+ranking_pypl: 27 (0.26 %)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 31 (2.09%)
+---
+ranking_stackoverflow_desired: 23
+---
+ranking_stackoverflow_paying: 18
+---
+ranking_tiobe: 44 (0.28%)
+---
+ranking_tiobe_url:
+---
+sunarch: looked
+---
 body:
 
 - type: functional
 - standard: yes
-- [homepage](https://www.haskell.org/)
-- [documentation](https://www.haskell.org/documentation/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))
 
 ### description
 

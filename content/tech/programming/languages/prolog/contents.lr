@@ -1,14 +1,94 @@
 title: Prolog
 ---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Prolog_(Programmiersprache)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Prolog
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Prolog
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1972
+---
+latest_release:
+---
+developer:
+---
+designed_by: Alain Colmerauer, Robert Kowalski
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 1
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: small
+---
+feature_static_typing: untyped
+---
+sum_rankings: 367
+---
+ranking_ieee_spectrum: 51 (0.0026)
+---
+ranking_ieee_spectrum_jobs: 57
+---
+ranking_ieee_spectrum_trending: 52 (0.0013)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: 40 (0.89%)
+---
+ranking_stackoverflow_desired: 44
+---
+ranking_stackoverflow_paying: 44
+---
+ranking_tiobe: 28 (0.56%)
+---
+ranking_tiobe_url:
+---
+sunarch: tried
+---
 body:
 
 - type: logic
 - standard: yes
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Prolog)
 - [ISO/IEC 13211-1:1995 - Prolog — Part 1: General core](https://www.iso.org/standard/21413.html)
 - [ISO/IEC 13211-2:2000 - Prolog — Part 2: Modules](https://www.iso.org/standard/20775.html)
 
 ### description
 
 logic programming, AI, comput. linguistics
+
+## SWI-Prolog
+
+- [homepage](https://www.swi-prolog.org)
+- [GitHub](https://github.com/SWI-Prolog/swipl-devel)

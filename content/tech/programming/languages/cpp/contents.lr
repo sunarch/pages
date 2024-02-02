@@ -1,12 +1,86 @@
 title: C++
 ---
+_model: programming-language
+---
+homepage: https://isocpp.org
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/C%2B%2B
+---
+wikipedia_en: https://en.wikipedia.org/wiki/C%2B%2B
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/C%2B%2B
+---
+wikibooks_de: https://de.wikibooks.org/wiki/C%2B%2B-Programmierung
+---
+wikibooks_en: https://en.wikibooks.org/wiki/C%2B%2B_Programming
+---
+wikibooks_hu:
+---
+family: C
+---
+first_appeared: 1985
+---
+latest_release: C++20 (Dec 2020)
+---
+developer: ISO/IEC JTC 1 / SC 22 / WG 21
+---
+designed_by: Bjarne Stroustrup
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 502
+---
+feature_adt: yes
+---
+feature_compiled: yes
+---
+feature_hacker: 3.a
+---
+feature_hof: yes
+---
+feature_immutable: yes
+---
+feature_jargon: old
+---
+feature_static_typing: yes
+---
+sum_rankings: 80
+---
+ranking_ieee_spectrum: 3 (0.5380)
+---
+ranking_ieee_spectrum_jobs: 5 (0.4551)
+---
+ranking_ieee_spectrum_trending: 4 (0.4599)
+---
+ranking_pypl: 4 (6.92 %) (w/C)
+---
+ranking_redmonk: 7
+---
+ranking_stackoverflow_popular: 9 (22.42%)
+---
+ranking_stackoverflow_desired: 11
+---
+ranking_stackoverflow_paying: 34
+---
+ranking_tiobe: 3 (9.96%)
+---
+ranking_tiobe_url: https://www.tiobe.com/tiobe-index/cplusplus/
+---
+sunarch:
+---
 body:
 
 - type: low level
 - standard: yes
-- [homepage](https://isocpp.org/)
-
-- [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Jargon File entry](http://www.catb.org/~esr/jargon/html/C/C-plus-plus.html)
 
 ### description
 
