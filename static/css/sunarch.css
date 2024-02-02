@@ -14,3 +14,7 @@ details > summary::marker, /* Latest Chrome, Edge, Firefox */
 details > summary::-webkit-details-marker /* Safari */ {
     /* - */
 }
+
+.deprecated-title {
+    font-style: italic;
+}
