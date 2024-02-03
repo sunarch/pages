@@ -36,8 +36,6 @@ category:
 ---
 comparison_include: false
 ---
-comparison_score: 0
----
 feature_adt:
 ---
 feature_compiled:
@@ -50,7 +48,7 @@ feature_hof:
 ---
 feature_immutable:
 ---
-feature_jargon: (loss) (-1)
+feature_jargon: (loss)
 ---
 feature_static_typing:
 ---

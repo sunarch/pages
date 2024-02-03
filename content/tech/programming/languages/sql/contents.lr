@@ -36,8 +36,6 @@ category:
 ---
 comparison_include: false
 ---
-comparison_score: 100
----
 feature_adt:
 ---
 feature_compiled:
@@ -52,7 +50,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes (100)
+feature_static_typing: yes
 ---
 sum_rankings: 119
 ---

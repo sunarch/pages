@@ -36,19 +36,17 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 102
----
 feature_adt:
 ---
-feature_compiled: Java VM (2)
+feature_compiled: Java VM
 ---
 feature_explicit_errors:
 ---
 feature_hacker: --
 ---
-feature_hof: yes (100)
+feature_hof: yes
 ---
-feature_immutable:
+feature_immutable: yes
 ---
 feature_jargon: --
 ---

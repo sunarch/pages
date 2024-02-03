@@ -36,11 +36,9 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 100
----
 feature_adt:
 ---
-feature_compiled: yes (100)
+feature_compiled: yes
 ---
 feature_explicit_errors:
 ---

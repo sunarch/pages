@@ -36,8 +36,6 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 51
----
 feature_adt:
 ---
 feature_compiled:
@@ -50,9 +48,9 @@ feature_hof:
 ---
 feature_immutable:
 ---
-feature_jargon: small (50)
+feature_jargon: small
 ---
-feature_static_typing: untyped (1)
+feature_static_typing: untyped
 ---
 sum_rankings: 367
 ---

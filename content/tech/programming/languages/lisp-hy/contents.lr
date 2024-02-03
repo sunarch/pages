@@ -36,11 +36,9 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 1
----
 feature_adt:
 ---
-feature_compiled: Python BC (1)
+feature_compiled: Python BC
 ---
 feature_explicit_errors:
 ---

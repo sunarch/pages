@@ -36,11 +36,9 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 2
----
 feature_adt:
 ---
-feature_compiled: Java VM (2)
+feature_compiled: Java VM
 ---
 feature_explicit_errors:
 ---

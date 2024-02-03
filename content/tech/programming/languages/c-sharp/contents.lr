@@ -36,8 +36,6 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 301
----
 feature_adt:
 ---
 feature_compiled: CLI/.NET
@@ -46,13 +44,13 @@ feature_explicit_errors:
 ---
 feature_hacker: --
 ---
-feature_hof: yes (100)
+feature_hof: yes
 ---
-feature_immutable: yes (100)
+feature_immutable: yes
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes (100)
+feature_static_typing: yes
 ---
 sum_rankings: 81
 ---

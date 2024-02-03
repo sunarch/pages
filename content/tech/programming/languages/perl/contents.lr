@@ -36,21 +36,19 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 401
----
-feature_adt: yes (100)
+feature_adt: yes
 ---
 feature_compiled: --
 ---
 feature_explicit_errors:
 ---
-feature_hacker: 4th (100)
+feature_hacker: 4th
 ---
-feature_hof: yes (100)
+feature_hof: yes
 ---
-feature_immutable: part (1)
+feature_immutable: part
 ---
-feature_jargon: yes (100)
+feature_jargon: yes
 ---
 feature_static_typing: --
 ---

@@ -36,8 +36,6 @@ category:
 ---
 comparison_include: false
 ---
-comparison_score: 1
----
 feature_adt:
 ---
 feature_compiled:
@@ -52,7 +50,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: hybrid (1)
+feature_static_typing: hybrid
 ---
 sum_rankings: 435
 ---

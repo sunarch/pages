@@ -36,8 +36,6 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 0
----
 feature_adt:
 ---
 feature_compiled:

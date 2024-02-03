@@ -36,23 +36,21 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 312
+feature_adt: yes
 ---
-feature_adt: yes (100)
+feature_compiled: Java VM
 ---
-feature_compiled: Java VM (2)
----
-feature_explicit_errors: try/catch + Option (10)
+feature_explicit_errors: try/catch + Option
 ---
 feature_hacker: --
 ---
 feature_hof:
 ---
-feature_immutable: yes (100)
+feature_immutable: yes
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes (100)
+feature_static_typing: yes
 ---
 sum_rankings: 194
 ---
