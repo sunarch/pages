@@ -20,7 +20,7 @@ wikibooks_en:
 ---
 wikibooks_hu:
 ---
-family:
+family: ALGOL
 ---
 first_appeared: 1987
 ---
@@ -42,6 +42,8 @@ feature_adt:
 ---
 feature_compiled:
 ---
+feature_explicit_errors:
+---
 feature_hacker: --
 ---
 feature_hof:
@@ -50,7 +52,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: part
+feature_static_typing: hybrid (1)
 ---
 sum_rankings: 435
 ---

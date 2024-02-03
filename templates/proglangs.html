@@ -16,6 +16,13 @@
             {% endfor %}
         </tbody>
     </table>
+    <ul>
+        <li>{{ bag('proglang_features.explicit_errors.description') }}</li>
+        <ul>
+            <li>Wikipedia: <a target="_blank" href="https://en.wikipedia.org/wiki/Result_type">Result type</a></li>
+            <li>Wikipedia: <a target="_blank" href="https://en.wikipedia.org/wiki/Option_type">Option type</a></li>
+        </ul>
+    </ul>
     <h3>general</h3>
     <table>
         <thead>
@@ -23,7 +30,7 @@
                 <th rowspan="2">score</th>
                 <th rowspan="2">name</th>
                 <th rowspan="2">year</th>
-                <th colspan="5">features</th>
+                <th colspan="6">features</th>
                 <th colspan="2">refs</th>
                 <th rowspan="2">(me)</th>
             </tr>
@@ -31,6 +38,7 @@
                 <th>{{ bag('proglang_features.static_typing.label') }}</th>
                 <th>{{ bag('proglang_features.adt.label') }}</th>
                 <th>{{ bag('proglang_features.compiled.label') }}</th>
+                <th>{{ bag('proglang_features.explicit_errors.label') }}</th>
                 <th>{{ bag('proglang_features.hof.label') }}</th>
                 <th>{{ bag('proglang_features.immutable.label') }}</th>
                 <th>{{ bag('proglang_features.jargon.label') }}</th>
@@ -51,6 +59,7 @@
                 <td>{{ child.feature_static_typing }}</td>
                 <td>{{ child.feature_adt }}</td>
                 <td>{{ child.feature_compiled }}</td>
+                <td>{{ child.feature_explicit_errors }}</td>
                 <td>{{ child.feature_hof }}</td>
                 <td>{{ child.feature_immutable }}</td>
                 <td>{{ child.feature_jargon }}</td>

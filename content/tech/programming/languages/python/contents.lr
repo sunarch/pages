@@ -36,19 +36,21 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 402
+comparison_score: 403
 ---
-feature_adt: yes
+feature_adt: yes (100)
 ---
-feature_compiled: Python BC
+feature_compiled: Python BC (1)
 ---
-feature_hacker: 1st
+feature_explicit_errors: try/catch (1)
 ---
-feature_hof: yes
+feature_hacker: 1st (100)
 ---
-feature_immutable: part
+feature_hof: yes (100)
 ---
-feature_jargon: yes
+feature_immutable: part (1)
+---
+feature_jargon: yes (100)
 ---
 feature_static_typing: --
 ---

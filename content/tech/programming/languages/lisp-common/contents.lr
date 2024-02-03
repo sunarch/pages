@@ -40,15 +40,17 @@ comparison_score: 400
 ---
 feature_adt:
 ---
-feature_compiled: yes
+feature_compiled: yes (100)
 ---
-feature_hacker: (2nd)
+feature_explicit_errors:
 ---
-feature_hof: yes
+feature_hacker: (2nd) (100)
+---
+feature_hof: yes (100)
 ---
 feature_immutable:
 ---
-feature_jargon: (yes)
+feature_jargon: (yes) (100)
 ---
 feature_static_typing: --
 ---

@@ -38,15 +38,17 @@ comparison_include: true
 ---
 comparison_score: 101
 ---
-feature_adt: yes
+feature_adt: yes (100)
 ---
 feature_compiled:
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
 feature_hof:
 ---
-feature_immutable: part
+feature_immutable: part (1)
 ---
 feature_jargon: --
 ---

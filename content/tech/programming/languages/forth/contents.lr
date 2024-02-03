@@ -40,7 +40,9 @@ comparison_score: 100
 ---
 feature_adt:
 ---
-feature_compiled: yes
+feature_compiled: yes (100)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---

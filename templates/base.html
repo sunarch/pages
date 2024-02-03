@@ -35,9 +35,13 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         {# CHILDREN #}
         {% if this.children %}
         <hr>
-        <details class="{% if this.full_width %}full-width{% endif %}">
+        {% if this.hide_subpages %}<details class="{% if this.full_width %}full-width{% endif %}">{% endif %}
             {% set children_count = this.children | list | count %}
-            <summary>{{ this.children.length }}subpage{% if children_count > 1 %}s{% endif %}</summary>
+            {% if this.hide_subpages %}
+                <summary>{{ this.children.length }}subpage{% if children_count > 1 %}s{% endif %}</summary>
+            {% else %}
+                <h2>{{ this.children.length }}subpage{% if children_count > 1 %}s{% endif %}</h2>
+            {% endif %}
             <ul>
             {% for child in this.children | sort(attribute='title') %}
                 <li>
@@ -45,7 +49,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                 </li>
             {% endfor %}
             </ul>
-        </details>
+        {% if this.hide_subpages %}</details>{% endif %}
         {% endif %}
 
         {# FOOTER #}

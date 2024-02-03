@@ -13,9 +13,11 @@ body:
 - selection → if
 - iteration → while
 
-# articles
+# project ideas
 
-- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) by Austin Z. Henley (Dec 11, 2019)
+- [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html) by Austin Z. Henley (Dec 20, 2020)
+- [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) by Austin Z. Henley (Dec 21, 2022)
 
 # IDE
 
@@ -73,5 +75,6 @@ body:
 
 # articles
 
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
 - Jamie Brandon: [Pain we forgot](https://www.scattered-thoughts.net/writing/pain-we-forgot/) (May 17, 2014)
 - Jamie Brandon: [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/) (Feb 17, 2014)

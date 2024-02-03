@@ -42,6 +42,8 @@ feature_adt:
 ---
 feature_compiled:
 ---
+feature_explicit_errors:
+---
 feature_hacker: --
 ---
 feature_hof:
@@ -50,7 +52,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes
+feature_static_typing: yes (100)
 ---
 sum_rankings: 215
 ---

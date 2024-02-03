@@ -1,0 +1,97 @@
+title: Jai
+---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2014
+---
+latest_release: private testing
+---
+developer:
+---
+designed_by: Jonathan Blow
+---
+license:
+---
+category:
+---
+comparison_include: true
+---
+comparison_score: 100
+---
+feature_adt:
+---
+feature_compiled: yes (100)
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+sum_rankings: 435
+---
+ranking_ieee_spectrum: n/a (59)
+---
+ranking_ieee_spectrum_jobs: n/a (59)
+---
+ranking_ieee_spectrum_trending: n/a (59)
+---
+ranking_pypl: n/a (30)
+---
+ranking_redmonk: n/a (21)
+---
+ranking_stackoverflow_popular: n/a (52)
+---
+ranking_stackoverflow_desired: n/a (52)
+---
+ranking_stackoverflow_paying: n/a (52)
+---
+ranking_tiobe: n/a (51)
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- YouTube: [Jonathan Blow](https://www.youtube.com/@jblow888)
+    - playlist: [A Programming Language for Games](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
+
+### community resources
+
+- GitHub: Ivo-Balbaert/[The_Way_to_Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai)
+- [Jai Community](https://jai.community)
+    - [Overview of Jai](https://jai.community/t/overview-of-jai/128) by anton
+- [Jai Community Library Wiki](https://github.com/Jai-Community/Jai-Community-Library/wiki)
+- GitHub: BSVino/[JaiPrimer](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
+
+### articles
+
+- Inductive: [Jai Programming Language – Resources and Information](https://inductive.no/jai/)
+

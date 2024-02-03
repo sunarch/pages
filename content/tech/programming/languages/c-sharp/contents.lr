@@ -42,15 +42,17 @@ feature_adt:
 ---
 feature_compiled: CLI/.NET
 ---
+feature_explicit_errors:
+---
 feature_hacker: --
 ---
-feature_hof: yes
+feature_hof: yes (100)
 ---
-feature_immutable: yes
+feature_immutable: yes (100)
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes
+feature_static_typing: yes (100)
 ---
 sum_rankings: 81
 ---

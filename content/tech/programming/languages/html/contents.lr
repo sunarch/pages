@@ -42,6 +42,8 @@ feature_adt: N/A
 ---
 feature_compiled: N/A
 ---
+feature_explicit_errors: N/A
+---
 feature_hacker: N/A
 ---
 feature_hof: N/A

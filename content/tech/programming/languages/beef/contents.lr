@@ -1,18 +1,18 @@
-title: APL
+title: Beef
 ---
 _model: programming-language
 ---
-homepage: https://aplwiki.com
+homepage: https://www.beeflang.org
 ---
-docs:
+docs: https://www.beeflang.org/docs/
 ---
-repository:
+repository: https://github.com/beefytech/Beef
 ---
-wikipedia_de: https://de.wikipedia.org/wiki/APL_(Programmiersprache)
+wikipedia_de:
 ---
-wikipedia_en: https://en.wikipedia.org/wiki/APL_(programming_language)
+wikipedia_en: https://en.wikipedia.org/wiki/Beef_(programming_language)
 ---
-wikipedia_hu: https://hu.wikipedia.org/wiki/APL
+wikipedia_hu:
 ---
 wikibooks_de:
 ---
@@ -22,19 +22,19 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared: 1966
+first_appeared:
 ---
 latest_release:
 ---
-developer: Larry Breed, Dick Lathwell, Roger Moore and others
+developer:
 ---
-designed_by: Kenneth E. Iverson
+designed_by:
 ---
-license: mixed
+license:
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
 comparison_score: 0
 ---
@@ -54,7 +54,7 @@ feature_jargon: --
 ---
 feature_static_typing:
 ---
-sum_rankings: 402
+sum_rankings: 435
 ---
 ranking_ieee_spectrum: n/a (59)
 ---
@@ -66,11 +66,11 @@ ranking_pypl: n/a (30)
 ---
 ranking_redmonk: n/a (21)
 ---
-ranking_stackoverflow_popular: 49 (0.26%)
+ranking_stackoverflow_popular: n/a (52)
 ---
-ranking_stackoverflow_desired: 47
+ranking_stackoverflow_desired: n/a (52)
 ---
-ranking_stackoverflow_paying: 27
+ranking_stackoverflow_paying: n/a (52)
 ---
 ranking_tiobe: n/a (51)
 ---
@@ -80,4 +80,3 @@ sunarch:
 ---
 body:
 
-- math, spreadsheets, w/ special graphic symbols

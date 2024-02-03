@@ -42,13 +42,15 @@ feature_adt:
 ---
 feature_compiled:
 ---
-feature_hacker: 2nd
+feature_explicit_errors:
+---
+feature_hacker: 2nd (100)
 ---
 feature_hof:
 ---
 feature_immutable:
 ---
-feature_jargon: yes
+feature_jargon: yes (100)
 ---
 feature_static_typing: --
 ---

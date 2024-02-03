@@ -42,6 +42,8 @@ feature_adt:
 ---
 feature_compiled:
 ---
+feature_explicit_errors:
+---
 feature_hacker: --
 ---
 feature_hof:

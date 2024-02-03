@@ -40,17 +40,19 @@ comparison_score: 300
 ---
 feature_adt:
 ---
-feature_compiled: yes
+feature_compiled: yes (100)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
 feature_hof:
 ---
-feature_immutable: yes
+feature_immutable: yes (100)
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes
+feature_static_typing: yes (100)
 ---
 sum_rankings: 435
 ---
@@ -77,4 +79,6 @@ ranking_tiobe_url:
 sunarch:
 ---
 body:
+
+- [Hacker News announcement](https://news.ycombinator.com/item?id=22199942)
 

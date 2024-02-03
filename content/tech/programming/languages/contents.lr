@@ -7,6 +7,8 @@ custom_styles:
 ---
 full_width: true
 ---
+hide_subpages: true
+---
 body:
 
 - [ranks](prog-lang-ranks.md)

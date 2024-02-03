@@ -1,18 +1,18 @@
-title: PL/SQL
+title: Cython
 ---
 _model: programming-language
 ---
-homepage:
+homepage: https://cython.org
 ---
-docs:
+docs: https://docs.cython.org/en/stable/index.html
 ---
-repository:
+repository: https://github.com/cython/cython
 ---
-wikipedia_de: https://de.wikipedia.org/wiki/PL/SQL
+wikipedia_de:
 ---
-wikipedia_en: https://en.wikipedia.org/wiki/PL/SQL
+wikipedia_en:
 ---
-wikipedia_hu: https://hu.wikipedia.org/wiki/PL/SQL
+wikipedia_hu:
 ---
 wikibooks_de:
 ---
@@ -26,7 +26,7 @@ first_appeared:
 ---
 latest_release:
 ---
-developer: Oracle
+developer:
 ---
 designed_by:
 ---
@@ -34,27 +34,27 @@ license:
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
-comparison_score: 0
+comparison_score: 301
 ---
-feature_adt:
+feature_adt: yes (100)
 ---
-feature_compiled:
+feature_compiled: via C (100)
 ---
 feature_explicit_errors:
 ---
 feature_hacker: --
 ---
-feature_hof:
+feature_hof: yes
 ---
-feature_immutable:
+feature_immutable: --
 ---
 feature_jargon: --
 ---
-feature_static_typing:
+feature_static_typing: yes (100)
 ---
-sum_rankings: 429
+sum_rankings: 435
 ---
 ranking_ieee_spectrum: n/a (59)
 ---
@@ -72,12 +72,14 @@ ranking_stackoverflow_desired: n/a (52)
 ---
 ranking_stackoverflow_paying: n/a (52)
 ---
-ranking_tiobe: 45 (0.27%)
+ranking_tiobe: n/a (51)
 ---
 ranking_tiobe_url:
 ---
-sunarch:
+sunarch: plan
 ---
 body:
 
-> Procedural Language for SQL
+- [Basic Tutorial](https://docs.cython.org/en/stable/src/tutorial/cython_tutorial.html)
+- [Faster code via static typing](https://docs.cython.org/en/stable/src/quickstart/cythonize.html)
+

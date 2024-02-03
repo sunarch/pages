@@ -36,11 +36,13 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 201
+comparison_score: -250
 ---
-feature_adt: yes
+feature_adt: yes (100)
 ---
-feature_compiled: C-like
+feature_compiled: C-like (50)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
@@ -50,7 +52,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes
+feature_static_typing: yes (100)
 ---
 sum_rankings: 391
 ---
@@ -74,7 +76,10 @@ ranking_tiobe: n/a (51)
 ---
 ranking_tiobe_url:
 ---
-sunarch: plan
+sunarch: disqualified: UFCS
 ---
 body:
+
+- Uniform Function Call Syntax
+    - [Wikipedia (English)](https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax)
 

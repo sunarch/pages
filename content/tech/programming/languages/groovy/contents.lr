@@ -34,13 +34,15 @@ license: Apache License 2.0
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
-comparison_score: 1
+comparison_score: 2
 ---
 feature_adt:
 ---
-feature_compiled: Java VM
+feature_compiled: Java VM (2)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---

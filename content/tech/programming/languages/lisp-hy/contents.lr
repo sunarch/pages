@@ -34,13 +34,15 @@ license: MIT-style
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
 comparison_score: 1
 ---
 feature_adt:
 ---
-feature_compiled: Python BC
+feature_compiled: Python BC (1)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---

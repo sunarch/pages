@@ -34,13 +34,15 @@ license: GNU GPL or Artistic License 2
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
 comparison_score: 0
 ---
 feature_adt:
 ---
 feature_compiled:
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
@@ -77,3 +79,5 @@ ranking_tiobe_url:
 sunarch:
 ---
 body:
+
+- formerly known as Perl 6

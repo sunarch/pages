@@ -34,13 +34,15 @@ license: LGPL-3.0-or-later
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
 comparison_score: 0
 ---
 feature_adt:
 ---
 feature_compiled:
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---

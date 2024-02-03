@@ -36,11 +36,13 @@ category:
 ---
 comparison_include: true
 ---
-comparison_score: 201
+comparison_score: 250
 ---
 feature_adt:
 ---
-feature_compiled: yes
+feature_compiled: yes (100)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
@@ -48,9 +50,9 @@ feature_hof:
 ---
 feature_immutable:
 ---
-feature_jargon: old
+feature_jargon: old (50)
 ---
-feature_static_typing: yes
+feature_static_typing: yes (100)
 ---
 sum_rankings: 277
 ---

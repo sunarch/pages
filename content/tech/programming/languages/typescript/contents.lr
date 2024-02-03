@@ -38,9 +38,11 @@ comparison_include: true
 ---
 comparison_score: 200
 ---
-feature_adt: yes
+feature_adt: yes (100)
 ---
-feature_compiled: (to JavaScript)
+feature_compiled: (to JavaScript) (0)
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
@@ -50,7 +52,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes
+feature_static_typing: yes (100)
 ---
 sum_rankings: 117
 ---

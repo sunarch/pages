@@ -16,7 +16,7 @@ wikipedia_hu:
 ---
 wikibooks_de:
 ---
-wikibooks_en:
+wikibooks_en: https://en.wikibooks.org/wiki/Introducing_Julia
 ---
 wikibooks_hu:
 ---
@@ -34,13 +34,15 @@ license: MIT
 ---
 category:
 ---
-comparison_include: false
+comparison_include: true
 ---
 comparison_score: 0
 ---
 feature_adt:
 ---
 feature_compiled:
+---
+feature_explicit_errors:
 ---
 feature_hacker: --
 ---
