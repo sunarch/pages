@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1993
 ---
+designed_by: Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo
+---
 latest_release: 5.4.6 (May 2023)
 ---
 developer:
----
-designed_by: Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo
 ---
 license: MIT License
 ---

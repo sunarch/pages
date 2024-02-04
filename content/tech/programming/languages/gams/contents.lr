@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1976
 ---
+designed_by:
+---
 latest_release: 45.7.0 (Jan 2024)
 ---
 developer: GAMS Development Corporation
----
-designed_by:
 ---
 license: proprietary
 ---

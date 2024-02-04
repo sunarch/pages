@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1991
 ---
+designed_by: Guido van Rossum
+---
 latest_release: 3.12.1 (Dec 2023)
 ---
 developer: Python Software Foundation
----
-designed_by: Guido van Rossum
 ---
 license: Python Software Foundation License
 ---

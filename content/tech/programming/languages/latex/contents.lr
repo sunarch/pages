@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1984
 ---
+designed_by: Leslie Lamport
+---
 latest_release: (Nov 2023)
 ---
 developer:
----
-designed_by: Leslie Lamport
 ---
 license: LaTeX Project Public License (LPPL)
 ---

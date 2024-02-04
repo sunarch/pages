@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2003
 ---
+designed_by: James Strachan
+---
 latest_release: 4.0.13 (Jun 2023)
 ---
 developer: Guillaume Laforge, Jochen Theodorou, Paul King, Cedric Champeau
----
-designed_by: James Strachan
 ---
 license: Apache License 2.0
 ---

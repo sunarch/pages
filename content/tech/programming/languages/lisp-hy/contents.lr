@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2013
 ---
+designed_by: Paul Tagliamonte
+---
 latest_release: 0.28.0 (Jan 2024)
 ---
 developer: Hy Core team
----
-designed_by: Paul Tagliamonte
 ---
 license: MIT-style
 ---

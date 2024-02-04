@@ -24,11 +24,11 @@ family: C
 ---
 first_appeared: 1985
 ---
+designed_by: Bjarne Stroustrup
+---
 latest_release: C++20 (Dec 2020)
 ---
 developer: ISO/IEC JTC 1 / SC 22 / WG 21
----
-designed_by: Bjarne Stroustrup
 ---
 license:
 ---

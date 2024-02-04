@@ -24,11 +24,11 @@ family: ALGOL
 ---
 first_appeared: 1987
 ---
+designed_by: Niklaus Wirth
+---
 latest_release: Oberon-07 (Mar 2020)
 ---
 developer: Niklaus Wirth
----
-designed_by: Niklaus Wirth
 ---
 license:
 ---

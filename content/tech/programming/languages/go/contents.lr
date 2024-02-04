@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2009
 ---
+designed_by: Robert Griesemer, Rob Pike, Ken Thompson
+---
 latest_release: 1.21.6 (Jan 2024)
 ---
 developer: The Go Authors (Google)
----
-designed_by: Robert Griesemer, Rob Pike, Ken Thompson
 ---
 license: 3-clause BSD + patent
 ---

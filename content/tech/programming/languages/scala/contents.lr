@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2004
 ---
+designed_by: Martin Odersky
+---
 latest_release: 2.13.12 (Sep 2023)
 ---
 developer: Programming Methods Laboratory of École Polytechnique Fédérale de Lausanne
----
-designed_by: Martin Odersky
 ---
 license: Apache 2.0
 ---

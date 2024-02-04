@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1987
 ---
+designed_by: Larry Wall
+---
 latest_release: 5.38.2 (Nov 2023)
 ---
 developer: Larry Wall
----
-designed_by: Larry Wall
 ---
 license: multiple
 ---

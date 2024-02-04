@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2014
 ---
+designed_by: Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.
+---
 latest_release: 5.9.2 (Dec 2023)
 ---
 developer: Apple Inc. and open-source contributors
----
-designed_by: Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.
 ---
 license: Apache License 2.0
 ---

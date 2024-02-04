@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2007
 ---
+designed_by:
+---
 latest_release: 12.3.2 (Jan 2024)
 ---
 developer: Nvidia
----
-designed_by:
 ---
 license: proprietary
 ---

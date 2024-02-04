@@ -24,11 +24,11 @@ family: Lisp
 ---
 first_appeared: 1985
 ---
+designed_by: R. Kent Dybvig
+---
 latest_release: 9.6.4 (Oct 2023)
 ---
 developer: Cadence Research Systems
----
-designed_by: R. Kent Dybvig
 ---
 license: Apache License 2.0
 ---

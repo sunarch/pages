@@ -24,11 +24,11 @@ family: Lisp
 ---
 first_appeared: 2007
 ---
+designed_by: Rich Hickey
+---
 latest_release: 1.11.1 (April 2022)
 ---
 developer:
----
-designed_by: Rich Hickey
 ---
 license:
 ---

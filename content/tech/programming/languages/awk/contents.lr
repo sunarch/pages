@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1977
 ---
+designed_by: Alfred Aho, Peter Weinberger, Brian Kernighan
+---
 latest_release: IEEE Std 1003.1-2008 (POSIX) (1985)
 ---
 developer:
----
-designed_by: Alfred Aho, Peter Weinberger, and Brian Kernighan
 ---
 license:
 ---

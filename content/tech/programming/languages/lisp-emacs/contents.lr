@@ -24,11 +24,11 @@ family: Lisp
 ---
 first_appeared: 1985
 ---
+designed_by: Richard Stallman, Guy L. Steele, Jr.
+---
 latest_release: 29.1 (Jul 2023)
 ---
 developer: GNU Project
----
-designed_by: Richard Stallman, Guy L. Steele, Jr.
 ---
 license: GPLv3
 ---

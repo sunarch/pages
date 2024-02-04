@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1993
 ---
+designed_by: Ross Ihaka, Robert Gentleman
+---
 latest_release: 4.3.2 (Oct 2023)
 ---
 developer: R Core Team
----
-designed_by: Ross Ihaka, Robert Gentleman
 ---
 license: GNU GPL v2
 ---

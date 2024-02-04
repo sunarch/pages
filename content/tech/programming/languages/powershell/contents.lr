@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2006
 ---
+designed_by: Jeffrey Snover, Bruce Payette, James Truher (et al.)
+---
 latest_release: 7.4.1 (Jan 2024)
 ---
 developer: Microsoft
----
-designed_by: Jeffrey Snover, Bruce Payette, James Truher (et al.)
 ---
 license: MIT / part proprietary
 ---

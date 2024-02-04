@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1995
 ---
+designed_by: PLT Inc.
+---
 latest_release: 8.11.1 (Nov 2023)
 ---
 developer: PLT Inc.
----
-designed_by: PLT Inc.
 ---
 license: MIT or Apache 2.0
 ---

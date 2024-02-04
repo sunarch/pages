@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1986
 ---
+designed_by: Joe Armstrong, Robert Virding, Mike Williams
+---
 latest_release: 26.2.1 (Dec 2023)
 ---
 developer: Ericsson
----
-designed_by: Joe Armstrong, Robert Virding, Mike Williams
 ---
 license: Apache License 2.0
 ---

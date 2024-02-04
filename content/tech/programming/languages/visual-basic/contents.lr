@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2001
 ---
+designed_by: Microsoft
+---
 latest_release: 17.8.3 (Dec 2023)
 ---
 developer: Microsoft
----
-designed_by: Microsoft
 ---
 license: Roslyn compiler: Apache License 2.0
 ---

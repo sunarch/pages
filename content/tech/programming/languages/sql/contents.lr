@@ -24,11 +24,11 @@ family: Query language
 ---
 first_appeared: 1974
 ---
+designed_by: Donald D. Chamberlin, Raymond F. Boyce
+---
 latest_release: SQL:2023 (Jun 2023)
 ---
 developer: ISO/IEC JTC 1 / SC 32 / WG 3
----
-designed_by: Donald D. Chamberlin, Raymond F. Boyce
 ---
 license:
 ---

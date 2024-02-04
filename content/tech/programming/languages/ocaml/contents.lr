@@ -24,11 +24,11 @@ family: ML
 ---
 first_appeared: 1996
 ---
+designed_by: Xavier Leroy, Jérôme Vouillon, Damien Doligez, Didier Rémy, Ascánder Suárez
+---
 latest_release: 5.1.1 (Dec 2023)
 ---
 developer: Inria
----
-designed_by: Xavier Leroy, Jérôme Vouillon, Damien Doligez, Didier Rémy, Ascánder Suárez
 ---
 license: LGPLv2.1
 ---

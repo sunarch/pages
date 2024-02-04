@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1995
 ---
+designed_by: Rasmus Lerdorf
+---
 latest_release: 8.3.2 (Jan 2024)
 ---
 developer:  The PHP Development Team, Zend Technologies, PHP Foundation
----
-designed_by: Rasmus Lerdorf
 ---
 license: dual
 ---

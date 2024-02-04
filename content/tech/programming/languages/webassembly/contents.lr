@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2017
 ---
+designed_by: W3C
+---
 latest_release:
 ---
 developer: W3C, Mozilla, Microsoft, Google, Apple
----
-designed_by: W3C
 ---
 license: Apache License 2.0
 ---

@@ -24,11 +24,11 @@ family: C
 ---
 first_appeared: 2000
 ---
+designed_by: Anders Hejlsberg (Microsoft)
+---
 latest_release: 12.0 (Nov 2023)
 ---
 developer: Mads Torgersen (Microsoft)
----
-designed_by: Anders Hejlsberg (Microsoft)
 ---
 license: per compiler
 ---

@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1988
 ---
+designed_by: John Ousterhout
+---
 latest_release: 8.6.13 (Nov 2022)
 ---
 developer: Tcl Core Team
----
-designed_by: John Ousterhout
 ---
 license: BSD-style
 ---

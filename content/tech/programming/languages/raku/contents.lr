@@ -24,11 +24,11 @@ family: Perl
 ---
 first_appeared: 2015
 ---
+designed_by: Larry Wall
+---
 latest_release: 6.d 'Diwali'(Oct 2020)
 ---
 developer: Raku community
----
-designed_by: Larry Wall
 ---
 license: GNU GPL or Artistic License 2
 ---

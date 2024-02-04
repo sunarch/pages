@@ -24,11 +24,11 @@ family: Lisp
 ---
 first_appeared: 1993
 ---
+designed_by: Aubrey Jaffer, Tom Lord, Miles Bader
+---
 latest_release: 3.0.9 (Jan 2023)
 ---
 developer: GNU Project
----
-designed_by: Aubrey Jaffer, Tom Lord, Miles Bader
 ---
 license: LGPL-3.0-or-later
 ---

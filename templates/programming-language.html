@@ -65,16 +65,16 @@
                 <td>{{ this.first_appeared }} ({{ this.age }} year{% if this.age == '1' %}s{% endif %})</td>
             </tr>
             {% endif %}
-            {% if this.latest_release | string | length > 0 %}
-            <tr>
-                <td style="font-weight: bold;">Latest release</td>
-                <td>{{ this.latest_release }}</td>
-            </tr>
-            {% endif %}
             {% if this.designed_by | string | length > 0 %}
             <tr>
                 <td style="font-weight: bold;">Designed by</td>
                 <td>{{ this.designed_by }}</td>
+            </tr>
+            {% endif %}
+            {% if this.latest_release | string | length > 0 %}
+            <tr>
+                <td style="font-weight: bold;">Latest release</td>
+                <td>{{ this.latest_release }}</td>
             </tr>
             {% endif %}
             {% if this.developer | string | length > 0 %}

@@ -24,11 +24,11 @@ family: ML
 ---
 first_appeared: 2005
 ---
+designed_by: Don Syme, Microsoft Research
+---
 latest_release: 8.0.0 (Nov 2023)
 ---
 developer: Microsoft, The F# Software Foundation
----
-designed_by: Don Syme, Microsoft Research
 ---
 license: MIT License
 ---

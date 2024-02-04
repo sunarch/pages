@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2012
 ---
+designed_by: Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah
+---
 latest_release: 1.10.0 (Dec 2023)
 ---
 developer: Jeff Bezanson, Stefan Karpinski, Viral B. Shah, et al.
----
-designed_by: Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah
 ---
 license: MIT
 ---

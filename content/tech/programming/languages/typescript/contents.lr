@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2012
 ---
+designed_by: Microsoft
+---
 latest_release: 5.3.2 (Nov 2023)
 ---
 developer: Microsoft
----
-designed_by: Microsoft
 ---
 license: Apache License 2.0
 ---

@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2001
 ---
+designed_by: Walter Bright, Andrei Alexandrescu
+---
 latest_release: 2.104.0 (Jun 2023)
 ---
 developer: D Language Foundation
----
-designed_by: Walter Bright, Andrei Alexandrescu
 ---
 license: Boost
 ---

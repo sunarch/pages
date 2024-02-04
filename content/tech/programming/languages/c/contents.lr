@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1972
 ---
+designed_by: Dennis Ritchie
+---
 latest_release: C17 (Jun 2018)
 ---
 developer: ISO/IEC JTC 1 / SC 22 / WG 14
----
-designed_by: Dennis Ritchie
 ---
 license:
 ---

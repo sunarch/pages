@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 2015
 ---
+designed_by: Graydon Hoare
+---
 latest_release: 1.75.0 (Dec 2023)
 ---
 developer: Rust Foundation
----
-designed_by: Graydon Hoare
 ---
 license: MIT and Apache 2.0
 ---

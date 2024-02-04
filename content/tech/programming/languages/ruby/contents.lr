@@ -24,11 +24,11 @@ family:
 ---
 first_appeared: 1995
 ---
+designed_by: Yukihiro Matsumoto
+---
 latest_release: 3.3.0 (Dec 2023)
 ---
 developer: Yukihiro Matsumoto, et al.
----
-designed_by: Yukihiro Matsumoto
 ---
 license: Ruby License
 ---
