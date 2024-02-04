@@ -62,7 +62,7 @@
             {% if this.first_appeared | string | length > 0 %}
             <tr>
                 <td style="font-weight: bold;">First appeared</td>
-                <td>{{ this.first_appeared }} ({{ 2024 - this.first_appeared }} years)</td>
+                <td>{{ this.first_appeared }} ({{ this.age }} year{% if this.age == '1' %}s{% endif %})</td>
             </tr>
             {% endif %}
             {% if this.latest_release | string | length > 0 %}

@@ -22,7 +22,7 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared:
+first_appeared: 2019
 ---
 latest_release:
 ---
@@ -38,7 +38,7 @@ comparison_include: true
 ---
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: by LLVM
 ---
 feature_explicit_errors:
 ---
@@ -50,7 +50,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing:
+feature_static_typing: yes
 ---
 sum_rankings: 435
 ---

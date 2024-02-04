@@ -22,7 +22,7 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared:
+first_appeared: 1972
 ---
 latest_release:
 ---
@@ -77,3 +77,6 @@ ranking_tiobe_url:
 sunarch:
 ---
 body:
+
+- SAS (software)
+    - [Wikipedia (English)](https://en.wikipedia.org/wiki/SAS_(software))

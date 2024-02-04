@@ -7,3 +7,5 @@ rm -r ../pages/.lektor
 rm ../pages/.domains
 rm ../pages/.gitignore
 rm ../pages/.nojekyll
+
+rm -r ~/.cache/lektor/packages/*

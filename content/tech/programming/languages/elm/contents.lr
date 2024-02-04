@@ -38,7 +38,7 @@ comparison_include: true
 ---
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: (to JavaScript)
 ---
 feature_explicit_errors: Result
 ---

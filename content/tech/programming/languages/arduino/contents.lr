@@ -2,7 +2,7 @@ title: Arduino
 ---
 _model: programming-language
 ---
-homepage: https://www.arduino.cc/
+homepage: https://www.arduino.cc
 ---
 docs: https://www.arduino.cc/reference/en/
 ---
@@ -22,7 +22,7 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared:
+first_appeared: 2003
 ---
 latest_release:
 ---

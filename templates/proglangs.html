@@ -51,8 +51,8 @@
             <tr>
                 <td>{{ child.comparison_score }}</td>
                 <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
-                {% if this.first_appeared | string | length > 0 %}
-                    <td>{{ child.first_appeared }} ({{ 2024 - child.first_appeared }})</td>
+                {% if child.first_appeared | string | length > 0 %}
+                    <td>{{ child.first_appeared }} ({{ child.age }})</td>
                 {% else %}
                     <td>{{ child.first_appeared }}</td>
                 {% endif %}

@@ -23,7 +23,12 @@ setup(
     long_description_content_type='text/markdown',
     name='lektor-proglangs',
     packages=find_packages(),
-    py_modules=['lektor_proglangs'],
+    py_modules=[
+        'lektor_proglangs',
+        'proglangs',
+        'proglangs_age',
+        'proglangs_comparison'
+    ],
     # url='[link to your repository]',
     version='0.1',
     classifiers=[

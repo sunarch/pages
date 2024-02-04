@@ -34,19 +34,19 @@ license:
 ---
 category:
 ---
-comparison_include: true
+comparison_include: false
 ---
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: yes
 ---
 feature_explicit_errors:
 ---
 feature_hacker: 2nd
 ---
-feature_hof:
+feature_hof: yes
 ---
-feature_immutable:
+feature_immutable: --
 ---
 feature_jargon: yes
 ---
