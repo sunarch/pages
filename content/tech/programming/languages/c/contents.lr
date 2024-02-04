@@ -34,9 +34,7 @@ license:
 ---
 category:
 ---
-comparison_include: true
----
-feature_adt:
+feature_adt: struct
 ---
 feature_compiled: yes
 ---
@@ -46,7 +44,7 @@ feature_hacker: 3rd
 ---
 feature_hof: --
 ---
-feature_immutable:
+feature_immutable: macro
 ---
 feature_jargon: yes
 ---

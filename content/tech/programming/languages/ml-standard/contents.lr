@@ -1,38 +1,38 @@
-title: ML
+title: Standard ML
 ---
 _model: programming-language
 ---
-homepage:
+homepage: https://smlfamily.github.io
 ---
 docs:
 ---
 repository:
 ---
-wikipedia_de: https://de.wikipedia.org/wiki/ML_(Programmiersprache)
+wikipedia_de: https://de.wikipedia.org/wiki/Standard_ML
 ---
-wikipedia_en: https://en.wikipedia.org/wiki/ML_(programming_language)
+wikipedia_en: https://en.wikipedia.org/wiki/Standard_ML
 ---
-wikipedia_hu: https://hu.wikipedia.org/wiki/ML_(programoz%C3%A1si_nyelv)
+wikipedia_hu: https://hu.wikipedia.org/wiki/SML
 ---
 wikibooks_de:
 ---
-wikibooks_en:
+wikibooks_en: https://en.wikibooks.org/wiki/Standard_ML_Programming
 ---
 wikibooks_hu:
 ---
-family:
+family: ML
 ---
-first_appeared: 1973
+first_appeared: 1983
 ---
-designed_by: Robin Milner, others at the University of Edinburgh
+designed_by:
 ---
-latest_release:
+latest_release: Standard ML '97 (1997)
 ---
 developer:
 ---
 license:
 ---
-category: family
+category:
 ---
 feature_adt:
 ---
@@ -68,7 +68,7 @@ ranking_stackoverflow_desired: n/a (52)
 ---
 ranking_stackoverflow_paying: n/a (52)
 ---
-ranking_tiobe: 49 (0.23%)
+ranking_tiobe: 49 (0.23%) (ML)
 ---
 ranking_tiobe_url:
 ---
@@ -76,4 +76,4 @@ sunarch:
 ---
 body:
 
-> Meta Language
+- abbreviated **SML**

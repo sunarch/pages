@@ -34,8 +34,6 @@ license: MIT License
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt: yes
 ---
 feature_compiled: CLI/.NET

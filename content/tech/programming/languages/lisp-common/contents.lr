@@ -34,9 +34,7 @@ license:
 ---
 category:
 ---
-comparison_include: true
----
-feature_adt:
+feature_adt: library
 ---
 feature_compiled: yes
 ---

@@ -34,13 +34,11 @@ license: BSD-3-Clause license
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
 feature_compiled: yes
 ---
-feature_explicit_errors:
+feature_explicit_errors: value
 ---
 feature_hacker: --
 ---

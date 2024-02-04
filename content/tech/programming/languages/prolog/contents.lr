@@ -32,9 +32,7 @@ developer:
 ---
 license:
 ---
-category:
----
-comparison_include: true
+category: domain
 ---
 feature_adt:
 ---

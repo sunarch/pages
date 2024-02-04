@@ -34,11 +34,9 @@ license: Apache License 2.0
 ---
 category:
 ---
-comparison_include: false
----
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: by LLVM
 ---
 feature_explicit_errors: union
 ---
@@ -50,7 +48,7 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing:
+feature_static_typing: yes
 ---
 sum_rankings: 397
 ---

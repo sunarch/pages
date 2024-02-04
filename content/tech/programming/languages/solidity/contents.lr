@@ -32,9 +32,7 @@ developer: Christian Reitwiessner, Alex Beregszaszi, several former Ethereum cor
 ---
 license: GNU GPLv3
 ---
-category:
----
-comparison_include: false
+category: application
 ---
 feature_adt:
 ---

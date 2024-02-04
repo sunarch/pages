@@ -2,6 +2,36 @@
 
 {% block title %}{{ this.title }}{% endblock %}
 
+{% set lang_sections_comparison = [
+    ('', 'General'),
+    ('system', 'System'),
+    ('database', 'Database'),
+    ('domain', 'Domain-specific'),
+    ('teaching', 'Teaching'),
+    ('esoteric', 'Esoteric')
+]
+%}
+{% set lang_sections_other = [
+    'markup',
+    'hardware'
+]
+%}
+{% set lang_sections_rankings = [
+    ('', 'General'),
+    ('system', 'System'),
+    ('database', 'Database'),
+    ('domain', 'Domain-specific'),
+    ('hardware', 'Hardware'),
+    ('teaching', 'Teaching'),
+    ('markup', 'Markup / styling'),
+    ('application', 'Application-specific'),
+    ('esoteric', 'Esoteric'),
+    ('family', 'Parent of a language family'),
+    ('legacy', 'Legacy'),
+    ('deprecated', 'Deprecated')
+]
+%}
+
 {% block content %}
     {{ this.body }}
     <h2>comparison</h2>
@@ -46,31 +76,36 @@
             </tr>
         </thead>
         <tbody>
-            {% for child in this.children | sort(attribute='comparison_score', reverse=true) %}
-            {% if child.comparison_include %}
-            <tr>
-                <td>{{ child.comparison_score }}</td>
-                <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
-                {% if child.first_appeared | string | length > 0 %}
-                    <td>{{ child.first_appeared }} ({{ child.age }})</td>
-                {% else %}
-                    <td>{{ child.first_appeared }}</td>
+            {% for category, lang_section in lang_sections_comparison %}
+                <tr class="table-section-header">
+                    <td colspan="16">{{ lang_section }}</td>
+                </tr>
+                {% for child in this.children | sort(attribute='comparison_score', reverse=true) %}
+                {% if child.category == category %}
+                <tr>
+                    <td>{{ child.comparison_score }}</td>
+                    <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
+                    {% if child.first_appeared | string | length > 0 %}
+                        <td>{{ child.first_appeared }} ({{ child.age }})</td>
+                    {% else %}
+                        <td>{{ child.first_appeared }}</td>
+                    {% endif %}
+                    <td>{{ child.feature_static_typing }}</td>
+                    <td>{{ child.feature_adt }}</td>
+                    <td>{{ child.feature_compiled }}</td>
+                    <td>{{ child.feature_explicit_errors }}</td>
+                    <td>{{ child.feature_hof }}</td>
+                    <td>{{ child.feature_immutable }}</td>
+                    <td>{{ child.feature_jargon }}</td>
+                    <td>{{ child.feature_hacker }}</td>
+                    {% if child.sunarch | string | length > 0 %}
+                        <td>({{ child.sunarch }})</td>
+                    {% else %}
+                        <td>&nbsp;</td>
+                    {% endif %}
+                </tr>
                 {% endif %}
-                <td>{{ child.feature_static_typing }}</td>
-                <td>{{ child.feature_adt }}</td>
-                <td>{{ child.feature_compiled }}</td>
-                <td>{{ child.feature_explicit_errors }}</td>
-                <td>{{ child.feature_hof }}</td>
-                <td>{{ child.feature_immutable }}</td>
-                <td>{{ child.feature_jargon }}</td>
-                <td>{{ child.feature_hacker }}</td>
-                {% if child.sunarch | string | length > 0 %}
-                    <td>({{ child.sunarch }})</td>
-                {% else %}
-                    <td>&nbsp;</td>
-                {% endif %}
-            </tr>
-            {% endif %}
+                {% endfor %}
             {% endfor %}
         </tbody>
     </table>
@@ -85,7 +120,7 @@
         </thead>
         <tbody>
             {% for child in this.children | sort(attribute='title') %}
-            {% if not child.comparison_include %}
+            {% if child.category in lang_sections_other %}
             {% if child.sunarch | string | length > 0 %}
             <tr>
                 <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
@@ -131,21 +166,28 @@
             </tr>
         </thead>
         <tbody>
-            {% for child in this.children | sort(attribute='sum_rankings') %}
-            <tr>
-                <td>{{ child.sum_rankings }}</td>
-                <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
-                <td>{{ child.first_appeared }}</td>
-                <td>{{ child.ranking_ieee_spectrum }}</td>
-                <td>{{ child.ranking_ieee_spectrum_jobs }}</td>
-                <td>{{ child.ranking_ieee_spectrum_trending }}</td>
-                <td>{{ child.ranking_pypl }}</td>
-                <td>{{ child.ranking_redmonk }}</td>
-                <td>{{ child.ranking_stackoverflow_popular }}</td>
-                <td>{{ child.ranking_stackoverflow_desired }}</td>
-                <td>{{ child.ranking_stackoverflow_paying }}</td>
-                <td>{{ child.ranking_tiobe }}</td>
-            </tr>
+            {% for category, lang_section in lang_sections_rankings %}
+                <tr class="table-section-header">
+                    <td colspan="16">{{ lang_section }}</td>
+                </tr>
+                {% for child in this.children | sort(attribute='sum_rankings') %}
+                {% if child.category == category %}
+                <tr>
+                    <td>{{ child.sum_rankings }}</td>
+                    <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
+                    <td>{{ child.first_appeared }}</td>
+                    <td>{{ child.ranking_ieee_spectrum }}</td>
+                    <td>{{ child.ranking_ieee_spectrum_jobs }}</td>
+                    <td>{{ child.ranking_ieee_spectrum_trending }}</td>
+                    <td>{{ child.ranking_pypl }}</td>
+                    <td>{{ child.ranking_redmonk }}</td>
+                    <td>{{ child.ranking_stackoverflow_popular }}</td>
+                    <td>{{ child.ranking_stackoverflow_desired }}</td>
+                    <td>{{ child.ranking_stackoverflow_paying }}</td>
+                    <td>{{ child.ranking_tiobe }}</td>
+                </tr>
+                {% endif %}
+                {% endfor %}
             {% endfor %}
         </tbody>
     </table>

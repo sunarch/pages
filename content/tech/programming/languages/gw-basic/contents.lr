@@ -34,8 +34,6 @@ license: mixed
 ---
 category:
 ---
-comparison_include: false
----
 feature_adt:
 ---
 feature_compiled:

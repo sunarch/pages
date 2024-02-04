@@ -34,8 +34,6 @@ license: LGPLv2.1
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt: yes
 ---
 feature_compiled: yes

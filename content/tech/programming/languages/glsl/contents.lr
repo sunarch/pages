@@ -1,18 +1,18 @@
-title: ML
+title: GLSL
 ---
 _model: programming-language
 ---
 homepage:
 ---
-docs:
+docs: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
 ---
 repository:
 ---
-wikipedia_de: https://de.wikipedia.org/wiki/ML_(Programmiersprache)
+wikipedia_de: https://de.wikipedia.org/wiki/OpenGL_Shading_Language
 ---
-wikipedia_en: https://en.wikipedia.org/wiki/ML_(programming_language)
+wikipedia_en: https://en.wikipedia.org/wiki/OpenGL_Shading_Language
 ---
-wikipedia_hu: https://hu.wikipedia.org/wiki/ML_(programoz%C3%A1si_nyelv)
+wikipedia_hu:
 ---
 wikibooks_de:
 ---
@@ -22,9 +22,9 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared: 1973
+first_appeared: 2004
 ---
-designed_by: Robin Milner, others at the University of Edinburgh
+designed_by: OpenGL ARB
 ---
 latest_release:
 ---
@@ -32,25 +32,25 @@ developer:
 ---
 license:
 ---
-category: family
+category: hardware
 ---
 feature_adt:
 ---
 feature_compiled:
 ---
-feature_explicit_errors:
+feature_explicit_errors: pointer return
 ---
 feature_hacker: --
 ---
-feature_hof:
+feature_hof: --
 ---
 feature_immutable:
 ---
 feature_jargon: --
 ---
-feature_static_typing: yes
+feature_static_typing:
 ---
-sum_rankings: 433
+sum_rankings: 435
 ---
 ranking_ieee_spectrum: n/a (59)
 ---
@@ -68,12 +68,12 @@ ranking_stackoverflow_desired: n/a (52)
 ---
 ranking_stackoverflow_paying: n/a (52)
 ---
-ranking_tiobe: 49 (0.23%)
+ranking_tiobe: n/a (51)
 ---
 ranking_tiobe_url:
 ---
-sunarch:
+sunarch: some
 ---
 body:
 
-> Meta Language
+> OpenGL Shading Language

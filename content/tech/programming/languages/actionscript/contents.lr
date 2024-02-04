@@ -34,11 +34,9 @@ license:
 ---
 category:
 ---
-comparison_include: false
----
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: bytecode
 ---
 feature_explicit_errors:
 ---

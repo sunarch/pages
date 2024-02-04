@@ -34,8 +34,6 @@ license: per compiler
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
 feature_compiled: CLI/.NET

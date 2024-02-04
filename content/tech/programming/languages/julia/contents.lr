@@ -34,11 +34,9 @@ license: MIT
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: optional
 ---
 feature_explicit_errors:
 ---

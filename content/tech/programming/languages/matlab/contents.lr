@@ -32,9 +32,7 @@ developer: MathWorks
 ---
 license:
 ---
-category:
----
-comparison_include: false
+category: domain
 ---
 feature_adt:
 ---

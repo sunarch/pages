@@ -34,9 +34,7 @@ license: 3-clause BSD + patent
 ---
 category:
 ---
-comparison_include: true
----
-feature_adt:
+feature_adt: interface
 ---
 feature_compiled: yes
 ---
@@ -46,7 +44,7 @@ feature_hacker: 2nd
 ---
 feature_hof: yes
 ---
-feature_immutable:
+feature_immutable: compile-time
 ---
 feature_jargon: --
 ---

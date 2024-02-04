@@ -34,9 +34,7 @@ license:
 ---
 category:
 ---
-comparison_include: true
----
-feature_adt: yes
+feature_adt: sealed interface + record
 ---
 feature_compiled: Java VM
 ---

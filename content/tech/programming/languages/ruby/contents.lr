@@ -34,8 +34,6 @@ license: Ruby License
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
 feature_compiled:

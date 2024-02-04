@@ -32,9 +32,7 @@ developer: GNU Project
 ---
 license: GPLv3
 ---
-category:
----
-comparison_include: false
+category: application
 ---
 feature_adt:
 ---

@@ -34,11 +34,9 @@ license: BSD-style
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: --
 ---
 feature_explicit_errors:
 ---

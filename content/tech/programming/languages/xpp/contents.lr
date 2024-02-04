@@ -28,13 +28,11 @@ designed_by:
 ---
 latest_release:
 ---
-developer:
+developer: Microsoft
 ---
 license:
 ---
-category:
----
-comparison_include: false
+category: application
 ---
 feature_adt:
 ---

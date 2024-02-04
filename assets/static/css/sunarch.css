@@ -18,3 +18,10 @@ details > summary::-webkit-details-marker /* Safari */ {
 .deprecated-title {
     font-style: italic;
 }
+
+.table-section-header {
+    background: lightgray;
+    text-align: center;
+    font-weight: bold;
+    color: darkslategray;
+}

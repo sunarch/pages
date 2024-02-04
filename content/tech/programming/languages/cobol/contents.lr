@@ -32,9 +32,7 @@ developer: CODASYL, ANSI, ISO/IEC
 ---
 license:
 ---
-category:
----
-comparison_include: false
+category: legacy
 ---
 feature_adt:
 ---

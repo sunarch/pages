@@ -34,8 +34,6 @@ license: Revised BSD
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
 feature_compiled: (to JavaScript)

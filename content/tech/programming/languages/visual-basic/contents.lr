@@ -34,8 +34,6 @@ license: Roslyn compiler: Apache License 2.0
 ---
 category:
 ---
-comparison_include: false
----
 feature_adt:
 ---
 feature_compiled:

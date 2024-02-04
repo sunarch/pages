@@ -32,9 +32,7 @@ developer:
 ---
 license:
 ---
-category:
----
-comparison_include: false
+category: system
 ---
 feature_adt:
 ---

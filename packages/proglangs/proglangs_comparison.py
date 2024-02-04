@@ -21,16 +21,22 @@ feature: dict[str, int] = {
 }
 
 feature_adt: dict[str, int] = {
-
+    'library': 80,
+    'sealed interface + record': 20,
+    'interface': 20,
+    'struct': 1
 }
 
 feature_compiled: dict[str, int] = {
     'via C': 99,
     'by LLVM': 90,
+    'optional': 70,
+    'multi-step': 50,
     'BEAM VM': 30,
     'Java VM': 20,
     'CLI/.NET': 10,
     'Python BC': 1,
+    'bytecode': 1,
     'Ethereum VM': 0,
     '(to JavaScript)': 0
 }
@@ -44,6 +50,7 @@ feature_explicit_errors: dict[str, int] = {
     'try/catch + Option': 10,
     'try/throw': 1,
     'try/catch': 1,
+    'pointer return': 0,
     '(return)': 0
 }
 
@@ -62,14 +69,16 @@ feature_hof: dict[str, int] = {
 }
 
 feature_immutable: dict[str, int] = {
-    'part': 1
+    'compile-time': 90,
+    'part': 1,
+    'macro': 0
 }
 
 feature_jargon: dict[str, int] = {
     '(yes)': 100,
     'small': 60,
     'old': 50,
-    '(loss)': -1
+    '(loss)': -90
 }
 
 feature_static_typing: dict[str, int] = {

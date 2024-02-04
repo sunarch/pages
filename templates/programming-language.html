@@ -62,7 +62,7 @@
             {% if this.first_appeared | string | length > 0 %}
             <tr>
                 <td style="font-weight: bold;">First appeared</td>
-                <td>{{ this.first_appeared }} ({{ this.age }} year{% if this.age == '1' %}s{% endif %})</td>
+                <td>{{ this.first_appeared }} ({{ this.age }} year{% if this.age != 1 %}s{% endif %})</td>
             </tr>
             {% endif %}
             {% if this.designed_by | string | length > 0 %}
@@ -206,6 +206,10 @@
     <h2>Personal</h2>
     <table style="display: table; width: 100%; margin-bottom: 20pt;">
         <tbody>
+            <tr>
+                <td style="font-weight: bold;">Category</td>
+                <td>{{ this.category }}</td>
+            </tr>
             <tr>
                 <td style="font-weight: bold;">Usage</td>
                 <td>{{ this.sunarch }}</td>

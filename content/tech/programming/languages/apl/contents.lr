@@ -32,9 +32,7 @@ developer: Larry Breed, Dick Lathwell, Roger Moore and others
 ---
 license: mixed
 ---
-category:
----
-comparison_include: false
+category: domain
 ---
 feature_adt:
 ---

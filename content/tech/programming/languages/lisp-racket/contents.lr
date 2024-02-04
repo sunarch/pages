@@ -34,8 +34,6 @@ license: MIT or Apache 2.0
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt: yes
 ---
 feature_compiled:

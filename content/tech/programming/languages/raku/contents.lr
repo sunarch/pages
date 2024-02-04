@@ -34,8 +34,6 @@ license: GNU GPL or Artistic License 2
 ---
 category:
 ---
-comparison_include: true
----
 feature_adt:
 ---
 feature_compiled:
