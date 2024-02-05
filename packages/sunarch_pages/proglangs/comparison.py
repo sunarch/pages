@@ -1,13 +1,15 @@
-# -*- coding: utf-8 -*-
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-from proglangs import set_field
-from proglangs_age import KEY_FOR_AGE
+"""Proglangs - comparison"""
 
-KEY_FOR_COMAPRISON_SCORE: str = 'comparison_score'
+# requirements
+from lektor.db import Page
+
+# package
+from common.page import set_field
+from proglangs.model import KEY_FOR_COMPARISON_SCORE, KEY_FOR_AGE
 
 skip: tuple[str, ...] = (
     '',
@@ -101,6 +103,10 @@ for dict_feature in all_features.values():
     dict_feature.update(feature)
 
 
+def set_comparison_score(page: Page, value: int) -> None:
+    set_field(page, KEY_FOR_COMPARISON_SCORE, value)
+
+
 def negative_score(value: int) -> int:
     return (-1) * len(all_features) * feature['yes'] + value
 
@@ -136,6 +142,6 @@ def calculate_comparison_score(page, debug: int = 0) -> int:
             print(' ->', comparison_score)
 
     if debug > 2:
-        print(' ' * 3, '[', KEY_FOR_COMAPRISON_SCORE, ']')
+        print(' ' * 3, '[', KEY_FOR_COMPARISON_SCORE, ']')
 
     return comparison_score

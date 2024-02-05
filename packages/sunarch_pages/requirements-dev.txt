@@ -1,0 +1,5 @@
+build == 1.0.3
+pylint == 3.0.3
+setuptools == 69.0.3
+wheel == 0.42.0
+twine == 4.0.2

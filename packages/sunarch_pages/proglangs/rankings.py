@@ -1,21 +1,25 @@
-# -*- coding: utf-8 -*-
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+"""Proglangs - rankings"""
+
+# library
 from typing import Callable, Generator, OrderedDict, Union
 
+# requirements
 from lektor.databags import Databags
-from lektor.db import Pad, Query
+from lektor.db import Pad, Page, Query
 
-from proglangs import (KEY_FOR_SLUG,
-                       KEY_FOR_TITLE,
-                       PATH_PROGLANGS,
-                       set_field,
-                       closure_page_title_lookup)
+# package
+from common.model import KEY_FOR_SLUG, KEY_FOR_TITLE
+from common.page import closure_page_title_lookup, set_field
+from proglangs.common import PATH_PROGLANGS
+from proglangs.model import KEY_FOR_SUM_RANKINGS
 
-KEY_FOR_SUM_RANKINGS: str = 'sum_rankings'
+
+def set_sum_rankings(page: Page, value: int) -> None:
+    set_field(page, KEY_FOR_SUM_RANKINGS, value)
 
 
 def ranking_field_name(ranking_name: str) -> str:
@@ -119,7 +123,7 @@ def calculate_sum_rankings(page, debug: int = 0) -> int:
 
     pad: Pad = page.pad
 
-    page_title_lookup: Callable[[str], str] = closure_page_title_lookup(pad)
+    page_title_lookup: Callable[[str], str] = closure_page_title_lookup(pad, PATH_PROGLANGS)
 
     databags: Databags = pad.databags
 
