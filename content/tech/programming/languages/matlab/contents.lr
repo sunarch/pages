@@ -50,26 +50,6 @@ feature_jargon: --
 ---
 feature_static_typing: --
 ---
-sum_rankings: 211
----
-ranking_ieee_spectrum: 20 (0.0502)
----
-ranking_ieee_spectrum_jobs: 13 (0.0819)
----
-ranking_ieee_spectrum_trending: 21 (0.0420)
----
-ranking_pypl: 14 (1.64 %)
----
-ranking_redmonk: n/a (21)
----
-ranking_stackoverflow_popular: 23 (3.81%)
----
-ranking_stackoverflow_desired: 36
----
-ranking_stackoverflow_paying: 49
----
-ranking_tiobe: 14 (0.97%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/matlab/
 ---
 sunarch:

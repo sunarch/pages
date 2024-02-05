@@ -50,26 +50,6 @@ feature_jargon: yes
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 73
----
-ranking_ieee_spectrum: 2 (0.588)
----
-ranking_ieee_spectrum_jobs: 3 (0.7899)
----
-ranking_ieee_spectrum_trending: 2 (0.7358)
----
-ranking_pypl: 2 (15.52 %)
----
-ranking_redmonk: 3
----
-ranking_stackoverflow_popular: 7 (30.55%)
----
-ranking_stackoverflow_desired: 10
----
-ranking_stackoverflow_paying: 40
----
-ranking_tiobe: 4 (7.87%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/java/
 ---
 sunarch: some

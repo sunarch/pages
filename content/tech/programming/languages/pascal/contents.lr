@@ -50,26 +50,6 @@ feature_jargon: (loss)
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 298
----
-ranking_ieee_spectrum: 45 (0.0068)
----
-ranking_ieee_spectrum_jobs: 44 (0.0023)
----
-ranking_ieee_spectrum_trending: 47 (0.0047)
----
-ranking_pypl: 29 (0.19 %)
----
-ranking_redmonk: n/a (21)
----
-ranking_stackoverflow_popular: 26 (3.23%)
----
-ranking_stackoverflow_desired: 28
----
-ranking_stackoverflow_paying: 45
----
-ranking_tiobe: 13 (1.09%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/delphi-object-pascal/
 ---
 sunarch:

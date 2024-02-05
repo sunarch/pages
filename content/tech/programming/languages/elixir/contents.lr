@@ -50,30 +50,10 @@ feature_jargon: --
 ---
 feature_static_typing:
 ---
-sum_rankings: 264
----
-ranking_ieee_spectrum: 33 (0.0116)
----
-ranking_ieee_spectrum_jobs: 40 (0.0049)
----
-ranking_ieee_spectrum_trending: 34 (0.0109)
----
-ranking_pypl: n/a (30)
----
-ranking_redmonk: n/a (21)
----
-ranking_stackoverflow_popular: 29 (2.32%)
----
-ranking_stackoverflow_desired: 20
----
-ranking_stackoverflow_paying: 6
----
-ranking_tiobe: n/a (51)
----
 ranking_tiobe_url:
 ---
 sunarch: tried
 ---
 body:
 
-- on BEAN, the Erlang VM
+- on BEAM, the Erlang VM

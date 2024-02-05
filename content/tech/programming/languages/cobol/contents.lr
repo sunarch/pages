@@ -50,26 +50,6 @@ feature_jargon: (loss)
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 291
----
-ranking_ieee_spectrum: 34 (0.0109)
----
-ranking_ieee_spectrum_jobs: 32 (0.0149)
----
-ranking_ieee_spectrum_trending: 31 (0.0120)
----
-ranking_pypl: 28 (0.22 %)
----
-ranking_redmonk: n/a (21)
----
-ranking_stackoverflow_popular: 45 (0.66%)
----
-ranking_stackoverflow_desired: 48
----
-ranking_stackoverflow_paying: 32
----
-ranking_tiobe: 20 (0.78%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/cobol/
 ---
 sunarch:

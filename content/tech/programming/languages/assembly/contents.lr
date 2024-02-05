@@ -50,26 +50,6 @@ feature_jargon: old
 ---
 feature_static_typing:
 ---
-sum_rankings: 216
----
-ranking_ieee_spectrum: 22 (0.0383)
----
-ranking_ieee_spectrum_jobs: 34 (0.0117)
----
-ranking_ieee_spectrum_trending: 24 (0.0295)
----
-ranking_pypl: n/a (30)
----
-ranking_redmonk: n/a (21)
----
-ranking_stackoverflow_popular: 19 (5.43%)
----
-ranking_stackoverflow_desired: 21
----
-ranking_stackoverflow_paying: 30
----
-ranking_tiobe: 15 (0.92%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/assembly-language/
 ---
 sunarch: tried

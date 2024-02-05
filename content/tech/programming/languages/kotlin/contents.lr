@@ -50,29 +50,8 @@ feature_jargon: --
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 159
----
-ranking_ieee_spectrum: 19 (0.0523)
----
-ranking_ieee_spectrum_jobs: 21 (0.0486)
----
-ranking_ieee_spectrum_trending: 19 (0.0498)
----
-ranking_pypl: 13 (1.75 %)
----
-ranking_redmonk: 17
----
-ranking_stackoverflow_popular: 15 (9.06%)
----
-ranking_stackoverflow_desired: 12
----
-ranking_stackoverflow_paying: 26
----
-ranking_tiobe: 17 (0.85%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/kotlin/
 ---
 sunarch:
 ---
 body:
-

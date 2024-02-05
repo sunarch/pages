@@ -50,26 +50,6 @@ feature_jargon: yes
 ---
 feature_static_typing: --
 ---
-sum_rankings: 38
----
-ranking_ieee_spectrum: 1 (1.0)
----
-ranking_ieee_spectrum_jobs: 2 (0.8913)
----
-ranking_ieee_spectrum_trending: 1 (1.0)
----
-ranking_pypl: 1 (28.11 %)
----
-ranking_redmonk: 2
----
-ranking_stackoverflow_popular: 3 (49.28%)
----
-ranking_stackoverflow_desired: 2
----
-ranking_stackoverflow_paying: 25
----
-ranking_tiobe: 1 (13.97%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/python/
 ---
 sunarch: primary

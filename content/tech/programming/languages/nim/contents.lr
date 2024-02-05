@@ -50,26 +50,6 @@ feature_jargon: --
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 391
----
-ranking_ieee_spectrum: n/a (59)
----
-ranking_ieee_spectrum_jobs: n/a (59)
----
-ranking_ieee_spectrum_trending: n/a (59)
----
-ranking_pypl: n/a (30)
----
-ranking_redmonk: n/a (21)
----
-ranking_stackoverflow_popular: 48 (0.38%)
----
-ranking_stackoverflow_desired: 41
----
-ranking_stackoverflow_paying: 23
----
-ranking_tiobe: n/a (51)
----
 ranking_tiobe_url:
 ---
 sunarch: disqualified: UFCS

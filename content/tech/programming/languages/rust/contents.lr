@@ -50,26 +50,6 @@ feature_jargon: --
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 148
----
-ranking_ieee_spectrum: 18 (0.0576)
----
-ranking_ieee_spectrum_jobs: 30 (0.0162)
----
-ranking_ieee_spectrum_trending: 17 (0.0510)
----
-ranking_pypl: 11 (2.23 %)
----
-ranking_redmonk: 19
----
-ranking_stackoverflow_popular: 14 (13.05%)
----
-ranking_stackoverflow_desired: 6
----
-ranking_stackoverflow_paying: 14
----
-ranking_tiobe: 19 (0.79%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/rust/
 ---
 sunarch: some

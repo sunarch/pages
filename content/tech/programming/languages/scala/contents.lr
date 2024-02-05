@@ -50,26 +50,6 @@ feature_jargon: --
 ---
 feature_static_typing: yes
 ---
-sum_rankings: 194
----
-ranking_ieee_spectrum: 21 (0.0449)
----
-ranking_ieee_spectrum_jobs: 19 (0.0585)
----
-ranking_ieee_spectrum_trending: 22 (0.0390)
----
-ranking_pypl: 21 (0.59 %)
----
-ranking_redmonk: 14
----
-ranking_stackoverflow_popular: 27 (2.77%)
----
-ranking_stackoverflow_desired: 25
----
-ranking_stackoverflow_paying: 8
----
-ranking_tiobe: 37 (0.34%)
----
 ranking_tiobe_url:
 ---
 sunarch:

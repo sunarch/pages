@@ -50,26 +50,6 @@ feature_jargon: --
 ---
 feature_static_typing: --
 ---
-sum_rankings: 134
----
-ranking_ieee_spectrum: 14 (0.0680)
----
-ranking_ieee_spectrum_jobs: 20 (0.0555)
----
-ranking_ieee_spectrum_trending: 18 (0.0507)
----
-ranking_pypl: 17 (0.98 %)
----
-ranking_redmonk: 9
----
-ranking_stackoverflow_popular: 16 (6.23%)
----
-ranking_stackoverflow_desired: 18
----
-ranking_stackoverflow_paying: 4
----
-ranking_tiobe: 18 (0.80%)
----
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/ruby/
 ---
 sunarch:

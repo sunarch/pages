@@ -27,7 +27,8 @@ setup(
         'lektor_proglangs',
         'proglangs',
         'proglangs_age',
-        'proglangs_comparison'
+        'proglangs_comparison',
+        'proglangs_rankings'
     ],
     # url='[link to your repository]',
     version='0.1',
