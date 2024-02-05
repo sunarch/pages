@@ -9,7 +9,7 @@ from proglangs_age import KEY_FOR_AGE
 
 KEY_FOR_COMAPRISON_SCORE: str = 'comparison_score'
 
-skip: tuple[str] = (
+skip: tuple[str, ...] = (
     '',
     '--',
     'N/A'
@@ -86,7 +86,7 @@ feature_static_typing: dict[str, int] = {
     'hybrid': 1
 }
 
-all_features: dict[str, dict[str, int]] =  {
+all_features: dict[str, dict[str, int]] = {
     'feature_adt': feature_adt,
     'feature_compiled': feature_compiled,
     'feature_explicit_errors': feature_explicit_errors,
@@ -117,7 +117,7 @@ def calculate_comparison_score(page, debug: int = 0) -> int:
         if field_value in skip:
             continue
 
-        value: str = feature_values[field_value]
+        value: int = feature_values[field_value]
         comparison_score += value
 
         if debug > 1:
