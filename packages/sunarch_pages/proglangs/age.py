@@ -17,10 +17,13 @@ from proglangs.model import KEY_FOR_AGE, KEY_FOR_FIRST_APPEARED
 
 
 def set_age(page: Page, value: int) -> None:
+    """Set the age field of the language page"""
+
     set_field(page, KEY_FOR_AGE, value)
 
 
 def calculate_age(page, debug: int = 0) -> int:
+    """Calculate the age of the language"""
 
     first_appeared: int = page[KEY_FOR_FIRST_APPEARED]
 

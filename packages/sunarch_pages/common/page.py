@@ -15,10 +15,13 @@ from common.model import KEY_FOR_TITLE
 
 
 def closure_page_title_lookup(pad: Pad, path: str) -> Callable[[str], str]:
+    """Closure over a lookup for the title of all languages"""
 
     query: Query = Query(path, pad)
 
     def page_title_lookup(language_slug: str) -> str:
+        """Lookup the title of a language page"""
+
         page: Page = query.get(language_slug)
 
         if page is None:
@@ -30,6 +33,8 @@ def closure_page_title_lookup(pad: Pad, path: str) -> Callable[[str], str]:
 
 
 def set_field(page: Page, field_name: str, new_value: Any, debug: int = 0):
+    """Set a field of a page"""
+
     if debug > 2:
         print(' ' * 7, '_bound_data', ': ', end='')
         if field_name in page._bound_data:

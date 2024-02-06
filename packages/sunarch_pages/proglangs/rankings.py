@@ -19,26 +19,38 @@ from proglangs.model import KEY_FOR_SUM_RANKINGS
 
 
 def set_sum_rankings(page: Page, value: int) -> None:
+    """Set rankings sum field of a page"""
+
     set_field(page, KEY_FOR_SUM_RANKINGS, value)
 
 
 def ranking_field_name(ranking_name: str) -> str:
+    """Get the field name by a ranking name"""
+
     return f'ranking_{ranking_name}'
 
 
 def ranking_databag_name(ranking_name: str) -> str:
+    """Get the rankings databag name"""
+
     return f'proglang_rankings_{ranking_name}'
 
 
 def latest_to_databag_label(latest: str) -> str:
+    """Convert a latest version value to a databag label"""
+
     return latest.lower().replace(' ', '_')
 
 
 def bag_path(*args):
+    """Create a bag path"""
+
     return '.'.join(args)
 
 
 def comment_to_display(place: int, comment: str) -> str:
+    """Turn a place and a comment value to a displayed value"""
+
     if not comment:
         return f'{place}'
 
@@ -46,10 +58,14 @@ def comment_to_display(place: int, comment: str) -> str:
 
 
 def display_add_equivalence(display: str, title: str) -> str:
+    """Add an equivalence value to a display"""
+
     return f'{display} ({title})'
 
 
 def parse_value(value: str) -> tuple[int, str]:
+    """Parse a rankings databag value into place and display"""
+
     values: list[str] = list(map(lambda x: x.strip(), value.split('|')))
     if len(values) < 2:
         values.append('')
@@ -60,6 +76,8 @@ def parse_value(value: str) -> tuple[int, str]:
 
 
 def parse_equivalence(value: str) -> tuple[str, Union[str, None]]:
+    """Parse an equivalence databag value"""
+
     values: list[str] = list(map(lambda x: x.strip(), value.split('|')))
     equivalent_language: str = values[0]
     equivalent_language_title: Union[str, None] = None
@@ -74,6 +92,7 @@ def closure_rankings_lookup(rankings: OrderedDict,
                             equivalences: OrderedDict,
                             page_title_lookup: Callable[[str], str]
                             ) -> Callable[[str], tuple[int, str]]:
+    """Closure over a lookup in a ranking by language name"""
 
     rankings: dict[str, tuple[int, str]] = {
         language: parse_value(value)
@@ -92,12 +111,15 @@ def closure_rankings_lookup(rankings: OrderedDict,
             return place, display_add_equivalence(display, equivalent_language_title)
 
         def gen_places() -> Generator[int, None, None]:
+            """Generate places"""
+
             for place, _ in rankings.values():
                 yield place
 
         last_place: int = max(gen_places())
 
         def filter_last_place(place: int) -> bool:
+            """Filter function for values equal to the last place"""
             return place == last_place
 
         count_top_place: int = len(list(filter(filter_last_place, gen_places())))
@@ -109,8 +131,11 @@ def closure_rankings_lookup(rankings: OrderedDict,
 
 
 def closure_databag_section_lookup(databags: Databags) -> Callable[[str, str], OrderedDict]:
+    """Closure over a lookup of a databag section"""
 
     def databag_section_lookup(ranking_name: str, section_label: str) -> OrderedDict:
+        """Lookup a databag section"""
+
         databag_name: str = ranking_databag_name(ranking_name)
         databag_path: str = bag_path(databag_name, section_label)
 
@@ -120,6 +145,7 @@ def closure_databag_section_lookup(databags: Databags) -> Callable[[str, str], O
 
 
 def calculate_sum_rankings(page, debug: int = 0) -> int:
+    """Calculate the rankings sum value"""
 
     pad: Pad = page.pad
 
@@ -172,11 +198,15 @@ def calculate_sum_rankings(page, debug: int = 0) -> int:
 
 
 def get_all_languages(pad: Pad) -> list[str]:
+    """Collect all language slug values"""
+
     q_languages = Query(PATH_PROGLANGS, pad)
     return [child[KEY_FOR_SLUG] for child in q_languages.all()]
 
 
 def get_rankings_info(databags: Databags) -> list[tuple[str, str]]:
+    """Get rankings info from databag"""
+
     return [
         (ranking_name, ranking_data['latest'])
         for ranking_name, ranking_data
@@ -185,6 +215,7 @@ def get_rankings_info(databags: Databags) -> list[tuple[str, str]]:
 
 
 def get_languages_in_ranking(databags: Databags, ranking_name: str, latest: str) -> set[str]:
+    """Get languages in latest version of a ranking ranking"""
 
     databag_section_lookup: Callable[[str, str], OrderedDict] = \
         closure_databag_section_lookup(databags)
@@ -208,6 +239,8 @@ def get_languages_in_ranking(databags: Databags, ranking_name: str, latest: str)
 
 
 def verify_rankings(pad: Pad, debug: int = 0) -> None:
+    """Verify that the rankings have no typos in language slugs"""
+
     if debug > 0:
         print('Verifying rankings')
 

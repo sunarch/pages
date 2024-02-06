@@ -12,9 +12,14 @@ from proglangs.model import PATH_PROGLANGS
 
 
 def language_pages(pad: Pad) -> list[Page]:
+    """Generate a list of all language pages"""
+
     q_languages = Query(PATH_PROGLANGS, pad)
+
     return q_languages.all()
 
 
 def path_language(language_slug: str) -> str:
+    """Create a path to a specific language"""
+
     return f'{PATH_PROGLANGS}/{language_slug}'

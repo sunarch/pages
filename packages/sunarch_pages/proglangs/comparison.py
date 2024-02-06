@@ -104,10 +104,14 @@ for dict_feature in all_features.values():
 
 
 def set_comparison_score(page: Page, value: int) -> None:
+    """Set comparison score field of a page"""
+
     set_field(page, KEY_FOR_COMPARISON_SCORE, value)
 
 
 def calculate_comparison_score(page, debug: int = 0) -> int:
+    """Calculate the comparison score of a language"""
+
     comparison_score = 0
 
     for feature_name, feature_values in all_features.items():
