@@ -107,10 +107,6 @@ def set_comparison_score(page: Page, value: int) -> None:
     set_field(page, KEY_FOR_COMPARISON_SCORE, value)
 
 
-def negative_score(value: int) -> int:
-    return (-1) * len(all_features) * feature['yes'] + value
-
-
 def calculate_comparison_score(page, debug: int = 0) -> int:
     comparison_score = 0
 
@@ -133,13 +129,6 @@ def calculate_comparison_score(page, debug: int = 0) -> int:
         set_field(page, feature_name, new_field_value)
 
     comparison_score += page[KEY_FOR_AGE]
-
-    if 'disqualified' in page['sunarch']:
-        if debug > 1:
-            print(' ' * 3, '(negative score) :', comparison_score, end='')
-        comparison_score = negative_score(comparison_score)
-        if debug > 1:
-            print(' ->', comparison_score)
 
     if debug > 2:
         print(' ' * 3, '[', KEY_FOR_COMPARISON_SCORE, ']')
