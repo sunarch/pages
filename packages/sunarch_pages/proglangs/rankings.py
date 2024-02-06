@@ -198,7 +198,7 @@ def get_languages_in_ranking(databags: Databags, ranking_name: str, latest: str)
     if equivalences is not None:
         for language, equivalence_value in equivalences.items():
             languages.add(language)
-            equivalent_language, equivalent_language_title = parse_equivalence(equivalences[language])
+            equivalent_language, equivalent_language_title = parse_equivalence(equivalence_value)
 
             if equivalent_language_title is not None:
                 if equivalent_language in languages:
