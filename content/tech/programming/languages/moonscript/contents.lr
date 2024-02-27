@@ -1,0 +1,58 @@
+title: MoonScript
+---
+_model: programming-language
+---
+homepage: https://moonscript.org
+---
+docs: https://moonscript.org/reference/
+---
+repository: https://github.com/leafo/moonscript
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Lua_(programming_language)#Languages_that_compile_to_Lua
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2011
+---
+designed_by:
+---
+latest_release: 0.5.0 (Sep 2015)
+---
+developer:
+---
+license: MIT License
+---
+category:
+---
+feature_adt:
+---
+feature_compiled: (to Lua)
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing:
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+

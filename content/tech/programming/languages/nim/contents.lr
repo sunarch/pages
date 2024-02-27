@@ -52,7 +52,7 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch: disqualified: UFCS
+sunarch:
 ---
 body:
 

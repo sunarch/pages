@@ -40,6 +40,7 @@ feature_compiled: dict[str, int] = {
     'Python BC': 1,
     'bytecode': 1,
     'Ethereum VM': 0,
+    '(to Lua)': 0,
     '(to JavaScript)': 0
 }
 
@@ -57,13 +58,13 @@ feature_explicit_errors: dict[str, int] = {
 }
 
 feature_hacker: dict[str, int] = {
-    '1st': 130,
-    '2nd': 120,
-    '(2nd)': 120,
-    '2.a': 115,
-    '3rd': 110,
-    '3.a': 105,
-    '4th': 100
+    '1st': 40,
+    '2nd': 30,
+    '(2nd)': 30,
+    '2.a': 25,
+    '3rd': 20,
+    '3.a': 15,
+    '4th': 10
 }
 
 feature_hof: dict[str, int] = {
@@ -77,13 +78,14 @@ feature_immutable: dict[str, int] = {
 }
 
 feature_jargon: dict[str, int] = {
-    '(yes)': 100,
-    'small': 60,
-    'old': 50,
-    '(loss)': -90
+    '(yes)': 50,
+    'small': 30,
+    'old': 10,
+    '(loss)': -10
 }
 
 feature_static_typing: dict[str, int] = {
+    'typeless': 1,
     'untyped': 1,
     'hybrid': 1
 }

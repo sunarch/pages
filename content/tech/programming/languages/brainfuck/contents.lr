@@ -1,0 +1,59 @@
+title: Brainfuck
+---
+_model: programming-language
+---
+homepage:
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Brainfuck
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Brainfuck
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Brainfuck
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 1993
+---
+designed_by: Urban Müller
+---
+latest_release:
+---
+developer:
+---
+license:
+---
+category: esoteric
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: typeless
+---
+ranking_tiobe_url:
+---
+sunarch: read
+---
+body:
+
+- [esolangs page](https://esolangs.org/wiki/Brainfuck)

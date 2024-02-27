@@ -41,3 +41,7 @@ body:
 ## presentations
 
 - Tony Hoare: [Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) (QCon -- Aug 25, 2009)
+
+## important aspects from different people
+
+- sum types, mutation control, stdlib with result/option, a comfortable way to print errors

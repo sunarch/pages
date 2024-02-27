@@ -1,0 +1,58 @@
+title: Hare
+---
+_model: programming-language
+---
+homepage: https://harelang.org
+---
+docs: https://harelang.org/documentation/
+---
+repository: https://sr.ht/~sircmpwn/hare/
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+designed_by:
+---
+latest_release: 0.24.0 (Feb 2024)
+---
+developer:
+---
+license: CC-BY-ND (spec.), GPLv3 (compiler), MPLv2 (std.lib.)
+---
+category:
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_static_typing: yes
+---
+ranking_tiobe_url:
+---
+sunarch: plan
+---
+body:
+
