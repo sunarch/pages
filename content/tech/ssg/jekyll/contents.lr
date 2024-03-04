@@ -1,0 +1,33 @@
+title: Jekyll
+---
+_model: tech-project
+---
+homepage: https://jekyllrb.com
+---
+docs:
+---
+repository: https://github.com/jekyll/jekyll
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Jekyll_(Software)
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Jekyll_(software)
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+tech_category:
+---
+body:
+
+- [Jekyll Themes – a curated directory](https://jekyllthemes.io)
+    - [Lanyon – A content-first, sliding sidebar theme](https://jekyllthemes.io/theme/lanyon)
+- [Jekyll & Liquid Cheatsheet](https://gist.github.com/magicznyleszek/9803727)
