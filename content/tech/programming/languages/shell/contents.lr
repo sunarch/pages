@@ -59,7 +59,7 @@ body:
 - type: scripting
 - standard: no
 
-# Unix shells
+## Unix shells
 
 - sh (Bourne shell)
     - [Wikipedia](https://en.wikipedia.org/wiki/Bourne_shell)
@@ -75,23 +75,18 @@ body:
 - [Z shell / Zsh](https://www.zsh.org/) (zsh)
     - [Wikipedia](https://en.wikipedia.org/wiki/Z_shell)
 
-# Windows
+## resources
 
-## cmd
+- [The Shell Scripting Tutorial](https://www.shellscript.sh)
+- Linux Handbook: [How to Pass Arguments to a Bash Shell Script](https://linuxhandbook.com/bash-arguments/)
 
-## PowerShell
+## articles
 
-### timing
+- [Bash Scripting: Everything you need to know about Bash-shell programming](https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba) by Uday Hiwarale | System Failure | Medium
 
-- StackOverflow - [Timing a command's execution in PowerShell](https://stackoverflow.com/questions/3513650/timing-a-commands-execution-in-powershell)
+## other
 
-```PowerShell
-Measure-Command { .\script.ps1 | Out-Default }
-```
-
-# other
-
-## download an entire website
+### download an entire website
 
 - [How To Download A Website With Wget The Right Way](https://simpleit.rocks/linux/how-to-download-a-website-with-wget-the-right-way/) by Marcelo Canina
 

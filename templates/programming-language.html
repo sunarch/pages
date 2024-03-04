@@ -43,18 +43,18 @@
                 </td>
             </tr>
             {% endif %}
-            {% if this.wikibook_en | string | length > 0 %}
+            {% if this.wikibooks_en | string | length > 0 %}
             <tr>
                 <td style="font-weight: bold;">Wikibooks</td>
                 <td>
                     {% if this.wikibooks_de | string | length > 0 %}
                     [ <a target="_blank" href="{{ this.wikibooks_de }}">Deutsch</a> ]
                     {% endif %}
-                    {% if this.wikibook_en | string | length > 0 %}
-                    [ <a target="_blank" href="{{ this.wikibook_en }}">English</a> ]
+                    {% if this.wikibooks_en | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikibooks_en }}">English</a> ]
                     {% endif %}
-                    {% if this.wikibook_hu | string | length > 0 %}
-                    [ <a target="_blank" href="{{ this.wikibook_hu }}">Magyar</a> ]
+                    {% if this.wikibooks_hu | string | length > 0 %}
+                    [ <a target="_blank" href="{{ this.wikibooks_hu }}">Magyar</a> ]
                     {% endif %}
                 </td>
             </tr>

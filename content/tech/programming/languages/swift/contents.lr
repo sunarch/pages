@@ -32,13 +32,13 @@ developer: Apple Inc. and open-source contributors
 ---
 license: Apache License 2.0
 ---
-category:
+category: application
 ---
 feature_adt: yes
 ---
 feature_compiled: yes
 ---
-feature_explicit_errors: try/throw
+feature_explicit_errors: exceptions
 ---
 feature_hacker: --
 ---

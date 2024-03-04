@@ -32,7 +32,7 @@ developer:
 ---
 license: MIT
 ---
-category:
+category: preone
 ---
 feature_adt: yes
 ---
@@ -52,7 +52,7 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch:
+sunarch: maybe
 ---
 body:
 

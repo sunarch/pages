@@ -11,11 +11,19 @@ hide_subpages: true
 ---
 body:
 
-- [ranks](prog-lang-ranks.md)
+## lists
 
-## recommendations
+- Wikipedia: [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+- Wikipedia: [Timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+- Wikipedia: [Programming language generations](https://en.wikipedia.org/wiki/Programming_language_generations)
 
-- five recommendations by [ESR](../people.md): Python, C/C++, Perl, and LISP
+## paradigms
+
+- Wikipedia: [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+
+## tools
+
+- Compiler Explorer: [godbolt.org](https://godbolt.org)
 
 ## notes
 
@@ -42,6 +50,17 @@ body:
 
 - Tony Hoare: [Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) (QCon -- Aug 25, 2009)
 
+## recommendations
+
+- five recommendations by [ESR](../people.md): Python, C/C++, Perl, and LISP
+
 ## important aspects from different people
 
 - sum types, mutation control, stdlib with result/option, a comfortable way to print errors
+
+## further rankings
+
+- [GitHub Octoverse trends](https://octoverse.github.com/#top-languages-over-the-years)
+    - 2021: JavaScript, Python, Java, TypeScript. C#, PHP, C++, Shell, C, Ruby
+- [languish](https://tjpalmer.github.io/languish/) ([GitHub](https://github.com/tjpalmer/languish)) by [Tom (tjpalmer)](https://github.com/tjpalmer)
+    - "a web page for exploring programming language trends"

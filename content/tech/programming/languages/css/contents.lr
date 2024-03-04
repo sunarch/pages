@@ -59,6 +59,14 @@ body:
 - type: style
 - standard: yes
 
-# other
+## tools
+
+- [The W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)
+
+## resources
+
+- [cssdb](https://cssdb.org)
+
+## other
 
 - CSS-tricks - [Star Wars Crawl Text](https://css-tricks.com/snippets/css/star-wars-crawl-text/)

@@ -38,7 +38,7 @@ feature_adt: yes
 ---
 feature_compiled: Java VM
 ---
-feature_explicit_errors: try/catch
+feature_explicit_errors: exceptions
 ---
 feature_hacker: --
 ---

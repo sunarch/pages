@@ -1,0 +1,77 @@
+title: Scheme
+---
+_model: programming-language
+---
+homepage: https://www.scheme.org
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Scheme
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Scheme
+---
+wikibooks_de:
+---
+wikibooks_en: https://en.wikibooks.org/wiki/Scheme_Programming
+---
+wikibooks_hu:
+---
+family: Lisp
+---
+first_appeared: 1975
+---
+designed_by: Guy L. Steele, Gerald Jay Sussman
+---
+latest_release: R7RS (2013)
+---
+developer:
+---
+license:
+---
+category: family
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_explicit_errors:
+---
+feature_hacker:
+---
+feature_hof: yes
+---
+feature_immutable: --
+---
+feature_jargon:
+---
+feature_static_typing: --
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- [The Scheme Programming Language, 4th Edition](https://www.scheme.com/tspl4/)
+- [The Scheme Programming Language, 3rd Edition](https://www.scheme.com/tspl3/)
+
+## links
+
+- [Community-Scheme-Wiki](http://community.schemewiki.org)
+- [Scheme Requests for Implementation](https://srfi.schemers.org)
+- [Planet Scheme](https://planet.scheme.org)
+- [The Scheme Cookbook](https://cookbook.scheme.org)
+- GitHub: [the Schemer](https://github.com/theschemer)
+- Spritely Institute: [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
+
+## videos
+
+- YouTube: [Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour](https://youtu.be/DDROSL-gGOo) by Christine Lemmer-Webber
+
+## other
+
+- wingolog: [an opinionated guide to scheme implementations](https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations)

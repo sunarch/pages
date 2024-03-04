@@ -32,7 +32,7 @@ developer:
 ---
 license: per type
 ---
-category:
+category: translation
 ---
 feature_adt:
 ---
@@ -63,7 +63,24 @@ body:
 
 low-level, symbolic machine code, arch. dep.
 
-# assemblers
+## assemblers
 
-- [NASM](https://nasm.us/)
-    - [GitHub](https://github.com/netwide-assembler/nasm)
+- IBM Developer: [Linux assemblers: A comparison of GAS and NASM](https://developer.ibm.com/articles/l-gas-nasm/)
+
+### GAS
+
+- GNU Project: [Binutils](https://www.gnu.org/software/binutils/)
+- Wikipedia: [GNU Assembler](https://en.wikipedia.org/wiki/GNU_Assembler)
+
+### NASM
+
+- [homepage](https://nasm.us/)
+- [GitHub](https://github.com/netwide-assembler/nasm)
+- Wikipedia: [Netwide Assembler](https://en.wikipedia.org/wiki/Netwide_Assembler)
+
+## architectures
+
+### x86
+
+- Sparks And Flames: [Intel x86 Assembler Instruction Set Opcode Table](http://sparksandflames.com/files/x86InstructionChart.html)
+- UToronto: [x86 Registers](https://www.eecg.utoronto.ca/~amza/www.mindsec.com/files/x86regs.html)

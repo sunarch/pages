@@ -14,9 +14,9 @@ wikipedia_en: https://en.wikipedia.org/wiki/Prolog
 ---
 wikipedia_hu: https://hu.wikipedia.org/wiki/Prolog
 ---
-wikibooks_de:
+wikibooks_de: https://de.wikibooks.org/wiki/Prolog
 ---
-wikibooks_en:
+wikibooks_en: https://en.wikibooks.org/wiki/Prolog
 ---
 wikibooks_hu:
 ---
@@ -70,3 +70,14 @@ logic programming, AI, comput. linguistics
 
 - [homepage](https://www.swi-prolog.org)
 - [GitHub](https://github.com/SWI-Prolog/swipl-devel)
+- Wikipedia: [SWI-Prolog](https://en.wikipedia.org/wiki/SWI-Prolog)
+
+## GNU Prolog
+
+- [website](http://gprolog.org)
+- Wikipedia: [GNU Prolog](https://en.wikipedia.org/wiki/GNU_Prolog)
+
+## other
+
+- Prolog Online Editor: [jdoodle.com](https://www.jdoodle.com/execute-prolog-online/)
+- [Prolog Examples](https://users.monash.edu/~lloyd/tildeLogic/Prolog.toy/Examples/)

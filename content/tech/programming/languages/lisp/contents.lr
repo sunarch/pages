@@ -82,12 +82,20 @@ body:
 
 - [How to Design Programs](https://htdp.org) - book (online)
 - [Build Your Own Lisp](https://www.buildyourownlisp.com) - book (online)
+- LISP Information and Resources - [lispmachine.net](https://www.lispmachine.net)
+- [Planet Lisp](http://planet.lisp.org)
 
 ## articles
 
+- Stanford: [History of Lisp](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html)
 - [High School Computing: The Inside Story](http://www.trollope.org/scheme.html)
+- [Technical Issues of Separation in Function Cells and Value Cells](https://www.nhplace.com/kent/Papers/Technical-Issues.html)
 
 ## other
 
 - [Nightmod](https://sekao.net/nightmod/)
     - live-moddable games with Clojure
+- [Common Lisp VS Racket. Feedback from lispers.](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
+- Stack Overflow: [Which dialect of Lisp should I learn?](https://stackoverflow.com/questions/1007250/which-dialect-of-lisp-should-i-learn)
+- Quora: [Do all programming languages actually converge to LISP?](https://www.quora.com/Do-all-programming-languages-actually-converge-to-LISP)
+- Hacker News: [Are there any Lisps you would recommend (other than Clojure)? (Or languages?)](https://news.ycombinator.com/item?id=4487793)

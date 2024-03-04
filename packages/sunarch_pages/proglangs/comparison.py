@@ -50,9 +50,9 @@ feature_explicit_errors: dict[str, int] = {
     'union': 100,
     'value': 90,
     'nil return': 50,
-    'try/catch + Option': 10,
-    'try/throw': 1,
-    'try/catch': 1,
+    'exceptions | Result': 40,
+    'exceptions | Option': 40,
+    'exceptions': 1,
     'pointer return': 0,
     '(return)': 0
 }

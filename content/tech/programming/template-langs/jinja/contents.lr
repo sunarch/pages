@@ -1,0 +1,35 @@
+title: Jinja
+---
+_model: tech-project
+---
+homepage: https://jinja.palletsprojects.com/en/3.1.x/
+---
+docs:
+---
+repository:
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+tech_category:
+---
+body:
+
+> Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
+
+## articles
+
+- Real Python: [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)

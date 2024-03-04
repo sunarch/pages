@@ -67,3 +67,9 @@ body:
 ### description
 
 efficient mapping to machine code ⇒ replace assembly
+
+## compilers
+
+- GCC
+- Clang
+- [TCC : Tiny C Compiler](https://bellard.org/tcc/)

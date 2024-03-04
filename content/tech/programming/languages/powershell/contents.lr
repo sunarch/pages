@@ -54,6 +54,14 @@ ranking_stackoverflow_paying: 20
 ---
 ranking_tiobe_url:
 ---
-sunarch: looked
+sunarch: read
 ---
 body:
+
+## timing
+
+- StackOverflow - [Timing a command's execution in PowerShell](https://stackoverflow.com/questions/3513650/timing-a-commands-execution-in-powershell)
+
+```PowerShell
+Measure-Command { .\script.ps1 | Out-Default }
+```

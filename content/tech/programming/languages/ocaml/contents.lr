@@ -38,13 +38,13 @@ feature_adt: yes
 ---
 feature_compiled: yes
 ---
-feature_explicit_errors: Result
+feature_explicit_errors: exceptions | Result
 ---
 feature_hacker: --
 ---
 feature_hof: yes
 ---
-feature_immutable:
+feature_immutable: yes
 ---
 feature_jargon: --
 ---

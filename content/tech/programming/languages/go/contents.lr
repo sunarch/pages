@@ -69,3 +69,9 @@ body:
 ### articles
 
 - Dave Cheney: [cgo is not Go]() (https://dave.cheney.net/2016/01/18/cgo-is-not-go) (Jan 18, 2016)
+
+## talks
+
+- Golang Co-Creator Rob Pike: ‘What Go Got Right and Wrong’ 
+    - article on [The New Stack](https://thenewstack.io/golang-co-creator-rob-pike-what-go-got-right-and-wrong/)
+    - reaction on YouTube by [ThePrimeTime](https://youtu.be/pgsTqlhpBHM)

@@ -1,16 +1,16 @@
-title: Beef
+title: Carbon
 ---
 _model: programming-language
 ---
-homepage: https://www.beeflang.org
+homepage:
 ---
-docs: https://www.beeflang.org/docs/
+docs:
 ---
-repository: https://github.com/beefytech/Beef
+repository: https://github.com/carbon-language/carbon-lang
 ---
-wikipedia_de:
+wikipedia_de: https://de.wikipedia.org/wiki/Carbon_(Programmiersprache)
 ---
-wikipedia_en: https://en.wikipedia.org/wiki/Beef_(programming_language)
+wikipedia_en: https://en.wikipedia.org/wiki/Carbon_(programming_language)
 ---
 wikipedia_hu:
 ---
@@ -22,21 +22,21 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared: 2019
+first_appeared:
 ---
-designed_by:
+designed_by: Google
 ---
-latest_release: 0.43.4 (Sep 2022)
+latest_release:
 ---
 developer:
 ---
-license:
+license: Apache-2.0-with-LLVM-Exception
 ---
-category: preone
+category: experimental
 ---
 feature_adt:
 ---
-feature_compiled: by LLVM
+feature_compiled: yes
 ---
 feature_explicit_errors:
 ---

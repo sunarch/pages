@@ -52,7 +52,7 @@ feature_static_typing: --
 ---
 ranking_tiobe_url:
 ---
-sunarch: plan
+sunarch: maybe
 ---
 body:
 
@@ -66,19 +66,27 @@ a [Lisp](lisp.md) dialect
 ### other
 
 - [Leiningen](https://leiningen.org/)
+- [ClojureVerse](https://clojureverse.org)
 
-# IDE
+## IDE
 
-## [Cursive](https://cursive-ide.com/) (IntelliJ IDEA plugin)
+### [Cursive](https://cursive-ide.com/) (IntelliJ IDEA plugin)
 
 - "The IDE for beautiful Clojure(Script) code"
 
-# other implementations
+## other implementations
 
-## ClojureScript
+### ClojureScript
 
 - website: [clojurescript.org](https://clojurescript.org/)
 
-# forum entries
+## forum entries
 
 - StackOverflow: [Clojure, can macros do something that couldn't be done with a function](https://stackoverflow.com/questions/43973727/clojure-can-macros-do-something-that-couldnt-be-done-with-a-function)
+
+## other pages
+
+- Quora: [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
+- Quora: [What Does Paul Graham think of Clojure?](https://www.quora.com/What-Does-Paul-Graham-think-of-Clojure)
+- Smash Company: [Lisp is not functional, but Clojure is](http://www.smashcompany.com/technology/lisp-is-not-functional-but-clojure-is)
+- Stack Overflow: [clojure - Which Lisp should I learn?](https://stackoverflow.com/questions/563356/which-lisp-should-i-learn)

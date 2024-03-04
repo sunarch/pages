@@ -32,7 +32,7 @@ developer:
 ---
 license: BSD-3-Clause license
 ---
-category:
+category: preone
 ---
 feature_adt:
 ---
@@ -52,7 +52,7 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch:
+sunarch: plan
 ---
 body:
 

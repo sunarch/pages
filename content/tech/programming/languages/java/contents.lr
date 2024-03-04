@@ -2,7 +2,7 @@ title: Java
 ---
 _model: programming-language
 ---
-homepage: https://www.oracle.com/java/
+homepage: https://www.java.com/en/
 ---
 docs:
 ---
@@ -38,7 +38,7 @@ feature_adt: sealed interface + record
 ---
 feature_compiled: Java VM
 ---
-feature_explicit_errors: try/catch
+feature_explicit_errors: exceptions
 ---
 feature_hacker: 2.a
 ---
@@ -52,9 +52,17 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/java/
 ---
-sunarch: some
+sunarch: prev.
 ---
 body:
 
 - concurrent, class-based, OO, WORA, VM
 - [Jargon File entry](http://www.catb.org/~esr/jargon/html/J/Java.html)
+
+## Oracle
+
+- [Java Software | Oracle](https://www.oracle.com/java/)
+
+## Azul
+
+- [homepage](https://www.azul.com)

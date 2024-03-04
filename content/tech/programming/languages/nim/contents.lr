@@ -38,7 +38,7 @@ feature_adt: yes
 ---
 feature_compiled: via C
 ---
-feature_explicit_errors:
+feature_explicit_errors: exceptions
 ---
 feature_hacker: --
 ---
@@ -52,10 +52,16 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch:
+sunarch: some
 ---
 body:
 
+- [Standard Library Style Guide](https://nim-lang.org/docs/nep1.html)
+- [Nim by example](https://nimbyexample.com)
 - Uniform Function Call Syntax
     - [Wikipedia (English)](https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax)
 
+## offensive tools
+
+- TrustFoundry: [Writing Basic Offensive Tooling in Nim](https://trustfoundry.net/2021/03/01/writing-basic-offensive-tooling-in-nim/)
+- GitHub: [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
