@@ -5,12 +5,13 @@ description: home page on GitHub
 body:
 
 (Mostly) hobbyist developer
-- current primary: Python
-- for the web: JavaScript
-- some low-level: Rust, Zig, C
-- some: Lisp (Chez Scheme / Racket)
-- plans: Elixir, Haskell
-- to read: Go
+- most, currently: Python
+- preferred, learning: Rust, Nim
+- for client-side web: JavaScript
+- looking into: Go, Odin, OCaml
+- some: C, Lisp (Chez Scheme / Racket)
+- for specific projects: PHP, Lua
+- plans: Erlang/Elixir/Gleam
 
 Interested in Open Source / FOSS.
 
