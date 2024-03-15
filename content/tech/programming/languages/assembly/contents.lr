@@ -82,5 +82,7 @@ low-level, symbolic machine code, arch. dep.
 
 ### x86
 
+- [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 - Sparks And Flames: [Intel x86 Assembler Instruction Set Opcode Table](http://sparksandflames.com/files/x86InstructionChart.html)
 - UToronto: [x86 Registers](https://www.eecg.utoronto.ca/~amza/www.mindsec.com/files/x86regs.html)
+- Felix Cloutier: [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)

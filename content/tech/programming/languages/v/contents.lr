@@ -52,7 +52,7 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch: maybe
+sunarch: waiting
 ---
 body:
 
@@ -66,3 +66,8 @@ body:
 - YouTube: [l-m](https://www.youtube.com/@l-mdotdev)
     - [Read Fast, Write Fast, Run Faster: How To Maintain And Iterate With V - SYNCS 2023](https://youtu.be/pchEsYwA74Q)
         - article: [Present a talk in 5 days with no experience](https://l-m.dev/cs/presenting_syncs_talk/)
+
+## libs
+
+- WebUI
+    - GitHub: [webui-dev/v-webui](https://github.com/webui-dev/v-webui)

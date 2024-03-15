@@ -55,3 +55,18 @@ ranking_tiobe_url:
 sunarch:
 ---
 body:
+
+- GitHub: [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
+
+## emscripten
+
+- [homepage](https://emscripten.org)
+
+## MDN
+
+- [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+- [C to WASM](https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm)
+
+## other
+
+- on [web.dev](https://web.dev/explore/webassembly)

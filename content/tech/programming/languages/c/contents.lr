@@ -73,3 +73,16 @@ efficient mapping to machine code ⇒ replace assembly
 - GCC
 - Clang
 - [TCC : Tiny C Compiler](https://bellard.org/tcc/)
+
+## stdlib
+
+- [musl libc](https://musl.libc.org)
+
+## libs
+
+- WebUI
+    - GitHub: [webui-dev/webui](https://github.com/webui-dev/webui)
+
+## videos
+
+- [Programming in Modern C with a Sneak Peek into C23 - Dawid Zalewski - ACCU 2023](https://youtu.be/lLv1s7rKeCM) by ACCU Conference (2023-06-23)

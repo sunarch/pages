@@ -52,7 +52,7 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch: tried
+sunarch: waiting
 ---
 body:
 
@@ -66,6 +66,16 @@ body:
 
 - Raylib bindings: GitHub [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig)
 
+## libs
+
+- WebUI
+    - GitHub: [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui)
+
 ### articles
 
 - Samarth Hattangady: [Writing and Releasing a game in zig](https://zig.news/chapliboy/writing-and-releasing-a-game-in-zig-13f3) (Mar 1, 2023)
+
+### videos
+
+- YouTube: [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022](https://youtu.be/YXrb-DqsBNU) by GOTO Conferences (2023-03-15)
+- YouTube: [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler - Software You Can Love 2022](https://youtu.be/1N85yU6RMcY) by Zig SHOWTIME (2022-10-21)

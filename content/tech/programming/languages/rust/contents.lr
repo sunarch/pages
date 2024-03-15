@@ -64,20 +64,26 @@ body:
 - safe, concurrent, practical
 - OSS, sponsored by Mozilla
 
-# info docs
+## info docs
 
 - [the book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
-# Rust 🦀 and WebAssembly 🕸
+## Rust 🦀 and WebAssembly 🕸
 
 - [Rust-WASM book](https://rustwasm.github.io/docs/book/)
 
-# useful crates
+## useful crates
 
 - [clap](https://docs.rs/clap/latest/clap/): Command Line Argument Parser for Rust
 - [inquire](https://docs.rs/inquire/latest/inquire/index.html): a library for building interactive prompts on terminals
 
-# articles
+## libs
 
-- fasterthanlime: [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) (Feb 7, 2022)
+- WebUI
+    - GitHub: [webui-dev/rust-webui](https://github.com/webui-dev/rust-webui)
+
+## articles
+
+- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (2024-02-07)
+- fasterthanlime: [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) (2022-02-07)

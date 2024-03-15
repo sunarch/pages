@@ -26,13 +26,13 @@ first_appeared:
 ---
 designed_by:
 ---
-latest_release: 0.34.1 (Jan 2024)
+latest_release: 1.0.0 (Mar 2024)
 ---
 developer:
 ---
 license: Apache-2.0 license
 ---
-category: preone
+category:
 ---
 feature_adt:
 ---

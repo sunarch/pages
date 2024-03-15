@@ -1,12 +1,12 @@
-title: Hare
+title: Nimskull
 ---
 _model: programming-language
 ---
-homepage: https://harelang.org
+homepage: https://nim-works.github.io/nimskull/index.html
 ---
-docs: https://harelang.org/documentation/
+docs:
 ---
-repository: https://sr.ht/~sircmpwn/hare/
+repository: https://github.com/nim-works/nimskull
 ---
 wikipedia_de:
 ---
@@ -26,17 +26,17 @@ first_appeared:
 ---
 designed_by:
 ---
-latest_release: 0.24.0 (Feb 2024)
+latest_release: 0.1.0-dev.21262 (Mar 2024)
 ---
 developer:
 ---
-license: CC-BY-ND (spec.), GPLv3 (compiler), MPLv2 (std.lib.)
+license:
 ---
 category: preone
 ---
 feature_adt:
 ---
-feature_compiled: yes
+feature_compiled:
 ---
 feature_explicit_errors:
 ---
@@ -52,7 +52,8 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch: waiting
+sunarch: some
 ---
 body:
 
+- initially a Nim fork

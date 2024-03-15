@@ -57,9 +57,28 @@ sunarch: some
 body:
 
 - [Standard Library Style Guide](https://nim-lang.org/docs/nep1.html)
-- [Nim by example](https://nimbyexample.com)
+
 - Uniform Function Call Syntax
     - [Wikipedia (English)](https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax)
+
+## by example
+
+- [nimbyexample.com](https://nimbyexample.com)
+- [nim-by-example.github.io](https://nim-by-example.github.io)
+
+## libs
+
+- WebUI
+    - GitHub: [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui)
+
+## articles
+
+- Hackaday: [Nim Writes C Code — And More — For You](https://hackaday.com/2018/09/25/nim-writes-c-code-and-more-for-you/)
+
+## blog posts
+
+- Steve Kellock: [Nim Language Highlights](https://totallywearingpants.com/posts/nim-language-highlights/) (2018-09-28)
+- Steve Kellock: [A Programming Language Underdog](https://totallywearingpants.com/posts/nim-underdog/) (2018-09-20)
 
 ## offensive tools
 

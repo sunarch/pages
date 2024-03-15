@@ -64,6 +64,11 @@ body:
 
 systems programming, performance, efficiency
 
+## libs
+
+- WebUI
+    - GitHub: [webui-dev/webui](https://github.com/webui-dev/webui)
+
 ### articles
 
 - Lucian Radu Teodorescu: [The Year of C++ Successor Languages](https://accu.org/journals/overload/30/172/teodorescu/) (Overload, 30(172) -- Dec 8-14, 2022)

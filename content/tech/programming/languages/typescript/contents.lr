@@ -57,3 +57,8 @@ sunarch:
 body:
 
 > [JavaScript](../javascript) With Syntax For Types.
+
+## libs
+
+- WebUI
+    - GitHub: [webui-dev/deno-webui](https://github.com/webui-dev/deno-webui)
