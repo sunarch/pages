@@ -1,12 +1,12 @@
-title: Hugo
+title: Pixelfed
 ---
 _model: tech-project
 ---
-homepage: https://gohugo.io
+homepage: https://pixelfed.org
 ---
-docs:
+docs: https://docs.pixelfed.org
 ---
-repository:
+repository: https://github.com/pixelfed/pixelfed
 ---
 wikipedia_de:
 ---
@@ -28,6 +28,4 @@ tech_category:
 ---
 body:
 
-## blog posts
-
-- Daniil Baturin: [Why not Hugo](https://baturin.org/blog/why-not-hugo/) (2021-06-04)
+- blog: [pixelfed.blog](https://pixelfed.blog)

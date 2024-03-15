@@ -1,0 +1,35 @@
+title: Soupault
+---
+_model: tech-project
+---
+homepage: https://soupault.app
+---
+docs: https://soupault.app/reference-manual/
+---
+repository: https://codeberg.org/PataphysicalSociety/soupault
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+tech_category:
+---
+body:
+
+- pronounced *soup-oh*
+
+## blog posts
+
+- Daniil Baturin: [Migrating the blog to soupault](https://baturin.org/blog/migrating-the-blog-to-soupault/) (2020-04-05)

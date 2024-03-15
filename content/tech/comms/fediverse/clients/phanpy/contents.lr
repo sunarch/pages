@@ -1,12 +1,12 @@
-title: Hugo
+title: Phanpy
 ---
 _model: tech-project
 ---
-homepage: https://gohugo.io
+homepage:
 ---
 docs:
 ---
-repository:
+repository: https://github.com/cheeaun/phanpy
 ---
 wikipedia_de:
 ---
@@ -22,12 +22,12 @@ wikibooks_hu:
 ---
 first_appeared:
 ---
-license:
+license: MIT license
 ---
 tech_category:
 ---
 body:
 
-## blog posts
+> Minimalistic opinionated Mastodon web client.
 
-- Daniil Baturin: [Why not Hugo](https://baturin.org/blog/why-not-hugo/) (2021-06-04)
+- [phanpy.social](https://phanpy.social)

@@ -1,12 +1,12 @@
-title: Hugo
+title: Semaphore
 ---
 _model: tech-project
 ---
-homepage: https://gohugo.io
+homepage: https://semaphore.social
 ---
 docs:
 ---
-repository:
+repository: https://github.com/NickColley/semaphore
 ---
 wikipedia_de:
 ---
@@ -22,12 +22,9 @@ wikibooks_hu:
 ---
 first_appeared:
 ---
-license:
+license: AGPL License
 ---
 tech_category:
 ---
 body:
 
-## blog posts
-
-- Daniil Baturin: [Why not Hugo](https://baturin.org/blog/why-not-hugo/) (2021-06-04)

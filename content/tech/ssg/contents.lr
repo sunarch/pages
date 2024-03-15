@@ -5,6 +5,11 @@ body:
 - [Static Site Generators](https://staticsitegenerators.net)
 - Python Wiki: [Static Site Generator](https://wiki.python.org/moin/StaticSiteGenerator)
 
+## blog posts
+
+- Thomasorus: [From static site generator to static site processor](https://thomasorus.com/from-static-site-generator-to-static-site-processor.html) (2023-03-05)
+- Paul Robert Lloyd: [Thinking out loud about static site generators](https://paulrobertlloyd.com/2023/054/a1/lume/) (2023-02-23)
+
 ## articles
 
 - It's FOSS: [10 Best Open Source Static Site Generators](https://itsfoss.com/open-source-static-site-generators/) [2020]

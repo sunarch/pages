@@ -1,12 +1,12 @@
-title: Hugo
+title: 11ty
 ---
 _model: tech-project
 ---
-homepage: https://gohugo.io
+homepage: https://www.11ty.dev
 ---
-docs:
+docs: https://www.11ty.dev/docs/
 ---
-repository:
+repository: https://github.com/11ty/eleventy/
 ---
 wikipedia_de:
 ---
@@ -28,6 +28,4 @@ tech_category:
 ---
 body:
 
-## blog posts
-
-- Daniil Baturin: [Why not Hugo](https://baturin.org/blog/why-not-hugo/) (2021-06-04)
+- Node.js

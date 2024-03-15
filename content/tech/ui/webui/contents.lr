@@ -1,0 +1,51 @@
+title: WebUI
+---
+_model: tech-project
+---
+homepage: https://webui.me
+---
+docs: https://webui.me/docs/
+---
+repository: https://github.com/webui-dev/webui
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+tech_category:
+---
+body:
+
+- C / C++
+    - GitHub: [webui-dev/webui](https://github.com/webui-dev/webui)
+- Go
+    - GitHub: [webui-dev/go-webui](https://github.com/webui-dev/go-webui)
+- Nim
+    - GitHub: [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui)
+- Odin
+    - GitHub: [webui-dev/odin-webui](https://github.com/webui-dev/odin-webui)
+- Pascal / Delphi
+    - GitHub: [webui-dev/pascal-webui](https://github.com/webui-dev/pascal-webui)
+    - GitHub: [salvadordf/WebUI4Delphi](https://github.com/salvadordf/WebUI4Delphi)
+- Python
+    - GitHub: [webui-dev/python-webui](https://github.com/webui-dev/python-webui)
+- Rust
+    - GitHub: [webui-dev/rust-webui](https://github.com/webui-dev/rust-webui)
+- TypeScript / JavaScript
+    - GitHub: [webui-dev/deno-webui](https://github.com/webui-dev/deno-webui)
+- V
+    - GitHub: [webui-dev/v-webui](https://github.com/webui-dev/v-webui)
+- Zig
+    - GitHub: [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui)
