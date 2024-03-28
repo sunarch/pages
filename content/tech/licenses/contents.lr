@@ -2,9 +2,9 @@ title: licenses
 ---
 body:
 
-# used
+## used
 
-## MPL-2.0
+### MPL-2.0
 
 Mozilla Public License 2.0
 
@@ -18,7 +18,7 @@ Mozilla Public License 2.0
 - [TLDRLegal](https://tldrlegal.com/license/mozilla-public-license-2.0-%28mpl-2%29)
 - [GNU](https://directory.fsf.org/wiki/License:MPL-2.0)
 
-### Standard License Header
+#### Standard License Header
 
 ```
 This Source Code Form is subject to the terms of the Mozilla Public
@@ -26,7 +26,7 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ```
 
-## CC-BY-SA-4.0
+### CC-BY-SA-4.0
 
 Creative Commons Attribution Share Alike 4.0 International
 
@@ -37,9 +37,9 @@ Creative Commons Attribution Share Alike 4.0 International
 - [TLDRLegal](https://tldrlegal.com/license/creative-commons-attribution-sharealike-4.0-international-(cc-by-sa-4.0))
 - [GNU License List](https://www.gnu.org/licenses/license-list.html#ccbysa)
 
-# previous
+## previous
 
-## AGPL-3.0-or-later
+### AGPL-3.0-or-later
 
 GNU Affero General Public License v3.0 or later
 
@@ -52,7 +52,7 @@ GNU Affero General Public License v3.0 or later
 - [TLDRLegal](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0))
 - [GNU](https://www.gnu.org/licenses/agpl-3.0.html)
 
-## LGPL-3.0-or-later
+### LGPL-3.0-or-later
 
 GNU Lesser General Public License v3.0 or later
 
@@ -65,7 +65,7 @@ GNU Lesser General Public License v3.0 or later
 - [TLDRLegal](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
 - [GNU](https://www.gnu.org/licenses/lgpl-3.0.html)
 
-## MIT
+### MIT
 
 MIT License
 
@@ -78,7 +78,7 @@ MIT License
 - [TLDRLegal](https://tldrlegal.com/license/mit-license)
 - [GNU](https://directory.fsf.org/wiki/License:Expat)
 
-## Unlicense
+### Unlicense
 
 The Unlicense
 
@@ -92,9 +92,9 @@ The Unlicense
 - [TLDRLegal](https://tldrlegal.com/license/unlicense)
 - [GNU](https://directory.fsf.org/wiki/License:Unlicense)
 
-# other relevant
+## other relevant
 
-## GPL-3.0-or-later
+### GPL-3.0-or-later
 
 GNU General Public License v3.0 or later
 
@@ -107,7 +107,7 @@ GNU General Public License v3.0 or later
 - [TLDRLegal](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 - [GNU](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## Apache-2.0
+### Apache-2.0
 
 Apache License 2.0
 
@@ -121,9 +121,9 @@ Apache License 2.0
 - [TLDRLegal](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
 - [GNU](https://directory.fsf.org/wiki/License:Apache-2.0)
 
-# other free
+## other free
 
-## BSD-3-Clause
+### BSD-3-Clause
 
 BSD 3-Clause "New" or "Revised" License
 
@@ -134,7 +134,7 @@ BSD 3-Clause "New" or "Revised" License
 - [Open Source Initiative](https://opensource.org/licenses/BSD-3-Clause)
 - [TLDRLegal](https://tldrlegal.com/license/bsd-3-clause-license-(revised))
 
-# general links
+## general links
 
 - [Choose a License](https://choosealicense.com) by [GitHub](https://github.com)
 - [SPDX License List](https://spdx.org/licenses/) by [Linux Foundation Collaborative Projects](https://www.linuxfoundation.org/projects/)
@@ -144,3 +144,7 @@ BSD 3-Clause "New" or "Revised" License
 - [OSS Watch Licence differentiator](http://oss-watch.ac.uk/apps/licdiff/)
 - [GNU Licenses](https://www.gnu.org/licenses/)
     - [GNU License List](https://www.gnu.org/licenses/license-list.html)
+
+## articles
+
+- OpenSource.net: [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/) (2024-02-29)

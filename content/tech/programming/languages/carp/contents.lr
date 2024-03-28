@@ -1,0 +1,63 @@
+title: Carp
+---
+_model: programming-language
+---
+homepage:
+---
+docs: https://github.com/carp-lang/Carp/tree/master/docs
+---
+repository: https://github.com/carp-lang/Carp
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family: Lisp
+---
+first_appeared:
+---
+designed_by:
+---
+latest_release: 0.5.5 (Apr 2022)
+---
+developer:
+---
+license:
+---
+category: experimental
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_pattern_matching:
+---
+feature_static_typing: yes
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+> A statically typed lisp, without a GC, for real-time applications.
+
+- a research project
