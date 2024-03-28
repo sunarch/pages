@@ -48,6 +48,8 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
+feature_pattern_matching: yes
+---
 feature_static_typing: yes
 ---
 ranking_tiobe_url: https://www.tiobe.com/tiobe-index/swift/

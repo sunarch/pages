@@ -84,6 +84,10 @@ feature_jargon: dict[str, int] = {
     '(loss)': -10
 }
 
+feature_pattern_matching: dict[str, int] = {
+
+}
+
 feature_static_typing: dict[str, int] = {
     'typeless': 1,
     'untyped': 1,
@@ -98,6 +102,7 @@ all_features: dict[str, dict[str, int]] = {
     'feature_hof': feature_hof,
     'feature_immutable': feature_immutable,
     'feature_jargon': feature_jargon,
+    'feature_pattern_matching': feature_pattern_matching,
     'feature_static_typing': feature_static_typing
 }
 

@@ -48,6 +48,8 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
+feature_pattern_matching:
+---
 feature_static_typing: yes
 ---
 ranking_tiobe_url:
@@ -71,11 +73,20 @@ body:
 - WebUI
     - GitHub: [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui)
 
-### articles
+## WASM
+
+- Zig version of the WASI tutorial - GitHub: [kubkon/zig-wasi-tutorial](https://github.com/kubkon/zig-wasi-tutorial) by by Jakub Konka
+- Zig + WebAssembly + JS + DOM - GitHub: [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) by Shritesh Bhattarai
+
+## articles
 
 - Samarth Hattangady: [Writing and Releasing a game in zig](https://zig.news/chapliboy/writing-and-releasing-a-game-in-zig-13f3) (Mar 1, 2023)
 
-### videos
+## videos
 
 - YouTube: [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022](https://youtu.be/YXrb-DqsBNU) by GOTO Conferences (2023-03-15)
 - YouTube: [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler - Software You Can Love 2022](https://youtu.be/1N85yU6RMcY) by Zig SHOWTIME (2022-10-21)
+
+## forum posts
+
+- [Build system tricks](https://ziggit.dev/t/build-system-tricks/3531) (2024-03-11) on Ziggit

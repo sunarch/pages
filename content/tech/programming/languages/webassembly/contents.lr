@@ -48,6 +48,8 @@ feature_immutable:
 ---
 feature_jargon: --
 ---
+feature_pattern_matching:
+---
 feature_static_typing:
 ---
 ranking_tiobe_url:
@@ -57,6 +59,7 @@ sunarch:
 body:
 
 - GitHub: [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
+- Fermyon Developer: [WebAssembly Language Support Matrix](https://developer.fermyon.com/wasm-languages/webassembly-language-support)
 
 ## emscripten
 

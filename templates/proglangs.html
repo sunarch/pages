@@ -68,7 +68,7 @@
                 <th rowspan="2">score</th>
                 <th rowspan="2">name</th>
                 <th rowspan="2">year</th>
-                <th colspan="6">features</th>
+                <th colspan="7">features</th>
                 <th colspan="2">refs</th>
                 <th rowspan="2">(me)</th>
             </tr>
@@ -79,6 +79,7 @@
                 <th>{{ bag('proglang_features.explicit_errors.label') }}</th>
                 <th>{{ bag('proglang_features.hof.label') }}</th>
                 <th>{{ bag('proglang_features.immutable.label') }}</th>
+                <th>{{ bag('proglang_features.pattern_matching.label') }}</th>
                 <th>{{ bag('proglang_features.jargon.label') }}</th>
                 <th>{{ bag('proglang_features.hacker.label') }}</th>
             </tr>
@@ -104,6 +105,7 @@
                     <td>{{ child.feature_explicit_errors }}</td>
                     <td>{{ child.feature_hof }}</td>
                     <td>{{ child.feature_immutable }}</td>
+                    <td>{{ child.feature_pattern_matching }}</td>
                     <td>{{ child.feature_jargon }}</td>
                     <td>{{ child.feature_hacker }}</td>
                     {% if child.sunarch | string | length > 0 %}

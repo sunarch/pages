@@ -48,6 +48,8 @@ feature_immutable:
 ---
 feature_jargon: small
 ---
+feature_pattern_matching: yes
+---
 feature_static_typing: untyped
 ---
 ranking_tiobe_url:

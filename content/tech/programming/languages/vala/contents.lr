@@ -1,16 +1,16 @@
-title: Beef
+title: Vala
 ---
 _model: programming-language
 ---
-homepage: https://www.beeflang.org
+homepage: https://vala.dev
 ---
-docs: https://www.beeflang.org/docs/
+docs: https://wiki.gnome.org/Projects/Vala/Documentation
 ---
-repository: https://github.com/beefytech/Beef
+repository: https://gitlab.gnome.org/GNOME/vala
 ---
-wikipedia_de:
+wikipedia_de: https://de.wikipedia.org/wiki/Vala_(Programmiersprache)
 ---
-wikipedia_en: https://en.wikipedia.org/wiki/Beef_(programming_language)
+wikipedia_en: https://en.wikipedia.org/wiki/Vala_(programming_language)
 ---
 wikipedia_hu:
 ---
@@ -22,21 +22,21 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared: 2019
+first_appeared: 2006
 ---
 designed_by:
 ---
-latest_release: 0.43.4 (Sep 2022)
+latest_release: 0.57.0 (Apr 2023)
 ---
-developer:
+developer: Jürg Billeter, Raffaele Sandrini
 ---
-license:
+license: LGPLv2.1+
 ---
 category: preone
 ---
 feature_adt:
 ---
-feature_compiled: by LLVM
+feature_compiled: via C
 ---
 feature_explicit_errors:
 ---
