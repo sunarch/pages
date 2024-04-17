@@ -93,7 +93,9 @@
                 {% if child.category == category %}
                 <tr>
                     <td>{{ child.comparison_score }}</td>
-                    <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
+                    <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;">
+                        <a href="{{ child._slug }}">{{ child.title }}</a>
+                    </td>
                     {% if child.first_appeared | string | length > 0 %}
                         <td>{{ child.first_appeared }} ({{ child.age }})</td>
                     {% else %}
@@ -133,7 +135,9 @@
             {% if child.category in lang_sections_other %}
             {% if child.sunarch | string | length > 0 %}
             <tr>
-                <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;"><a href="{{ child._slug }}">{{ child.title }}</a></td>
+                <td{% if child.category == 'deprecated' %} class="deprecated"{% endif %} style="font-weight: bold;">
+                    <a href="{{ child._slug }}">{{ child.title }}</a>
+                </td>
                 <td>{{ child.first_appeared }}</td>
                 {% if child.sunarch | string | length > 0 %}
                     <td>({{ child.sunarch }})</td>
