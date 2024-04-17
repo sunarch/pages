@@ -38,6 +38,8 @@ feature_adt: N/A
 ---
 feature_compiled: N/A
 ---
+feature_context_management: N/A
+---
 feature_explicit_errors: N/A
 ---
 feature_hacker: N/A

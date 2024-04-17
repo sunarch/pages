@@ -38,6 +38,8 @@ feature_adt: yes
 ---
 feature_compiled: Java VM
 ---
+feature_context_management:
+---
 feature_explicit_errors: exceptions | Option
 ---
 feature_hacker: --

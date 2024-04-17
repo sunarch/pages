@@ -38,6 +38,8 @@ feature_adt: interface
 ---
 feature_compiled: yes
 ---
+feature_context_management: defer
+---
 feature_explicit_errors: nil return
 ---
 feature_hacker: 2nd

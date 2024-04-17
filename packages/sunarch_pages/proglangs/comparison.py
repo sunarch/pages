@@ -44,6 +44,11 @@ feature_compiled: dict[str, int] = {
     '(to JavaScript)': 0
 }
 
+feature_context_management: dict[str, int] = {
+    'defer': 100,
+    'context manager': 100
+}
+
 feature_explicit_errors: dict[str, int] = {
     'Result': 100,
     'Maybe': 100,
@@ -97,6 +102,7 @@ feature_static_typing: dict[str, int] = {
 all_features: dict[str, dict[str, int]] = {
     'feature_adt': feature_adt,
     'feature_compiled': feature_compiled,
+    'feature_context_management': feature_context_management,
     'feature_explicit_errors': feature_explicit_errors,
     'feature_hacker': feature_hacker,
     'feature_hof': feature_hof,

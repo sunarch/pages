@@ -36,7 +36,9 @@ category: markup
 ---
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: --
+---
+feature_context_management: --
 ---
 feature_explicit_errors:
 ---

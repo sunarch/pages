@@ -38,6 +38,8 @@ feature_adt: yes
 ---
 feature_compiled: yes
 ---
+feature_context_management:
+---
 feature_explicit_errors: exceptions
 ---
 feature_hacker: 3.a
