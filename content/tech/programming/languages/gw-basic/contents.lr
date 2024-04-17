@@ -54,11 +54,10 @@ feature_static_typing:
 ---
 ranking_tiobe_url:
 ---
-sunarch: looked
+sunarch: tried
 ---
 body:
 
-- type: other
 - standard: unknown
 - Jargon File entry for [BASIC](http://www.catb.org/~esr/jargon/html/B/BASIC.html)
 

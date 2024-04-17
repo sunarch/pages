@@ -93,6 +93,10 @@ body:
 - [High School Computing: The Inside Story](http://www.trollope.org/scheme.html)
 - [Technical Issues of Separation in Function Cells and Value Cells](https://www.nhplace.com/kent/Papers/Technical-Issues.html)
 
+## groups
+
+- [comp.lang.lisp - Google Groups](https://groups.google.com/g/comp.lang.lisp)
+
 ## other
 
 - [Nightmod](https://sekao.net/nightmod/)
@@ -101,3 +105,5 @@ body:
 - Stack Overflow: [Which dialect of Lisp should I learn?](https://stackoverflow.com/questions/1007250/which-dialect-of-lisp-should-i-learn)
 - Quora: [Do all programming languages actually converge to LISP?](https://www.quora.com/Do-all-programming-languages-actually-converge-to-LISP)
 - Hacker News: [Are there any Lisps you would recommend (other than Clojure)? (Or languages?)](https://news.ycombinator.com/item?id=4487793)
+- Stack Overflow: [namespaces - Is "Lisp-1 vs Lisp-2" relevant in a language with static types? - Stack Overflow](https://stackoverflow.com/questions/19674284/is-lisp-1-vs-lisp-2-relevant-in-a-language-with-static-types)
+

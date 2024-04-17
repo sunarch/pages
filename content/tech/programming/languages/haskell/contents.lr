@@ -54,7 +54,7 @@ feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
-sunarch: looked
+sunarch: tried
 ---
 body:
 
@@ -64,3 +64,7 @@ body:
 ### description
 
 purely functional
+
+### blogs
+
+- Haskell for all - [haskellforall.com](https://www.haskellforall.com) - by  Gabriella Gonzalez

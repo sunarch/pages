@@ -80,7 +80,8 @@ a [Lisp](lisp.md) dialect
 
 ### ClojureScript
 
-- website: [clojurescript.org](https://clojurescript.org/)
+- website: [clojurescript.org](https://clojurescript.org)
+- transpiles to JavaScript
 
 ## forum entries
 
