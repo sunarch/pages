@@ -28,6 +28,7 @@ tech_category:
 ---
 body:
 
+- template language: Liquid
 - [Jekyll Themes – a curated directory](https://jekyllthemes.io)
     - [Lanyon – A content-first, sliding sidebar theme](https://jekyllthemes.io/theme/lanyon)
 - [Jekyll & Liquid Cheatsheet](https://gist.github.com/magicznyleszek/9803727)

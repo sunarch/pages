@@ -4,25 +4,11 @@ body:
 
 - [Wikipedia: Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution)
 - [Wikipedia: List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
-- [LinuxTimeline](https://github.com/FabioLolix/linuxtimeline) by [Fabio Loli](https://github.com/FabioLolix) on [GitHub](https://github.com)
+- Linux distributions timeline
+	- GitHub: [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
 - [DistroWatch](https://distrowatch.com/)
 
-# used
-
-- Ubuntu
-- Linux Mint
-- Manjaro
-- Raspberry Pi OS
-
-# other
-
-- Elementary OS
-- Debian
-- Arch Linux
-- Gentoo
-- Fedora
-
-# distro tree extract
+## distro tree extract
 
 - [Debian](https://www.debian.org)
     - [Ubuntu](https://ubuntu.com)
@@ -48,7 +34,7 @@ body:
 - (Enoch) -> Gentoo
     - [Gentoo](http://www.gentoo.org)
 
-- [Arch](https://www.archlinux.org/)
+- [Arch](https://www.archlinux.org)
     - [Manjaro](https://manjaro.org)
 
 - *([Slackware](http://www.slackware.com))*

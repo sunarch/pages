@@ -1,0 +1,21 @@
+title: prog. lang. ideas
+---
+body:
+
+## names
+
+- ending in `asm`
+	- ~~chasm~~
+		- but spelling could be misleading when compared to e.g. `nasm`, `masm`
+	- sarcasm
+	- fantasm / phantasm
+		- `phantasm` already exists in PyPI
+	- ~~metaplasm~~
+		- "Alteration of a word by the addition, omission, or transposition of sounds or syllables or the letters that represent them." - [The Free Dictionary](https://www.thefreedictionary.com/metaplasm)
+		- but also in cytology and botany
+	- ~~iconoclasm~~
+		- but mainly religious and political
+	- enthusiasm
+- assembly in Spanish (with `el` for `esolang`)
+	- el montaje
+

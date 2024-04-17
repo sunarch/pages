@@ -76,8 +76,10 @@ body:
 # articles
 
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
-- Jamie Brandon: [Pain we forgot](https://www.scattered-thoughts.net/writing/pain-we-forgot/) (May 17, 2014)
-- Jamie Brandon: [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/) (Feb 17, 2014)
+- Jamie Brandon: [Pain we forgot](https://www.scattered-thoughts.net/writing/pain-we-forgot/) (2014-05-17)
+- Jamie Brandon: [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/) (2014-02-17)
+- Edsger W.Dijkstra - EWD 667 - [On the foolishness of "natural language programming".](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
+- Haskell for all - [The end of history for programming](https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html) (2021-04-21)
 
 ## videos
 

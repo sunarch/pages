@@ -1,0 +1,23 @@
+title: color
+---
+body:
+
+## color temperature
+
+| temp.  | description      |
+| -----  | ---------------- |
+| 1700 K | match flame      |
+| 1850 K | sunset / sunrise |
+| 2300 K | dim incandescent |
+| 2700 K | thungsten        |
+| 3400 K | halogen          |
+| 4200 K | fluorescent      |
+| 5000 K | sunlight         |
+
+## f.lux - Better lighting for your computer
+
+- default nighttime color temperature: 3400 K - halogen 
+
+## value / saturation
+
+- [Value-Saturation Chart.psd](https://www.dropbox.com/s/61hcfe6v08pdgsb/Value-Saturation%20Chart.psd?dl=0)
