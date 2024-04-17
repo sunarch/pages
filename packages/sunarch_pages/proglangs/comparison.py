@@ -122,7 +122,8 @@ def calculate_comparison_score(page, debug: int = 0) -> int:
     comparison_score = 0
 
     for feature_name, feature_values in all_features.items():
-        if not page[feature_name]:
+        if feature_name not in page:
+            print(f'Missing field: prog. lang. "{page["title"]}" -> "{feature_name}"')
             continue
 
         field_value = page[feature_name]
