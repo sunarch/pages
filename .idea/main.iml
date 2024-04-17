@@ -25,7 +25,7 @@
     <content url="file://$MODULE_DIR$/../../../../github/sunarch-forks-python/f_lkr_lektor/tests">
       <excludeFolder url="file://$MODULE_DIR$/../../../../github/sunarch-forks-python/f_lkr_lektor/tests" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (pages main)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (main)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
