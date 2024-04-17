@@ -18,10 +18,15 @@ from proglangs.common import PATH_PROGLANGS
 from proglangs.model import KEY_FOR_SUM_RANKINGS
 
 
-def set_sum_rankings(page: Page, value: int) -> None:
+def set_sum_rankings(page: Page, value: int, debug: int = 0) -> None:
     """Set rankings sum field of a page"""
 
+    prev_value: int = page[KEY_FOR_SUM_RANKINGS]
+
     set_field(page, KEY_FOR_SUM_RANKINGS, value)
+
+    if debug > 1:
+        print(' ' * 3, '[', KEY_FOR_SUM_RANKINGS, ':', prev_value, '->', page[KEY_FOR_SUM_RANKINGS], ']')
 
 
 def ranking_field_name(ranking_name: str) -> str:
@@ -190,9 +195,6 @@ def calculate_sum_rankings(page, debug: int = 0) -> int:
 
         if debug > 1:
             print(' ' * 3, field_name, ':', display)
-
-    if debug > 1:
-        print(' ' * 3, '[', KEY_FOR_SUM_RANKINGS, '=', page[KEY_FOR_SUM_RANKINGS], ']')
 
     return sum_rankings
 

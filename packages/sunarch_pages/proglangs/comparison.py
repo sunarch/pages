@@ -116,10 +116,15 @@ for dict_feature in all_features.values():
     dict_feature.update(feature)
 
 
-def set_comparison_score(page: Page, value: int) -> None:
+def set_comparison_score(page: Page, value: int, debug: int = 0) -> None:
     """Set comparison score field of a page"""
 
+    prev_value: int = page[KEY_FOR_COMPARISON_SCORE]
+
     set_field(page, KEY_FOR_COMPARISON_SCORE, value)
+
+    if debug > 1:
+        print(' ' * 3, '[', KEY_FOR_COMPARISON_SCORE, ':', prev_value, '->', page[KEY_FOR_COMPARISON_SCORE], ']')
 
 
 def calculate_comparison_score(page, debug: int = 0) -> int:
@@ -140,15 +145,12 @@ def calculate_comparison_score(page, debug: int = 0) -> int:
         value: int = feature_values[field_value]
         comparison_score += value
 
-        if debug > 1:
-            print(' ' * 3, feature_name, ':', value, '->', comparison_score)
-
         new_field_value: str = field_value + f' ({value})'
         set_field(page, feature_name, new_field_value)
 
-    comparison_score += page[KEY_FOR_AGE]
+        if debug > 1:
+            print(' ' * 3, feature_name, ':', value, '->', comparison_score, '->', f'"{new_field_value}"')
 
-    if debug > 2:
-        print(' ' * 3, '[', KEY_FOR_COMPARISON_SCORE, ']')
+    comparison_score += page[KEY_FOR_AGE]
 
     return comparison_score

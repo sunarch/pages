@@ -37,10 +37,10 @@ class SunarchPagesPlugin(Plugin):
                 print(child[KEY_FOR_TITLE])
 
             age: int = calculate_age(child, debug=DEBUG)
-            set_age(child, age)
+            set_age(child, age, debug=DEBUG)
 
             comparison_score: int = calculate_comparison_score(child, debug=DEBUG)
-            set_comparison_score(child, comparison_score)
+            set_comparison_score(child, comparison_score, debug=DEBUG)
 
             sum_rankings: int = calculate_sum_rankings(child, debug=DEBUG)
-            set_sum_rankings(child, sum_rankings)
+            set_sum_rankings(child, sum_rankings, debug=DEBUG)
