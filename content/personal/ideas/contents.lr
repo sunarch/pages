@@ -7,6 +7,9 @@ body:
 ## projects
 
 - contact- and project-organizing app for freelance real-estate agents
+- declarative video editing
+    - https://github.com/mifi/editly
+    - https://github.com/transitive-bullshit/ffmpeg-concat
 - node visualization
 - project governance management
 - scoreboard
@@ -35,13 +38,6 @@ body:
 ## NaNoGenMo
 
 - *A Generation of Thrones*: GoT-like story, generated
-
-## Linux distro names
-
-- Macaroni Linux
-    - after the [Macaroni penguin](https://en.wikipedia.org/wiki/Macaroni_penguin)
-- Rockhopper Linux
-    - after the [Rockhopper penguin](https://en.wikipedia.org/wiki/Rockhopper_penguin)
 
 ## board game
 
