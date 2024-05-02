@@ -68,6 +68,14 @@ body:
 
 scripting, readability, extensible
 
+### concepts
+
+- EAFP (easier to ask forgiveness than permission)
+    - `try` / `catch` instead of `if`
+    - <-> LBYL (look before you leap)
+- duck-typing
+- generator (`yield`), iterator
+
 ## features
 
 ### Data Classes
