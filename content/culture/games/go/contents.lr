@@ -2,3 +2,45 @@ title: Go
 ---
 body:
 
+## rules
+
+- Black goes first.
+- Take turns placing one stone.
+- Surround territory.
+
+## conventions
+
+- komi (fehér másodlépés előny, pl. 6.5)
+
+## special situations
+
+- ko (alternating single stone captures)
+- seki (mutual life where no group can kill the other)
+
+## other
+
+- sente (kényszerítő nagy lépés, amire muszáj válaszolni)
+- tenuki (máshova ugró játék)
+- atari (egy élet marad)
+- gote (nagy lépés, amire viszont nem muszáj válaszolni)
+- hane (rézsű)
+- miai (2 lehetőség - 1 neked, 1 az ellenfélnek)
+- tesuji ('tactic')
+
+## proverbs
+
+- Corners are gold, sides are silver, center is grass.
+- He who counts, wins.
+    - He who doesn't count liberties will surely lose.
+- Stake a claim.
+- The one-point jump is never wrong.
+- Divide and conquer.
+- Don't throw good stones after bad.
+- Play the big points.
+- Keep your stones connected.
+- A new stone makes a new game.
+- Quick play yields experience.
+- If the Go board throws you, jump right back on.
+- The best way to get stronger is to lose 100 games as quickly as possible!
+- "vágókövet nem atarizunk"
+
