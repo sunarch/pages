@@ -1,0 +1,63 @@
+title: C3
+---
+_model: programming-language
+---
+homepage: https://c3-lang.org
+---
+docs: https://c3-lang.org/guide/
+---
+repository: https://github.com/c3lang/c3c
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+designed_by:
+---
+latest_release: 0.5.5 (Mar 19, 2024)
+---
+developer:
+---
+license:
+---
+category: preone
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_context_management:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_pattern_matching:
+---
+feature_static_typing:
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+> C3 is a system programming language based on C. It is an evolution of C enabling the same paradigms and retaining the same syntax as far as possible.

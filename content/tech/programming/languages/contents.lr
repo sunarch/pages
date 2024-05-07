@@ -21,6 +21,10 @@ body:
 
 - Wikipedia: [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
+## algorithms
+
+- The Algorithms: [the-algorithms.com](https://the-algorithms.com) - *"GitHub's largest open-source algorithm library"*
+
 ## tools
 
 - Compiler Explorer: [godbolt.org](https://godbolt.org)
@@ -64,3 +68,9 @@ body:
     - 2021: JavaScript, Python, Java, TypeScript. C#, PHP, C++, Shell, C, Ruby
 - [languish](https://tjpalmer.github.io/languish/) ([GitHub](https://github.com/tjpalmer/languish)) by [Tom (tjpalmer)](https://github.com/tjpalmer)
     - "a web page for exploring programming language trends"
+
+## comparisons
+
+- Odin vs. Zig
+    - Reddit - r/odinlang - [Odin vs Zig for a hobby project (cross-platform game client + game server)](https://www.reddit.com/r/odinlang/comments/1c7s0r0/odin_vs_zig_for_a_hobby_project_crossplatform/) by Potential_Passage_96
+    - Reddit - r/Zig - [Odin vs Zig for a hobby project (cross-platform game client + game server)](https://www.reddit.com/r/Zig/comments/1c7s0pm/comment/l0a7rh3/) by Potential_Passage_96

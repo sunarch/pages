@@ -87,6 +87,10 @@ efficient mapping to machine code ⇒ replace assembly
 - WebUI
     - GitHub: [webui-dev/webui](https://github.com/webui-dev/webui)
 
+## articles
+
+- Walter Bright: [C’s Biggest Mistake](https://digitalmars.com/articles/C-biggest-mistake.html) (2009-12-22) on Digital Mars
+
 ## videos
 
 - [Programming in Modern C with a Sneak Peek into C23 - Dawid Zalewski - ACCU 2023](https://youtu.be/lLv1s7rKeCM) by ACCU Conference (2023-06-23)

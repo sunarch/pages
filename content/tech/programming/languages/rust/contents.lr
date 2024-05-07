@@ -73,6 +73,10 @@ body:
 - [the book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
+## notes from the std.lib
+
+- [Macro std::include_bytes](https://doc.rust-lang.org/std/macro.include_bytes.html)
+
 ## Rust 🦀 and WebAssembly 🕸
 
 - [Rust-WASM book](https://rustwasm.github.io/docs/book/)
@@ -91,6 +95,7 @@ body:
 
 - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (2024-02-07)
 - fasterthanlime: [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) (2022-02-07)
+- [Why does musl make my Rust code so slow?](https://andygrove.io/2020/05/why-musl-extremely-slow/) (2020-05-05) by Andy Grove
 
 ## videos
 

@@ -61,8 +61,22 @@ sunarch: some
 body:
 
 - [Hacker News announcement](https://news.ycombinator.com/item?id=22199942)
+- Ginger Bill: [Odin Documentation](https://www.gingerbill.org/odin/docs/) on his personal site
+- GitHub: [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin) - *"A collection of awesome Odin libraries, software and resources."*
+
+## used by
+
+- [JangaFX](https://jangafx.com)
+    - [EmberGen](https://jangafx.com/software/embergen/) - *"Create Stunning Fire, Smoke,
+and Explosions in Real-time."*
 
 ## libs
 
 - WebUI
     - GitHub: [webui-dev/odin-webui](https://github.com/webui-dev/odin-webui)
+
+## articles
+
+- [Low-Level Programming with Odin Lang - Perfect for Beginners](https://dev.to/patrickodacre/low-level-programming-with-odin-lang-perfect-for-beginners-5cc3) (2022-09-21) by Patrick O'Dacre
+- [A review of the Odin programming language](https://graphitemaster.github.io/odin_review/) (2022-09-10) by Dale Weiler (working at JangaFX)
+- [Why I like Odin](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/) (2022-08-25) by Judy Hasen

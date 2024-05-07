@@ -1,0 +1,63 @@
+title: Onyx
+---
+_model: programming-language
+---
+homepage: https://onyxlang.io/
+---
+docs: https://onyxlang.io/docs
+---
+repository: https://github.com/onyx-lang/onyx
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+designed_by:
+---
+latest_release: 0.1.11 (Apr 22, 2024)
+---
+developer:
+---
+license:
+---
+category: preone
+---
+feature_adt:
+---
+feature_compiled: yes
+---
+feature_context_management:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_pattern_matching:
+---
+feature_static_typing:
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+> An efficient, procedural, and pragmatic programming language

@@ -2,7 +2,7 @@ title: GDScript
 ---
 _model: programming-language
 ---
-homepage: https://godotengine.org
+homepage: https://gdscript.com
 ---
 docs: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/
 ---
@@ -59,3 +59,5 @@ ranking_tiobe_url:
 sunarch:
 ---
 body:
+
+- used by [Godot](https://godotengine.org) engine

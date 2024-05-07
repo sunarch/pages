@@ -80,6 +80,11 @@ body:
 - Zig version of the WASI tutorial - GitHub: [kubkon/zig-wasi-tutorial](https://github.com/kubkon/zig-wasi-tutorial) by by Jakub Konka
 - Zig + WebAssembly + JS + DOM - GitHub: [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) by Shritesh Bhattarai
 
+## articles by creator
+
+- Andrew Kelley - [andrewkelley.me](https://andrewkelley.me)
+- [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) (2020-03-24)
+
 ## articles
 
 - Samarth Hattangady: [Writing and Releasing a game in zig](https://zig.news/chapliboy/writing-and-releasing-a-game-in-zig-13f3) (Mar 1, 2023)

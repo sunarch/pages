@@ -1,0 +1,17 @@
+title: feed readers
+---
+body:
+
+## Newsboat
+
+- homepage: [newsboat.org](https://newsboat.org)
+- GitHub: [newsboat/newsboat](https://github.com/newsboat/newsboat)
+- for the text console
+- actively maintained fork of Newsbeuter
+
+## Miniflux
+
+> Miniflux is a minimalist and opinionated feed reader.
+
+- homepage: [miniflux.app](https://miniflux.app)
+- GitHub: [miniflux](https://github.com/miniflux)

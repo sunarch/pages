@@ -1,0 +1,14 @@
+title: x86
+---
+body:
+
+- CISC
+- Wikipedia (en): [x86](https://en.wikipedia.org/wiki/X86)
+- Wikibooks (en): [x86 Assembly/X86 Architecture](https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture)
+- [uops.info](https://uops.info)
+    - [table of micro-ops](https://uops.info/table.html)
+
+## articles
+
+- [Why X86 Needs To Die](https://hackaday.com/2024/03/21/why-x86-needs-to-die/) (2024-03-21) by Julian Scheffers on Hackaday
+    - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/) (2024-03-27) by "clamchowder" on Chips and Cheese

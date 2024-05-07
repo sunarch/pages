@@ -1,0 +1,8 @@
+title: Bitfields vs bool structs
+---
+body:
+
+- [Boolean bit fields vs logical bit masking or bit shifting - C++](https://stackoverflow.com/questions/10261983/boolean-bit-fields-vs-logical-bit-masking-or-bit-shifting-c) (2012-04-21) on StackOverflow
+- [Why use flags+bitmasks rather than a series of booleans?](https://stackoverflow.com/questions/1406554/why-use-flagsbitmasks-rather-than-a-series-of-booleans) (2009-09-10) on StackOverflow
+- Raymond Chen: [The cost-benefit analysis of bitfields for a collection of booleans](https://devblogs.microsoft.com/oldnewthing/20081126-00/?p=20073) (2008-11-26) on The Old New Thing by Microsoft
+    - conclusion: the cost of bitfields most likely exceed the savings if there's not too many instances
