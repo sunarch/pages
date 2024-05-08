@@ -2,14 +2,12 @@ title: licenses
 ---
 body:
 
-<!-- ======================================================================= -->
+## [readable.css](https://readable-css.freedomtowrite.org)
 
-## [readable.css](https://readable-css.freedomtowrite.org) by "Freedom to Write"
+- by [Freedom to Write](https://freedomtowrite.org)
+- repository on [Codeberg](https://codeberg.org/Freedom-to-Write/readable.css)
 
-Repository on [Codeberg](https://codeberg.org/Freedom-to-Write/readable.css)
-
-<pre>
-<code>
+```
 Zero-Clause BSD
 ===============
 
@@ -23,5 +21,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
     LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
     OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
     PERFORMANCE OF THIS SOFTWARE.
-</code>
-</pre>
+```
