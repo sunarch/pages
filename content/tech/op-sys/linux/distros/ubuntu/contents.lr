@@ -9,13 +9,13 @@ body:
 - [Ask Ubuntu](https://askubuntu.com) on [StackExchange](https://stackexchange.com)
 - [DistroWatch](https://distrowatch.com/table.php?distribution=Ubuntu)
 
-# releases
+## releases
 
 [Ubuntu Releases](http://releases.ubuntu.com)
 
-# help
+## help
 
-## articles
+### articles
 
 - [Rescuing an Interrupted Ubuntu Upgrade](https://administratosphere.wordpress.com/2011/11/02/rescuing-an-interrupted-ubuntu-upgrade/) by [UNIX Administratosphere](https://administratosphere.wordpress.com)
 
@@ -27,7 +27,7 @@ body:
 
 ---
 
-# locations
+## locations
 
 - autostart configuration files
     - /etc/xdg/autostart/

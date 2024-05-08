@@ -1,9 +1,17 @@
+{#
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#}
+
 {% extends 'base.html' %}
 
 {% from "macros/blog.html" import render_blog_post %}
 
+{% block template_styles %}{% endblock %}
+
 {% block title %}{{ this.title }}{% endblock %}
 
-{% block content_base %}
+{% block content %}
     {{ render_blog_post(this) }}
 {% endblock %}

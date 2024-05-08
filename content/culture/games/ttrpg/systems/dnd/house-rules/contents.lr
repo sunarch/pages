@@ -2,9 +2,9 @@ title: house rules
 ---
 body:
 
-# personal
+## personal
 
-## 🤫 Secrets (titkok)
+### 🤫 Secrets (titkok)
 
 A játékosok karakterlapja nem ismert egymás előtt, kivéve amit a karakterek a játékon belül felfedtek egymás előtt.
 
@@ -12,47 +12,47 @@ A játékosok karakterlapja nem ismert egymás előtt, kivéve amit a karakterek
 
 - Ide tartozik a Death Saving Throw (halál széli mentődobás) is: A játékosok nem láthatják a mások karakterének állapotát amikor eszméletlen.
 
-## 🤔 Consequences (következmények)
+### 🤔 Consequences (következmények)
 
 A cselekedeteknek következményeik vannak, amik hatással vannak a világra. (Pl. ha a piactér közepén támadnak meg valakit akkor az őrség ezt valószínűleg nem fogja díjazni.)
 
-## ❓ Optional Rules (opcionális szabályok)
+### ❓ Optional Rules (opcionális szabályok)
 
 Alapvetően csak külön megbeszélés alapján: pl. Feats, Multiclassing.
 
 - A Flanking (két oldalról való támadás előnye) használatban van, de egyéni elbírárás alá esik.
 
-## 🎯 Critical Hit damage (sebzés kritikus találatnál)
+### 🎯 Critical Hit damage (sebzés kritikus találatnál)
 
 A hivatalos szabály szerint a sebzési kocká(ka)t kétszer lehet dobni kritikus találatnál. Itt a második dobás helyett a sebzési kocká(k) maximuma adódik hozzá a sebzéshez.
 
-## 💔 Bloodied condition (sebzett állapot)
+### 💔 Bloodied condition (sebzett állapot)
 
 Ez egy leíró jelző ami azt jelenti, hogy az adott lény fennmaradó HP-ja elérte a maximális HP-ja felét.
 
-## 🍺 Quick-Access Potions (gyors hozzáférésű varázsitalok)
+### 🍺 Quick-Access Potions (gyors hozzáférésű varázsitalok)
 
 Általában 1 Action szükséges ahhoz, hogy egy varázsitalt megigyon a karakter. Azonban léteznek olyan speciális övek, amikre rá lehet erősíteni 2-5 varázsitalos üveget. Ezekhez gyorsabban hozzá lehet férni, és csak 1 Bonus Action szükséges az elfogyasztásához. Ezek azonban jól láthatóak, ha nem fedi az övet köpeny. Továbbá ha a karakter elesik (Prone állapotba) vagy mennydörgő sérülést (Thunder damage) szenved, akkor sikertelen DEX Saving Throw (mentődobás) után egy az övre erősített varázsital eltörik és megsemmisül (N = varázsital helyek száma az övön).
 
-## 🎒 Encumberance (terheltség)
+### 🎒 Encumberance (terheltség)
 
 Nem vesszük figyelembe az ésszerűség határain belül. (Azt azért meg kell magyarázni, hogy hol fér el a harmadik kard és a negyedik csatabárd.)
 
-## ☯️ Alignment (jó-gonosz és törvényes-kaotikus beállítottság)
+### ☯️ Alignment (jó-gonosz és törvényes-kaotikus beállítottság)
 
 Nincsenek külön szabályok kötve hozzá, alapvetően a DM informálására szolgál.
 
 - Gonosz (evil) karakter csak külön kérésre és megbeszélés alapján, tapasztalt játékosoknak megengedhető.
 
-## 👨‍🚀 Leveling (szintlépés)
+### 👨‍🚀 Leveling (szintlépés)
 
 Milestone (mérföldkő) típusú szintlépés: Különböző feladatokért vagy teljesítményekért jár a tapasztalat (XP). A Party alapvetően együtt lép szintet, de a tagok legfeljebb fele (lefelé kerekítve) egyénileg is kicsivel hamarabb szintet léphet valamilyen kiemelkedő teljesítményért. (A csapat elhagyása és egyéni villogás negatív értelemben emel ki.)
 
-## 💟 Leveling-up HP (HP növekedés szintlépésnél)
+### 💟 Leveling-up HP (HP növekedés szintlépésnél)
 
 3. szintig a maximum lehetséges HP-t kapja mindenki, utána kockadobással meghatározva, amelynél a legrosszabb lehetséges érték az átlag. (Tehát pl. 1d10-es Hit Die-al rendelkező osztálynál minimum 5, de lehet magasabb a kocka alapján.)
 
-# potential (personal)
+## potential (personal)
 
 - hit dice only with healer's kit
 - sprint

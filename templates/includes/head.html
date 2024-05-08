@@ -4,65 +4,71 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #}
 
-<!-- meta tags (part 1) -->
+{# meta tags (part 1) #}
 <meta charset="UTF-8">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+{# meta tags - author #}
+<meta name="author" content="{{ bag('site.general.author') }}">
+
+{# meta tags - cache #}
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<!-- SEO tags - title -->
+{# SEO tags - title #}
 <title>{{ this.title }} &middot; {{ bag('site.general.title') }}</title>
 <meta property="og:title" content="{{ this.title }}">
-<meta property="twitter:title" content="{{ this.title }}">
 
-<!-- SEO tags - locale-->
+{# SEO tags - locale #}
 <meta property="og:locale" content="en_US">
 
-<!-- SEO tags - description -->
+{# SEO tags - description #}
 <meta name="description" content="{% if this.description %}{{ this.description }}{% else %}{{ bag('site.general.description') }}{% endif %} | {{ bag('site.general.title') }}">
 <meta property="og:description" content="{% if this.description %}{{ this.description }}{% else %}{{ bag('site.general.description') }}{% endif %} | {{ bag('site.general.title') }}">
 
-<!-- SEO tags - path -->
-<link rel="canonical" href="{{ bag('site.url') }}{{ this | url }}">
-<meta property="og:url" content="{{ bag('site.url') }}{{ this | url }}">
+{# SEO tags - path #}
+<link rel="canonical" href="{{ bag('site.general.url') }}{{ this | url }}">
+<meta property="og:url" content="{{ bag('site.general.url') }}{{ this | url }}">
 
-<!-- SEO tags - other -->
+{# SEO tags - other #}
 <meta property="og:site_name" content="{{ bag('site.general.title') }} - {{ bag('site.general.description') }}">
 <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<!--<meta name="generator" content="GENERATOR">-->
+{# <meta name="generator" content="GENERATOR"> #}
 
-<!-- SEO tags - script -->
+{# SEO tags - script #}
 <script type="application/ld+json">
     {"@context": "https://schema.org",
      "@type": "WebPage",
      "description": "{% if this.description %}{{ this.description }}{% else %}{{ bag('site.general.description') }}{% endif %} | {{ bag('site.general.title') }}",
      "headline": "{{ this.title }}",
-     "url": "{{ bag('site.url') }}{{ this | url }}"
+     "url": "{{ bag('site.general.url') }}{{ this | url }}"
     }
 </script>
 
-<!-- meta tags (part 2) -->
+{# meta tags (part 2) #}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#157878">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-<!-- link tags -->
+{# link tags #}
 <link rel="shortcut icon" href="{{ '/static/favicon.ico' | asseturl }}">
 <link rel="icon" type="image/png" href="{{ '/static/favicon-16x16.png' | asseturl }}" sizes="16x16">
 <link rel="icon" type="image/png" href="{{ '/static/favicon-32x32.png' | asseturl }}" sizes="32x32">
 {#
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/static/apple-touch-icon-precomposed.png' | asseturl }}">
-#}
-{#
-<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | asseturl }}">
+<link rel="alternate" type="application/rss+xml" title="sunarch RSS feed" href="{{ '/rss.xml' | asseturl }}">
+<link rel="alternate" type="application/atom+xml" title="sunarch Atom feed" href="{{ '/atom.xml' | asseturl }}">
 #}
 
-<!-- styles -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-<link rel="stylesheet" href="{{ '/static/css/cayman.css' | asseturl }}">
-<link rel="stylesheet" href="{{ '/static/css/sunarch.css' | asseturl }}">
+{# link tags  - me #}
+<link rel="me" href="https://fosstodon.org/@sunarch">
+<link rel="me" href="https://alpha.polymaths.social/@sunarch">
+{# <link rel="me" href="https://polymaths.social/@sunarch"> #}
+<link rel="me" href="https://mstdn.social/@andras3p">
+
+{# styles #}
+<link rel="stylesheet" href="{{ '/static/css/readable-1-1-0-min.css' | asseturl }}">
+<link rel="stylesheet" href="{{ '/static/css/global.css' | asseturl }}">
 {% if this.custom_styles %}
     {% for css_file_name in this.custom_styles %}
         {% set custom_css_path = '/static/css/' ~ css_file_name ~ '.css' %}
@@ -73,7 +79,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 <link rel="stylesheet" href="{{ '/static/css/full-width.css' | asseturl }}">
 {% endif %}
 
-<!-- scripts -->
+{# scripts #}
 {% if this.custom_scripts %}
     {% for js_file_name in this.custom_scripts %}
 <script src="{{ '/static/js/' + js_file_name + '.js' | asseturl }}"></script>

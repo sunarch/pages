@@ -1,7 +1,4 @@
-main {
-    margin-left: auto !important;
-    margin-right: auto  !important;
-    max-width: unset ! important;
+body {
     width: fit-content  !important;
     padding-left: 2.5%  !important;
     padding-right: 2.5%  !important;

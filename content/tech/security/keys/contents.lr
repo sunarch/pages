@@ -2,11 +2,11 @@ title: keys
 ---
 body:
 
-# PGP
+## PGP
 
 ## GPG
 
-#### Secret key backup
+### Secret key backup
 
 ```bash
 gpg --output backupkeys.pgp --armor --export-secret-keys --export-options export-backup user@email

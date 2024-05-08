@@ -1,36 +1,35 @@
-<!DOCTYPE html>
-<!--
+{#
 This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#}
+<!DOCTYPE html>
+<!--
+Content licensed under:
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
 -->
 <html lang="en-US">
 <head>
     {% include "includes/head.html" %}
     {% block template_styles %}{% endblock %}
 </head>
-<body onLoad="eh_load_body();">
+<body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-    <header class="page-header" role="banner">
-        <h1 class="project-name">{{ this.title }}</h1>
-        <h2 class="project-tagline">{% if this.description %}{{ this.description }}{% else %}{{ bag('site.general.description') }}{% endif %}&#32;|&#32;{{ bag('site.general.title') }}</h2>
+    <header>
+        <h1>{% block title %}{% endblock %}</h1>
+        {% if this.description %}
+        <p>{{ this.description }}</p>
+        {% endif %}
     </header>
-    <main id="content" class="main-content" role="main">
 
-        {# BREADCRUMBS #}
-        <div class="container {% if this.full_width %}full-width{% endif %}">
-            {% include "includes/breadcrumbs.html" %}
-        </div>
+    {# BREADCRUMBS #}
+    {% include "includes/breadcrumbs.html" %}
 
-        {# NOSCRIPT #}
-        <noscript>
-            <h3>JavaScript is not enabled in your browser!</h3>
-        </noscript>
+    <main id="content">
 
         {# CONTENT #}
-        <div class="container {% if this.full_width %}full-width{% endif %} content">
-            {% block content_base %}{% endblock %}
-        </div>
+        {% block content %}{% endblock %}
 
         {# CHILDREN #}
         {% if this.children %}
@@ -51,21 +50,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
             </ul>
         {% if this.hide_subpages %}</details>{% endif %}
         {% endif %}
-
-        {# FOOTER #}
-        <footer class="site-footer">
-            <span class="site-footer-owner">
-                <a href="{{ bag('site.copyright.repository') }}">{{ bag('site.copyright.title') }}</a>
-                <span>&copy;</span>
-                <span>&#32;{{ bag('site.copyright.year') }}&#32;</span>
-                <a href="{{ bag('site.copyright.homepage') }}">{{ bag('site.copyright.name') }}</a>
-            </span>
-            <span>-</span>
-            <span class="site-footer-credits">
-                <span>Published via</span>
-                <a href="https://codeberg.page">Codeberg Pages</a>
-            </span>
-        </footer>
     </main>
+    
+    {# FOOTER #}
+    {% include "includes/footer.html" %}
 </body>
 </html>

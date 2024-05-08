@@ -82,7 +82,7 @@ body:
 - Hy
     - Wikipedia: [Hy](https://en.wikipedia.org/wiki/Hy)
 
-# resources
+## resources
 
 - [How to Design Programs](https://htdp.org) - book (online)
 - [Build Your Own Lisp](https://www.buildyourownlisp.com) - book (online)

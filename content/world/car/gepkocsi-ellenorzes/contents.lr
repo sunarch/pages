@@ -2,14 +2,14 @@ title: A gépkocsivezető ellenőrzési feladatai
 ---
 body:
 
-##### A motor beindítása előtt ellenőrizni kell:
+## A motor beindítása előtt ellenőrizni kell:
 
 - a motorolaj szintjét
 - a tüzelőanyag mennyiségét (szintjét)
 - a hűtőfolyadék szintjét
 - a jármű világító- és jelzőberendezéseit
 
-##### A motor beindítása után ellenőrizni kell:
+## A motor beindítása után ellenőrizni kell:
 
 - a motor olajnyomását
 - a kormány (kormányszervó) holtjátékát
@@ -18,7 +18,7 @@ body:
         - üzemképességét
 - a generátor töltését
 
-##### A gépjármű elindulása után ellenőrizni kell:
+## A gépjármű elindulása után ellenőrizni kell:
 
 - a fékberendezés hatásosságát (fékpróba)
 - a kormányszerkezet működését
@@ -27,7 +27,7 @@ body:
     - akadásmentes folyamatos működés
     - stb.
 
-##### Üzem közben folyamatosan ellenőrizni kell:
+## Üzem közben folyamatosan ellenőrizni kell:
 
 - a műszerek jelzéseit
     - olajnyomás
@@ -42,7 +42,7 @@ body:
     - zörejek
     - stb.
 
-##### Időnként (1-2 hetente) ellenőrizni kell:
+## Időnként (1-2 hetente) ellenőrizni kell:
 
 - a kormányszervó tömítettségét,
     - a tartályban a folyadék szintjét

@@ -21,9 +21,9 @@ body:
     - minimum: RAM-size + 300 MiB
     - maximum: 3 \* RAM-size
 
-# desktop
+## desktop
 
-## Windows 10
+### Windows 10
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Windows_10)
 
@@ -31,29 +31,29 @@ body:
     - [English (US)](https://www.microsoft.com/en-us/software-download/windows10ISO)
     - [Hungarian](https://www.microsoft.com/hu-hu/software-download/windows10)
 
-# server
+## server
 
-## Windows Server 2012 R2
+### Windows Server 2012 R2
 
 - [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2)
 
-# server tools
+## server tools
 
-## RSAT
+### RSAT
 
 - [Remote Server Administration Tools (RSAT) for Windows](https://docs.microsoft.com/en-us/troubleshoot/windows-server/system-management-components/remote-server-administration-tools)
 
-## SCCM
+### SCCM
 
 - Microsoft Endpoint Configuration Manager
 - formerly System Center Configuration Manager (SCCM)
 - [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_System_Center_Configuration_Manager)
 - [Complete SCCM Installation Guide and Configuration](https://systemcenterdudes.com/complete-sccm-installation-guide-and-configuration/) by [SystemCenterDudes](https://systemcenterdudes.com/)
 
-## Active Directory Users and Computers
+### Active Directory Users and Computers
 
 - [Windows 10 & 8: Install Active Directory Users and Computers](https://www.technipages.com/windows-install-active-directory-users-and-computers) by [TechniPages](https://www.technipages.com/)
 
-# misc.
+## misc.
 
 - TechJunkie: [How To Disable the Keylogger in Windows 10(https://www.techjunkie.com/disable-keylogger-windows-10/)

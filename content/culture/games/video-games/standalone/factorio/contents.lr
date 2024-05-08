@@ -2,7 +2,7 @@ title: Factorio
 ---
 body:
 
-### Walking speed
+## Walking speed
 
 From [Mgis09](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=55469dddddddddasda) on the [forum](https://forums.factorio.com/viewtopic.php?p=478395#p478395):
 
@@ -11,7 +11,7 @@ From [Mgis09](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=5546
 /c game.player.character_running_speed_modifier = 3
 ```
 
-### Blueprints
+## Blueprints
 
 - [Factorio Blueprints . tech](https://factorioblueprints.tech)
     - [Raynquist's Balancers Fall 2020 Organized](https://factorioblueprints.tech/blueprint/05e5ec28-5608-4c5f-895a-5980d80efdba?selected=d16e24e6-656c-445a-9e8d-c925557c40f8&type=book)

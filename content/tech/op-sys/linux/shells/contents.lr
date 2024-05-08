@@ -2,7 +2,7 @@ title: Linux shells
 ---
 body:
 
-# info
+## info
 
 Display current shell:
 
@@ -20,18 +20,18 @@ Non-interactively: `chsh -s SHELL_PATH`
 
 - AskUbuntu - [ChangingShells](https://wiki.ubuntu.com/ChangingShells)
 
-# shells
+## shells
 
-## sh - Bourne shell
+### sh - Bourne shell
 
-## bash - Bourne Again shell
+### bash - Bourne Again shell
 
-## zsh - Z shell
+### zsh - Z shell
 
 - [oh my zsh](https://ohmyz.sh/)
 
-## csh - C Shell
+### csh - C Shell
 
-## ksh93 - Korn shell
+### ksh93 - Korn shell
 
-## tcsh - TC Shell
+### tcsh - TC Shell

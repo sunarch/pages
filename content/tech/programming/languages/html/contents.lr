@@ -63,9 +63,6 @@ body:
 - type: markup
 - standard: yes
 
-### description
-
-
 ## links
 
 - [The HTML Hell Page](http://catb.org/~esr/html-hell.html) by [Eric S. Raymond](../people.md)

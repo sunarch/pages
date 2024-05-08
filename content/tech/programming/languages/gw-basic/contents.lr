@@ -63,6 +63,6 @@ body:
 - standard: unknown
 - Jargon File entry for [BASIC](http://www.catb.org/~esr/jargon/html/B/BASIC.html)
 
-### [PC-BASIC](http://robhagemans.github.io/pcbasic/)
+## [PC-BASIC](http://robhagemans.github.io/pcbasic/)
 
 Free, cross-platform emulator for the GW-BASIC family of interpreters.

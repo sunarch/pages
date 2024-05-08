@@ -28,9 +28,9 @@ tech_category:
 ---
 body:
 
-# tools
+## tools
 
-## linting
+### linting
 
 - JSONLint: [jsonlint.com](https://jsonlint.com/)
 

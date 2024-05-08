@@ -12,7 +12,7 @@ body:
 - Linux: no
 - Windows: yes
 
-#### Arma: Cold War Assault
+### Arma: Cold War Assault
 
 - launcher: Steam
 - Linux: no
@@ -24,19 +24,19 @@ body:
 - Linux: no
 - Windows: yes
 
-#### Arma 2: British Armed Forces
+### Arma 2: British Armed Forces
 
 - launcher: Steam
 - Linux: no
 - Windows: yes
 
-#### Arma 2: Operation Arrowhead
+### Arma 2: Operation Arrowhead
 
 - launcher: Steam
 - Linux: no
 - Windows: yes
 
-#### Arma 2: Private Military Company
+### Arma 2: Private Military Company
 
 - launcher: Steam
 - Linux: no

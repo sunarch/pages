@@ -4,13 +4,14 @@ body:
 
 - [homepage](https://projecteuler.net)
 
-# personal
+## personal
 
 ![Project Euler status of sunarch](https://projecteuler.net/profile/sunarch.png)
 
-## languages
+### languages
 
 - main: Python
 - tried for some:
     - C
     - Racket (Scheme)
+    - Haskell

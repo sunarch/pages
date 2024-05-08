@@ -2,65 +2,65 @@ title: programming
 ---
 body:
 
-# learning resources
+## learning resources
 
 - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
     - "Learn C and build your own programming language in 1000 lines of code!"
 
-# basics
+## basics
 
 - sequence
 - selection → if
 - iteration → while
 
-# project ideas
+## project ideas
 
 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) by Austin Z. Henley (Dec 11, 2019)
 - [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html) by Austin Z. Henley (Dec 20, 2020)
 - [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html) by Austin Z. Henley (Dec 21, 2022)
 
-# IDE
+## IDE
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
 
-## [Eclipse](https://www.eclipse.org/)
+### [Eclipse](https://www.eclipse.org/)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Eclipse_(software))
 
-# Architecture
+## Architecture
 
 - [Wikipedia: Architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
 
-## Onion Architecture
+### Onion Architecture
 
 - Codeguru - [Understanding Onion Architecture](https://www.codeguru.com/csharp/understanding-onion-architecture/)
 
-# other
+## other
 
 - [generative artistry](https://generativeartistry.com/)
 
-## bugs
+### bugs
 
 - Bugzilla (Mozilla) [Bug Writing Guidelines](https://bugzilla.mozilla.org/page.cgi?id=bug-writing.html)
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) by Simon Tatham
 
-## FizzBuzz
+### FizzBuzz
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Fizz_buzz)
 - [Rosetta Code](http://rosettacode.org/wiki/FizzBuzz)
 - Imran On Tech - [Using FizzBuzz to Find Developers who Grok Coding](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 
-### related: Hiring a Juggler
+#### related: Hiring a Juggler
 
 - Reginald Braithwaite - [Hiring a Juggler](http://weblog.raganwald.com/2006/07/hiring-juggler_02.html)
 
-## progressive enhancement
+### progressive enhancement
 
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
 - UK Gov Digital Service - [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
 - Jake Archibald - [Progressive enhancement is still important](https://jakearchibald.com/2013/progressive-enhancement-still-important/)
 
-## Literate Programming
+### Literate Programming
 
 - introduced in 1984 by Donald Knuth
 - Wikipedia: [Literate programming](https://en.wikipedia.org/wiki/Literate_programming)
@@ -68,12 +68,12 @@ body:
 - [Blaze](https://blaze.oat.sh) by 0atman
     - intro blog post: [Blaze: A lightweight literate programing preprocessor](https://www.0atman.com/articles/17/blaze)
 
-# miscellaneous
+## miscellaneous
 
 - Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)
 - Wikipedia: [Backus-Naur form](https://en.wikipedia.org/wiki/Backus-Naur_form)
 
-# articles
+## articles
 
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
 - Jamie Brandon: [Pain we forgot](https://www.scattered-thoughts.net/writing/pain-we-forgot/) (2014-05-17)

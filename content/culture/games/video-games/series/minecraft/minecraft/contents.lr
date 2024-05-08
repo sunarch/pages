@@ -2,15 +2,13 @@ title: Minecraft
 ---
 body:
 
-# Minecraft
-
 - launcher: standalone game launcher (Mojang)
 - Linux: yes
 - Windows: yes
 
 ## mods
 
-#### Sodium
+### Sodium
 
 - "Modern rendering engine and client-side optimization mod for Minecraft"
 - incompatible with Optifine

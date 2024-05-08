@@ -2,7 +2,7 @@ title: personal statistics
 ---
 body:
 
-# GitHub stats
+## GitHub stats
 
 <p align="center">
   <a href="https://github.com/sunarch">
@@ -12,3 +12,6 @@ body:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunarch&layout=compact&langs_count=12" align="center" />
   </a>  
 </p>
+
+- [GitHub Skyline](https://skyline.github.com)
+    - username `sunarch` has to be entered, no permalinks
