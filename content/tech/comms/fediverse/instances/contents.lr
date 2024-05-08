@@ -6,10 +6,6 @@ body:
 - [instances.social](https://instances.social)
 - [Mastodon Near Me - uMap](https://umap.openstreetmap.fr/en/map/mastodon-near-me-fediverse-communities-by-country-_828094#3/18.98/29.53)
 
-## articles
-
-- [Slashgear](https://www.slashgear.com/1088500/mastodon-best-servers-to-join-when-you-sign-up/) by Monica J. White (2022-11-06)
-
 ## other
 
 ### [journa.host](https://journa.host) (Mastodon)
@@ -19,3 +15,17 @@ body:
 ### [Newsie.Social](https://newsie.social) (Mastodon)
 
 > A stable and professionally administered Mastodon server that hosts a large number of journalists and news outlets. Content focuses heavily on news and current events. #newstodon
+
+---
+articles:
+
+#### link ####
+title: Mastodon: Best Servers To Join When You Sign-Up
+----
+url: https://www.slashgear.com/1088500/mastodon-best-servers-to-join-when-you-sign-up/
+----
+date: 2022-11-06
+----
+creator: by Monica J. White
+----
+platform: Slashgear

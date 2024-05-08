@@ -85,13 +85,60 @@ a [Lisp](lisp.md) dialect
 - website: [clojurescript.org](https://clojurescript.org)
 - transpiles to JavaScript
 
-## forum entries
+---
+forum_entries:
 
-- StackOverflow: [Clojure, can macros do something that couldn't be done with a function](https://stackoverflow.com/questions/43973727/clojure-can-macros-do-something-that-couldnt-be-done-with-a-function)
+#### link ####
+title: Clojure, can macros do something that couldn't be done with a function
+----
+url: https://stackoverflow.com/questions/43973727/clojure-can-macros-do-something-that-couldnt-be-done-with-a-function
+----
+date: 2017-05-05
+----
+creator: Tuomas Toivonen
+----
+platform: StackOverflow
 
-## other pages
+#### link ####
+title: What do veteran Lisp programmers think of Clojure?
+----
+url: https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure
+----
+date:
+----
+creator:
+----
+platform: Quora
 
-- Quora: [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
-- Quora: [What Does Paul Graham think of Clojure?](https://www.quora.com/What-Does-Paul-Graham-think-of-Clojure)
-- Smash Company: [Lisp is not functional, but Clojure is](http://www.smashcompany.com/technology/lisp-is-not-functional-but-clojure-is)
-- Stack Overflow: [clojure - Which Lisp should I learn?](https://stackoverflow.com/questions/563356/which-lisp-should-i-learn)
+#### link ####
+title: What Does Paul Graham think of Clojure?
+----
+url: https://www.quora.com/What-Does-Paul-Graham-think-of-Clojure
+----
+date:
+----
+creator:
+----
+platform: Quora
+
+#### link ####
+title: Lisp is not functional, but Clojure is
+----
+url: http://www.smashcompany.com/technology/lisp-is-not-functional-but-clojure-is
+----
+date:
+----
+creator:
+----
+platform: Smash Company
+
+#### link ####
+title: clojure - Which Lisp should I learn?
+----
+url: https://stackoverflow.com/questions/563356/which-lisp-should-i-learn
+----
+date: 2009-02-18
+----
+creator:
+----
+platform: StackOverflow

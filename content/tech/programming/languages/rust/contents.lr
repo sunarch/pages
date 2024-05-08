@@ -91,16 +91,66 @@ body:
 - WebUI
     - GitHub: [webui-dev/rust-webui](https://github.com/webui-dev/rust-webui)
 
-## articles
+---
+blog_posts:
 
-- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (2024-02-07)
-- fasterthanlime: [Some mistakes Rust doesn't catch](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) (2022-02-07)
-- [Why does musl make my Rust code so slow?](https://andygrove.io/2020/05/why-musl-extremely-slow/) (2020-05-05) by Andy Grove
+#### link ####
+title: Rust wont save us, but its ideas will
+----
+url: https://glitchbyte.io/posts/rust-wont-save-us/
+----
+date: 2024-02-07
+----
+creator: Glitchbyte
+----
+platform:
 
-## videos
+#### link ####
+title: Some mistakes Rust doesn't catch
+----
+url: https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch
+----
+date: 2022-02-07
+----
+creator: fasterthanlime
+----
+platform:
 
-- YouTube: [Rust Axum Full Course - Web Development (GitHub repo updated to Axum 0.7)](https://youtu.be/XZtlD_m59sM) by Jeremy Chone
+#### link ####
+title: Why does musl make my Rust code so slow?
+----
+url: https://andygrove.io/2020/05/why-musl-extremely-slow/
+----
+date: 2020-05-05
+----
+creator: Andy Grove
+----
+platform:
 
-## video series
+---
+videos:
 
-- YouTube: [Rust from Zero (Learning the Rust Programming language)](https://youtube.com/playlist?list=PLPoSdR46FgI4LNr984H6ue4F5aQ4AA4WA) by Francesco Ciulla
+#### link ####
+title: Rust Axum Full Course - Web Development (GitHub repo updated to Axum 0.7)
+----
+url: https://youtu.be/XZtlD_m59sM
+----
+date: 2023-04-09
+----
+creator: Jeremy Chone
+----
+platform: YouTube
+
+---
+video_series:
+
+#### link ####
+title: Rust from Zero (Learning the Rust Programming language)
+----
+url: https://youtube.com/playlist?list=PLPoSdR46FgI4LNr984H6ue4F5aQ4AA4WA
+----
+date: 2023-02-04
+----
+creator: Francesco Ciulla
+----
+platform: YouTube

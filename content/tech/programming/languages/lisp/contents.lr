@@ -89,12 +89,6 @@ body:
 - LISP Information and Resources - [lispmachine.net](https://www.lispmachine.net)
 - [Planet Lisp](http://planet.lisp.org)
 
-## articles
-
-- Stanford: [History of Lisp](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html)
-- [High School Computing: The Inside Story](http://www.trollope.org/scheme.html)
-- [Technical Issues of Separation in Function Cells and Value Cells](https://www.nhplace.com/kent/Papers/Technical-Issues.html)
-
 ## groups
 
 - [comp.lang.lisp - Google Groups](https://groups.google.com/g/comp.lang.lisp)
@@ -103,9 +97,89 @@ body:
 
 - [Nightmod](https://sekao.net/nightmod/)
     - live-moddable games with Clojure
-- [Common Lisp VS Racket. Feedback from lispers.](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
-- Stack Overflow: [Which dialect of Lisp should I learn?](https://stackoverflow.com/questions/1007250/which-dialect-of-lisp-should-i-learn)
-- Quora: [Do all programming languages actually converge to LISP?](https://www.quora.com/Do-all-programming-languages-actually-converge-to-LISP)
-- Hacker News: [Are there any Lisps you would recommend (other than Clojure)? (Or languages?)](https://news.ycombinator.com/item?id=4487793)
-- Stack Overflow: [namespaces - Is "Lisp-1 vs Lisp-2" relevant in a language with static types? - Stack Overflow](https://stackoverflow.com/questions/19674284/is-lisp-1-vs-lisp-2-relevant-in-a-language-with-static-types)
 
+---
+articles:
+
+#### link ####
+title: Technical Issues of Separation in Function Cells and Value Cells
+----
+url: https://www.nhplace.com/kent/Papers/Technical-Issues.html
+----
+date: 1988-06-01
+----
+creator: Richard P. Gabriel
+----
+platform: NH Place
+
+---
+blog_posts:
+
+#### link ####
+title: History of Lisp
+----
+url: http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+----
+date: 1996-07-26
+----
+creator: John McCarthy
+----
+platform: Stanford
+
+#### link ####
+title: Common Lisp VS Racket. Feedback from (common) lispers.
+----
+url: https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac
+----
+date: 2024-01-22
+----
+creator: vindarel
+----
+platform: GitHub Gist
+
+---
+forum_entries:
+
+#### link ####
+title: Which dialect of Lisp should I learn?
+----
+url: https://stackoverflow.com/questions/1007250/which-dialect-of-lisp-should-i-learn
+----
+date: 2009-06-17
+----
+creator: Humphrey Bogart
+----
+platform: StackOverflow
+
+#### link ####
+title: Do all programming languages actually converge to LISP?
+----
+url: https://www.quora.com/Do-all-programming-languages-actually-converge-to-LISP
+----
+date:
+----
+creator:
+----
+platform: Quora
+
+#### link ####
+title: Are there any Lisps you would recommend (other than Clojure)? (Or languages?)
+----
+url: https://news.ycombinator.com/item?id=4487793
+----
+date: 2012-09-07
+----
+creator: heretohelp
+----
+platform: Hacker News
+
+#### link ####
+title: namespaces - Is "Lisp-1 vs Lisp-2" relevant in a language with static types?
+----
+url: https://stackoverflow.com/questions/19674284/is-lisp-1-vs-lisp-2-relevant-in-a-language-with-static-types
+----
+date: 2013-10-30
+----
+creator: Jim Pivarski
+----
+platform: StackOverflow

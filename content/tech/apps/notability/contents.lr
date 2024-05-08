@@ -32,6 +32,16 @@ body:
 
 I have used it for school-notes for a couple of years.
 
-## blog posts
+---
+blog_posts:
 
-- Konstantin Tutsch: [I'm forced to use a notes app that can't keep notes](https://konstantintutsch.com/blog/forced-to-use-a-notes-app-that-cant-keep-notes/) (2024-02-21)
+#### link ####
+title: I'm forced to use a notes app that can't keep notes
+----
+url: https://konstantintutsch.com/blog/forced-to-use-a-notes-app-that-cant-keep-notes/
+----
+date: 2024-02-21
+----
+creator: Konstantin Tutsch
+----
+platform:

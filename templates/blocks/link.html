@@ -1,0 +1,4 @@
+{% if this.platform %}{{ this.platform }} - {% endif %}
+<a href="{{ this.url }}">{{ this.title }}</a>
+{% if this.date %}({{ this.date.strftime('%Y-%m-%d') }}){% endif %}
+{% if this.creator %}by {{ this.creator }}{% endif %}

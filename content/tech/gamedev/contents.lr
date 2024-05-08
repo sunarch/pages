@@ -2,6 +2,16 @@ title: game development
 ---
 body:
 
-## blog posts
+---
+blog_posts:
 
-- Cliffski's Blog: [Emotional game design](https://www.positech.co.uk/cliffsblog/2024/02/21/emotional-game-design/) (2024-02-21)
+#### link ####
+title: Emotional game design
+----
+url: https://www.positech.co.uk/cliffsblog/2024/02/21/emotional-game-design/
+----
+date: 2024-02-21
+----
+creator:
+----
+platform: Cliffski's Blog

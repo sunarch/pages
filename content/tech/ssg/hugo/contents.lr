@@ -28,6 +28,16 @@ tech_category:
 ---
 body:
 
-## blog posts
+---
+blog_posts:
 
-- Daniil Baturin: [Why not Hugo](https://baturin.org/blog/why-not-hugo/) (2021-06-04)
+#### link ####
+title: Why not Hugo
+----
+url: https://baturin.org/blog/why-not-hugo/
+----
+date: 2021-06-04
+----
+creator: Daniil Baturin
+----
+platform:

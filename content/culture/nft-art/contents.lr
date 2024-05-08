@@ -7,7 +7,27 @@ body:
 - [OpenSea](https://opensea.io/)
 - [Foundation](https://foundation.app/)
 
-## articles
+---
+articles:
 
-- [The Verge](https://www.theverge.com/) - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
-- [Chicago Tribune](https://www.chicagotribune.com/) - [What is NFT art? Chicago artists explain the goldrush, as one collection by Beeple brings in $69 million](https://www.chicagotribune.com/entertainment/ct-ent-nft-artist-chicago-20210322-6w2cp5skjrg27ig4vstqfhnb54-story.html)
+#### link ####
+title: NFTs, explained
+----
+url: https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq
+----
+date: 2022-06-06
+----
+creator: Mitchell Clark
+----
+platform: The Verge
+
+#### link ####
+title: What is NFT art? Chicago artists explain the goldrush, as one collection by Beeple brings in $69 million
+----
+url: https://www.chicagotribune.com/entertainment/ct-ent-nft-artist-chicago-20210322-6w2cp5skjrg27ig4vstqfhnb54-story.html
+----
+date: 2021-03-20
+----
+creator: Christopher Borrelli
+----
+platform: Chicago Tribune

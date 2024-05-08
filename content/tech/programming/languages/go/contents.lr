@@ -79,12 +79,22 @@ body:
 - fasterthanlime: [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) (Feb 28, 2020)
     - follow-up - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) (Apr 29, 2022)
 
-## articles
-
-- Dave Cheney: [cgo is not Go]() (https://dave.cheney.net/2016/01/18/cgo-is-not-go) (Jan 18, 2016)
-
 ## talks
 
 - Golang Co-Creator Rob Pike: ‘What Go Got Right and Wrong’ 
     - article on [The New Stack](https://thenewstack.io/golang-co-creator-rob-pike-what-go-got-right-and-wrong/)
     - reaction on YouTube by [ThePrimeTime](https://youtu.be/pgsTqlhpBHM)
+
+---
+blog_posts:
+
+#### link ####
+title: cgo is not Go
+----
+url: https://dave.cheney.net/2016/01/18/cgo-is-not-go
+----
+date: 2016-01-18
+----
+creator: Dave Cheney
+----
+platform:

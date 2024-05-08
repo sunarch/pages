@@ -16,6 +16,16 @@ body:
 - GitHub: [kaleidos-ventures/taiga](https://github.com/kaleidos-ventures/taiga)
 - free account or self-hosted
 
-## articles
+---
+articles:
 
-- opensource.com: [5 open source alternatives to Trello](https://opensource.com/alternatives/trello) (2020-01-04) by Jason Baker
+#### link ####
+title: 5 open source alternatives to Trello
+----
+url: https://opensource.com/alternatives/trello
+----
+date: 2020-01-04
+----
+creator: Jason Baker
+----
+platform: opensource.com

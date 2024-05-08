@@ -75,6 +75,16 @@ body:
 
 - Windows LaTeX IDE
 
-## articles
+---
+articles:
 
-- [9 Best LaTeX Editors for Linux [2019]](https://itsfoss.com/latex-editors-linux/)
+#### link ####
+title: 11 Best LaTeX Editors For Linux
+----
+url: https://itsfoss.com/latex-editors-linux/
+----
+date: 2023-07-10
+----
+creator: Ankush Das
+----
+platform: It's FOSS

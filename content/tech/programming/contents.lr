@@ -73,19 +73,99 @@ body:
 - Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)
 - Wikipedia: [Backus-Naur form](https://en.wikipedia.org/wiki/Backus-Naur_form)
 
-## articles
+---
+articles:
 
-- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
-- Jamie Brandon: [Pain we forgot](https://www.scattered-thoughts.net/writing/pain-we-forgot/) (2014-05-17)
-- Jamie Brandon: [Local state is harmful](https://www.scattered-thoughts.net/writing/local-state-is-harmful/) (2014-02-17)
-- Edsger W.Dijkstra - EWD 667 - [On the foolishness of "natural language programming".](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
-- Haskell for all - [The end of history for programming](https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html) (2021-04-21)
+#### link ####
+title: Teach Yourself Programming in Ten Years
+----
+url: http://norvig.com/21-days.html
+----
+date:
+----
+creator: Peter Norvig
+----
+platform:
 
-## videos
+#### link ####
+title: Pain we forgot
+----
+url: https://www.scattered-thoughts.net/writing/pain-we-forgot/
+----
+date: 2014-05-17
+----
+creator: Jamie Brandon
+----
+platform:
 
-- [Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022](https://youtu.be/aRR0EDazxIk) by GOTO Conferences (2023-04-17)
+#### link ####
+title: Local state is harmful
+----
+url: https://www.scattered-thoughts.net/writing/local-state-is-harmful/
+----
+date: 2014-02-17
+----
+creator: Jamie Brandon
+----
+platform:
 
-## video series
+#### link ####
+title: EWD 667 - On the foolishness of "natural language programming".
+----
+url: https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html
+----
+date:
+----
+creator: Edsger W.Dijkstra
+----
+platform:
 
-- YouTube: [Functional Thinking](https://youtube.com/playlist?list=PL1SYCiBYXV13Lo16ip4BRn3mGUJhNxWEi) by peppidesu
-- YouTube: [CS50x 2023 Lectures](https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
+#### link ####
+title: The end of history for programming
+----
+url: https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html
+----
+date: 2021-04-21
+----
+creator: Gabriella Gonzalez
+----
+platform: Haskell for all
+
+---
+videos:
+
+#### link ####
+title: Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022
+----
+url: https://youtu.be/aRR0EDazxIk
+----
+date: 2023-04-17
+----
+creator: GOTO Conferences
+----
+platform: YouTube
+
+---
+video_series:
+
+#### link ####
+title: Functional Thinking
+----
+url: https://youtube.com/playlist?list=PL1SYCiBYXV13Lo16ip4BRn3mGUJhNxWEi
+----
+date: 2023-08-16
+----
+creator: peppidesu
+----
+platform: YouTube
+
+#### link ####
+title: CS50x 2023 Lectures
+----
+url: https://youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4
+----
+date: 2023-07-20
+----
+creator: CS50
+----
+platform: YouTube

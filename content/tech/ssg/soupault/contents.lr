@@ -30,6 +30,16 @@ body:
 
 - pronounced *soup-oh*
 
-## blog posts
+---
+blog_posts:
 
-- Daniil Baturin: [Migrating the blog to soupault](https://baturin.org/blog/migrating-the-blog-to-soupault/) (2020-04-05)
+#### link ####
+title: Migrating the blog to soupault
+----
+url: https://baturin.org/blog/migrating-the-blog-to-soupault/
+----
+date: 2020-04-05
+----
+creator: Daniil Baturin
+----
+platform:

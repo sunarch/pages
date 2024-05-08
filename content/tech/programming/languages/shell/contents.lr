@@ -84,10 +84,6 @@ body:
 - [The Shell Scripting Tutorial](https://www.shellscript.sh)
 - Linux Handbook: [How to Pass Arguments to a Bash Shell Script](https://linuxhandbook.com/bash-arguments/)
 
-## articles
-
-- [Bash Scripting: Everything you need to know about Bash-shell programming](https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba) by Uday Hiwarale | System Failure | Medium
-
 ## other
 
 ### download an entire website
@@ -108,3 +104,17 @@ wget --wait=2 \
      -e robots=off \
      https://example.com
 ```
+
+---
+articles:
+
+#### link ####
+title: Bash Scripting: Everything you need to know about Bash-shell programming
+----
+url: https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba
+----
+date: 2019-09-07
+----
+creator: Uday Hiwarale
+----
+platform: System Failure on Medium

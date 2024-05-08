@@ -42,15 +42,27 @@ body:
 
 - [18F/open-source-guide](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)
 
-### version control
+---
+articles:
 
-- [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
+#### link ####
+title: Git team workflows: merge or rebase? | Atlassian Git Tutorial
+----
+url: https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
+----
+date:
+----
+creator:
+----
+platform:
 
-### git
-
-- [homepage](https://git-scm.com/)
-
-## articles
-
-- [Git team workflows: merge or rebase? | Atlassian Git Tutorial](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
-- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+#### link ####
+title: How to Write a Git Commit Message
+----
+url: https://chris.beams.io/posts/git-commit/
+----
+date: 2014-08-31
+----
+creator: Chris Beams
+----
+platform:

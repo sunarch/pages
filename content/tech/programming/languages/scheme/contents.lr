@@ -72,10 +72,20 @@ body:
 - GitHub: [the Schemer](https://github.com/theschemer)
 - Spritely Institute: [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 
-## videos
-
-- YouTube: [Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour](https://youtu.be/DDROSL-gGOo) by Christine Lemmer-Webber
-
 ## other
 
 - wingolog: [an opinionated guide to scheme implementations](https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations)
+
+---
+videos:
+
+#### link ####
+title: Unlock Lisp / Scheme's magic: beginner to Scheme-in-Scheme in one hour
+----
+url: https://youtu.be/DDROSL-gGOo
+----
+date: 2022-08-07
+----
+creator: Christine Lemmer-Webber
+----
+platform: YouTube

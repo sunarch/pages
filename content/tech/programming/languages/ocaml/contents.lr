@@ -71,20 +71,12 @@ body:
 - Real World OCaml - Functional programming for the masses - [realworldocaml.org](https://dev.realworldocaml.org)
     - by Anil Madhavapeddy and Anil Madhavapeddy
 
-## blog posts
-
-- Daniil Baturin: [What I wish I knew when learning OCaml](https://baturin.org/docs/ocaml-faq/) (2018-02-11)
-
 ## other organizations
 
 - [Jane Street](https://www.janestreet.com)
     - YouTube: [@janestreet](https://www.youtube.com/@janestreet)
         - YT video: [Why OCaml](https://youtu.be/v1CmGbOGb2I) (2016-03-31)
 - [OCaml Pro](https://ocamlpro.com)
-
-## videos
-
-- [OCaml for Fun & Profit: An Experience Report • Tim McGilchrist • YOW! 2023](https://youtu.be/TxuLrsQZprE) by GOTO Conferences (2024-02-18)
 
 ## topics
 
@@ -93,3 +85,31 @@ body:
 - OCaml Discuss: [Compiling 100% static executables](https://discuss.ocaml.org/t/compiling-100-static-executables/8789) (Nov 2021)
 - OCaml Pro: [Generating static and portable executables with OCaml](https://ocamlpro.com/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml/) by Louis Gesbert (2021-09-02)
 - SysTutorials: [How to Statically Link OCaml Programs](https://www.systutorials.com/how-to-statically-link-ocaml-programs/) by Eric Ma (2019-11-21)
+
+---
+blog_posts:
+
+#### link ####
+title: What I wish I knew when learning OCaml
+----
+url: https://baturin.org/docs/ocaml-faq/
+----
+date: 2018-02-11
+----
+creator: Daniil Baturin
+----
+platform:
+
+---
+videos:
+
+#### link ####
+title: OCaml for Fun & Profit: An Experience Report • Tim McGilchrist • YOW! 2023
+----
+url: https://youtu.be/TxuLrsQZprE
+----
+date: 2024-02-18
+----
+creator: GOTO Conferences
+----
+platform: YouTube

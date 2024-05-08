@@ -52,7 +52,27 @@ body:
     - Linux, Windows
     - [Wikipedia](https://en.wikipedia.org/wiki/Irssi)
 
-# articles
+---
+articles:
 
-- Slant - [What are the best IRC clients for Windows?](https://www.slant.co/topics/1265/~best-irc-clients-for-windows)
-- The Register - [Will the real IRC please stand up? Freenode’s forest fire leaves ashes – and fresh growth](https://www.theregister.com/2021/06/01/freenode_issues_help_irc_grow/)
+#### link ####
+title: What are the best IRC clients for Windows?
+----
+url: https://www.slant.co/topics/1265/~best-irc-clients-for-windows
+----
+date: 2024-02-06
+----
+creator:
+----
+platform: Slant
+
+#### link ####
+title: Will the real IRC please stand up? Freenode’s forest fire leaves ashes – and fresh growth
+----
+url: https://www.theregister.com/2021/06/01/freenode_issues_help_irc_grow/
+----
+date: 2021-06-01
+----
+creator: Rupert Goodwins
+----
+platform: The Register

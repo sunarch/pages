@@ -75,8 +75,38 @@ and Explosions in Real-time."*
 - WebUI
     - GitHub: [webui-dev/odin-webui](https://github.com/webui-dev/odin-webui)
 
-## articles
+---
+articles:
 
-- [Low-Level Programming with Odin Lang - Perfect for Beginners](https://dev.to/patrickodacre/low-level-programming-with-odin-lang-perfect-for-beginners-5cc3) (2022-09-21) by Patrick O'Dacre
-- [A review of the Odin programming language](https://graphitemaster.github.io/odin_review/) (2022-09-10) by Dale Weiler (working at JangaFX)
-- [Why I like Odin](https://hasenjudy.wordpress.com/2022/08/25/odin-praise/) (2022-08-25) by Judy Hasen
+#### link ####
+title: Low-Level Programming with Odin Lang - Perfect for Beginners
+----
+url: https://dev.to/patrickodacre/low-level-programming-with-odin-lang-perfect-for-beginners-5cc3
+----
+date: 2022-09-21
+----
+creator: Patrick O'Dacre
+----
+platform: Dev.to
+
+#### link ####
+title: A review of the Odin programming language
+----
+url: https://graphitemaster.github.io/odin_review/
+----
+date: 2022-09-10
+----
+creator: Dale Weiler (working at JangaFX)
+----
+platform:
+
+#### link ####
+title: Why I like Odin
+----
+url: https://hasenjudy.wordpress.com/2022/08/25/odin-praise/
+----
+date: 2022-08-25
+----
+creator: Judy Hasen
+----
+platform:

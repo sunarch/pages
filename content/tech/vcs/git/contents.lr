@@ -2,11 +2,23 @@ title: Git
 ---
 body:
 
+- homepage: [git-scm.com](https://git-scm.com)
+
 ## tutorials
 
 - [Oh my Git!](https://ohmygit.org) - *"An open source game about learning Git!"*
 - [Learn Git Branching](https://learngitbranching.js.org) *"the most visual and interactive way to learn Git on the web"*
 
-## articles
+---
+articles:
 
-- Steve Bennett: [10 things I hate about Git](https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/) (Feb 24, 2012)
+#### link ####
+title: 10 things I hate about Git
+----
+url: https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/
+----
+date: 2012-02-24
+----
+creator: Steve Bennett
+----
+platform:

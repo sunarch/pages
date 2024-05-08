@@ -1,0 +1,36 @@
+{#
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#}
+
+{% set link_sections = [
+    { "header": "articles", "links": this.articles },
+    { "header": "blog posts", "links": this.blog_posts },
+    { "header": "videos", "links": this.videos },
+    { "header": "video series", "links": this.video_series },
+    { "header": "forum entries", "links": this.forum_entries }
+] %}
+
+{% set any_link_section = namespace(found=false) %}
+{% for link_section in link_sections %}
+    {% if link_section["links"] %}
+        {% set any_link_section.found = true %}
+    {% endif %}
+{% endfor %}
+
+{% if any_link_section.found %}
+<hr>
+<h2>links</h2>
+{% endif %}
+
+{% for link_section in link_sections %}
+    {% if link_section["links"] %}
+    <h3>{{ link_section["header"] }}</h3>
+    <ul>
+        {% for block in link_section["links"].blocks %}
+        <li>{{ block }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+{% endfor %}

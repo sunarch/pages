@@ -75,16 +75,46 @@ body:
 - WebUI
     - GitHub: [webui-dev/nim-webui](https://github.com/webui-dev/nim-webui)
 
-## articles
-
-- Hackaday: [Nim Writes C Code — And More — For You](https://hackaday.com/2018/09/25/nim-writes-c-code-and-more-for-you/)
-
-## blog posts
-
-- Steve Kellock: [Nim Language Highlights](https://totallywearingpants.com/posts/nim-language-highlights/) (2018-09-28)
-- Steve Kellock: [A Programming Language Underdog](https://totallywearingpants.com/posts/nim-underdog/) (2018-09-20)
-
 ## offensive tools
 
 - TrustFoundry: [Writing Basic Offensive Tooling in Nim](https://trustfoundry.net/2021/03/01/writing-basic-offensive-tooling-in-nim/)
 - GitHub: [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
+
+---
+articles:
+
+#### link ####
+title: Nim Writes C Code — And More — For You
+----
+url: https://hackaday.com/2018/09/25/nim-writes-c-code-and-more-for-you/
+----
+date: 2018-09-25
+----
+creator: Al Williams
+----
+platform: Hackaday
+
+---
+blog_posts:
+
+#### link ####
+title: Nim Language Highlights
+----
+url: https://totallywearingpants.com/posts/nim-language-highlights/
+----
+date: 2018-09-28
+----
+creator: Steve Kellock
+----
+platform:
+
+#### link ####
+title: A Programming Language Underdog
+----
+url: https://totallywearingpants.com/posts/nim-underdog/
+----
+date: 2018-09-20
+----
+creator: Steve Kellock
+----
+platform:

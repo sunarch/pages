@@ -85,15 +85,55 @@ body:
 - Andrew Kelley - [andrewkelley.me](https://andrewkelley.me)
 - [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) (2020-03-24)
 
-## articles
+---
+articles:
 
-- Samarth Hattangady: [Writing and Releasing a game in zig](https://zig.news/chapliboy/writing-and-releasing-a-game-in-zig-13f3) (Mar 1, 2023)
+#### link ####
+title: Writing and Releasing a game in Zig
+----
+url: https://zig.news/chapliboy/writing-and-releasing-a-game-in-zig-13f3
+----
+date: 2023-03-01
+----
+creator: Samarth Hattangady
+----
+platform: Zig.news
 
-## videos
+---
+videos:
 
-- YouTube: [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022](https://youtu.be/YXrb-DqsBNU) by GOTO Conferences (2023-03-15)
-- YouTube: [Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler - Software You Can Love 2022](https://youtu.be/1N85yU6RMcY) by Zig SHOWTIME (2022-10-21)
+#### link ####
+title: Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022
+----
+url: https://youtu.be/YXrb-DqsBNU
+----
+date: 2023-03-15
+----
+creator: GOTO Conferences
+----
+platform: YouTube
 
-## forum posts
+#### link ####
+title: Ziglibc: Sweeping out the rug from underneath C - Jonathan Marler - Software You Can Love 2022
+----
+url: https://youtu.be/1N85yU6RMcY
+----
+date: 2022-10-21
+----
+creator: Zig SHOWTIME
+----
+platform: YouTube
 
-- [Build system tricks](https://ziggit.dev/t/build-system-tricks/3531) (2024-03-11) on Ziggit
+---
+forum_entries:
+
+#### link ####
+title: Build system tricks 
+----
+url: https://ziggit.dev/t/build-system-tricks/3531
+----
+date: 2024-03-11
+----
+creator: Jora Troosh
+----
+platform: Ziggit

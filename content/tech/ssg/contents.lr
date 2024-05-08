@@ -5,12 +5,52 @@ body:
 - [Static Site Generators](https://staticsitegenerators.net)
 - Python Wiki: [Static Site Generator](https://wiki.python.org/moin/StaticSiteGenerator)
 
-## blog posts
+---
+articles:
 
-- Thomasorus: [From static site generator to static site processor](https://thomasorus.com/from-static-site-generator-to-static-site-processor.html) (2023-03-05)
-- Paul Robert Lloyd: [Thinking out loud about static site generators](https://paulrobertlloyd.com/2023/054/a1/lume/) (2023-02-23)
+#### link ####
+title: Best static site generator of 2024
+----
+url: https://www.techradar.com/best/static-site-generators
+----
+date: 2024-01-29
+----
+creator: Mike Jennings
+----
+platform: TechRadar
 
-## articles
+#### link ####
+title: 10 Open Source Static Site Generators to Create Fast and Resource-Friendly Websites
+----
+url: https://itsfoss.com/open-source-static-site-generators/
+----
+date: 2020-09-25
+----
+creator: Ankush Das
+----
+platform: It's FOSS
 
-- It's FOSS: [10 Best Open Source Static Site Generators](https://itsfoss.com/open-source-static-site-generators/) [2020]
-- TechRadar: [Best static site generators of 2021](https://www.techradar.com/best/static-site-generators)
+---
+blog_posts:
+
+#### link ####
+title: From static site generator to static site processor
+----
+url: https://thomasorus.com/from-static-site-generator-to-static-site-processor.html
+----
+date: 2023-03-05
+----
+creator:
+----
+platform: Thomasorus
+
+#### link ####
+title: Thinking out loud about static site generators
+----
+url: https://paulrobertlloyd.com/2023/054/a1/lume/
+----
+date: 2023-02-23
+----
+creator: Paul Robert Lloyd
+----
+platform:

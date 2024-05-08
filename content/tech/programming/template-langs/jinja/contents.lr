@@ -30,6 +30,16 @@ body:
 
 > Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
 
-## articles
+---
+articles:
 
-- Real Python: [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
+#### link ####
+title: Primer on Jinja Templating
+----
+url: https://realpython.com/primer-on-jinja-templating/
+----
+date:
+----
+creator: Philipp Acsany
+----
+platform: Real Python
