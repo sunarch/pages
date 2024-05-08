@@ -18,7 +18,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
     {% endfor %}
 
     {% if this | url != '/' %}
-        <li><span aria-current="page">{{ this.title.capitalize() }}</span></li>
+        <li><span aria-current="page">{{ this.title }}</span></li>
     {% endif %}
 </ul>
 </nav>

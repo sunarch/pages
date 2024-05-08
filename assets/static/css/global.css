@@ -1,3 +1,62 @@
+header {
+    margin-top: 0;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    border-bottom-left-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+}
+
+header p {
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 0.7;
+}
+
+@media screen and (min-width: 64em) {
+    header {
+        padding: 5rem 6rem;
+    }
+    header h1 {
+        font-size: 3.25rem;
+    }
+    header p {
+        font-size: 1.25rem;
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    header {
+        padding: 3rem 4rem;
+    }
+    header h1 {
+        font-size: 2.25rem;
+    }
+    header p {
+        font-size: 1.15rem;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    header {
+        padding: 2rem 1rem;
+    }
+    header h1 {
+        font-size: 1.75rem;
+    }
+    header p {
+        font-size: 1rem;
+    }
+}
+
+/* =========================================================================  */
+
 #skip-to-content {
     height: 1px;
     width: 1px;
@@ -16,6 +75,8 @@
     outline: thick solid #e19447;
 }
 
+/* =========================================================================  */
+
 pre:has(> code) {
     border: 1px solid darkgray;
     border-radius: 0.3rem;
@@ -24,6 +85,8 @@ pre:has(> code) {
     color: black;
     white-space: pre;
 }
+
+/* =========================================================================  */
 
 details > summary {
     display: list-item;
@@ -37,23 +100,21 @@ details > summary {
     color: #159957;
 }
 
-th, td {
-    border-color: gray !important;
-}
-
 details > summary::marker, /* Latest Chrome, Edge, Firefox */ 
 details > summary::-webkit-details-marker /* Safari */ {
     /* - */
 }
 
-.deprecated-title {
-    font-style: italic;
-}
+/* =========================================================================  */
 
 tr.table-section-header {
     text-align: center;
     font-weight: bold;
     letter-spacing: 0.2em;
+}
+
+th, td {
+    border-color: gray !important;
 }
 
 /* stuff from Amin: \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/  */

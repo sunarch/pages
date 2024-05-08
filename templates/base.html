@@ -16,6 +16,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 </head>
 <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    {% include "includes/breadcrumbs.html" %}
+    
     <header>
         <h1>{% block title %}{% endblock %}</h1>
         {% if this.description %}
@@ -23,15 +26,10 @@ https://creativecommons.org/licenses/by-sa/4.0/
         {% endif %}
     </header>
 
-    {# BREADCRUMBS #}
-    {% include "includes/breadcrumbs.html" %}
-
     <main id="content">
 
-        {# CONTENT #}
         {% block content %}{% endblock %}
-        
-        {# LINK SECTIONS #}
+
         {% include "includes/link-sections.html" %}
 
         {# CHILDREN #}
@@ -54,8 +52,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
         {% if this.hide_subpages %}</details>{% endif %}
         {% endif %}
     </main>
-    
-    {# FOOTER #}
+
     {% include "includes/footer.html" %}
 </body>
 </html>
