@@ -17,7 +17,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
+    {% if this | url != '/' %}
     {% include "includes/breadcrumbs.html" %}
+    {% endif %}
     
     <header>
         <h1>{% block title %}{% endblock %}</h1>
@@ -33,6 +35,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
         {% include "includes/link-sections.html" %}
 
         {# CHILDREN #}
+        {% if this | url != '/' %}
         {% if this.children %}
         <hr>
         {% if this.hide_subpages %}<details class="{% if this.full_width %}full-width{% endif %}">{% endif %}
@@ -51,7 +54,12 @@ https://creativecommons.org/licenses/by-sa/4.0/
             </ul>
         {% if this.hide_subpages %}</details>{% endif %}
         {% endif %}
+        {% endif %}
     </main>
+    
+    {% if this | url == '/' %}
+    {% include "includes/nav-bottom-home.html" %}
+    {% endif %}
 
     {% include "includes/footer.html" %}
 </body>

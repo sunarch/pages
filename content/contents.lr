@@ -4,92 +4,45 @@ description: homepage
 ---
 body:
 
-(Mostly) hobbyist developer
-- most, currently: Python
-- preferred, learning: Rust, Nim
-- for client-side web: JavaScript
-- looking into: Go, Odin, OCaml
-- some: C, Lisp (Chez Scheme / Racket)
-- for specific projects: PHP, Lua
-- plans: Erlang/Elixir/Gleam
+Hi,
 
-Interested in Open Source / FOSS.
+I'm Andrew, a (mostly) hobbyist developer, located in Budapest, Hungary 🇭🇺
 
-Located in Budapest, Hungary 🇭🇺 .
+I'm interested in Open Source / FOSS and write anything I can with appropriate
+licenses.
 
-#### contacts
+Until now I've mostly written Python but I want to move more towards lower level
+/ systems programming (and maybe also game programming), so I'm looking for a
+more suitable primary language.
 
-- Mastodon: <a rel="me" href="https://fosstodon.org/@sunarch">sunarch</a> on [fosstodon.org](https://fosstodon.org)
-- email (see the GitHub profile)
+My orthogonal interests include philosophy and religious studies (the scientific
+field, not to be confused with theology), and all kinds of human languages as
+well. I like to play tabletop games. including roleplaying ones. I enjoy tea,
+coffee, and other delicacies, and I also like to learn about the world.
 
-## personal projects
+This site, beside my personal endeavours, contains an amalgamation of notes and
+links I collected, mainly for my own reference, but maybe others can benefit
+from them as well.
 
-in various stages of development, mostly in early ones
+### languages overview
 
-### simulations and Art-Net
-
-- [libmonty: Art-Net](https://codeberg.org/sunarch/libmonty-artnet)
-- [libferroxid: Art-Net](https://codeberg.org/sunarch/libferroxid-artnet)
-- [quadrille](https://codeberg.org/sunarch/quadrille) - square grid simulations
-    - `cogol` - Conway's Game of Life
-    - `lants` - Langton Ants
-
-### GoToPub
-
-experimental GoToSocial and Fediverse client
-
-- [gotopub](https://codeberg.org/sunarch/gotopub) - in Rust, for CLI
-- [gotopub-py](https://codeberg.org/sunarch/gotopub-py)
-
-### continuations
-
-- [bookend](https://github.com/sunarch/bookend) - a book management tool
-
-### Firefox extensions
-
-- [Center Body](https://codeberg.org/sunarch/center-body)
-
-### small projects or prototypes
-
-- [enigmatic](https://codeberg.org/sunarch/enigmatic) - an Enigma emulator in C
-- [Found Terminal](https://codeberg.org/sunarch/found-terminal)
-- [glossanea](https://codeberg.org/sunarch/glossanea) - a language learning tool
-
-### Python
-
-- [Python package template](https://github.com/sunarch/template-python-package)
-
-
-- [libmonty](https://codeberg.org/sunarch/libmonty)
-- [libmonty-hexdump](https://codeberg.org/sunarch/libmonty-hexdump)
-- [libmonty-logging](https://codeberg.org/sunarch/libmonty-logging)
-- [libmonty-tools](https://codeberg.org/sunarch/libmonty-tools)
-    - easypass
-    - soundboard
-
-### web projects
-
-- [webapps](https://sunarch.github.io/webapps/) - small tools and games
-    - planned dev: Next Best Guess
-- [OSPK](https://codeberg.org/sunarch/ospk) (collaboration in high school)
-
-### ideas with intent
-
-- [libferroxid-packets](https://codeberg.org/sunarch/libferroxid-packets) - internet packets
-- [moonscribe](https://codeberg.org/sunarch/moonscribe) - creative generator
-- [organizator](https://codeberg.org/sunarch/organizator)
-- [streetpaper](https://codeberg.org/sunarch/streetpaper) - newspaper distribution manager
-
-### esolangs
-
-- [esolangs](https://codeberg.org/sunarch/esolangs) - mainly ideas
-    - EL comodo
-    - EL montaje
-    - GridRun
-
-### personal
-
-- [challenges](./challenges)
-- system files: [sunarch RC](https://codeberg.org/sunarch/sunarch-rc)
-- artistic project under the name [3Protocol](https://3protocol.com)
-
+- preferred & learning:
+    - Nim
+    - Odin
+    - Rust
+    - Go
+    - OCaml
+- important to know:
+    - Python, for scripting and library access
+    - C, in general
+- for specific projects:
+    - JavaScript, for client-side web
+    - PHP, for restricted web environments
+    - Lua, for plugins to other languages
+    - Bash, for Linux scripting
+    - Dart, only with the Flutter framework
+    - Ruby, only with the Sonic Pi software
+- other plans:
+    - BEAM languages: Erlang / Elixir / Gleam
+    - Lisp (Chez Scheme / Racket)
+    - other low-level: Zig, Hare, Jai
