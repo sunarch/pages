@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Oban Star-Racers
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Earth, 2082, twenty-five years after the failed invasion of the Cr
 wikipedia_link:
 ---
 body:
-
 

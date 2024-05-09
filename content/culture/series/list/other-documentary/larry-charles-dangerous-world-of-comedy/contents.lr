@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Larry Charles' Dangerous World of Comedy
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: Legendary comedy writer and director Larry Charles travels the wor
 wikipedia_link:
 ---
 body:
-
 

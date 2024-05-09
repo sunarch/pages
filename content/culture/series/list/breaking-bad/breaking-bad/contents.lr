@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Breaking Bad
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A high school chemistry teacher diagnosed with inoperable lung can
 wikipedia_link: https://en.wikipedia.org/wiki/Breaking_Bad
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Once Upon a Time
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: A young woman with a troubled past is drawn to a small town in Mai
 wikipedia_link: https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)
 ---
 body:
-
 

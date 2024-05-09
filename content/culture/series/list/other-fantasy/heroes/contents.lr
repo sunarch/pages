@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Heroes
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Common people discover that they have super powers. Their lives in
 wikipedia_link: https://en.wikipedia.org/wiki/Heroes_(American_TV_series)
 ---
 body:
-
 

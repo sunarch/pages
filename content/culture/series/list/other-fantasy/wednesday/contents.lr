@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Wednesday
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: Follows Wednesday Addams' years as a student, when she attempts to
 wikipedia_link: https://en.wikipedia.org/wiki/Wednesday_(TV_series)
 ---
 body:
-
 

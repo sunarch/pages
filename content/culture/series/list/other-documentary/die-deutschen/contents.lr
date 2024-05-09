@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Die Deutschen
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Documentary series about 1.000 years of German history. Reviewing 
 wikipedia_link: https://en.wikipedia.org/wiki/Die_Deutschen
 ---
 body:
-
 

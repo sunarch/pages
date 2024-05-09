@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Naruto
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Naruto Uzumaki, a mischievous adolescent ninja, struggles as he se
 wikipedia_link: https://en.wikipedia.org/wiki/Naruto#Part_I_2
 ---
 body:
-
 

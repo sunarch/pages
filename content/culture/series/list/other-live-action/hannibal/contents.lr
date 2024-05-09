@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Hannibal
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Explores the early relationship between the renowned psychiatrist 
 wikipedia_link: https://en.wikipedia.org/wiki/Hannibal_(TV_series)
 ---
 body:
-
 

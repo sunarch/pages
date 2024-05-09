@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Good Place
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: Four people and their otherworldly frienemy struggle in the afterl
 wikipedia_link:
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Rick and Morty
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: An animated series that follows the exploits of a super scientist 
 wikipedia_link: https://en.wikipedia.org/wiki/Rick_and_Morty
 ---
 body:
-
 

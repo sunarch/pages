@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: True Blood
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Telepathic waitress Sookie Stackhouse (Anna Paquin) encounters a s
 wikipedia_link:
 ---
 body:
-
 

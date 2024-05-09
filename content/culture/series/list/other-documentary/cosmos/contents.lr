@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Cosmos: A Spacetime Odyssey
 ---
 sources:
@@ -38,5 +36,4 @@ imdb_summary: An exploration of our discovery of the laws of nature and coordina
 wikipedia_link:
 ---
 body:
-
 

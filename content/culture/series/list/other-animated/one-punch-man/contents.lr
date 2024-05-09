@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: One Punch Man: Wanpanman
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: The story of Saitama, a hero that does it just for fun & can defea
 wikipedia_link: https://en.wikipedia.org/wiki/List_of_One-Punch_Man_episodes
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Boys
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A group of vigilantes set out to take down corrupt superheroes who
 wikipedia_link: https://en.wikipedia.org/wiki/The_Boys_(2019_TV_series)
 ---
 body:
-
 

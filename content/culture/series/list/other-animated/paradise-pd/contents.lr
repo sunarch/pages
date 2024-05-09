@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Paradise P.D.
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Animated series about bad cops. Not bad as in corrupt, bad as in u
 wikipedia_link: https://en.wikipedia.org/wiki/Paradise_PD
 ---
 body:
-
 

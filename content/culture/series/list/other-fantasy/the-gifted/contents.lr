@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Gifted
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: In a world where mutated humans are treated with distrust and fear
 wikipedia_link:
 ---
 body:
-
 

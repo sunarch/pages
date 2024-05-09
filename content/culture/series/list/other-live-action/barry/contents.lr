@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Barry
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: A hit man from the Midwest moves to Los Angeles and gets caught up
 wikipedia_link: https://en.wikipedia.org/wiki/Barry_(TV_series)
 ---
 body:
-
 

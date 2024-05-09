@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Sports Night
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Casey McCall and Dan Rydell are sports anchors and best friends. O
 wikipedia_link:
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: BoJack Horseman
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: BoJack Horseman was the star of the hit television show \"Horsin' 
 wikipedia_link: https://en.wikipedia.org/wiki/BoJack_Horseman
 ---
 body:
-
 

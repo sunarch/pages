@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: 13 Reasons Why: Beyond the Reasons
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: Actors behind the instant cult classic discuss the messages of whi
 wikipedia_link: https://en.wikipedia.org/wiki/13_Reasons_Why#Beyond_the_Reasons
 ---
 body:
-
 

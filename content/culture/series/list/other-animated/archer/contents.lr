@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Archer
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: Covert black ops and espionage take a back seat to zany personalit
 wikipedia_link: https://en.wikipedia.org/wiki/Archer_(2009_TV_series)
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Naruto: Shippûden
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who const
 wikipedia_link: https://en.wikipedia.org/wiki/Naruto#Naruto:_Shippuden
 ---
 body:
-
 

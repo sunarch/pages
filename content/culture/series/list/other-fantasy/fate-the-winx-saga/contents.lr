@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Fate: The Winx Saga
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: A live-action adaptation of Nickelodeon's Winx Club (2004). It fol
 wikipedia_link: https://en.wikipedia.org/wiki/Fate:_The_Winx_Saga
 ---
 body:
-
 

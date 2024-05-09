@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Die Wehrmacht - Eine Bilanz
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary:
 wikipedia_link: https://en.wikipedia.org/wiki/The_Wehrmacht
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Californication
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: A writer tries to juggle his career, his relationship with his dau
 wikipedia_link:
 ---
 body:
-
 

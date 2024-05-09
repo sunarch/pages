@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Mako Mermaids
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: A young man is magically turned a merman, and discovers his underw
 wikipedia_link: https://en.wikipedia.org/wiki/Mako:_Island_of_Secrets
 ---
 body:
-
 

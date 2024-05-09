@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Chilling Adventures of Sabrina
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: As her 16th birthday nears, Sabrina must choose between the witch 
 wikipedia_link: https://en.wikipedia.org/wiki/Chilling_Adventures_of_Sabrina_(TV_series)
 ---
 body:
-
 

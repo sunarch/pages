@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Nevers
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: An epic tale following a gang of Victorian women who find themselv
 wikipedia_link: https://en.wikipedia.org/wiki/The_Nevers
 ---
 body:
-
 

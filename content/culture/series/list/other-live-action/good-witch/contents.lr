@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Good Witch
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: "Good Witch" will take viewers on a new magical journey with Cassi
 wikipedia_link: https://en.wikipedia.org/wiki/Good_Witch_(TV_series)
 ---
 body:
-
 

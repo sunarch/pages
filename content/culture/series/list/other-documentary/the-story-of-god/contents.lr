@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Story of God with Morgan Freeman
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: Morgan Freeman presents his quest in order to find how most religi
 wikipedia_link:
 ---
 body:
-
 

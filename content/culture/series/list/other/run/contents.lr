@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Run
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Two ex-lovers activate a long-planned escape to disappear together
 wikipedia_link:
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Infinity Train
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: 13-year-old Tulip finds herself on a mysterious train with an endl
 wikipedia_link:
 ---
 body:
-
 

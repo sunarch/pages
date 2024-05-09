@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Umbrella Academy
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A family of former child heroes, now grown apart, must reunite to 
 wikipedia_link: https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)
 ---
 body:
-
 

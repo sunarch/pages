@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: How I Met Your Mother
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A father recounts to his children - through a series of flashbacks
 wikipedia_link: https://en.wikipedia.org/wiki/How_I_Met_Your_Mother
 ---
 body:
-
 

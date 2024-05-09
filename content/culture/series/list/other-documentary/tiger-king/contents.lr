@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Tiger King: Murder, Mayhem and Madness
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: A rivalry between big cat eccentrics takes a dark turn when Joe Ex
 wikipedia_link:
 ---
 body:
-
 

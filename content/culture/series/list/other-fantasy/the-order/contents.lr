@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Order
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: Out to avenge his mother's death, a college student pledges to a s
 wikipedia_link:
 ---
 body:
-
 

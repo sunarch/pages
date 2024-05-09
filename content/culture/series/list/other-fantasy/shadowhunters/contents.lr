@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Shadowhunters: The Mortal Instruments
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: After her mother disappears, Clary must venture into the dark worl
 wikipedia_link:
 ---
 body:
-
 

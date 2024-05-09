@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: A Discovery of Witches
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Diana Bishop, historian and witch, accesses Ashmole 782 and knows 
 wikipedia_link: https://en.wikipedia.org/wiki/A_Discovery_of_Witches_(TV_series)
 ---
 body:
-
 

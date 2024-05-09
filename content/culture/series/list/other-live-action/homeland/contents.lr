@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Homeland
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: A bipolar CIA operative becomes convinced a prisoner of war has be
 wikipedia_link: https://en.wikipedia.org/wiki/Homeland_(TV_series)
 ---
 body:
-
 

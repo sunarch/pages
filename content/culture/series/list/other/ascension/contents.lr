@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Ascension
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A young woman's murder causes the subjects of a century-long missi
 wikipedia_link:
 ---
 body:
-
 

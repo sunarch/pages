@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Friends
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Follows the personal and professional lives of six twenty to thirt
 wikipedia_link: https://en.wikipedia.org/wiki/Friends
 ---
 body:
-
 

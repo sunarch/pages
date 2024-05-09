@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Almost Human
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: In a not-so-distant future, a human cop and an android partner tea
 wikipedia_link: https://en.wikipedia.org/wiki/Almost_Human_(TV_series)
 ---
 body:
-
 

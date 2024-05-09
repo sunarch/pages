@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: First Kill
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Falling in love is tricky for teens Juliette and Calliope: One's a
 wikipedia_link: https://en.wikipedia.org/wiki/First_Kill_(TV_series)
 ---
 body:
-
 

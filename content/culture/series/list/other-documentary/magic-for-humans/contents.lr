@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Magic for Humans
 ---
 sources:
@@ -38,5 +36,4 @@ imdb_summary: Justin Willman preforms magic tricks on the street.
 wikipedia_link:
 ---
 body:
-
 

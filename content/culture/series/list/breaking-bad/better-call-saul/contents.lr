@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Better Call Saul
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: The trials and tribulations of criminal lawyer Jimmy McGill in the
 wikipedia_link: https://en.wikipedia.org/wiki/Better_Call_Saul
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Castlevania
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A vampire hunter fights to save a besieged city from an army of ot
 wikipedia_link: https://en.wikipedia.org/wiki/Castlevania_(TV_series)
 ---
 body:
-
 

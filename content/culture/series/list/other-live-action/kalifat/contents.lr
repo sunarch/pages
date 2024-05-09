@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Kalifat [Caliphate]
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: Agent Fatima gets a tip that a terrorist act is planned in Sweden.
 wikipedia_link: https://en.wikipedia.org/wiki/Caliphate_(TV_series)
 ---
 body:
-
 

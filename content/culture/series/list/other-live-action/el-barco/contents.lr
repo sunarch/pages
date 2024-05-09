@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: El barco
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: A global cataclysm, caused by a fatal accident in Geneva (Switzerl
 wikipedia_link: https://en.wikipedia.org/wiki/El_barco_(TV_series)
 ---
 body:
-
 

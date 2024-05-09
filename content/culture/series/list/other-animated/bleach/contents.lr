@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Bleach: Burîchi
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: High school student Kurosaki Ichigo is unlike any ordinary kid bec
 wikipedia_link: https://en.wikipedia.org/wiki/Bleach_(TV_series)
 ---
 body:
-
 

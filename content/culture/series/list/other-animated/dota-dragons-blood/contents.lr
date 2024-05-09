@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Dota: Dragon's Blood
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: After encounters with a dragon and a princess on her own mission, 
 wikipedia_link: https://en.wikipedia.org/wiki/Dota:_Dragon%27s_Blood
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Last Dance
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Charting the rise of the 1990's Chicago Bulls, led by Michael Jord
 wikipedia_link: https://en.wikipedia.org/wiki/The_Last_Dance_(miniseries)
 ---
 body:
-
 

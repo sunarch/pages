@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Lucifer
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: Lucifer Morningstar has decided he's had enough of being the dutif
 wikipedia_link:
 ---
 body:
-
 

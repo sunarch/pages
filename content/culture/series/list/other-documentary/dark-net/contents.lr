@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Dark Net
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: Explores the furthest reaches of the internet and the people who f
 wikipedia_link:
 ---
 body:
-
 

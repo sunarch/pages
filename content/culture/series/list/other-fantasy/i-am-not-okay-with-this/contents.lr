@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: I Am Not Okay With This
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Sydney is a teenage girl navigating the trials and tribulations of
 wikipedia_link: https://en.wikipedia.org/wiki/I_Am_Not_Okay_with_This
 ---
 body:
-
 

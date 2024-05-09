@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Family Guy
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: In a wacky Rhode Island town, a dysfunctional family strive to cop
 wikipedia_link: https://en.wikipedia.org/wiki/Family_Guy
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Dragon Prince
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: Two human princes forge an unlikely bond with the elfin assassin s
 wikipedia_link: https://en.wikipedia.org/wiki/The_Dragon_Prince
 ---
 body:
-
 

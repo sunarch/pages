@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Stranger Things
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: When a young boy disappears, his mother, a police chief and his fr
 wikipedia_link: https://en.wikipedia.org/wiki/Stranger_Things
 ---
 body:
-
 

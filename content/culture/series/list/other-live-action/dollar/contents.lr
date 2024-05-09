@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Dollar
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Tarek is given the task to come up with a million-dollar idea for 
 wikipedia_link: https://en.wikipedia.org/wiki/Dollar_(TV_series)
 ---
 body:
-
 

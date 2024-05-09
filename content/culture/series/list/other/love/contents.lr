@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Love
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: A program that follows a couple who must navigate the exhilaration
 wikipedia_link:
 ---
 body:
-
 

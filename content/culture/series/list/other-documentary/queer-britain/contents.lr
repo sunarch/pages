@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Queer Britain
 ---
 sources:
@@ -37,5 +35,4 @@ imdb_summary: Presented by YouTuber and journalist Riyadh Khalaf, Queer Britain 
 wikipedia_link:
 ---
 body:
-
 

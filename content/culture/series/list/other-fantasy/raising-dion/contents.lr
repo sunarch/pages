@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Raising Dion
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: A widowed single mom discovers that her son has super powers and t
 wikipedia_link: https://en.wikipedia.org/wiki/Raising_Dion
 ---
 body:
-
 

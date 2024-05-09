@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Torchwood
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: The members of the Torchwood Institute, a secret organization foun
 wikipedia_link: https://en.wikipedia.org/wiki/Torchwood
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Final Space
 ---
 sources:
@@ -44,5 +42,4 @@ imdb_summary: An astronaut named Gary and his planet-destroying sidekick called 
 wikipedia_link: https://en.wikipedia.org/wiki/Final_Space
 ---
 body:
-
 

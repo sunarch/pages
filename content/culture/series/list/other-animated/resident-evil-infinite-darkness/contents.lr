@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Resident Evil: Infinite Darkness
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Federal agent Leon S. Kennedy teams up with TerraSave staff member
 wikipedia_link: https://en.wikipedia.org/wiki/Resident_Evil:_Infinite_Darkness
 ---
 body:
-
 

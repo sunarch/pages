@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Babylon Berlin
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Colognian commissioner Gereon Rath moves to Berlin, the epicenter 
 wikipedia_link:
 ---
 body:
-
 

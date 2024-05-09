@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Love, Death & Robots
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A collection of animated short stories that span various genres in
 wikipedia_link: https://en.wikipedia.org/wiki/Love,_Death_%26_Robots
 ---
 body:
-
 

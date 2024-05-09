@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Mindhunter
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Set in the late 1970s, two FBI agents are tasked with interviewing
 wikipedia_link: https://en.wikipedia.org/wiki/Mindhunter_(TV_series)
 ---
 body:
-
 

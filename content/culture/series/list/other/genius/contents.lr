@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Genius
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: The life stories of history's greatest minds. From their days as y
 wikipedia_link:
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Locke & Key
 ---
 sources:
@@ -44,5 +42,4 @@ imdb_summary: After their father is murdered under mysterious circumstances, the
 wikipedia_link: https://en.wikipedia.org/wiki/Locke_%26_Key_(TV_series)
 ---
 body:
-
 

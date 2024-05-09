@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: On the Spot
 ---
 sources:
@@ -38,5 +36,4 @@ imdb_summary: Eszter Cseke and Andras S. Takacs are award-winning Hungarian jour
 wikipedia_link:
 ---
 body:
-
 

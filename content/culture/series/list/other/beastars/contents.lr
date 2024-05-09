@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Beastars
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: In a school populated by anthropomorphic animals, a humble wolf wi
 wikipedia_link:
 ---
 body:
-
 

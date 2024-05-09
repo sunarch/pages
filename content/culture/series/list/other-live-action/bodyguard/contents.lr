@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Bodyguard
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: A contemporary thriller featuring the Royalty and Specialist Prote
 wikipedia_link: https://en.wikipedia.org/wiki/Bodyguard_(British_TV_series)
 ---
 body:
-
 

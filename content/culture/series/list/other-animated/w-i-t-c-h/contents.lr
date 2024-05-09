@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: W.I.T.C.H.
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Five teenage girls learn that they have been chosen to guard the w
 wikipedia_link:
 ---
 body:
-
 

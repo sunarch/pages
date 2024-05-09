@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Charmed
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Three sisters discover their destiny, to battle against the forces
 wikipedia_link: https://en.wikipedia.org/wiki/Charmed
 ---
 body:
-
 

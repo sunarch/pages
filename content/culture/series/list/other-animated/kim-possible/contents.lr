@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Kim Possible
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: A high school cheerleader and her accident-prone best friend balan
 wikipedia_link: https://en.wikipedia.org/wiki/Kim_Possible
 ---
 body:
-
 

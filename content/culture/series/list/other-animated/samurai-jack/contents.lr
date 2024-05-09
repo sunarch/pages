@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Samurai Jack
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A samurai sent through time fights to return home and save the wor
 wikipedia_link: https://en.wikipedia.org/wiki/Samurai_Jack
 ---
 body:
-
 

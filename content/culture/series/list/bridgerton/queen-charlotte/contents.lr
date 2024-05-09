@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Queen Charlotte: A Bridgerton Story
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Betrothed against her will to King George, young Charlotte arrives
 wikipedia_link: https://en.wikipedia.org/wiki/Queen_Charlotte:_A_Bridgerton_Story
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Merlin
 ---
 sources:
@@ -44,5 +42,4 @@ imdb_summary: These are the brand new adventures of Merlin, the legendary sorcer
 wikipedia_link:
 ---
 body:
-
 

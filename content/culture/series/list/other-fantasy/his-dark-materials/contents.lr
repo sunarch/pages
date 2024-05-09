@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: His Dark Materials
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A young girl is destined to liberate her world from the grip of th
 wikipedia_link:
 ---
 body:
-
 

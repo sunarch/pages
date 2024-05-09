@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Arrow
 ---
 sources:
@@ -44,5 +42,4 @@ imdb_summary: Spoiled billionaire playboy Oliver Queen is missing and presumed d
 wikipedia_link: https://en.wikipedia.org/wiki/Arrow_(TV_series)
 ---
 body:
-
 

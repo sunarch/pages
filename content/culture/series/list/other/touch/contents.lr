@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Touch
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: A widower struggling to raise his emotionally challenged son disco
 wikipedia_link:
 ---
 body:
-
 

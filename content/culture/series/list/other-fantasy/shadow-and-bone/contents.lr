@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Shadow and Bone
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Dark forces conspire against orphan mapmaker Alina Starkov when sh
 wikipedia_link: https://en.wikipedia.org/wiki/Shadow_and_Bone_(TV_series)
 ---
 body:
-
 

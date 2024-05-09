@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Boku no hîrô akademia [My Hero Academia]
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: A superhero-loving boy without any powers is determined to enroll 
 wikipedia_link: https://en.wikipedia.org/wiki/My_Hero_Academia
 ---
 body:
-
 

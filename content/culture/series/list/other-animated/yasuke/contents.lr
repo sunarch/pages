@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Yasuke
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: He came from Africa and fought alongside a mighty feudal lord in b
 wikipedia_link: https://en.wikipedia.org/wiki/Yasuke_(TV_series)
 ---
 body:
-
 

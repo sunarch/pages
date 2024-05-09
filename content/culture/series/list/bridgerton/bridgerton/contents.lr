@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Bridgerton
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Wealth, lust, and betrayal set against the backdrop of Regency-era
 wikipedia_link: https://en.wikipedia.org/wiki/Bridgerton
 ---
 body:
-
 

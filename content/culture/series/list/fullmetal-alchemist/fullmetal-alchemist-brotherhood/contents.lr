@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Fullmetal Alchemist: Brotherhood (Hagane no renkinjutsushi)
 ---
 sources:
@@ -40,5 +38,4 @@ imdb_summary: Two brothers search for a Philosopher's Stone after an attempt to 
 wikipedia_link:
 ---
 body:
-
 

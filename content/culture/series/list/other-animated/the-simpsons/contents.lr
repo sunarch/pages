@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: The Simpsons
 ---
 sources:
@@ -39,5 +37,4 @@ imdb_summary: The satiric adventures of a working-class family in the misfit cit
 wikipedia_link: https://en.wikipedia.org/wiki/The_Simpsons
 ---
 body:
-
 

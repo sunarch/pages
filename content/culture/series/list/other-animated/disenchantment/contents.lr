@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Disenchantment
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: Princess Tiabeanie, 'Bean', is annoyed at her imminent arranged ma
 wikipedia_link: https://en.wikipedia.org/wiki/Disenchantment_(TV_series)
 ---
 body:
-
 

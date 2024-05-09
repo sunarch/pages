@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: H2O: Just Add Water
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: Three girls become mermaids after a mysterious island transforms t
 wikipedia_link: https://en.wikipedia.org/wiki/H2O:_Just_Add_Water
 ---
 body:
-
 

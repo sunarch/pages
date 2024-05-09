@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Phineas and Ferb
 ---
 sources:
@@ -42,5 +40,4 @@ imdb_summary: Phineas and Ferb invent, scheme, and stay one step ahead of their 
 wikipedia_link: https://en.wikipedia.org/wiki/Phineas_and_Ferb
 ---
 body:
-
 

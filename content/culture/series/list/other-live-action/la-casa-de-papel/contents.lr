@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: La Casa de Papel [Money Heist]
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: An unusual group of robbers attempt to carry out the most perfect 
 wikipedia_link:
 ---
 body:
-
 

@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: Fauda
 ---
 sources:
@@ -41,5 +39,4 @@ imdb_summary: The human stories on both sides of the Israel-Palestine conflict.
 wikipedia_link: https://en.wikipedia.org/wiki/Fauda
 ---
 body:
-
 

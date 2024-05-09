@@ -1,7 +1,5 @@
 _model: page-series
 ---
-description: series
----
 title: iZombie
 ---
 sources:
@@ -43,5 +41,4 @@ imdb_summary: A medical resident finds that being a zombie has its perks, which 
 wikipedia_link: https://en.wikipedia.org/wiki/IZombie_(TV_series)
 ---
 body:
-
 
