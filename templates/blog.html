@@ -11,7 +11,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 {% block template_styles %}{% endblock %}
 
-{% block title %}{{ this.title }}{% endblock %}
+{% block title %}{% endblock %}
+
+{% block description %}{% endblock %}
 
 {% block content %}
     {% for child in this.pagination.items %}

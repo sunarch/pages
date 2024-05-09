@@ -22,9 +22,16 @@ https://creativecommons.org/licenses/by-sa/4.0/
     {% endif %}
     
     <header>
+        {% if this.title %}
+        <h1>{{ this.title }}</h1>
+        {% else %}
         <h1>{% block title %}{% endblock %}</h1>
+        {% endif %}
+
         {% if this.description %}
         <p>{{ this.description }}</p>
+        {% else %}
+        <p>{% block description %}{% endblock %}</p>
         {% endif %}
     </header>
 
