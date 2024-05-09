@@ -10,9 +10,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 {% block template_styles %}{% endblock %}
 
-{% block title %}{% endblock %}
+{% block title %}{{ this.title }}{% endblock %}
 
-{% block description %}{% endblock %}
+{% block description %}{{ this.description }}{% endblock %}
 
 {% block content %}
     {{ render_blog_post(this) }}

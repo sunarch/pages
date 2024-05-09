@@ -12,7 +12,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 {% block title %}{{ this.title }}{% if this.category == 'deprecated' %} (deprecated){% endif %}{% endblock %}
 
-{% block description %}{% endblock %}
+{% block description %}{{ this.description }}{% endblock %}
 
 {% block content %}
     <table style="display: table; width: 100%; margin-bottom: 20pt;">
