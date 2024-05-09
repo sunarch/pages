@@ -105,17 +105,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                 </td>
             </tr>
             {% endif %}
-            {% if this.available != [] %}
-            <tr>
-                <td>availablity</td>
-                <td>
-                    {% for available in this.available %}
-                        {{ available }}
-                        {% if available != this.available[-1] %}, {% endif %}
-                    {% endfor %}
-                </td>
-            </tr>
-            {% endif %}
             {% if this.wikipedia_link != "" %}
             <tr>
                 <td>Wikipedia</td>

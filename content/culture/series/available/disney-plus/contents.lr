@@ -1,5 +1,0 @@
-title: series available: Disney+
----
-body:
-
-{% include series-table.html format="standard" category="all" type="available" filter="Disney+" %}

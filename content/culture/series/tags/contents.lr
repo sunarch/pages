@@ -44,19 +44,6 @@ body:
   - usa
   - YouTube Originals
   - ZDF
-- d_available:
-  - Amazon Prime
-  - Apple TV+
-  - Crunchyroll
-  - Disney+
-  - HBO GO
-  - HBO Max
-  - Netflix
-  - YouTube
-  - [part]
-  - X
-  - DVD
-  - VHS
 
 - d_original_language / d_available_language / d_available_subtitle:
   - Hungarian
@@ -139,3 +126,17 @@ body:
 - imdb_summary: text
 
 - wikipedia_link: link
+
+## deprecated
+
+- d_available:
+  - Amazon Prime
+  - Apple TV+
+  - Crunchyroll
+  - Disney+
+  - HBO GO
+  - HBO Max
+  - Netflix
+  - YouTube
+  - DVD
+  - VHS

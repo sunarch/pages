@@ -93,17 +93,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                     </td>
                 </tr>
             {% endif %}
-            <tr>
-                <td>
-                    <span>Available:&nbsp;</span>
-                    <span>
-                        {% for available in this.available %}
-                            {{ available }}
-                            {% if available != this.available[-1] %}, {% endif %}
-                        {% endfor %}
-                    </span>
-                </td>
-            </tr>
         </tbody>
     </table>
     {{ this.body }}
