@@ -121,15 +121,12 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
     </table>
 
     {% if this.seen %}
-    <h2>personal tags</h2>
-    <li>Seen: {{ seen }}</li>
-    <li>Rating: {{ rating }}</li>
+    <h2>personal</h2>
     <ul>
-        <li>Tags:<ul>
-            {% for tag in this.tags %}
-                <li>{{ tag }}</li>
-            {% endfor %}
-        </ul></li>
+        <li>Seen: {{ this.seen }}</li>
+        {% if this.rating %}
+        <li>Rating: {{ this.rating }}</li>
+        {% endif %}
     </ul>
     {% endif %}
     </table>

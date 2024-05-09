@@ -12,9 +12,6 @@ seen:
 ---
 rating: unsorted
 ---
-tags:
-    spin-off
----
 air_status:
 ---
 ep_per_season: 10
@@ -46,4 +43,5 @@ wikipedia_link:
 ---
 body:
 
+- spin-off from the movie
 

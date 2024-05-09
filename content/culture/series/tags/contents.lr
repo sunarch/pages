@@ -54,18 +54,6 @@ body:
   - Japanese
   - Hebrew
 
-- d_sort_level:
-  - top
-  - second
-  - other
-  - documentary
-  - (unsorted)
-
-- d_sort_category:
-  - live-action
-  - animation
-  - documentary
-
 - d_watch_status:
   - followed
   - (available)
@@ -129,7 +117,20 @@ body:
 
 ## deprecated
 
-- d_available:
+
+- d_sort_level (tags)
+  - top
+  - second
+  - other
+  - documentary
+  - (unsorted)
+
+- d_sort_category (tags)
+  - live-action
+  - animation
+  - documentary
+
+- d_available
   - Amazon Prime
   - Apple TV+
   - Crunchyroll

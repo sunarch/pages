@@ -69,15 +69,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                     {% else %}
                         <span>[Watchlist]</span>
                     {% endif %}
-                    {% if this.tags %}
-                        <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
-                    {% endif %}
-                    <span>
-                        {% for tag in this.tags %}
-                            {{ tag }}
-                            {% if tag != this.tags[-1] %}, {% endif %}
-                        {% endfor %}
-                    </span>
                 </td>
             </tr>
             <tr>
