@@ -14,8 +14,6 @@ rating: unsorted
 ---
 air_status:
 ---
-ep_per_season: 10
----
 imdb_link: https://www.imdb.com/title/tt5580146/
 ---
 imdb_year: 2018
@@ -42,5 +40,4 @@ imdb_summary: Two strangers are drawn to a mysterious pharmaceutical trial that 
 wikipedia_link:
 ---
 body:
-
 

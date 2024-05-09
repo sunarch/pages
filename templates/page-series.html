@@ -10,6 +10,11 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 {% block title %}{{ this.title }}{% endblock %}
 
+{% set ep_per_season = 0.0 %}
+{% if this.imdb_episodes and this.imdb_seasons %}
+    {% set ep_per_season = this.imdb_episodes / this.imdb_seasons %}
+{% endif %}
+
 {% block content %} 
     <table style="display: table; width: 100%;">
         <tbody>
@@ -39,10 +44,10 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                 <td>listed seasons / episodes</td>
                 <td>{{ this.imdb_seasons }}&nbsp;/&nbsp;{{ this.imdb_episodes }}</td>
             </tr>
-            {% if this.ep_per_season != "" %}
+            {% if ep_per_season != this.imdb_episodes and ep_per_season != 0.0 %}
             <tr>
-                <td>episodes per season</td>
-                <td>{{ this.ep_per_season }}</td>
+                <td>avg. episodes per season</td>
+                <td>{{ ep_per_season }}</td>
             </tr>
             {% endif %}
             {% if this.imdb_runtime_min != "" %}
@@ -130,6 +135,10 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
     </ul>
     {% endif %}
     </table>
+    
+    {% if this.body %}
+    <h2>notes</h2>
+    {% endif %}
 
     {{ this.body }}
 {% endblock %}

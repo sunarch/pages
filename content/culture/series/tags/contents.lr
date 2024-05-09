@@ -78,7 +78,7 @@ body:
   - ended
 - d_air_season: season XX (with text comment)
 
--  d_ep_per_season: number range
+-  d_ep_per_season: (calculated)
 
 - imdb_link: link
 - imdb_year_start: year

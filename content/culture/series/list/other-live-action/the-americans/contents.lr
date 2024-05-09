@@ -14,8 +14,6 @@ rating: unsorted
 ---
 air_status:
 ---
-ep_per_season: 13 +10
----
 imdb_link: https://www.imdb.com/title/tt2149175/
 ---
 imdb_year: 2013
@@ -42,5 +40,4 @@ imdb_summary: At the height of the Cold War two Russian agents pose as your aver
 wikipedia_link:
 ---
 body:
-
 
