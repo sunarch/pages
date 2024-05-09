@@ -10,9 +10,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 <link rel="stylesheet" href="{{ '/static/css/proglangs.css' | asseturl }}">
 {% endblock %}
 
-{% block title %}{{ this.title }}{% if this.category == 'deprecated' %} (deprecated){% endif %}{% endblock %}
+{% block title %}{{ this.title }}{% endblock %}
 
-{% block description %}{{ this.description }}{% endblock %}
+{% block description %}{% if this.category == 'deprecated' %}deprecated {% endif %}programming language{% endblock %}
 
 {% block content %}
     <table style="display: table; width: 100%; margin-bottom: 20pt;">
