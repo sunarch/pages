@@ -62,7 +62,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                 <td>
                     {% for genre in this.imdb_genres %}
                         {{ genre }}
-                        {% if genre != this.imdb_genres[-1] %}, {% endif %}
+                        {%- if genre != this.imdb_genres[-1] %}, {% endif %}
                     {% endfor %}
                 </td>
             </tr>
@@ -86,19 +86,13 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         </tbody>
     </table>
 
-    <h2>status</h2>
+    <h2>general</h2>
     <table style="display: table; width: 100%;">
         <tbody>
             <tr>
                 <td>air status</td>
                 <td>{{ this.air_status }}</td>
             </tr>
-        </tbody>
-    </table>
-
-    <h2>general</h2>
-    <table style="display: table; width: 100%;">
-        <tbody>
             {% if this.sources != [] %}
             <tr>
                 <td>source</td>
@@ -112,8 +106,12 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
             {% endif %}
             {% if this.wikipedia_link != "" %}
             <tr>
-                <td>Wikipedia</td>
-                <td>{{ this.wikipedia_link }}</td>
+                <td>other links</td>
+                <td>
+                    <span>
+                        <a href="{{ this.wikipedia_link }}" target="_blank">Wikipedia</a>
+                    </span>
+                </td>
             </tr>
             {% endif %}
             {% if this.original_language not in ["", "English"] %}
@@ -124,17 +122,24 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
             {% endif %}
         </tbody>
     </table>
-
+    
     {% if this.seen %}
     <h2>personal</h2>
-    <ul>
-        <li>Seen: {{ this.seen }}</li>
-        {% if this.rating %}
-        <li>Rating: {{ this.rating }}</li>
-        {% endif %}
-    </ul>
-    {% endif %}
+    <table style="display: table; width: 100%;">
+        <tbody>
+            <tr>
+                <td>seen</td>
+                <td>{{ this.seen }}</td>
+            </tr>
+            {% if this.rating %}
+            <tr>
+                <td>rating</td>
+                <td>{{ this.rating }}</td>
+            </tr>
+            {% endif %}
+        </tbody>
     </table>
+    {% endif %}
     
     {% if this.body %}
     <h2>notes</h2>
