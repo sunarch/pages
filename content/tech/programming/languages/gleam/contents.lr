@@ -22,40 +22,43 @@ wikibooks_hu:
 ---
 family:
 ---
-first_appeared:
+first_appeared: 2016
 ---
-designed_by:
+designed_by: Louis Pilfold
 ---
 latest_release: 1.0.0 (Mar 2024)
 ---
-developer:
+developer: Louis Pilfold
 ---
 license: Apache-2.0 license
 ---
 category:
 ---
-feature_adt:
+feature_adt: yes
 ---
 feature_compiled: BEAM VM
 ---
 feature_context_management:
 ---
-feature_explicit_errors:
+feature_explicit_errors: Result
 ---
 feature_hacker: --
 ---
-feature_hof:
+feature_hof: yes
 ---
-feature_immutable:
+feature_immutable: compile-time
 ---
 feature_jargon: --
 ---
-feature_pattern_matching:
+feature_pattern_matching: yes
 ---
-feature_static_typing:
+feature_static_typing: yes
 ---
 ranking_tiobe_url:
 ---
 sunarch: maybe
 ---
 body:
+
+- implemented in Rust
+- version 1.0.0 was released on March 4, 2024

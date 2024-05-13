@@ -36,7 +36,7 @@ category: preone
 ---
 feature_adt:
 ---
-feature_compiled:
+feature_compiled: via C
 ---
 feature_context_management:
 ---

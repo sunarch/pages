@@ -44,7 +44,7 @@ feature_explicit_errors: value
 ---
 feature_hacker: --
 ---
-feature_hof:
+feature_hof: --
 ---
 feature_immutable: yes
 ---
