@@ -28,7 +28,7 @@ from them as well.
 
 - preferred & learning:
     - Nim
-    - Odin
+    - Odin (pre-1)
     - Rust
     - Go
     - OCaml
@@ -45,4 +45,4 @@ from them as well.
 - other plans:
     - BEAM languages: Erlang / Elixir / Gleam
     - Lisp (Chez Scheme / Racket)
-    - other low-level: Zig, Hare, Jai
+    - other low-level: Zig (pre-1), Hare (pre-1), Jai (pre-1)
