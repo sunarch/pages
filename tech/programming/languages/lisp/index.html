@@ -1,136 +1,125 @@
+
+
+
 <!DOCTYPE html>
 <!--
-This Source Code Form is subject to the terms of the Mozilla Public
-License, v. 2.0. If a copy of the MPL was not distributed with this
-file, You can obtain one at http://mozilla.org/MPL/2.0/.
+Content licensed under:
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
 -->
 <html lang="en-US">
 <head>
     
 
-<!-- meta tags (part 1) -->
+
 <meta charset="UTF-8">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+
+<meta name="author" content="András Németh">
+
+
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 
-<!-- SEO tags - title -->
+
 <title>LISP &middot; sunarch</title>
 <meta property="og:title" content="LISP">
-<meta property="twitter:title" content="LISP">
 
-<!-- SEO tags - locale-->
+
 <meta property="og:locale" content="en_US">
 
-<!-- SEO tags - description -->
+
 <meta name="description" content="personal site | sunarch">
 <meta property="og:description" content="personal site | sunarch">
 
-<!-- SEO tags - path -->
-<link rel="canonical" href="None/tech/programming/languages/lisp/">
-<meta property="og:url" content="None/tech/programming/languages/lisp/">
 
-<!-- SEO tags - other -->
+<link rel="canonical" href="https://sunarch.dev/tech/programming/languages/lisp/">
+<meta property="og:url" content="https://sunarch.dev/tech/programming/languages/lisp/">
+
+
 <meta property="og:site_name" content="sunarch - personal site">
 <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<!--<meta name="generator" content="GENERATOR">-->
 
-<!-- SEO tags - script -->
+
+
 <script type="application/ld+json">
     {"@context": "https://schema.org",
      "@type": "WebPage",
      "description": "personal site | sunarch",
      "headline": "LISP",
-     "url": "None/tech/programming/languages/lisp/"
+     "url": "https://sunarch.dev/tech/programming/languages/lisp/"
     }
 </script>
 
-<!-- meta tags (part 2) -->
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#157878">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-<!-- link tags -->
+
 <link rel="shortcut icon" href="/static/favicon.ico?h=6b2f2b8c">
 <link rel="icon" type="image/png" href="/static/favicon-16x16.png?h=2619d580" sizes="16x16">
 <link rel="icon" type="image/png" href="/static/favicon-32x32.png?h=506284aa" sizes="32x32">
 
 
 
-<!-- styles -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-<link rel="stylesheet" href="/static/css/cayman.css?h=454bbf1f">
-<link rel="stylesheet" href="/static/css/sunarch.css?h=908abaac">
+<link rel="me" href="https://fosstodon.org/@sunarch">
+<link rel="me" href="https://alpha.polymaths.social/@sunarch">
+
+<link rel="me" href="https://mstdn.social/@andras3p">
+
+
+<link rel="stylesheet" href="/static/css/readable-1-1-0-min.css?h=b1141a4d">
+<link rel="stylesheet" href="/static/css/global.css?h=22c080bb">
 
 
 
-<!-- scripts -->
+
 
     
 <link rel="stylesheet" href="/static/css/proglangs.css?h=235a5c83">
 
 </head>
-<body onLoad="eh_load_body();">
+<body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-    <header class="page-header" role="banner">
-        <h1 class="project-name">LISP</h1>
-        <h2 class="project-tagline">personal site&#32;|&#32;sunarch</h2>
+
+    
+    
+
+<nav aria-label="Breadcrumb" class="breadcrumb" data-style="none">
+<ul>
+    
+    
+    
+    <li><a href="/">sunarch</a></li>
+    
+    
+        
+        <li><a href="/tech/">Tech</a></li>
+    
+        
+        <li><a href="/tech/programming/">Programming</a></li>
+    
+        
+        <li><a href="/tech/programming/languages/">Languages</a></li>
+    
+
+    
+        <li><span aria-current="page">LISP</span></li>
+    
+</ul>
+</nav>
+    
+    
+    <header>
+        <h1>LISP</h1>
+        <p>programming language</p>
     </header>
-    <main id="content" class="main-content" role="main">
 
-        
-        <div class="container ">
-            
-<div id="breadcrumbs">
-    
-    
-    
-    <a href="/">Home</a>
-    
-    
-        
-        <span>
-            <span>/ </span>
-            <span>
-                <a href="/tech/">Tech</a>
-            </span>
-        </span>
-    
-        
-        <span>
-            <span>/ </span>
-            <span>
-                <a href="/tech/programming/">Programming</a>
-            </span>
-        </span>
-    
-        
-        <span>
-            <span>/ </span>
-            <span>
-                <a href="/tech/programming/languages/">Languages</a>
-            </span>
-        </span>
-    
+    <main id="content">
 
-    
-        <span>/ LISP</span>
-    
-</div>
-        </div>
-
-        
-        <noscript>
-            <h3>JavaScript is not enabled in your browser!</h3>
-        </noscript>
-
-        
-        <div class="container  content">
-            
-    <div class="page">
-        <h1 class="page-title">LISP</h1>
         
     <table style="display: table; width: 100%; margin-bottom: 20pt;">
         <tbody>
@@ -209,18 +198,12 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 </ul>
 </li>
 </ul>
-<h1>resources</h1>
+<h2>resources</h2>
 <ul>
 <li><a href="https://htdp.org">How to Design Programs</a> - book (online)</li>
 <li><a href="https://www.buildyourownlisp.com">Build Your Own Lisp</a> - book (online)</li>
 <li>LISP Information and Resources - <a href="https://www.lispmachine.net">lispmachine.net</a></li>
 <li><a href="http://planet.lisp.org">Planet Lisp</a></li>
-</ul>
-<h2>articles</h2>
-<ul>
-<li>Stanford: <a href="http://www-formal.stanford.edu/jmc/history/lisp/lisp.html">History of Lisp</a></li>
-<li><a href="http://www.trollope.org/scheme.html">High School Computing: The Inside Story</a></li>
-<li><a href="https://www.nhplace.com/kent/Papers/Technical-Issues.html">Technical Issues of Separation in Function Cells and Value Cells</a></li>
 </ul>
 <h2>groups</h2>
 <ul>
@@ -232,11 +215,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 <li>live-moddable games with Clojure</li>
 </ul>
 </li>
-<li><a href="https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac">Common Lisp VS Racket. Feedback from lispers.</a></li>
-<li>Stack Overflow: <a href="https://stackoverflow.com/questions/1007250/which-dialect-of-lisp-should-i-learn">Which dialect of Lisp should I learn?</a></li>
-<li>Quora: <a href="https://www.quora.com/Do-all-programming-languages-actually-converge-to-LISP">Do all programming languages actually converge to LISP?</a></li>
-<li>Hacker News: <a href="https://news.ycombinator.com/item?id=4487793">Are there any Lisps you would recommend (other than Clojure)? (Or languages?)</a></li>
-<li>Stack Overflow: <a href="https://stackoverflow.com/questions/19674284/is-lisp-1-vs-lisp-2-relevant-in-a-language-with-static-types">namespaces - Is "Lisp-1 vs Lisp-2" relevant in a language with static types? - Stack Overflow</a></li>
 </ul>
 
     <h2>Comparison values</h2>
@@ -366,27 +344,127 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         </tbody>
     </table>
 
-    </div>
 
-        </div>
+        
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+        
+    
+
+
+
+<hr>
+<h2>links</h2>
+
+
+
+    
+    <h3>articles</h3>
+    <ul>
+        
+        <li>NH Place - 
+<a href="https://www.nhplace.com/kent/Papers/Technical-Issues.html">Technical Issues of Separation in Function Cells and Value Cells</a>
+(1988-06-01)
+by Richard P. Gabriel</li>
+        
+    </ul>
+    
+
+    
+    <h3>blog posts</h3>
+    <ul>
+        
+        <li>Stanford - 
+<a href="http://www-formal.stanford.edu/jmc/history/lisp/lisp.html">History of Lisp</a>
+(1996-07-26)
+by John McCarthy</li>
+        
+        <li>GitHub Gist - 
+<a href="https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac">Common Lisp VS Racket. Feedback from (common) lispers.</a>
+(2024-01-22)
+by vindarel</li>
+        
+    </ul>
+    
+
+    
+
+    
+
+    
+    <h3>forum entries</h3>
+    <ul>
+        
+        <li>StackOverflow - 
+<a href="https://stackoverflow.com/questions/1007250/which-dialect-of-lisp-should-i-learn">Which dialect of Lisp should I learn?</a>
+(2009-06-17)
+by Humphrey Bogart</li>
+        
+        <li>Quora - 
+<a href="https://www.quora.com/Do-all-programming-languages-actually-converge-to-LISP">Do all programming languages actually converge to LISP?</a>
+
+</li>
+        
+        <li>Hacker News - 
+<a href="https://news.ycombinator.com/item?id=4487793">Are there any Lisps you would recommend (other than Clojure)? (Or languages?)</a>
+(2012-09-07)
+by heretohelp</li>
+        
+        <li>StackOverflow - 
+<a href="https://stackoverflow.com/questions/19674284/is-lisp-1-vs-lisp-2-relevant-in-a-language-with-static-types">namespaces - Is &#34;Lisp-1 vs Lisp-2&#34; relevant in a language with static types?</a>
+(2013-10-30)
+by Jim Pivarski</li>
+        
+    </ul>
+    
+
 
         
         
-
         
-        <footer class="site-footer">
-            <span class="site-footer-owner">
-                <a href="https://codeberg.org/sunarch/pages">sunarch.codeberg.page</a>
-                <span>&copy;</span>
-                <span>&#32;2013-2024&#32;</span>
-                <a href="https://codeberg.org/sunarch">sunarch</a>
-            </span>
-            <span>-</span>
-            <span class="site-footer-credits">
-                <span>Published via</span>
-                <a href="https://codeberg.page">Codeberg Pages</a>
-            </span>
-        </footer>
+        
     </main>
+    
+    
+
+    
+
+<footer>
+    
+
+<nav data-style="none">
+	<a href="/contact">contact</a>
+	|
+	<a href="/licenses">licenses</a>
+</nav>
+
+    <p>
+        <a href="https://codeberg.org/sunarch/pages">sunarch.dev</a>
+        <span>&copy;</span>
+        <span>&#32;2013-2024&#32;</span>
+        <a href="https://codeberg.org/sunarch">András Németh</a>
+        (<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>)
+    </p>
+    <p>
+        <span>Published via</span>
+        <a href="https://codeberg.page">Codeberg Pages</a>
+    </p>
+</footer>
 </body>
 </html>

@@ -1,0 +1,270 @@
+header {
+    margin-top: 0;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    border-bottom-left-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+}
+
+header p {
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 0.7;
+}
+
+@media screen and (min-width: 64em) {
+    header {
+        padding: 5rem 6rem;
+    }
+    header h1 {
+        font-size: 3.25rem;
+    }
+    header p {
+        font-size: 1.25rem;
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    header {
+        padding: 3rem 4rem;
+    }
+    header h1 {
+        font-size: 2.25rem;
+    }
+    header p {
+        font-size: 1.15rem;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    header {
+        padding: 2rem 1rem;
+    }
+    header h1 {
+        font-size: 1.75rem;
+    }
+    header p {
+        font-size: 1rem;
+    }
+}
+
+/* =========================================================================  */
+
+#skip-to-content {
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    overflow: hidden;
+    top: -10px;
+}
+
+#skip-to-content:focus {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: auto;
+    width: auto;
+    background: #e19447;
+    outline: thick solid #e19447;
+}
+
+/* =========================================================================  */
+
+pre:has(> code) {
+    border: 1px solid darkgray;
+    border-radius: 0.3rem;
+    padding: 1em;
+    background: lightgray;
+    color: black;
+    white-space: pre;
+}
+
+/* =========================================================================  */
+
+details > summary {
+    display: list-item;
+    /* list-style: none; */
+    cursor: pointer;
+    
+    margin-top: 2rem !important;
+    margin-bottom: 1rem;
+    font-size: 18pt;
+    font-weight: normal;
+    color: #159957;
+}
+
+details > summary::marker, /* Latest Chrome, Edge, Firefox */ 
+details > summary::-webkit-details-marker /* Safari */ {
+    /* - */
+}
+
+/* =========================================================================  */
+
+tr.table-section-header {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+
+th, td {
+    border-color: gray !important;
+}
+
+/* stuff from Amin: \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/ \/  */
+
+:root {
+	--link-color: #00e;
+	--link-visited-color: #6830BB;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--link-color: #78b8ff;
+		--link-visited-color: #c6aeea
+	}
+}
+
+a {
+	color: var(--link-color)
+}
+
+a:visited {
+	color: var(--link-visited-color)
+}
+
+.breadcrumb, .breadcrumb + hr {
+	margin: calc(0.5 * var(--one-line)) 0
+}
+
+.breadcrumb ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.breadcrumb li:not(:last-child)::after {
+    display: inline-block;
+    margin: 0 .25rem;
+    content: "/";
+}
+
+nav.nextprev, .reply {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+nav.nextprev > a, nav.nextprev > span, .reply > a, .reply > span {
+	flex-grow: 1;
+	margin: auto;
+	text-align: center;
+}
+
+.byline, .--center {
+	text-align: center;
+}
+
+.options > * {
+	padding: 0 0.5rem;
+}
+
+.ctas {
+	display: flex;
+	flex-wrap: wrap;
+	gap: calc(var(--one-line) * 0.5);
+	justify-content: center;
+}
+
+.ctas section {
+	width: 100%;
+	max-width: 32ch;
+	min-width: 20ch;
+	display: inline-block;
+	border: var(--line-width) solid;
+	padding: 0 calc(0.5 * var(--one-line));
+	box-sizing: border-box;
+}
+
+.ctas section ul {
+	padding-inline-start: calc(0.5 * var(--one-line));
+}
+
+.listing {
+	border-bottom: var(--line-width) solid;
+	padding: calc(0.5 * var(--one-line)) 0;
+}
+
+.listing h2 {
+	margin: 0;
+}
+
+.listing h2 + p.subtitle {
+	margin-top: 0;
+}
+
+.listing h2 > a {
+	text-decoration: none;
+}
+
+.listing h2 > a:hover, .listing h2 > a:focus {
+	text-decoration: underline;
+}
+
+.poem {
+	text-align: center;
+}
+
+article.poem div {
+	display: inline-block;
+}
+
+.poem[data-align="left"] div {
+	text-align: left;
+}
+
+.poem[data-align="center"] div {
+	text-align: center;
+}
+
+.poem[data-align="right"] div {
+	text-align: right;
+}
+
+nav.posts ul {
+	list-style: none;
+	padding: 0;
+}
+
+nav.posts li {
+	margin: var(--one-line) 0;
+}
+
+nav.posts li >  a {
+	display: grid;
+	grid-template-columns: auto 1fr auto;
+	gap: 1rem;
+	text-decoration: none;
+}
+
+nav.posts li > a span {
+	text-decoration: underline;
+}
+
+nav.posts hr {
+	display: inline;
+	margin: 0 0 calc(var(--one-line) * 0.25) 0;
+	align-self: end;
+	border-top: var(--line-width) dotted var(--color);
+}
+
+nav.posts time {
+	color: var(--color);
+}
