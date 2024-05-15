@@ -4,60 +4,49 @@ body:
 
 ### Aaron Toponce
 
-- homepage: [pthree.org](https://pthree.org)
-    - [feed](https://pthree.org/feed/)
+- homepage: [pthree.org](https://pthree.org) ([feed](https://pthree.org/feed/))
 - Mastodon: [@atoponce@fosstodon.org](https://fosstodon.org/@atoponce)
 
 ### AJ Foster
 
-- homepage: [aj-foster.com](https://aj-foster.com)
-    - [feed](https://aj-foster.com/feed.xml)
+- homepage: [aj-foster.com](https://aj-foster.com) ([feed](https://aj-foster.com/feed.xml))
 - Mastodon: [@ajf@hachyderm.io](https://hachyderm.io/@ajf)
 
 ### Amos Wenger (faster than lime)
 
-- homepage: [FasterThanLi.me](https://FasterThanLi.me)
-    - [feed](https://FasterThanLi.me/index.xml)
+- homepage: [FasterThanLi.me](https://FasterThanLi.me) ([feed](https://FasterThanLi.me/index.xml))
 
 ### Andrew Kelley
 
 - Zig lead
-- homepage: [AndrewKelley.me](https://AndrewKelley.me)
-    - [feed](https://AndrewKelley.me/rss.xml)
+- homepage: [AndrewKelley.me](https://AndrewKelley.me) ([feed](https://AndrewKelley.me/rss.xml))
 
 ### Armin Ronacher
 
-- homepage: [lucumr.pocoo.org](https://lucumr.pocoo.org)
-    - [feed](https://lucumr.pocoo.org/feed.atom)
+- homepage: [lucumr.pocoo.org](https://lucumr.pocoo.org) ([feed](https://lucumr.pocoo.org/feed.atom))
 - Mastodon: [@mitsuhiko@hachyderm.io](https://hachyderm.io/@mitsuhiko)
 
 ### Baldur Bjarnason
 
-- homepage: [BaldurBjarnason.com](https://www.BaldurBjarnason.com)
-    - [feed](https://www.BaldurBjarnason.com/index.xml)
-- [Out of the Software Crisis](https://softwarecrisis.dev) (Newsletter)
-    - [feed](https://softwarecrisis.dev/feed.xml)
+- homepage: [BaldurBjarnason.com](https://www.BaldurBjarnason.com) ([feed](https://www.BaldurBjarnason.com/index.xml))
+- [Out of the Software Crisis](https://softwarecrisis.dev) (Newsletter) ([feed](https://softwarecrisis.dev/feed.xml))
 - Mastodon: [@baldur@toot.cafe](https://toot.cafe/@baldur)
 
 ### Bobby Moss (TrechNex)
 
-- homepage: [trechnex.com](https://trechnex.com)
-    - [feed](https://trechnex.com/feed.xml)
+- homepage: [trechnex.com](https://trechnex.com) ([feed](https://trechnex.com/feed.xml))
 - Mastodon: [@trechnex@social.trechnex.com](https://social.trechnex.com/@trechnex)
 
 ### Brandon Hopkins (TechHut)
 
-- TechHut
-    - [feed](https://www.TechHut.tv/rss/)
-- Medium: [@TechHutTV](https://medium.com/@TechHutTV)
-    - [feed](https://medium.com/feed/@TechHutTV))
+- TechHut ([feed](https://www.TechHut.tv/rss/))
+- Medium: [@TechHutTV](https://medium.com/@TechHutTV) ([feed](https://medium.com/feed/@TechHutTV))
 - Mastodon: [@TechHut@fosstodon.org](https://fosstodon.org/@TechHut)
 
 ### Brandon T. Phillips
 
 - homepage: [brandont.dev](https://brandont.dev)
-    - [blog](https://brandont.dev/blog/)
-    - [feed](https://brandont.dev/atom.xml)
+    - [blog](https://brandont.dev/blog/) ([feed](https://brandont.dev/atom.xml))
 - Codeberg: [btp](https://codeberg.org/btp)
 - Mastodon: [@btp@fosstodon.org](https://fosstodon.org/@btp)
 
@@ -67,25 +56,21 @@ body:
 
 ### Chris Morgan
 
-- homepage: [ChrisMorgan.info](https://ChrisMorgan.info)
-    - [feed](https://ChrisMorgan.info/feed.xml)
+- homepage: [ChrisMorgan.info](https://ChrisMorgan.info) ([feed](https://ChrisMorgan.info/feed.xml))
 
 ### Chris Siebenmann
 
 - homepage: [utcc.utoronto.ca/~cks/](https://utcc.utoronto.ca/~cks/)
-    - [blog](https://utcc.utoronto.ca/~cks/space/blog/)
-    - [feed](https://utcc.utoronto.ca/~cks/space/blog/?atom)
+    - [blog](https://utcc.utoronto.ca/~cks/space/blog/) ([feed](https://utcc.utoronto.ca/~cks/space/blog/?atom))
 
 ### Christoffer Ekeroth (chreke)
 
-- homepage: [chreke.com](https://chreke.com)
-    - [feed](https://chreke.com/feeds/all.atom.xml)
+- homepage: [chreke.com](https://chreke.com) ([feed](https://chreke.com/feeds/all.atom.xml))
 
 ### Coding Horror (Jeff Atwood)
 
 - founder of StackOverflow, Discourse
-- homepage: [blog.codinghorror.com](https://blog.codinghorror.com)
-    - [feed](https://blog.codinghorror.com/rss/)
+- homepage: [blog.codinghorror.com](https://blog.codinghorror.com) ([feed](https://blog.codinghorror.com/rss/))
 
 ### D. Kriesel
 
@@ -95,14 +80,12 @@ body:
 
 ### Dan McKinley
 
-- homepage: [McFunley.com](https://McFunley.com)
-    - [feed](https://McFunley.com/feed.xml)
+- homepage: [McFunley.com](https://McFunley.com) ([feed](https://McFunley.com/feed.xml))
 
 ### Dan North
 
 - homepage: [DanNorth.net](https://DanNorth.net)
-    - [blog](https://DanNorth.net/blog)
-    - [feed](https://DanNorth.net/blog/index.xml)
+    - [blog](https://DanNorth.net/blog) ([feed](https://DanNorth.net/blog/index.xml))
 
 ### Daniel Supernault
 
@@ -122,19 +105,16 @@ body:
 - Flux Harmonic
     - Codeberg: [FluxHarmonic](https://codeberg.org/FluxHarmonic)
 - Mesche
-    - homepage: [mesche.cc](https://mesche.cc)
-        - [feed](https://mesche.cc/rss/articles.xml)
+    - homepage: [mesche.cc](https://mesche.cc) ([feed](https://mesche.cc/rss/articles.xml))
     - Codeberg: [mesche](https://codeberg.org/mesche)
 - System Crafters
     - [homepage](https://systemcrafters.net)
-        - [news](https://systemcrafters.net/news/)
-        - [feed](https://systemcrafters.net/rss/news.xml)
+        - [news](https://systemcrafters.net/news/) ([feed](https://systemcrafters.net/rss/news.xml))
     - Codeberg: [SystemCrafters](https://codeberg.org/SystemCrafters)
 
 ### Deb Richardson (dria)
 
-- homepage: [dria.org](https://dria.org)
-    - [feed](https://dria.org/feed/)
+- homepage: [dria.org](https://dria.org) ([feed](https://dria.org/feed/))
 - Mastodon: [@dria@fosstodon.org](https://fosstodon.org/@dria)
 
 ### Derek (DistroTube)
@@ -143,25 +123,21 @@ body:
 
 ### Don Melton
 
-- homepage: [DonMelton.com](https://DonMelton.com)
-    - [feed](https://DonMelton.com/rss.xml)
+- homepage: [DonMelton.com](https://DonMelton.com) ([feed](https://DonMelton.com/rss.xml))
 - Mastodon: [@DonMelton@mstdn.social](https://mstdn.social/@DonMelton)
 
 ### Dorian Taylor
 
-- homepage: "Make Things. Make Sense." - [doriantaylor.com](https://doriantaylor.com)
-    - [feed](https://doriantaylor.com/f07f5044-01bc-472d-9079-9b07771b731c)
+- homepage: "Make Things. Make Sense." - [doriantaylor.com](https://doriantaylor.com) ([feed](https://doriantaylor.com/f07f5044-01bc-472d-9079-9b07771b731c))
 
 ### Eniko Fox
 
 - Mastodon: [@eniko@peoplemaking.games](https://peoplemaking.games/@eniko)
-- Kitsune Games
-    - [feed](http://kitsunegames.com/feed.xml)
+- Kitsune Games ([feed](http://kitsunegames.com/feed.xml))
 
 ### Eric S. Raymond
 
-- homepage: "Armed and Dangerous" - [esr.ibiblio.org](http://esr.ibiblio.org)
-    - [feed](http://esr.ibiblio.org/?feed=rss2)
+- homepage: "Armed and Dangerous" - [esr.ibiblio.org](http://esr.ibiblio.org) ([feed](http://esr.ibiblio.org/?feed=rss2))
 
 ### Eugen Rochko
 
@@ -177,19 +153,16 @@ body:
 - Heavy Element
     - homepage: [heavyelement.io](https://heavyelement.io)
 - ViewSink
-    - homepage: [viewsink.com](https://viewsink.com)
-    - [feed](https://viewsink.com/rss/)
+    - homepage: [viewsink.com](https://viewsink.com) ([feed](https://viewsink.com/rss/))
 
 ### Garrit Franke
 
-- homepage: "Garrit's Notes" - [garrit.xyz](https://garrit.xyz)
-    - [feed](https://garrit.xyz/rss.xml)
+- homepage: "Garrit's Notes" - [garrit.xyz](https://garrit.xyz) ([feed](https://garrit.xyz/rss.xml))
 - Mastodon: [@garritfra@fosstodon.org](https://fosstodon.org/@garritfra)
 
 ### Ron Gilbert (Grumpy Gamer)
 
-- homepage: [grumpygamer.com](https://grumpygamer.com)
-    - [feed](https://grumpygamer.com/rss)
+- homepage: [grumpygamer.com](https://grumpygamer.com) ([feed](https://grumpygamer.com/rss))
 - Mastodon: [@grumpygamer@mastodon.gamedev.place](https://mastodon.gamedev.place/@grumpygamer)
 
 ### Gunther
@@ -200,8 +173,7 @@ body:
 
 ### Hari Rana (TheEvilSkeleton)
 
-- homepage: [TheEvilSkeleton.gitlab.io](https://theevilskeleton.gitlab.io)
-    - [feed](https://theevilskeleton.gitlab.io/feed.xml)
+- homepage: [TheEvilSkeleton.gitlab.io](https://theevilskeleton.gitlab.io) ([feed](https://theevilskeleton.gitlab.io/feed.xml))
 - Codeberg: [TheEvilSkeleton](https://codeberg.org/TheEvilSkeleton)
 - GitLab: [TheEvilSkeleton](https://gitlab.com/TheEvilSkeleton)
 - GitHub: [TheEvilSkeleton](https://github.com/TheEvilSkeleton)
@@ -210,8 +182,7 @@ body:
 ### Henrique Dias
 
 - homepage: [hacdias.com](https://hacdias.com)
-    - [blog](https://hacdias.com/articles/)
-    - [feed](https://hacdias.com/articles/feed.xml)
+    - [blog](https://hacdias.com/articles/) ([feed](https://hacdias.com/articles/feed.xml))
 
 ### Henry Fisher (Techlore)
 
@@ -231,88 +202,73 @@ body:
 
 - one of the founders of Netscape and Mozilla.org
 - homepage: [jwz.org](https://www.jwz.org)
-    - [blog](https://www.jwz.org/blog/)
-    - [feed](https://cdn.jwz.org/blog/feed/)
+    - [blog](https://www.jwz.org/blog/) ([feed](https://cdn.jwz.org/blog/feed/))
 
 ### Jan-Lukas Else
 
-- homepage: [jlelse.blog](https://jlelse.blog)
-    - [feed](https://jlelse.blog/.rss)
+- homepage: [jlelse.blog](https://jlelse.blog) ([feed](https://jlelse.blog/.rss))
 - Mastodon: [@j7s@j7s.me](https://j7s.me/@j7s)
 
 ### JeanHeyd Meneide (ThePhD - The Phantom Derpstorm)
 
-- homepage: "The Pasture" - [thephd.dev](https://thephd.dev)
-    - [feed](https://thephd.dev/feed.xml)
+- homepage: "The Pasture" - [thephd.dev](https://thephd.dev) ([feed](https://thephd.dev/feed.xml))
 - Mastodon: [@thephd@pony.social](https://pony.social/@thephd)
 
 ### Joe "begriffs" Nelson
 
-- [begriffs.com](https://begriffs.com)
-    - [feed](https://begriffs.com/atom.xml)
+- [begriffs.com](https://begriffs.com) ([feed](https://begriffs.com/atom.xml))
 - GitHub: [begriffs](https://github.com/begriffs)
 
 ### Joel Spolsky
 
 - former Stack Overflow CEO, Trello, Glitch
-- homepage: "Joel on Software" - [joelonsoftware.com](https://www.joelonsoftware.com)
-    - [feed](https://www.joelonsoftware.com/feed/)
+- homepage: "Joel on Software" - [joelonsoftware.com](https://www.joelonsoftware.com) ([feed](https://www.joelonsoftware.com/feed/))
 
 ### Kellan Elliott-McCrea
 
-- homepage: [laughingmeme.org](https://laughingmeme.org)
-    - [feed](https://laughingmeme.org//feed.xml)
+- homepage: [laughingmeme.org](https://laughingmeme.org) ([feed](https://laughingmeme.org//feed.xml))
 
 ### Kev Quirk
 
 - FOSStodon admin
-- homepage: [kevquirk.com](https://kevquirk.com)
-    - [feed](https://kevquirk.com/feed.rss)
+- homepage: [kevquirk.com](https://kevquirk.com) ([feed](https://kevquirk.com/feed.rss))
 - Mastodon: [@kev@fosstodon.org](https://fosstodon.org/@kev)
 
 ### Lennart Poettering
 
-- homepage blog: "Pid Eins" - [0pointer.net/blog/](https://0pointer.net/blog/)
-    - [feed](https://0pointer.net/blog/index.atom)
+- homepage blog: "Pid Eins" - [0pointer.net/blog/](https://0pointer.net/blog/) ([feed](https://0pointer.net/blog/index.atom))
 - systemd
     - homepage: [systemd.io](https://systemd.io)
 
 ### Liz Keogh
 
-- homepage: [LizKeogh.com](https://LizKeogh.com)
-    - [feed](https://LizKeogh.com/feed/)
+- homepage: [LizKeogh.com](https://LizKeogh.com) ([feed](https://LizKeogh.com/feed/))
 
 ### Manuel Odendahl (wesen / mnmlmnl / mnl)
 
-- dev.to: [wesen](https://dev.to/wesen)
-    - [feed](https://dev.to/feed/wesen)
-- write.as: [mnmlmnl](https://write.as/mnmlmnl/)
-    - [feed](https://write.as/mnmlmnl/feed/)
+- dev.to: [wesen](https://dev.to/wesen) ([feed](https://dev.to/feed/wesen))
+- write.as: [mnmlmnl](https://write.as/mnmlmnl/) ([feed](https://write.as/mnmlmnl/feed/))
 - Mastodon: [@mnl@hachyderm.io](https://hachyderm.io/@mnl)
 
 ### Mark Damon Hughes
 
 - homepage: "Mark writes" - [MDHughes.tech](https://MDHughes.tech)
-    - [blog](https://mdhughes.tech/blog/)
-    - [feed](https://MDHughes.tech/feed/)
+    - [blog](https://mdhughes.tech/blog/) ([feed](https://MDHughes.tech/feed/))
 - Mastodon: [@MDHughes@appdot.net](https://appdot.net/@MDHughes)
 
 ### Martin Fowler
 
-- homepage: [MartinFowler.com](https://MartinFowler.com)
-    - [feed](https://MartinFowler.com/feed.atom)
+- homepage: [MartinFowler.com](https://MartinFowler.com) ([feed](https://MartinFowler.com/feed.atom))
 - Mastodon: [@MFowler@toot.ThoughtWorks.com](https://toot.ThoughtWorks.com/@MFowler)
 
 ### Matt Rickard
 
-- homepage: [matt-rickard.com](https://matt-rickard.com)
-    - [feed](https://matt-rickard.com/rss/)
+- homepage: [matt-rickard.com](https://matt-rickard.com) ([feed](https://matt-rickard.com/rss/))
 
 ### Mike Stone
 
 - FOSStodon admin
-- homepage: [MikeStone.me](https://MikeStone.me)
-    - [feed](https://MikeStone.me/feed)
+- homepage: [MikeStone.me](https://MikeStone.me) ([feed](https://MikeStone.me/feed))
 - Mastodon: [@mike@fosstodon.org](https://fosstodon.org/@mike)
 
 ### Nate Bartram (The New Oil)
@@ -320,28 +276,24 @@ body:
 - Mastodon: [@NateB@freeradical.zone](https://freeradical.zone/@NateB)
 - The New Oil
     - homepage: [TheNewOil.org](https://TheNewOil.org/en/)
-        - [blog](https://blog.TheNewOil.org)
-        - [feed](https://blog.TheNewOil.org/feed/)
+        - [blog](https://blog.TheNewOil.org) ([feed](https://blog.TheNewOil.org/feed/))
     - Mastodon: [@TheNewOil@freeradical.zone](https://freeradical.zone/@TheNewOil)
 
 ### Nick (The Linux Experiment)
 
-- homepage: [TheLinuxExp.com](https://TheLinuxExp.com)
-    - [feed](https://TheLinuxExp.com/feed.xml)
+- homepage: [TheLinuxExp.com](https://TheLinuxExp.com) ([feed](https://TheLinuxExp.com/feed.xml))
 - Mastodon: [@thelinuxEXP@mastodon.social](https://mastodon.social/@thelinuxEXP)
 
 ### Nikita Karamov
 
 - homepage: [kytta.dev](https://www.kytta.dev)
-    - [blog](https://www.kytta.dev/blog/)
-    - [feed](https://www.kytta.dev/blog/atom.xml)
+    - [blog](https://www.kytta.dev/blog/) ([feed](https://www.kytta.dev/blog/atom.xml))
 - Mastodon: [@kytta@fosstodon.org](https://fosstodon.org/@kytta)
     - FOSStodon moderator
 
 ### Nolan Lawson
 
-- homepage: "Read the Tea Leaves" - [NolanLawson.com](https://NolanLawson.com)
-    - [feed](https://NolanLawson.com/feed/)
+- homepage: "Read the Tea Leaves" - [NolanLawson.com](https://NolanLawson.com) ([feed](https://NolanLawson.com/feed/))
 - Mastodon: [@nolan@toot.cafe](https://toot.cafe/@nolan)
     - owner of toot.cafe
 
@@ -356,98 +308,82 @@ body:
 ### Rami Ismail
 
 - homepage: "Levelling the Playing Field" - [ltpf.RamiIsmail.com](https://ltpf.RamiIsmail.com)
-    - [blog](https://ltpf.ramiismail.com/blog)
-    - [feed](https://ltpf.ramiismail.com/blog/rss/)
+    - [blog](https://ltpf.RamiIsmail.com/blog) ([feed](https://ltpf.RamiIsmail.com/blog/rss/))
 
 ### Randy
 
 - homepage: [randy.gg](https://randy.gg)
-    - blog: "Rando's Ramblings"
-    - [feed](https://blog.randy.gg/feed.rss)
+    - blog: "Rando's Ramblings" ([feed](https://blog.randy.gg/feed.rss))
 - YouTube: [@randyprime](https://www.youtube.com/@randyprime)
 
 ### Rob Braxman
 
-- Medium: [@Brax_Me](https://medium.com/@Brax_Me)
-    - [feed](https://medium.com/feed/@Brax_Me)
+- Medium: [@Brax_Me](https://medium.com/@Brax_Me) ([feed](https://medium.com/feed/@Brax_Me))
 
 ### Robert C. Martin (Uncle Bob)
 
 - homepage: [CleanCoder.com](http://CleanCoder.com)
-    - [The Clean Code Blog](https://blog.cleancoder.com)
-    - [feed](https://blog.cleancoder.com/atom.xml)
+    - [The Clean Code Blog](https://blog.cleancoder.com) ([feed](https://blog.cleancoder.com/atom.xml))
 
 ### Roberto Zoia
 
 - homepage: [zoia.org](https://zoia.org)
-    - [blog](https://zoia.org/archive)
-    - [feed](https://zoia.org/index.xml)
+    - [blog](https://zoia.org/archive) ([feed](https://zoia.org/index.xml))
 - Mastodon: [@RobertoZ@fosstodon.org](https://fosstodon.org/@RobertoZ)
 
 ### Rohan Kumar (Seirdy)
 
 - homepage: [seirdy.one](https://seirdy.one)
-    - [blog](https://seirdy.one/posts/)
-    - [feed](https://seirdy.one/posts/atom.xml)
+    - [blog](https://seirdy.one/posts/) ([feed](https://seirdy.one/posts/atom.xml))
 
 ### Ru Singh
 
-- homepage: [RuSingh.com](https://RuSingh.com)
-    - [feed](https://RuSingh.com/feed/)
+- homepage: [RuSingh.com](https://RuSingh.com) ([feed](https://RuSingh.com/feed/))
 - Mastodon: [@ru@fosstodon.org](https://fosstodon.org/@ru)
 
 ### Sarah Jamie Lewis
 
-- homepage: "Field Notes" - [FieldNotes.resistant.tech](https://FieldNotes.resistant.tech)
-    - [feed](https://FieldNotes.resistant.tech/index.xml)
+- homepage: "Field Notes" - [FieldNotes.resistant.tech](https://FieldNotes.resistant.tech) ([feed](https://FieldNotes.resistant.tech/index.xml))
 
 ### Seb
 
 - homepage: "Garbage Collector" - [zedas.fr](https://zedas.fr)
-    - [blog](https://blog.zedas.fr)
-    - [feed](https://blog.zedas.fr/index.xml)
+    - [blog](https://blog.zedas.fr) ([feed](https://blog.zedas.fr/index.xml))
 - Mastodon: [@Wivik@fosstodon.org](https://fosstodon.org/@Wivik)
 
 ### Sophia June Turner
 
-- homepage: [sophiajt.com](https://www.sophiajt.com)
-    - [feed](https://www.sophiajt.com/atom.xml)
+- homepage: [sophiajt.com](https://www.sophiajt.com) ([feed](https://www.sophiajt.com/atom.xml))
 - former homepage (redirect): jntrnr.com
 - Mastodon: [@sophiajt@fosstodon.org](https://fosstodon.org/@sophiajt)
 
 ### "Standalone-SysAdmin"
 
-- homepage/Medium: [standalone-sysadmin.com](https://standalone-sysadmin.com)
-    - [feed](https://standalone-sysadmin.com/feed)
+- homepage/Medium: [standalone-sysadmin.com](https://standalone-sysadmin.com) ([feed](https://standalone-sysadmin.com/feed))
 
 ### Thomas Gideon
 
-- homepage: "The Command Line" - [TheCommandLine.net](https://TheCommandLine.net)
-    - [feed](https://thecommandline.net/rss.xml)
+- homepage: "The Command Line" - [TheCommandLine.net](https://TheCommandLine.net) ([feed](https://thecommandline.net/rss.xml))
 - Mastodon: [@cmdln@TheCommandLine.social](https://TheCommandLine.social/@cmdln)
 
 ### Thomas O’Rourke
 
-- homepage: [tomjoro.github.io](https://tomjoro.github.io)
-    - [feed](https://tomjoro.github.io/feed.xml)
+- homepage: [tomjoro.github.io](https://tomjoro.github.io) ([feed](https://tomjoro.github.io/feed.xml))
 
 ### Tim Bray
 
 - homepage: [tbray.org](https://www.tbray.org)
-    - "ongoing" - [blog](https://www.tbray.org/ongoing/)
-    - [feed](https://www.tbray.org/ongoing/ongoing.atom)
+    - "ongoing" - [blog](https://www.tbray.org/ongoing/) ([feed](https://www.tbray.org/ongoing/ongoing.atom))
 
 ### Tim Jefferson
 
-- homepage: [MrJefferson.com](https://MrJefferson.com)
-    - [feed](https://mrjefferson.com/feed)
+- homepage: [MrJefferson.com](https://MrJefferson.com) ([feed](https://mrjefferson.com/feed))
 - Mastodon: [@ComputingTim@fosstodon.org](https://fosstodon.org/@ComputingTim)
 
 ### Veronica KC
 
 - homepage: "Veronica Explains" - [vkc.sh](https://vkc.sh)
-    - [blog](https://vkc.sh/blog/)
-    - [feed](https://vkc.sh/feed/)
+    - [blog](https://vkc.sh/blog/) ([feed](https://vkc.sh/feed/))
 - Mastodon: [@vkc@mspsocial.net](https://mspsocial.net/@vkc)
 
 ### Ward Cunningham
@@ -458,13 +394,10 @@ body:
 
 - Fuchsia, etc.
 - homepage: [WesleyAC.com](https://WesleyAC.com)
-    - [blog](https://blog.WesleyAC.com)
-        - [feed](https://blog.WesleyAC.com/feed.xml)
-    - [Notebook](https://notebook.wesleyac.com)
-        - [feed](https://notebook.wesleyac.com/atom.xml)
+    - [blog](https://blog.WesleyAC.com) ([feed](https://blog.WesleyAC.com/feed.xml))
+    - [Notebook](https://notebook.wesleyac.com) ([feed](https://notebook.wesleyac.com/atom.xml))
 
 ### Wolfgang Kratky
 
-- homepage: [TheWKBlog.com](https://www.TheWKBlog.com)
-    - [feed](https://www.TheWKBlog.com/feed/)
+- homepage: [TheWKBlog.com](https://www.TheWKBlog.com) ([feed](https://www.TheWKBlog.com/feed/))
 - Mastodon: [@TheWK@fosstodon.org](https://fosstodon.org/@TheWK)

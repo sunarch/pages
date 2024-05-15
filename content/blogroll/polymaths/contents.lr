@@ -14,8 +14,7 @@ body:
 - [@adamsdesk](https://alpha.polymaths.social/@adamsdesk)
 - homepage: [adamsdesk.com](https://www.adamsdesk.com)
     - [Knowledge Base](https://kb.adamsdesk.com)
-    - [blog](https://www.adamsdesk.com/posts/)
-    - [feed](https://www.adamsdesk.com/feed/blog.xml)
+    - [blog](https://www.adamsdesk.com/posts/) ([feed](https://www.adamsdesk.com/feed/blog.xml))
 - Forgejo instance: [git.nixnet.services/adamsdesk](https://git.nixnet.services/adamsdesk)
 - Mastodon: [@adamsdesk@fosstodon.org](https://fosstodon.org/@adamsdesk)
 
@@ -24,15 +23,11 @@ body:
 - [@amin](https://alpha.polymaths.social/@amin)
 - homepage: [BenjaminHollon.com](https://BenjaminHollon.com)
     - [blogs](https://benjaminhollon.com/blogs/)
-        - [musings](https://benjaminhollon.com/musings/) - *"like thoughts, but deeper and sometimes stupider"*
-            - [feed](https://benjaminhollon.com/musings/feed/)
-        - [tty1.blog](https://tty1.blog)
-            - [feed](https://tty1.blog/feed/)
+        - [musings](https://benjaminhollon.com/musings/) - *"like thoughts, but deeper and sometimes stupider"* ([feed](https://benjaminhollon.com/musings/feed/))
+        - [tty1.blog](https://tty1.blog) ([feed](https://tty1.blog/feed/))
         - archived: [See With Eyes Closed](https://seewitheyesclosed.com)
-        - [Fake Movie Blurbs](https://blurbs.benjaminhollon.com)
-            - [feed](https://blurbs.benjaminhollon.com/feed/)
-        - [Poems](https://benjaminhollon.com/writing/poem/1/)
-            - [feed](https://benjaminhollon.com/writing/feeds/poetry/)
+        - [Fake Movie Blurbs](https://blurbs.benjaminhollon.com) ([feed](https://blurbs.benjaminhollon.com/feed/))
+        - [Poems](https://benjaminhollon.com/writing/poem/1/) ([feed](https://benjaminhollon.com/writing/feeds/poetry/))
 - projects
     - [Clew](https://clew.se)
     - [Freedom To Write](https://FreedomToWrite.org)
@@ -45,8 +40,7 @@ body:
 ### Benedikt (@theDoctor)
 
 - [@theDoctor](https://alpha.polymaths.social/@theDoctor)
-- homepage: [bfloeser.de](https://bfloeser.de)
-    - [feed](https://bfloeser.de/index.xml)
+- homepage: [bfloeser.de](https://bfloeser.de) ([feed](https://bfloeser.de/index.xml))
 - Codeberg: [theDoctor](https://codeberg.org/theDoctor)
 - GitHub: [DocKDE](https://github.com/DocKDE)
 - Mastodon: [@theDoctor@fosstodon.org](https://fosstodon.org/@theDoctor)
@@ -55,24 +49,21 @@ body:
 
 - [@ivan](https://alpha.polymaths.social/@ivan)
 - homepage: [LibreIvan.com](https://LibreIvan.com)
-    - [blog](https://libreivan.com/blog/)
-    - [feed](https://libreivan.com/posts.rss)
+    - [blog](https://libreivan.com/blog/) ([feed](https://libreivan.com/posts.rss))
 - Codeberg: [LibreIvan](https://codeberg.org/LibreIvan)
 - Mastodon: [@LibreIvan](https://vmst.io/@LibreIvan)
 
 ### CJ (@roguefoam)
 
 - [@roguefoam](https://alpha.polymaths.social/@roguefoam)
-- homepage: [ww0cj.radio](https://ww0cj.radio)
-    - [feed](https://ww0cj.radio/feed)
+- homepage: [ww0cj.radio](https://ww0cj.radio) ([feed](https://ww0cj.radio/feed))
 
 ### Clayton Errington
 
 - [@CJErrington](https://alpha.polymaths.social/@CJErrington)
 - links: [CJErrington.github.io](https://CJErrington.github.io)
 - homepage: [ClaytonErrington.com](https://ClaytonErrington.com)
-    - [blog](https://claytonerrington.com/blog/)
-    - [feed](https://claytonerrington.com/feed.xml)
+    - [blog](https://claytonerrington.com/blog/) ([feed](https://claytonerrington.com/feed.xml))
 - Codeberg: [CJErrington](https://codeberg.org/cjerrington)
 - GitHub: [CJErrington](https://github.com/cjerrington)
 - Mastodon: [@CJErrington@mstdn.social](https://mstdn.social/@cjerrington)
@@ -85,16 +76,14 @@ body:
 ### Dominic Martinez
 
 - [@DominicM](https://alpha.polymaths.social/@DominicM)
-- homepage: [DominicM.dev](https://DominicM.dev)
-    - [feed](https://dominicm.dev/feed.xml)
+- homepage: [DominicM.dev](https://DominicM.dev) ([feed](https://dominicm.dev/feed.xml))
 - SourceHut: [~dominicm](https://sr.ht/~dominicm/)
 
 ### Dylan Moonfire
 
 - [@DMoonfire](https://alpha.polymaths.social/@DMoonfire)
 - homepage: [d.moonfire.us](https://d.moonfire.us)
-    - [blog](https://d.moonfire.us/blog/)
-    - [feed](https://d.moonfire.us/blog/atom.xml)
+    - [blog](https://d.moonfire.us/blog/) ([feed](https://d.moonfire.us/blog/atom.xml))
 - Moonfire Games: [MfGames.com](https://MfGames.com)
 - Mastodon: [@dmoonfire@octodon.social](https://octodon.social/@dmoonfire)
 
@@ -102,8 +91,7 @@ body:
 
 - [@fbievan](https://alpha.polymaths.social/@fbievan)
 - homepage: [fbievan.live](https://fbievan.live)
-    - [blog](https://fbievan.live/posts/)
-    - [feed](https://fbievan.live/index.xml)
+    - [blog](https://fbievan.live/posts/) ([feed](https://fbievan.live/index.xml))
     - testing: [guestbook](https://testing.fbievan.live/guestbook/)
 - Forgejo instance: [git.fbievan.live/fbievan](https://git.fbievan.live/fbievan)
 - GitLab: [fbievan](https://gitlab.com/fbievan)
@@ -114,8 +102,7 @@ body:
 
 - [@JoelChrono](https://alpha.polymaths.social/@JoelChrono)
 - homepage: [JoelChrono.xyz](https://JoelChrono.xyz)
-    - [blog](https://JoelChrono.xyz/blog/)
-    - [feed](https://JoelChrono.xyz/feed.xml)
+    - [blog](https://JoelChrono.xyz/blog/) ([feed](https://JoelChrono.xyz/feed.xml))
 - Mastodon: [@joel@fosstodon.org](https://fosstodon.org/@joel)
     - FOSStodon moderator
 
@@ -137,8 +124,7 @@ body:
 -  a.k.a. CJ, LinuxGamer
 - [@OrbitalMartian](https://alpha.polymaths.social/@orbitalmartian)
 - homepage: [OrbitalMartian.codeberg.page](https://OrbitalMartian.codeberg.page)
-    - [blog](https://orbitalmartian.codeberg.page/blog/)
-    - [feed](https://orbitalmartian.codeberg.page/feed.xml)
+    - [blog](https://orbitalmartian.codeberg.page/blog/) ([feed](https://orbitalmartian.codeberg.page/feed.xml))
 - HashNode blog: [LinuxGamer](https://linuxgamer.hashnode.dev)
 - Codeberg: [OrbitalMartian](https://codeberg.org/OrbitalMartian)
 - Mastodon: [@OrbitalMartian@linuxrocks.online](https://linuxrocks.online/@OrbitalMartian)
@@ -147,8 +133,7 @@ body:
 ### R. L. Dane
 
 - [@rl_dane](https://alpha.polymaths.social/@rl_dane)
-- homepage: [RLDane.space](https://RLDane.space)
-    - [feed](https://rldane.space/feeds/all.atom.xml)
+- homepage: [RLDane.space](https://RLDane.space) ([feed](https://rldane.space/feeds/all.atom.xml))
 - Codeberg: [RLDane](https://codeberg.org/rldane)
 - Mastodon: [@RL_Dane@fosstodon.org](https://fosstodon.org/@RL_Dane)
 
