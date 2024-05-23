@@ -2,13 +2,7 @@ title: personal
 ---
 body:
 
-## personal projects
-
-in various stages of development, mostly in early ones
-
-### general
-
-- [hexflush](https://codeberg.org/sunarch/hexflush) - hex dump utility (OCaml)
+personal projects in various stages of development, mostly in early ones
 
 ### simulations and Art-Net
 
@@ -18,60 +12,67 @@ in various stages of development, mostly in early ones
     - `cogol` - Conway's Game of Life
     - `lants` - Langton Ants
 
-### GoToPub
+## general, by language
 
-experimental GoToSocial and Fediverse client
+### Nim
 
-- [gotopub](https://codeberg.org/sunarch/gotopub) - in Go, for CLI
-- [gotopub-rs](https://codeberg.org/sunarch/gotopub-rs) - Rust version, potentially
+- [draftable](https://codeberg.org/sunarch/draftable) - document draft visualization (preA)
+- [placeholder](https://codeberg.org/sunarch/placeholder) - more fun placeholder texts (preA)
 
-### continuations
+### Odin (pre-1)
 
-- [bookend](https://github.com/sunarch/bookend) - a book management tool (Python)
+- [sunrays (Odin)](https://codeberg.org/sunarch/sunrays-odin) - Raylib utils to include in Odin / Raylib projects
 
-### Firefox extensions
+### Rust
 
-- [Center Body](https://codeberg.org/sunarch/center-body)
+- [Found Terminal](https://codeberg.org/sunarch/found-terminal) - journal and space comms game
 
-### small projects or prototypes
+### Go
 
-- [enigmatic](https://codeberg.org/sunarch/enigmatic) - an Enigma emulator in C
-- [draftable](https://codeberg.org/sunarch/draftable) - document draft visualization (Nim)
-- [Found Terminal](https://codeberg.org/sunarch/found-terminal) - journal and space game (Rust)
-- [glossanea](https://codeberg.org/sunarch/glossanea) - a language learning tool (Python)
-- [placeholder](https://codeberg.org/sunarch/placeholder) - more fun placeholder texts (Nim)
+- [GoToPub](https://codeberg.org/sunarch/gotopub) - experimental GoToSocial and Fediverse client (preA)
 
-### games & co.
+### OCaml
 
-- learning Raylib with Odin
-    - [sunrays-odin](https://codeberg.org/sunarch/sunrays-odin) - Raylib utils to include in Odin projects
-- some contributions to the [KIAVC](https://github.com/sunarch/f_lm_kiavc.git) game engine by [Lorenzo Miniero](https://github.com/lminiero)
+- [hexflush](https://codeberg.org/sunarch/hexflush) - hex dump utility
+
+### Zig (pre-1)
+
+- [easypass](https://codeberg.org/sunarch/easypass) - a passphrase generator
 
 ### Python
 
+- [bookend](https://github.com/sunarch/bookend) - a book management tool
+    - continuation of a project by Anthony Pizzimenti
+- [glossanea](https://codeberg.org/sunarch/glossanea) - a language learning tool
 - [Python package template](https://github.com/sunarch/template-python-package)
 
 - [libmonty](https://codeberg.org/sunarch/libmonty)
-- [libmonty-hexdump](https://codeberg.org/sunarch/libmonty-hexdump)
 - [libmonty-logging](https://codeberg.org/sunarch/libmonty-logging)
 - [libmonty-tools](https://codeberg.org/sunarch/libmonty-tools)
-    - easypass
     - soundboard
 
-### web projects
+### C
+
+- [enigmatic](https://codeberg.org/sunarch/enigmatic) - an Enigma emulator in C
+- some testing for the [KIAVC](https://github.com/sunarch/f_lm_kiavc.git) game engine by [Lorenzo Miniero](https://github.com/lminiero)
+
+### Firefox extension
+
+- [Center Body](https://codeberg.org/sunarch/center-body)
+
+### web project
 
 - [webapps](https://sunarch.github.io/webapps/) - small tools and games
     - planned dev: Next Best Guess
-- [OSPK](https://codeberg.org/sunarch/ospk) (collaboration in high school)
 
-### ideas with intent
+## ideas with intent
 
 - [libferroxid-packets](https://codeberg.org/sunarch/libferroxid-packets) - internet packets (Rust)
 - [moonscribe](https://codeberg.org/sunarch/moonscribe) - creative generator (Python)
 - [organizator](https://codeberg.org/sunarch/organizator) - life organization (Python)
 - [streetpaper](https://codeberg.org/sunarch/streetpaper) - newspaper distribution manager (Python)
 
-### esolangs
+## esolangs
 
 - [esolangs](https://codeberg.org/sunarch/esolangs) - mainly ideas
     - EL comodo
@@ -79,14 +80,16 @@ experimental GoToSocial and Fediverse client
     - GridRun
 - [babbage](https://codeberg.org/sunarch/babbage)
 
-### personal
+## personal
 
 - system files: [sunarch RC](https://codeberg.org/sunarch/sunarch-rc)
 
 ## creative
 
 - artistic project under the name [3Protocol](https://3protocol.com)
-- [crea-scores](https://github.com/sunarch/crea-scores)
-    - CC-BY-4.0
-- [crea-writings](https://github.com/sunarch/crea-writings)
-    - CC-BY-SA-4.0
+- [crea-scores](https://github.com/sunarch/crea-scores) (CC-BY-4.0)
+- [crea-writings](https://github.com/sunarch/crea-writings) (CC-BY-SA-4.0)
+
+## legacy
+
+- [OSPK](https://codeberg.org/sunarch/ospk) (collaboration in high school)

@@ -32,6 +32,7 @@ from them as well.
     - Rust
     - Go
     - OCaml
+    - Zig (pre-1)
 - important to know:
     - Python, for scripting and library access
     - C, in general
@@ -45,4 +46,4 @@ from them as well.
 - other plans:
     - BEAM languages: Erlang / Elixir / Gleam
     - Lisp (Chez Scheme / Racket)
-    - other low-level: Zig (pre-1), Hare (pre-1), Jai (pre-1)
+    - other low-level: Hare (pre-1), Jai (pre-1)
