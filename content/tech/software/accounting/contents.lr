@@ -1,0 +1,53 @@
+title: accounting programs (Linux)
+---
+body:
+
+## main options
+
+- gnucash
+    - personal and small-business financial-accounting software
+
+- eqonomize
+    - personal accounting software for the small household economy
+
+- homebank
+    - Manage your personal accounts at home
+
+## tried
+
+- beancount
+    - Double-entry accounting from text files
+    - command-line usage
+
+- grisbi
+    - personal finance management program
+
+- hledger / hledger-ui / hledger-web
+    - command-line double-entry accounting program
+
+- smtm
+    - Show Me The Money is a configurable Perl/Tk stock ticker program
+
+## not tried
+
+- gretl (purpose: econometrics)
+    - GNU Regression, Econometric & Time-Series Library
+
+- kmymoney  (KDE-based)
+    - personal finance manager for KDE
+
+- ledger    (requires libpython2.7)
+    - command-line double-entry accounting program
+
+- ledgersmb (requires apache2)
+    - financial accounting and ERP program
+
+- misery    (launch error)
+    - Simple accounting package for groups, clubs, holidays
+
+- postbooks (too complex server-client setup)
+    - multi-user accounting / CRM / ERP suite (GUI)
+
+- skrooge   (KDE-based)
+    - personal finance manager for KDE
+
