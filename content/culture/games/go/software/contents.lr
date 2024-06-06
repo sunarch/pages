@@ -1,0 +1,40 @@
+title: Go software
+---
+body:
+
+- [GTP - Go Text Protocol](https://www.lysator.liu.se/~gunnar/gtp/)
+
+## Linux
+
+### tried
+
+- GnuGo
+- Cgoban
+- qGo
+- Kigo
+
+## other
+
+### Sabaki
+
+> An elegant Go board and SGF editor for a more civilized age.
+
+- homepage: [Sabaki.YichuanShen.de](https://Sabaki.YichuanShen.de)
+- GitHub: [SabakiHQ/Sabaki](https://github.com/SabakiHQ/Sabaki)
+
+## SGF editors
+
+### Rust crates
+
+- `sgf-render` - A renderer for SGF diagrams.
+    - last update when checked: 2024-03-02
+    - Crates.io: [sgf-render](https://crates.io/crates/sgf-render)
+    - GitHub: [JulianAndrews/sgf-render](https://github.com/JulianAndrews/sgf-render)
+- `sgf-parse` - A library for parsing SGF files
+    - last update when checked: 2024-02-27
+    - Crates.io: [sgf-parse](https://crates.io/crates/sgf-parse)
+    - GitHub: [https://github.com/JulianAndrews/sgf-parse/](https://github.com/JulianAndrews/sgf-parse/)
+- `sgf-parser` - A library for parsing SGF files
+    - last update when checked: 2021-01-21
+    - Crates.io: [sgf-parser](https://crates.io/crates/sgf-parser)
+    - GitHub: [mipli/sgf-parser](https://github.com/mipli/sgf-parser)
