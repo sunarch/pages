@@ -7,21 +7,21 @@ sources:
 ---
 original_language: Hebrew
 ---
-seen: seasons 1-3
+seen: seasons 1-4 (all)
 ---
 rating: B-tier
 ---
-air_status: renewed for season 4
+air_status: ended with 4 seasons
 ---
 imdb_link: https://www.imdb.com/title/tt4565380/
 ---
 imdb_year: 2015
 ---
-imdb_year_finish:
+imdb_year_finish: 2022
 ---
-imdb_seasons: 3
+imdb_seasons: 4
 ---
-imdb_episodes: 36
+imdb_episodes: 49
 ---
 imdb_runtime_min: 60
 ---
@@ -33,6 +33,8 @@ imdb_genres:
 imdb_type: TV Series
 ---
 imdb_creators:
+    Avi Issacharoff
+    Lior Raz
 ---
 imdb_summary: The human stories on both sides of the Israel-Palestine conflict.
 ---
