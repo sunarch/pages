@@ -4,16 +4,22 @@ body:
 
 - [GTP - Go Text Protocol](https://www.lysator.liu.se/~gunnar/gtp/)
 
-## Linux
+### SGF - 'Smart Game Format'
 
-### tried
+- [SGF File Format](https://www.red-bean.com/sgf/)
+    - [SGF User Guide](https://www.red-bean.com/sgf/user_guide/)
+    - [SGFC: SGF Syntax Checker & Converter](https://www.red-bean.com/sgf/sgfc/)
+    - [SGF Properties](https://www.red-bean.com/sgf/properties.html)
+    - [property index](https://www.red-bean.com/sgf/proplist_t.html)
+
+## Linux - tried
 
 - GnuGo
 - Cgoban
 - qGo
 - Kigo
 
-## other
+## Linux - other
 
 ### Sabaki
 
@@ -33,7 +39,7 @@ body:
 - `sgf-parse` - A library for parsing SGF files
     - last update when checked: 2024-02-27
     - Crates.io: [sgf-parse](https://crates.io/crates/sgf-parse)
-    - GitHub: [https://github.com/JulianAndrews/sgf-parse/](https://github.com/JulianAndrews/sgf-parse/)
+    - GitHub: [JulianAndrews/sgf-parse](https://github.com/JulianAndrews/sgf-parse)
 - `sgf-parser` - A library for parsing SGF files
     - last update when checked: 2021-01-21
     - Crates.io: [sgf-parser](https://crates.io/crates/sgf-parser)
