@@ -67,8 +67,8 @@ body:
 
 ## by example
 
-- [nimbyexample.com](https://nimbyexample.com)
-- [nim-by-example.github.io](https://nim-by-example.github.io)
+- [NimByExample.com](https://NimByExample.com)
+- [Nim-by-example.github.io](https://nim-by-example.github.io)
 
 ## libs
 
@@ -96,6 +96,17 @@ platform: Hackaday
 
 ---
 blog_posts:
+
+#### link ####
+title: Let's Explore GUI Options for Nim
+----
+url: https://matthiashager.com/gui-options-for-nim
+----
+date: 2019-04-01
+----
+creator: Matthias Hager
+----
+platform:
 
 #### link ####
 title: Nim Language Highlights

@@ -36,10 +36,10 @@ from them as well.
 - important to know:
     - Python, for scripting and library access
     - C, in general
+    - Lua, for embedded scripting
 - for specific projects:
     - JavaScript, for client-side web
     - PHP, for restricted web environments
-    - Lua, for plugins to other languages
     - Bash, for Linux scripting
     - Dart, only with the Flutter framework
     - Ruby, only with the Sonic Pi software

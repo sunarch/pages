@@ -56,8 +56,14 @@ feature_static_typing: --
 ---
 ranking_tiobe_url:
 ---
-sunarch: plan
+sunarch: some
 ---
 body:
 
 - embeddable extension language
+
+## resources
+
+- [lua-users.org](http://lua-users.org)
+    - [Wiki](http://lua-users.org/wiki/)
+        - [Lua Directory](http://lua-users.org/wiki/LuaDirectory)
