@@ -1,0 +1,138 @@
+{#
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#}
+
+{% extends 'base.html' %}
+
+{% block template_styles %}
+<link rel="stylesheet" href="{{ '/static/css/competition.css' | asseturl }}">
+{% endblock %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block description %}{{ this.description }}{% endblock %}
+
+{% block content %}
+
+<h2>Csapatok és csoportok</h2>
+<section class="hscroll">
+{% for group, teams in this.groups.items() %}
+    <table class="groups">
+        <tr>
+            <th colspan="2">{{ group }} csoport</th>
+            <th>MP</th>
+            <th>W</th>
+            <th>D</th>
+            <th>L</th>
+            <th colspan="3">GF : GA</th>
+            <th>GD</th>
+            <th>Pts</th>
+        </tr>
+        {% for team_abbrev in teams %}
+        {% set team = this.teams[team_abbrev] %}
+        <tr>
+            <td class="centered monospace">{{ team.abbrev }}</td>
+            <td class="centered">{{ team.name }}</td>
+            <td class="centered">{{ team.group_matches_played }}</td>
+            <td class="centered">{{ team.group_matches_won }}</td>
+            <td class="centered">{{ team.group_matches_drawn }}</td>
+            <td class="centered">{{ team.group_matches_lost }}</td>
+            <td class="right open_right">{{ team.group_goals_for }}</td>
+            <td class="centered open_left open_right">:</td>
+            <td class="left open_left">{{ team.group_goals_against }}</td>
+            <td class="centered">{{ team.group_goal_difference }}</td>
+            <td class="centered">{{ team.group_points }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endfor %}
+</section>
+
+{% set ns_matches = namespace() %}
+{% set ns_matches.date_previous = None %}
+{% set ns_matches.date_current = None %}
+{% set ns_matches.period_index_big = 0 %}
+{% set ns_matches.period_index_small = 0 %}
+<h2>Mérkőzések</h2>
+<section class="hscroll">
+<table class="matches">
+    <tr>
+        <th colspan="2">&nbsp;</th>
+        <th>#</th>
+        <th class="pad_left pad_right">Dátum & Idő</th>
+        <th colspan="3">Otthon</th>
+        <th> - </th>
+        <th colspan="3">Vendég</th>
+        <th colspan="2">Helyszín</th>
+        <th>Közvetítő</th>
+    </tr>
+    {% for match in this.matches %}
+        {% set ns_matches.date_previous = ns_matches.date_current %}
+        {% set ns_matches.date_current = match.date %}
+        {% if match.number_sorted == this.periods.big[ns_matches.period_index_big].last_match + 1 %}
+            {% set ns_matches.period_index_big = ns_matches.period_index_big + 1 %}
+        {% endif %}
+        {% if match.number_sorted == this.periods.small[ns_matches.period_index_small].last_match + 1 %}
+            {% set ns_matches.period_index_small = ns_matches.period_index_small + 1 %}
+        {% endif %}
+
+        {% if match.home.find(':') > -1 %}
+            {% set home_abbrev = '' %}
+            {% set home_name = match.home %}
+        {% else %}
+            {% set home_abbrev = match.home %}
+            {% set home_name = this.teams[match.home].name %}
+        {% endif %}
+        {% if match.away.find(':') > -1 %}
+            {% set away_abbrev = '' %}
+            {% set away_name = match.away %}
+        {% else %}
+            {% set away_abbrev = match.away %}
+            {% set away_name = this.teams[match.away].name %}
+        {% endif %}
+
+    {% if ns_matches.date_current != ns_matches.date_previous %}
+    <tr>
+        {% if match.number_sorted == this.periods.big[ns_matches.period_index_big].first_match %}
+            {% set period_rowspan = this.periods.big[ns_matches.period_index_big].rowspan %}
+            {% set period_name = this.periods.big[ns_matches.period_index_big].name %}
+            <th rowspan="{{ period_rowspan }}" class="rotated centered">
+                <span>{{ period_name }}</span>
+            </th>
+        {% endif %}
+        {% if match.number_sorted == this.periods.small[ns_matches.period_index_small].first_match %}
+            {% set period_rowspan = this.periods.small[ns_matches.period_index_small].rowspan %}
+            {% set period_name = this.periods.small[ns_matches.period_index_small].name %}
+            <th rowspan="{{ period_rowspan }}" class="rotated centered">
+                <span>{{ period_name }}</span>
+            </th>
+        {% endif %}
+        <th class="centered open_right">&nbsp;</th>
+        <th class="centered open_left open_right">{{ ns_matches.date_current }}</th>
+        <th colspan="10" class="centered open_left">&nbsp;</th>
+    </tr>
+    {% endif %}
+    <tr>
+        <td class="centered">{{ match.number }}</td>
+        <td class="centered pad_right open_left">{{ match.time }}</td>
+        <td class="right team_name pad_left open_right">{{ home_name }}</td>
+        <td class="centered monospace score open_left open_right">{% if home_abbrev != '' %}[{{ home_abbrev }}]{% endif %}</td>
+        <td class="centered score open_left open_right">{% if match.home_score != None %}{{ match.home_score }}{% endif %}</td>
+        <td class="centered open_left open_right"> - </td>
+        <td class="centered score open_left open_right">{% if match.away_score != None %}{{ match.away_score }}{% endif %}</td>
+        <td class="centered monospace score open_left open_right">{% if away_abbrev != '' %}[{{ away_abbrev }}]{% endif %}</td>
+        <td class="left team_name pad_right open_left">{{ away_name }}</td>
+        <td class="right pad_left open_right">{{ match.location.city }}</td>
+        <td class="left pad_right open_left">|&nbsp;&nbsp;&nbsp;{{ match.location.stadium }}</td>
+        <td class="centered">{{ match.broadcaster.name }}</td>
+    </tr>
+    {% endfor %}
+</table>
+</section>
+
+<h2>Jegyzetek</h2>
+{{ this.body }}
+
+{% endblock %}

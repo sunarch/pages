@@ -1,0 +1,95 @@
+body {
+    width: unset !important;
+}
+
+section.hscroll {
+    overflow-x: auto;
+    overflow-y: auto;
+    white-space: nowrap;
+}
+
+th, td {
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+table.groups {
+    display: inline-block;
+    margin-right: 10pt;
+    width: fit-content !important;
+}
+
+table.groups:last-of-type {
+    margin-right: 0;
+}
+
+table.matches {
+    width: fit-content;
+    overflow: unset;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.matches tr {
+    height: 35pt;
+}
+
+table.matches th.pad_left, table.matches td.pad_left {
+    padding-left: 10pt;
+}
+table.matches th.pad_right, table.matches td.pad_right {
+    padding-right: 10pt;
+}
+
+table th.open_left, table td.open_left {
+    border-left: 0;
+    padding-left: 5pt;
+}
+table th.open_right, table td.open_right {
+    border-right: 0;
+    padding-right: 5pt;
+}
+
+table.matches td.team_name {
+    width: 80pt;
+}
+
+table.matches td.score {
+    width: 30pt;
+}
+
+th.rotated {
+    width: 30pt;
+}
+
+th.rotated span {
+    -ms-writing-mode: tb-lr;
+    -webkit-writing-mode: vertical-lr;
+    writing-mode: vertical-lr;
+
+    white-space: unset;
+
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+th.centered, td.centered {
+    text-align: center;
+}
+
+th.left, td.left {
+    text-align: left;
+}
+
+th.right, td.right {
+    text-align: right;
+}
+
+.monospace {
+  font-family: monospace;
+  font-size: 12pt;
+  letter-spacing: 1px;
+}
