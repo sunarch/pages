@@ -6,8 +6,8 @@
 
 # library
 from __future__ import annotations
-from datetime import datetime
-from dataclasses import dataclass, field
+from datetime import datetime, timedelta
+from dataclasses import dataclass, field, InitVar
 from enum import Enum
 
 # requirements
@@ -18,6 +18,7 @@ from common.page import set_field
 
 URL_PATH: str = '/culture/sports/soccer/competitions/uefa-euro-2024/'
 
+KEY_FOR_LOCATIONS: str = 'locations'
 KEY_FOR_GROUPS: str = 'groups'
 KEY_FOR_TEAMS: str = 'teams'
 KEY_FOR_MATCHES: str = 'matches'
@@ -25,14 +26,28 @@ KEY_FOR_PERIODS: str = 'periods'
 
 QUALIFIER_RANKING_HOST: int = -1
 
-GROUPS = {
-    'A': ['GER', 'SCO', 'HUN', 'SUI'],
-    'B': ['ESP', 'CRO', 'ITA', 'ALB'],
-    'C': ['DEN', 'ENG', 'SRB', 'SLO'],
-    'D': ['AUT', 'NED', 'FRA', 'POL'],
-    'E': ['BEL', 'ROM', 'SVK', 'UKR'],
-    'F': ['CZE', 'GEO', 'TUR', 'POR']
-}
+
+@dataclass
+class Group:
+    """Group"""
+
+    name: str
+    teams: list[str]
+
+
+GROUPS_DATA = (
+    ('A', ['GER', 'SCO', 'HUN', 'SUI']),
+    ('B', ['ESP', 'CRO', 'ITA', 'ALB']),
+    ('C', ['DEN', 'ENG', 'SRB', 'SLO']),
+    ('D', ['AUT', 'NED', 'FRA', 'POL']),
+    ('E', ['BEL', 'ROM', 'SVK', 'UKR']),
+    ('F', ['CZE', 'GEO', 'TUR', 'POR']),
+)
+
+GROUPS: dict[str, Group] = {}
+
+for group_data in GROUPS_DATA:
+    GROUPS[group_data[0]] = Group(*group_data)
 
 
 @dataclass
@@ -44,6 +59,7 @@ class Team:
     name: str
     qualifier_ranking: int
 
+    group: str | None = None
     group_matches: list[Match] = field(default_factory=list)
     group_matches_won: int = 0
     group_matches_drawn: int = 0
@@ -55,6 +71,7 @@ class Team:
 
     def reset(self):
         """Reset counters"""
+        self.group = None
         self.group_matches = []
         self.group_matches_won = 0
         self.group_matches_drawn = 0
@@ -213,7 +230,7 @@ TEAMS_DATA = (
     ('POR', 'Portugal', 1),
 )
 
-TEAMS = {}
+TEAMS: dict[str, Team] = {}
 
 for team_data in TEAMS_DATA:
     TEAMS[team_data[0]] = Team(*team_data)
@@ -225,6 +242,7 @@ class Location:
     city: str
     stadium: str
     capacity: int
+    index: int
 
 
 LOCATIONS_DATA = (
@@ -240,10 +258,10 @@ LOCATIONS_DATA = (
     ('München', 'Allianz Arena', 70076),
 )
 
-LOCATIONS = {}
+LOCATIONS: dict[str, Location] = {}
 
-for location_data in LOCATIONS_DATA:
-    LOCATIONS[location_data[0]] = Location(*location_data)
+for i_location, location_data in enumerate(LOCATIONS_DATA):
+    LOCATIONS[location_data[0]] = Location(*location_data, index=i_location)
 
 
 @dataclass
@@ -303,7 +321,7 @@ class Match:
         return self.number == other.number
 
 
-MATCHES = [
+MATCHES: list[Match] = [
     # Group Round 1 ====================================================
     Match(1,
           'GER', 5, 'SCO', 1,
@@ -351,7 +369,7 @@ MATCHES = [
           LOCATIONS['Frankfurt'],
           Broadcasters.M4_SPORT.value),
     Match(10,
-          'ROM', None, 'UKR', None,
+          'ROM', 3, 'UKR', 0,
           datetime.fromisoformat('2024-06-17 15:00'),
           LOCATIONS['München'],
           Broadcasters.M4_SPORT.value),
@@ -573,13 +591,65 @@ for i_match, match in enumerate(MATCHES):
 
 
 @dataclass
+class PeriodDay:
+    """Period day"""
+    date_time: datetime
+
+    @property
+    def date(self) -> str:
+        """Matches played"""
+        return self.date_time.strftime('%Y-%m-%d')
+
+    @property
+    def display_date(self) -> str:
+        """Matches played"""
+        return self.date_time.strftime('%m.%d.')
+
+    @property
+    def display_day(self) -> str:
+        """Matches played"""
+        return self.date_time.strftime('%a')
+
+
+@dataclass
 class Period:
     """Period"""
 
-    first_match: int
-    last_match: int
+    first_match: int | None
+    first_day: InitVar[str]
+
+    last_match: int | None
+    last_day: InitVar[str]
+
     name: str
-    days: int
+    css_class: str | None
+
+    name_short: str = ""
+    day_list: list[PeriodDay] = field(default_factory=list)
+
+    def __post_init__(self, first_day: str, last_day: str) -> None:
+        """Post-init hook"""
+        self.name_short = self.name
+
+        date_format: str = '%Y-%m-%d'
+        first_day_date = datetime.strptime(first_day, date_format)
+        last_day_date = datetime.strptime(last_day, date_format)
+        current_date: datetime = first_day_date
+        while True:
+            if current_date > last_day_date:
+                break
+            self.day_list.append(PeriodDay(current_date))
+            current_date += timedelta(days=1)
+
+    def reinit_name_short(self, name_short: str) -> Period:
+        """Set short name and return self"""
+        self.name_short = name_short
+        return self
+
+    @property
+    def days(self) -> int:
+        """How many days is the period"""
+        return len(self.day_list)
 
     @property
     def rowspan(self) -> int:
@@ -597,17 +667,28 @@ class PeriodDefinitions:
 
 PERIODS = PeriodDefinitions(
     [
-        Period(1, 36, 'Csoportkörök', 13),
-        Period(37, 51, 'Egyenes kieséses szakasz', 9),
+        Period(1, '2024-06-14', 36, '2024-06-26', 'Csoportkörök', None),
+        Period(None, '2024-06-27', None, '2024-06-28', 'Pihenőnap', None),
+        Period(37, '2024-06-29', 51, '2024-07-14', 'Egyenes kieséses szakasz', None),
     ],
     [
-        Period(1, 12, '1. csoportkör', 5),
-        Period(13, 24, '2. csoportkör', 4),
-        Period(25, 36, '3. csoportkör', 4),
-        Period(37, 44, 'Nyolcaddöntők', 4),
-        Period(45, 48, 'Negyeddöntő', 2),
-        Period(49, 50, 'Elődöntő', 2),
-        Period(51, 51, 'Döntő', 1),
+        Period(1, '2024-06-14', 12, '2024-06-18', '1. csoportkör', None)
+        .reinit_name_short('1. kör'),
+
+        Period(13, '2024-06-19', 24, '2024-06-22', '2. csoportkör', None)
+        .reinit_name_short('2. kör'),
+
+        Period(25, '2024-06-23', 36, '2024-06-26', '3. csoportkör', None)
+        .reinit_name_short('3. kör'),
+
+        Period(None, '2024-06-27', None, '2024-06-28', 'Pihenőnap', None),
+        Period(37, '2024-06-29', 44, '2024-07-02', 'Nyolcaddöntők', 'RoundOf16'),
+        Period(None, '2024-07-03', None, '2024-07-04', 'Pihenőnap', None),
+        Period(45, '2024-07-05', 48, '2024-07-06', 'Negyeddöntő', 'QuarterFinal'),
+        Period(None, '2024-07-07', None, '2024-07-08', 'Pihenőnap', None),
+        Period(49, '2024-07-09', 50, '2024-07-10', 'Elődöntő', 'SemiFinal'),
+        Period(None, '2024-07-11', None, '2024-07-13', 'Pihenőnap', None),
+        Period(51, '2024-07-14', 51, '2024-07-14', 'Döntő', 'Final'),
     ],
 )
 
@@ -619,6 +700,9 @@ def setup(page: Page, debug: int = 0) -> None:
 
     for team in TEAMS.values():
         team.reset()
+        for group in GROUPS.values():
+            if team.abbrev in group.teams:
+                team.group = group.name
 
     for match_item in MATCHES:
 
@@ -651,10 +735,11 @@ def setup(page: Page, debug: int = 0) -> None:
             TEAMS[match_item.home].group_matches_drawn += 1
             TEAMS[match_item.away].group_matches_drawn += 1
 
-    for group, team_abbrevs in GROUPS.items():
-        teams: list[Team] = [TEAMS[abbrev] for abbrev in team_abbrevs]
-        GROUPS[group] = [team.abbrev for team in sorted(teams, reverse=True)]
+    for group in GROUPS.values():
+        teams: list[Team] = [TEAMS[abbrev] for abbrev in group.teams]
+        group.teams = [team.abbrev for team in sorted(teams, reverse=True)]
 
+    set_field(page, KEY_FOR_LOCATIONS, LOCATIONS)
     set_field(page, KEY_FOR_GROUPS, GROUPS)
     set_field(page, KEY_FOR_TEAMS, TEAMS)
     set_field(page, KEY_FOR_MATCHES, MATCHES)

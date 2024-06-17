@@ -49,6 +49,9 @@ table th.open_right, table td.open_right {
     border-right: 0;
     padding-right: 5pt;
 }
+table th.open_top, table td.open_top {
+    border-top: 0;
+}
 
 table.matches td.team_name {
     width: 80pt;
@@ -58,11 +61,81 @@ table.matches td.score {
     width: 30pt;
 }
 
-th.rotated {
+table.timetable td span.city {
+    font-size: 16pt;
+}
+
+table.timetable td span.stadium {
+    font-style: italic;
+}
+
+table.timetable td span.capacity {
+    margin-top: 10pt;
+    font-size: 11pt;
+}
+
+table.timetable td.inner {
+    border-style: dashed;
+}
+
+table.timetable tr td.inner:last-of-type {
+    border-right-style: solid;
+}
+
+table.timetable tr:last-of-type td.inner {
+    border-bottom-style: solid;
+}
+
+table.timetable td.match {
+    font-size: 12pt;
+    font-weight: bold;
+    padding-top: 5pt;
+    padding-bottom: 2pt;
+    padding-left: 3pt;
+    padding-right: 3pt;
+}
+
+table.timetable td.match span {
+    display: inline-block;
+    width: 100%;
+}
+
+table.timetable td.match span.number {
+    background: Ivory;
+    color: black;
+    border-radius: 50%;
+    width: 18pt;
+    text-shadow: none;
+}
+
+table.timetable td.match span.home {
+    width: fit-content;
+    padding-left: 2pt;
+    padding-right: 2pt;
+    padding-top: 3pt;
+    padding-bottom: 1pt;
+}
+
+table.timetable td.match span.away {
+    width: fit-content;
+    border-top: 1pt solid Ivory;
+    padding-left: 2pt;
+    padding-right: 2pt;
+    padding-top: 1pt;
+    padding-bottom: 3pt;
+}
+
+table.timetable td.match span.time {
+    background: Ivory;
+    width: 100%;
+    font-size: 13pt;
+}
+
+th.rotated, td.rotated {
     width: 30pt;
 }
 
-th.rotated span {
+th.rotated span, td.rotated span {
     -ms-writing-mode: tb-lr;
     -webkit-writing-mode: vertical-lr;
     writing-mode: vertical-lr;
@@ -83,9 +156,19 @@ th.centered, td.centered {
 th.left, td.left {
     text-align: left;
 }
+table.groups td.left {
+    padding-left: 0;
+}
 
 th.right, td.right {
     text-align: right;
+}
+table.groups td.right {
+    padding-right: 0;
+}
+
+.shadowed {
+    text-shadow: 1px 1px 0 Black;
 }
 
 .monospace {
@@ -93,3 +176,25 @@ th.right, td.right {
   font-size: 12pt;
   letter-spacing: 1px;
 }
+
+th.group_A, td.group_A { background: ForestGreen; }
+span.group_A           { color:      ForestGreen; }
+th.group_B, td.group_B { background: MediumVioletRed; }
+span.group_B           { color:      MediumVioletRed; }
+th.group_C, td.group_C { background: DarkOrange; }
+span.group_C           { color:      DarkOrange; }
+th.group_D, td.group_D { background: DodgerBlue; }
+span.group_D           { color:      DodgerBlue; }
+th.group_E, td.group_E { background: MidnightBlue; }
+span.group_E           { color:      MidnightBlue; }
+th.group_F, td.group_F { background: Crimson; }
+span.group_F           { color:      Crimson; }
+
+td.period_RoundOf16      { background: SteelBlue; }
+span.period_RoundOf16    { color:      SteelBlue; }
+td.period_QuarterFinal   { background: DarkGreen; }
+span.period_QuarterFinal { color:      DarkGreen; }
+td.period_SemiFinal      { background: OrangeRed; }
+span.period_SemiFinal    { color:      OrangeRed; }
+td.period_Final          { background: Gold; color: Black; text-shadow: 1px 1px 0 White; }
+span.period_Final        { color:      GoldenRod; }

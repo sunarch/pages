@@ -3,6 +3,7 @@ This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #}
+{# <!--suppress ALL --> #}
 
 {% extends 'base.html' %}
 
@@ -18,10 +19,10 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 <h2>Csapatok és csoportok</h2>
 <section class="hscroll">
-{% for group, teams in this.groups.items() %}
+{% for group in this.groups.values() %}
     <table class="groups">
         <tr>
-            <th colspan="2">{{ group }} csoport</th>
+            <th colspan="2" class="shadowed group_{{ group.name }}">{{ group.name }} csoport</th>
             <th>MP</th>
             <th>W</th>
             <th>D</th>
@@ -30,7 +31,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
             <th>GD</th>
             <th>Pts</th>
         </tr>
-        {% for team_abbrev in teams %}
+        {% for team_abbrev in group.teams %}
         {% set team = this.teams[team_abbrev] %}
         <tr>
             <td class="centered monospace">{{ team.abbrev }}</td>
@@ -50,12 +51,12 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 {% endfor %}
 </section>
 
+<h2>Mérkőzések</h2>
 {% set ns_matches = namespace() %}
 {% set ns_matches.date_previous = None %}
 {% set ns_matches.date_current = None %}
 {% set ns_matches.period_index_big = 0 %}
 {% set ns_matches.period_index_small = 0 %}
-<h2>Mérkőzések</h2>
 <section class="hscroll">
 <table class="matches">
     <tr>
@@ -71,11 +72,18 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
     {% for match in this.matches %}
         {% set ns_matches.date_previous = ns_matches.date_current %}
         {% set ns_matches.date_current = match.date %}
+
         {% if match.number_sorted == this.periods.big[ns_matches.period_index_big].last_match + 1 %}
             {% set ns_matches.period_index_big = ns_matches.period_index_big + 1 %}
+            {% if this.periods.big[ns_matches.period_index_big].first_match == None %}
+                {% set ns_matches.period_index_big = ns_matches.period_index_big + 1 %}
+            {% endif %}
         {% endif %}
         {% if match.number_sorted == this.periods.small[ns_matches.period_index_small].last_match + 1 %}
             {% set ns_matches.period_index_small = ns_matches.period_index_small + 1 %}
+            {% if this.periods.small[ns_matches.period_index_small].first_match == None %}
+                {% set ns_matches.period_index_small = ns_matches.period_index_small + 1 %}
+            {% endif %}
         {% endif %}
 
         {% if match.home.find(':') > -1 %}
@@ -127,6 +135,114 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         <td class="right pad_left open_right">{{ match.location.city }}</td>
         <td class="left pad_right open_left">|&nbsp;&nbsp;&nbsp;{{ match.location.stadium }}</td>
         <td class="centered">{{ match.broadcaster.name }}</td>
+    </tr>
+    {% endfor %}
+</table>
+</section>
+
+<h2>Menetrend</h2>
+<section class="hscroll">
+<table class="timetable">
+    <tr>
+        <th rowspan="3" class="open_top open_left">&nbsp;</th>
+    {% for period in this.periods.big %}
+        {% if period.first_match == None %}
+        <th class="open_top"></th>
+        {% else %}
+        <th colspan="{{ period.days }}">{{ period.name_short }}</th>
+        {% endif %}
+    {% endfor %}
+    </tr>
+    <tr>
+    {% for period in this.periods.small %}
+        {% if period.first_match == None %}
+        <th rowspan="2">
+        {% for period_day in period.day_list %}
+            <span>{{ period_day.display_date }}</span>
+            {% if period_day.display_date != period.day_list[-1].display_date %}
+                <br/>
+            {% endif %}
+        {% endfor %}
+        </th>
+        {% else %}
+        <th colspan="{{ period.days }}">{{ period.name_short }}</th>
+        {% endif %}
+    {% endfor %}
+    </tr>
+    <tr>
+    {% for period in this.periods.small %}
+        {% if period.first_match != None %}
+        {% for period_day in period.day_list %}
+        <th>
+            <span>{{ period_day.display_date }}</span>
+            <br/>
+            <span>{{ period_day.display_day }}</span>
+        </th>
+        {% endfor %}
+        {% endif %}
+    {% endfor %}
+    </tr>
+    {% for location in this.locations.values() %}
+    <tr>
+        <td>
+            <span class="city">{{ location.city }}</span>
+            <br/>
+            <span class="stadium">{{ location.stadium }}</span>
+            <br/>
+            <span class="capacity">Férőhely: {{ location.capacity }}</span>
+        </td>
+        {% for period in this.periods.small %}
+        {% if period.first_match == None %}
+            {% if location.index == 0 %}
+            <td rowspan="{{ this.locations.__len__() }}" class="rotated centered">
+                <span>{{ period.name }}</span>
+            </td>
+            {% endif %}
+        {% else %}
+            {% for period_day in period.day_list %}
+            {% set ns_timetable = namespace() %}
+            {% set ns_timetable.match_found = False %}
+            {% for match in this.matches %}
+                {% if match.location.city == location.city %}
+                    {% if match.date == period_day.date %}
+                        {% set ns_timetable.match_found = True %}
+                        {% set ns_timetable.match_number = match.number %}
+                        {% set ns_timetable.match_home = match.home %}
+                        {% set ns_timetable.match_away = match.away %}
+                        {% if match.home_score == None and match.away_score == None %}
+                            {% set ns_timetable.match_time = match.time %}
+                        {% else %}
+                            {% set home_score_str = match.home_score | string %}
+                            {% set away_score_str = match.away_score | string %}
+                            {% set ns_timetable.match_time = home_score_str + ' - ' + away_score_str %}
+                        {% endif %}
+                        {% set ns_timetable.match_broadcaster = match.broadcaster.name_short %}
+                        {% if match.number > this.periods.big[0].last_match %}
+                            {% set ns_timetable.css_class = 'period_' + period.css_class %}
+                        {% else %}
+                            {% set ns_timetable.css_class = 'group_' + this.groups[this.teams[match.home].group].name %}
+                        {% endif %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            {% if ns_timetable.match_found %}
+            <td class="inner centered shadowed match {{ ns_timetable.css_class }}">
+                <span class="number">{{ ns_timetable.match_number }}</span>
+                <br/>
+                <span class="monospace home">{{ ns_timetable.match_home }}</span>
+                <br/>
+                <span class="monospace away">{{ ns_timetable.match_away }}</span>
+                <br/>
+                <span class="time {{ ns_timetable.css_class }}">{{ ns_timetable.match_time }}</span>
+                <br/>
+                <span>{{ ns_timetable.match_broadcaster }}</span>
+            </td>
+            {% else %}
+            <td class="inner">&nbsp;</td>
+            {% endif %}
+            {% endfor %}
+        {% endif %}
+        {% endfor %}
     </tr>
     {% endfor %}
 </table>
