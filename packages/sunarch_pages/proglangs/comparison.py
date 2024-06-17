@@ -8,6 +8,7 @@
 from lektor.db import Page
 
 # package
+from common.model import KEY_FOR_TITLE
 from common.page import set_field
 from proglangs.model import KEY_FOR_COMPARISON_SCORE, KEY_FOR_AGE
 
@@ -134,7 +135,7 @@ def calculate_comparison_score(page, debug: int = 0) -> int:
 
     for feature_name, feature_values in all_features.items():
         if feature_name not in page:
-            print(f'Missing field: prog. lang. "{page["title"]}" -> "{feature_name}"')
+            print(f'Missing field: prog. lang. "{page[KEY_FOR_TITLE]}" -> "{feature_name}"')
             continue
 
         field_value = page[feature_name]
