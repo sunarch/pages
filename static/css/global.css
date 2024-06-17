@@ -92,7 +92,7 @@ details > summary {
     display: list-item;
     /* list-style: none; */
     cursor: pointer;
-    
+
     margin-top: 2rem !important;
     margin-bottom: 1rem;
     font-size: 18pt;
@@ -100,7 +100,7 @@ details > summary {
     color: #159957;
 }
 
-details > summary::marker, /* Latest Chrome, Edge, Firefox */ 
+details > summary::marker, /* Latest Chrome, Edge, Firefox */
 details > summary::-webkit-details-marker /* Safari */ {
     /* - */
 }
@@ -113,7 +113,7 @@ tr.table-section-header {
     letter-spacing: 0.2em;
 }
 
-th, td {
+table, thead, tbody, tr, th, td {
     border-color: gray !important;
 }
 
