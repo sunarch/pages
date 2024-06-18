@@ -624,6 +624,7 @@ class Period:
     name: str
     css_class: str | None
 
+    contained_rest_days: int = 0
     name_short: str = ""
     day_list: list[PeriodDay] = field(default_factory=list)
 
@@ -654,7 +655,7 @@ class Period:
     @property
     def rowspan(self) -> int:
         """How many rows to span in a table"""
-        return (self.last_match - self.first_match + 1) + self.days
+        return (self.last_match - self.first_match + 1) + self.days - self.contained_rest_days
 
 
 @dataclass
@@ -669,7 +670,8 @@ PERIODS = PeriodDefinitions(
     [
         Period(1, '2024-06-14', 36, '2024-06-26', 'Csoportkörök', None),
         Period(None, '2024-06-27', None, '2024-06-28', 'Pihenőnap', None),
-        Period(37, '2024-06-29', 51, '2024-07-14', 'Egyenes kieséses szakasz', None),
+        Period(37, '2024-06-29', 51, '2024-07-14', 'Egyenes kieséses szakasz', None,
+               contained_rest_days=7),
     ],
     [
         Period(1, '2024-06-14', 12, '2024-06-18', '1. csoportkör', None)
