@@ -509,7 +509,7 @@ def write_ical(matches: list[Match]) -> None:
     """Write an iCal calandar"""
 
     filename: str = 'uefa-euro-2024.ics'
-    path: str = os.path.join(os.getcwd(), 'content', *URL_PATH.split('/'), filename)
+    path: str = os.path.join(os.getcwd(), 'content', filename)
     tzid: str = 'UefaEuro2024'
 
     with open(path, 'wt', encoding='UTF-8') as fh:
