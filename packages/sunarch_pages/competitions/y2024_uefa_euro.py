@@ -8,6 +8,7 @@
 from __future__ import annotations
 from datetime import datetime, timedelta
 from dataclasses import dataclass, field, InitVar
+import os
 
 # requirements
 from lektor.db import Page, Pad
@@ -24,6 +25,10 @@ KEY_FOR_MATCHES: str = 'matches'
 KEY_FOR_PERIODS: str = 'periods'
 
 QUALIFIER_RANKING_HOST: int = -1
+
+COMPETITION_START: datetime = datetime.fromisoformat('2024-06-14 00:00')
+FORMAT_ICAL_DATE_UTC: str = '%Y%m%dT%H%M00Z'
+FORMAT_ICAL_DATE: str = '%Y%m%dT%H%M00'
 
 
 @dataclass
@@ -311,6 +316,46 @@ class Match:
         """Matches played"""
         return self.date_time.strftime('%H:%M')
 
+    @property
+    def ical_dtstamp(self) -> str:
+        """iCal: DateTime for Start"""
+        return (self.date_time + timedelta(hours=-2)).strftime(FORMAT_ICAL_DATE_UTC)
+
+    @property
+    def ical_dtstart(self) -> str:
+        """iCal: DateTime for Start"""
+        return self.date_time.strftime(FORMAT_ICAL_DATE)
+
+    @property
+    def ical_dtend(self) -> str:
+        """iCal: DateTime for End"""
+        return (self.date_time + timedelta(hours=2)).strftime(FORMAT_ICAL_DATE)
+
+    @property
+    def ical_summary(self) -> str:
+        """iCal: Summary"""
+
+        period_display: str = ''
+        if self.number <= PERIODS.big[0].last_match:
+            period_display: str = f'{TEAMS[self.home].group}'
+        else:
+            for period in PERIODS.small:
+                if period.name_ical is not None:
+                    if period.first_match <= self.number <= period.last_match:
+                        period_display: str = period.name_ical
+
+        teams: str = f'{self.home} - {self.away}'
+        identifier: str = f'(EB/{self.number}:{period_display})'
+        broadcaster: str = f'({self.broadcaster.name_short})'
+
+        return f'{teams} {identifier} {broadcaster}'
+
+    @property
+    def ical_location(self) -> str:
+        """iCal: Location"""
+
+        return f'{self.location.stadium}, {self.location.city}, Germany'
+
     def __lt__(self, other) -> bool:
         """Less-than comparison function, also use for sorted()"""
 
@@ -377,6 +422,7 @@ class PeriodDay:
 @dataclass
 class Period:
     """Period"""
+    # pylint: disable=too-many-instance-attributes
 
     first_match: int | None
     first_day: InitVar[str]
@@ -387,6 +433,7 @@ class Period:
     name: str
     css_class: str | None
 
+    name_ical: str | None = None
     contained_rest_days: int = 0
     name_short: str = ""
     day_list: list[PeriodDay] = field(default_factory=list)
@@ -447,15 +494,47 @@ PERIODS = PeriodDefinitions(
         .reinit_name_short('3. kör'),
 
         Period(None, '2024-06-27', None, '2024-06-28', 'Pihenőnap', None),
-        Period(37, '2024-06-29', 44, '2024-07-02', 'Nyolcaddöntők', 'RoundOf16'),
+        Period(37, '2024-06-29', 44, '2024-07-02', 'Nyolcaddöntők', 'RoundOf16', name_ical='8d'),
         Period(None, '2024-07-03', None, '2024-07-04', 'Pihenőnap', None),
-        Period(45, '2024-07-05', 48, '2024-07-06', 'Negyeddöntő', 'QuarterFinal'),
+        Period(45, '2024-07-05', 48, '2024-07-06', 'Negyeddöntő', 'QuarterFinal', name_ical='4d'),
         Period(None, '2024-07-07', None, '2024-07-08', 'Pihenőnap', None),
-        Period(49, '2024-07-09', 50, '2024-07-10', 'Elődöntő', 'SemiFinal'),
+        Period(49, '2024-07-09', 50, '2024-07-10', 'Elődöntő', 'SemiFinal', name_ical='2d'),
         Period(None, '2024-07-11', None, '2024-07-13', 'Pihenőnap', None),
-        Period(51, '2024-07-14', 51, '2024-07-14', 'Döntő', 'Final'),
+        Period(51, '2024-07-14', 51, '2024-07-14', 'Döntő', 'Final', name_ical='1d'),
     ],
 )
+
+
+def write_ical(matches: list[Match]) -> None:
+    """Write an iCal calandar"""
+
+    filename: str = 'uefa-euro-2024.ics'
+    path: str = os.path.join(os.getcwd(), 'content', *URL_PATH.split('/'), filename)
+    tzid: str = 'UefaEuro2024'
+
+    with open(path, 'wt', encoding='UTF-8') as fh:
+        fh.write('BEGIN:VCALENDAR\r\n')
+        fh.write('VERSION:2.0\r\n')
+        fh.write('PRODID:sunarch.dev\r\n')
+        fh.write('BEGIN:VTIMEZONE\r\n')
+        fh.write(f'TZID:{tzid}\r\n')
+        fh.write(f'LAST-MODIFIED:{COMPETITION_START.strftime(FORMAT_ICAL_DATE_UTC)}\r\n')
+        fh.write('BEGIN:STANDARD\r\n')
+        fh.write(f'DTSTART:{COMPETITION_START.strftime(FORMAT_ICAL_DATE)}\r\n')
+        fh.write('TZOFFSETFROM:0000\r\n')
+        fh.write('TZOFFSETTO:+0200\r\n')
+        fh.write('END:STANDARD\r\n')
+        fh.write('END:VTIMEZONE\r\n')
+        for match in matches:
+            fh.write('BEGIN:VEVENT\r\n')
+            fh.write(f'UID:UEFA-Euro-2024-match-{match.number}\r\n')
+            fh.write(f'DTSTAMP:{match.ical_dtstamp}\r\n')
+            fh.write(f'DTSTART;TZID={tzid}:{match.ical_dtstart}\r\n')
+            fh.write(f'DTEND;TZID={tzid}:{match.ical_dtend}\r\n')
+            fh.write(f'SUMMARY:{match.ical_summary}\r\n')
+            fh.write(f'LOCATION:{match.ical_location}\r\n')
+            fh.write('END:VEVENT\r\n')
+        fh.write('END:VCALENDAR\r\n')
 
 
 def setup(page: Page, debug: int = 0) -> None:
@@ -513,3 +592,6 @@ def setup(page: Page, debug: int = 0) -> None:
     set_field(page, KEY_FOR_PERIODS, PERIODS)
 
     print('PAGE SETUP END   : Competition - UEFA Euro 2024')
+
+    write_ical(matches)
+    print('FINISHED writing iCal: Competition - UEFA Euro 2024')
