@@ -8,10 +8,9 @@
 from __future__ import annotations
 from datetime import datetime, timedelta
 from dataclasses import dataclass, field, InitVar
-from enum import Enum
 
 # requirements
-from lektor.db import Page
+from lektor.db import Page, Pad
 
 # package
 from common.page import set_field
@@ -271,11 +270,16 @@ class Broadcaster:
     name_short: str
 
 
-class Broadcasters(Enum):
-    """All broadcasters"""
-    M4_SPORT = Broadcaster('M4 Sport', 'M4 Sport')
-    DUNA_WORLD = Broadcaster('Duna World', 'Duna W.')
-    M4_SPORT_PLUSZ = Broadcaster('M4 Sport+', 'M4 Sport+')
+BROADCASTERS_DATA = (
+    ('M4 Sport', 'M4 Sport'),
+    ('Duna World', 'Duna W.'),
+    ('M4 Sport+', 'M4 Sport+'),
+)
+
+BROADCASTERS: dict[str, Broadcaster] = {}
+
+for broadcaster_data in BROADCASTERS_DATA:
+    BROADCASTERS[broadcaster_data[0]] = Broadcaster(*broadcaster_data)
 
 
 @dataclass
@@ -321,273 +325,32 @@ class Match:
         return self.number == other.number
 
 
-MATCHES: list[Match] = [
-    # Group Round 1 ====================================================
-    Match(1,
-          'GER', 5, 'SCO', 1,
-          datetime.fromisoformat('2024-06-14 21:00'),
-          LOCATIONS['München'],
-          Broadcasters.M4_SPORT.value),
-    Match(2,
-          'HUN', 1, 'SUI', 3,
-          datetime.fromisoformat('2024-06-15 15:00'),
-          LOCATIONS['Köln'],
-          Broadcasters.M4_SPORT.value),
-    Match(3,
-          'ESP', 3, 'CRO', 0,
-          datetime.fromisoformat('2024-06-15 18:00'),
-          LOCATIONS['Berlin'],
-          Broadcasters.M4_SPORT.value),
-    Match(4,
-          'ITA', 2, 'ALB', 1,
-          datetime.fromisoformat('2024-06-15 21:00'),
-          LOCATIONS['Dortmund'],
-          Broadcasters.M4_SPORT.value),
-    Match(5,
-          'SRB', 0, 'ENG', 1,
-          datetime.fromisoformat('2024-06-16 21:00'),
-          LOCATIONS['Gelsenkirchen'],
-          Broadcasters.M4_SPORT.value),
-    Match(6,
-          'SLO', 1, 'DEN', 1,
-          datetime.fromisoformat('2024-06-16 18:00'),
-          LOCATIONS['Stuttgart'],
-          Broadcasters.M4_SPORT.value),
-    Match(7,
-          'POL', 1, 'NED', 2,
-          datetime.fromisoformat('2024-06-16 15:00'),
-          LOCATIONS['Hamburg'],
-          Broadcasters.M4_SPORT.value),
-    Match(8,
-          'AUT', 0, 'FRA', 1,
-          datetime.fromisoformat('2024-06-17 21:00'),
-          LOCATIONS['Düsseldorf'],
-          Broadcasters.M4_SPORT.value),
-    Match(9,
-          'BEL', 0, 'SVK', 1,
-          datetime.fromisoformat('2024-06-17 18:00'),
-          LOCATIONS['Frankfurt'],
-          Broadcasters.M4_SPORT.value),
-    Match(10,
-          'ROM', 3, 'UKR', 0,
-          datetime.fromisoformat('2024-06-17 15:00'),
-          LOCATIONS['München'],
-          Broadcasters.M4_SPORT.value),
-    Match(11,
-          'TUR', 3, 'GEO', 1,
-          datetime.fromisoformat('2024-06-18 18:00'),
-          LOCATIONS['Dortmund'],
-          Broadcasters.M4_SPORT.value),
-    Match(12,
-          'POR', 2, 'CZE', 1,
-          datetime.fromisoformat('2024-06-18 21:00'),
-          LOCATIONS['Leipzig'],
-          Broadcasters.M4_SPORT.value),
-    # Group Round 2 ====================================================
-    Match(13,
-          'SCO', 1, 'SUI', 1,
-          datetime.fromisoformat('2024-06-19 21:00'),
-          LOCATIONS['Köln'],
-          Broadcasters.M4_SPORT.value),
-    Match(14,
-          'GER', 2, 'HUN', 0,
-          datetime.fromisoformat('2024-06-19 18:00'),
-          LOCATIONS['Stuttgart'],
-          Broadcasters.M4_SPORT.value),
-    Match(15,
-          'CRO', 2, 'ALB', 2,
-          datetime.fromisoformat('2024-06-19 15:00'),
-          LOCATIONS['Hamburg'],
-          Broadcasters.M4_SPORT.value),
-    Match(16,
-          'ESP', 1, 'ITA', 0,
-          datetime.fromisoformat('2024-06-20 21:00'),
-          LOCATIONS['Gelsenkirchen'],
-          Broadcasters.M4_SPORT.value),
-    Match(17,
-          'DEN', 1, 'ENG', 1,
-          datetime.fromisoformat('2024-06-20 18:00'),
-          LOCATIONS['Frankfurt'],
-          Broadcasters.M4_SPORT.value),
-    Match(18,
-          'SLO', 1, 'SRB', 1,
-          datetime.fromisoformat('2024-06-20 15:00'),
-          LOCATIONS['München'],
-          Broadcasters.M4_SPORT.value),
-    Match(19,
-          'POL', 1, 'AUT', 3,
-          datetime.fromisoformat('2024-06-21 18:00'),
-          LOCATIONS['Berlin'],
-          Broadcasters.M4_SPORT.value),
-    Match(20,
-          'NED', 0, 'FRA', 0,
-          datetime.fromisoformat('2024-06-21 21:00'),
-          LOCATIONS['Leipzig'],
-          Broadcasters.M4_SPORT.value),
-    Match(21,
-          'SVK', 1, 'UKR', 2,
-          datetime.fromisoformat('2024-06-21 15:00'),
-          LOCATIONS['Düsseldorf'],
-          Broadcasters.M4_SPORT.value),
-    Match(22,
-          'BEL', 2, 'ROM', 0,
-          datetime.fromisoformat('2024-06-22 21:00'),
-          LOCATIONS['Köln'],
-          Broadcasters.M4_SPORT.value),
-    Match(23,
-          'TUR', 0, 'POR', 3,
-          datetime.fromisoformat('2024-06-22 18:00'),
-          LOCATIONS['Dortmund'],
-          Broadcasters.M4_SPORT.value),
-    Match(24,
-          'GEO', 1, 'CZE', 1,
-          datetime.fromisoformat('2024-06-22 15:00'),
-          LOCATIONS['Hamburg'],
-          Broadcasters.M4_SPORT.value),
-    # Group Round 3 ====================================================
-    Match(25,
-          'SUI', 1, 'GER', 1,
-          datetime.fromisoformat('2024-06-23 21:00'),
-          LOCATIONS['Frankfurt'],
-          Broadcasters.M4_SPORT_PLUSZ.value),
-    Match(26,
-          'SCO', 0, 'HUN', 1,
-          datetime.fromisoformat('2024-06-23 21:00'),
-          LOCATIONS['Stuttgart'],
-          Broadcasters.M4_SPORT.value),
-    Match(27,
-          'ALB', None, 'ESP', None,
-          datetime.fromisoformat('2024-06-24 21:00'),
-          LOCATIONS['Düsseldorf'],
-          Broadcasters.DUNA_WORLD.value),
-    Match(28,
-          'CRO', None, 'ITA', None,
-          datetime.fromisoformat('2024-06-24 21:00'),
-          LOCATIONS['Leipzig'],
-          Broadcasters.M4_SPORT.value),
-    Match(29,
-          'ENG', None, 'SLO', None,
-          datetime.fromisoformat('2024-06-25 21:00'),
-          LOCATIONS['Köln'],
-          Broadcasters.M4_SPORT.value),
-    Match(30,
-          'DEN', None, 'SRB', None,
-          datetime.fromisoformat('2024-06-25 21:00'),
-          LOCATIONS['München'],
-          Broadcasters.DUNA_WORLD.value),
-    Match(31,
-          'NED', None, 'AUT', None,
-          datetime.fromisoformat('2024-06-25 18:00'),
-          LOCATIONS['Berlin'],
-          Broadcasters.DUNA_WORLD.value),
-    Match(32,
-          'FRA', None, 'POL', None,
-          datetime.fromisoformat('2024-06-25 18:00'),
-          LOCATIONS['Dortmund'],
-          Broadcasters.M4_SPORT.value),
-    Match(33,
-          'SVK', None, 'ROM', None,
-          datetime.fromisoformat('2024-06-26 18:00'),
-          LOCATIONS['Frankfurt'],
-          Broadcasters.DUNA_WORLD.value),
-    Match(34,
-          'UKR', None, 'BEL', None,
-          datetime.fromisoformat('2024-06-26 18:00'),
-          LOCATIONS['Stuttgart'],
-          Broadcasters.M4_SPORT.value),
-    Match(35,
-          'GEO', None, 'POR', None,
-          datetime.fromisoformat('2024-06-26 21:00'),
-          LOCATIONS['Gelsenkirchen'],
-          Broadcasters.M4_SPORT.value),
-    Match(36,
-          'CZE', None, 'TUR', None,
-          datetime.fromisoformat('2024-06-26 21:00'),
-          LOCATIONS['Hamburg'],
-          Broadcasters.DUNA_WORLD.value),
-    # Round of 16 ======================================================
-    Match(37,
-          'G:A1', None, 'G:C2', None,
-          datetime.fromisoformat('2024-06-29 21:00'),
-          LOCATIONS['Dortmund'],
-          Broadcasters.M4_SPORT.value),
-    Match(38,
-          'G:A2', None, 'G:B2', None,
-          datetime.fromisoformat('2024-06-29 18:00'),
-          LOCATIONS['Berlin'],
-          Broadcasters.M4_SPORT.value),
-    Match(39,
-          'G:B1', None, 'S:A3/D3/E3/F3', None,
-          datetime.fromisoformat('2024-06-30 21:00'),
-          LOCATIONS['Köln'],
-          Broadcasters.M4_SPORT.value),
-    Match(40,
-          'G:C1', None, 'S:D2/E2/F2', None,
-          datetime.fromisoformat('2024-06-30 18:00'),
-          LOCATIONS['Gelsenkirchen'],
-          Broadcasters.M4_SPORT.value),
-    Match(41,
-          'G:F1', None, 'S:A3/B3/C3', None,
-          datetime.fromisoformat('2024-07-01 21:00'),
-          LOCATIONS['Frankfurt'],
-          Broadcasters.M4_SPORT.value),
-    Match(42,
-          'G:D2', None, 'G:E2', None,
-          datetime.fromisoformat('2024-07-01 18:00'),
-          LOCATIONS['Düsseldorf'],
-          Broadcasters.M4_SPORT.value),
-    Match(43,
-          'G:E1', None, 'S:A3/B3/C3/D3', None,
-          datetime.fromisoformat('2024-07-02 18:00'),
-          LOCATIONS['München'],
-          Broadcasters.M4_SPORT.value),
-    Match(44,
-          'G:D1', None, 'G:F2', None,
-          datetime.fromisoformat('2024-07-02 21:00'),
-          LOCATIONS['Leipzig'],
-          Broadcasters.M4_SPORT.value),
-    # Quarter-Finals ===================================================
-    Match(45,
-          'W:39', None, 'W:37', None,
-          datetime.fromisoformat('2024-07-05 21:00'),
-          LOCATIONS['Stuttgart'],
-          Broadcasters.M4_SPORT.value),
-    Match(46,
-          'W:41', None, 'W:42', None,
-          datetime.fromisoformat('2024-07-05 21:00'),
-          LOCATIONS['Hamburg'],
-          Broadcasters.M4_SPORT.value),
-    Match(47,
-          'W:43', None, 'W:44', None,
-          datetime.fromisoformat('2024-07-06 21:00'),
-          LOCATIONS['Berlin'],
-          Broadcasters.M4_SPORT.value),
-    Match(48,
-          'W:40', None, 'W:38', None,
-          datetime.fromisoformat('2024-07-06 21:00'),
-          LOCATIONS['Düsseldorf'],
-          Broadcasters.M4_SPORT.value),
-    # Semi-Finals ======================================================
-    Match(49,
-          'W:45', None, 'W:46', None,
-          datetime.fromisoformat('2024-07-09 21:00'),
-          LOCATIONS['München'],
-          Broadcasters.M4_SPORT.value),
-    Match(50,
-          'W:47', None, 'W:48', None,
-          datetime.fromisoformat('2024-07-10 21:00'),
-          LOCATIONS['Dortmund'],
-          Broadcasters.M4_SPORT.value),
-    # Final ============================================================
-    Match(51,
-          'W:49', None, 'W:50', None,
-          datetime.fromisoformat('2024-07-14 21:00'),
-          LOCATIONS['Berlin'],
-          Broadcasters.M4_SPORT.value),
-]
-MATCHES = sorted(MATCHES)
-for i_match, match in enumerate(MATCHES):
-    match.number_sorted = i_match + 1
+def load_matches(pad: Pad) -> list[Match]:
+    """Load matches"""
+
+    matches: list[Match] = []
+
+    for match_id, match in pad.databags.lookup('uefa_euro_2024.matches').items():
+        number: int = int(match_id[1:])
+        home_score: int | None = None if match['home_score'] == 'None' else int(match['home_score'])
+        away_score: int | None = None if match['away_score'] == 'None' else int(match['away_score'])
+
+        matches.append(
+            Match(
+                number,
+                match['home'], home_score, match['away'], away_score,
+                datetime.fromisoformat(match['date_time']),
+                LOCATIONS[match['location']],
+                BROADCASTERS[match['broadcaster']]
+            )
+        )
+
+    matches = sorted(matches)
+
+    for i_match, match in enumerate(matches):
+        match.number_sorted = i_match + 1
+
+    return matches
 
 
 @dataclass
@@ -700,13 +463,15 @@ def setup(page: Page, debug: int = 0) -> None:
 
     print('PAGE SETUP START : Competition - UEFA Euro 2024')
 
+    matches: list[Match] = load_matches(page.pad)
+
     for team in TEAMS.values():
         team.reset()
         for group in GROUPS.values():
             if team.abbrev in group.teams:
                 team.group = group.name
 
-    for match_item in MATCHES:
+    for match_item in matches:
 
         if debug > 0:
             print('  - match', match_item.number)
@@ -744,7 +509,7 @@ def setup(page: Page, debug: int = 0) -> None:
     set_field(page, KEY_FOR_LOCATIONS, LOCATIONS)
     set_field(page, KEY_FOR_GROUPS, GROUPS)
     set_field(page, KEY_FOR_TEAMS, TEAMS)
-    set_field(page, KEY_FOR_MATCHES, MATCHES)
+    set_field(page, KEY_FOR_MATCHES, matches)
     set_field(page, KEY_FOR_PERIODS, PERIODS)
 
     print('PAGE SETUP END   : Competition - UEFA Euro 2024')

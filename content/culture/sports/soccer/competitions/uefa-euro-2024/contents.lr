@@ -1,5 +1,7 @@
 _model: competition
 ---
+_template: uefa-euro-2024.html
+---
 title: UEFA Euro 2024
 ---
 description: 2024-es labdarúgó-Európa-bajnokság

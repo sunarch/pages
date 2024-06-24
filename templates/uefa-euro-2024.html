@@ -248,7 +248,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 </table>
 </section>
 
-<h2>Jegyzetek</h2>
+{% if this.body %}
+<h2>Notes</h2>
 {{ this.body }}
+{% endif %}
 
 {% endblock %}
