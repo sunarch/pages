@@ -18,6 +18,9 @@ personal projects in various stages of development, mostly in early ones
 
 - [draftable](https://codeberg.org/sunarch/draftable) - document draft visualization (preA)
 - [placeholder](https://codeberg.org/sunarch/placeholder) - more fun placeholder texts (preA)
+- [Unclewed](https://codeberg.org/sunarch/unclewed) - a [Clew](https://clew.se) DB-dump analysis tool
+
+- [Common: Nim](https://codeberg.org/sunarch/common-nim) - some functionality for reuse
 
 ### Odin (pre-1)
 
@@ -71,6 +74,7 @@ personal projects in various stages of development, mostly in early ones
 - [moonscribe](https://codeberg.org/sunarch/moonscribe) - creative generator (Python)
 - [organizator](https://codeberg.org/sunarch/organizator) - life organization (Python)
 - [streetpaper](https://codeberg.org/sunarch/streetpaper) - newspaper distribution manager (Python)
+- [Tabletop DevTools](https://codeberg.org/sunarch/tabletop-devtools) - Tools for the development of tabletop games (board games, TTRPGs, etc.) (Nim)
 
 ## esolangs
 
@@ -83,6 +87,7 @@ personal projects in various stages of development, mostly in early ones
 ## personal
 
 - system files: [sunarch RC](https://codeberg.org/sunarch/sunarch-rc)
+- my [https://codeberg.org/sunarch/aoc-solutions](https://codeberg.org/sunarch/aoc-solutions) for Advent of Code
 
 ## creative
 

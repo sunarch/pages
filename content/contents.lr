@@ -37,12 +37,12 @@ from them as well.
     - Python, for scripting and library access
     - C, in general
     - Lua, for embedded scripting
-- for specific projects:
+- for specific purposes:
     - JavaScript, for client-side web
     - PHP, for restricted web environments
     - Bash, for Linux scripting
-    - Dart, only with the Flutter framework
-    - Ruby, only with the Sonic Pi software
+    - Dart, with the Flutter framework
+    - Ruby, with the Sonic Pi software
 - other plans:
     - BEAM languages: Erlang / Elixir / Gleam
     - Lisp (Chez Scheme / Racket)
