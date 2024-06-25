@@ -377,8 +377,14 @@ def load_matches(pad: Pad) -> list[Match]:
 
     for match_id, match in pad.databags.lookup('uefa_euro_2024.matches').items():
         number: int = int(match_id[1:])
-        home_score: int | None = None if match['home_score'] == 'None' else int(match['home_score'])
-        away_score: int | None = None if match['away_score'] == 'None' else int(match['away_score'])
+        try:
+            home_score: int | None = int(match['home_score'])
+        except ValueError:
+            home_score: int | None = None
+        try:
+            away_score: int | None = int(match['away_score'])
+        except ValueError:
+            away_score: int | None = None
 
         matches.append(
             Match(
