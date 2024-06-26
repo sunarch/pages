@@ -30,6 +30,7 @@ body:
         - [Poems](https://benjaminhollon.com/writing/poem/1/) ([feed](https://benjaminhollon.com/writing/feeds/poetry/))
 - projects
     - [Clew](https://clew.se)
+        - devlog: [Building Clew](https://blog.clew.se) ([feed](https://blog.clew.se/feed/))
     - [Freedom To Write](https://FreedomToWrite.org)
         - Mastodon: [@FreedomToWrite@fosstodon.org](https://fosstodon.org/@FreedomToWrite)
         - Codeberg: [Freedom-to-Write](https://codeberg.org/Freedom-to-Write)
