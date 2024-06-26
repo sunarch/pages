@@ -7,7 +7,7 @@ url_style = absolute
 ; path
 output_path = ../pages
 ; excluded_assets
-included_assets = LICENSE, README.md, .gitignore, .nojekyll, .domains, .gitattributes
+included_assets = LICENSE, README.md, .gitignore, .nojekyll, .domains, .gitattributes, robots.txt
 
 ; [packages]
 
