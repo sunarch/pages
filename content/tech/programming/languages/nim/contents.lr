@@ -65,6 +65,10 @@ body:
 - Uniform Function Call Syntax
     - [Wikipedia (English)](https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax)
 
+## resources
+
+- ReadTheDocs.io: [Nim-Docs](https://nim-docs.ReadTheDocs.io/en/latest/)
+
 ## by example
 
 - [NimByExample.com](https://NimByExample.com)
@@ -96,6 +100,17 @@ platform: Hackaday
 
 ---
 blog_posts:
+
+#### link ####
+title: Multithreading flavors: Choosing the right scheduler for the right job
+----
+url: https://nim-lang.org/blog/2021/02/26/multithreading-flavors.html
+----
+date: 2021-02-26
+----
+creator: Mamy Ratsimbazafy (mratsim)
+----
+platform: Nim Blog (guest post)
 
 #### link ####
 title: Let's Explore GUI Options for Nim
