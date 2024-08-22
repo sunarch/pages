@@ -8,7 +8,7 @@ Hi,
 
 I'm Andrew, a (mostly) hobbyist developer, located in Budapest, Hungary 🇭🇺
 
-I'm interested in Open Source / FOSS and write anything I can with appropriate
+I'm interested in Open Source / FOSS and write everything I can with appropriate
 licenses.
 
 Until now I've mostly written Python but I want to move more towards lower level
@@ -23,27 +23,3 @@ coffee, and other delicacies, and I also like to learn about the world.
 This site, beside my personal endeavours, contains an amalgamation of notes and
 links I collected, mainly for my own reference, but maybe others can benefit
 from them as well.
-
-### languages overview
-
-- preferred & learning:
-    - Nim
-    - Odin (pre-1)
-    - Rust
-    - Go
-    - OCaml
-    - Zig (pre-1)
-- important to know:
-    - Python, for scripting and library access
-    - C, in general
-    - Lua, for embedded scripting
-- for specific purposes:
-    - JavaScript, for client-side web
-    - PHP, for restricted web environments
-    - Bash, for Linux scripting
-    - Dart, with the Flutter framework
-    - Ruby, with the Sonic Pi software
-- other plans:
-    - BEAM languages: Erlang / Elixir / Gleam
-    - Lisp (Chez Scheme / Racket)
-    - other low-level: Hare (pre-1), Jai (pre-1)
