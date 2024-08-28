@@ -1,10 +1,45 @@
-title: world news
+title: news feeds
 ---
-description: RSS feeds
+description: world news
 ---
 body:
 
 (Newsboat URL list format)
+
+## tech forums
+
+```
+https://news.ycombinator.com/rss "~(news) > (tech forum) > Hacker News"
+https://rss.slashdot.org/Slashdot/slashdotMain "~(news) > (tech forum) > Slashdot"
+```
+
+## tech news
+
+```
+# Ars Technica
+https://feeds.arstechnica.com/arstechnica/features "~(news) > (tech) > Ars Technica > Features"
+https://feeds.arstechnica.com/arstechnica/technology-lab "~(news) > (tech) > Ars Technica > Technology Lab: Information Technology"
+https://feeds.arstechnica.com/arstechnica/gadgets "~(news) > (tech) > Ars Technica > Gear & Gadgets: Product News & Reviews"
+https://feeds.arstechnica.com/arstechnica/tech-policy "~(news) > (tech) > Ars Technica > Law & Disorder: Civilization & Discontents"
+https://feeds.arstechnica.com/arstechnica/apple "~(news) > (tech) > Ars Technica > Infinite Loop: The Apple Ecosystem"
+https://feeds.arstechnica.com/arstechnica/gaming "~(news) > (tech) > Ars Technica > Opposable Thumbs: Gaming & Entertainment"
+https://feeds.arstechnica.com/arstechnica/science "~(news) > (tech) > Ars Technica > The Scientific Method: Science & Exploration"
+https://feeds.arstechnica.com/arstechnica/cars "~(news) > (tech) > Ars Technica > Cars Technica: All Things Automotive"
+https://feeds.arstechnica.com/arstechnica/staff-blogs "~(news) > (tech) > Ars Technica > Staff Blogs: From the Minds of Ars"
+https://feeds.arstechnica.com/arstechnica/cardboard "~(news) > (tech) > Ars Technica > Ars Cardboard: Board Games News & Reviews"
+```
+
+```
+https://www.bitecode.dev/feed "~(news) > (tech) > Bite code! by Nobody has time for Python"
+https://gizmodo.com/rss "~(news) > (tech) > Gizmodo"
+https://hackaday.com/feed/ "~(news) > (tech) > Hackaday"
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml "~(news) > (tech) > NYT > Technology"
+https://restoreprivacy.com/feed/ "~(news) > (tech) > RestorePrivacy"
+https://techcrunch.com/feed/ "~(news) > (tech) > TechCrunch"
+https://www.theregister.com/headlines.atom "~(news) > (tech) > The Register"
+https://www.theverge.com/rss/index.xml "~(news) > (tech) > The Verge"
+http://feeds.washingtonpost.com/rss/business/technology "~(news) > (tech) > Washington Post > Technology"
+```
 
 ## other
 
