@@ -1,0 +1,92 @@
+title: world news
+---
+description: RSS feeds
+---
+body:
+
+(Newsboat URL list format)
+
+## other
+
+```
+https://www.aljazeera.com/xml/rss/all.xml "~(news) > (world) > Al Jazeera"
+```
+
+## Hungary
+
+### religious
+
+```
+https://www.magyarkurir.hu/rss/ "~(news) > (Hungary) > Magyar Kurír"
+https://ujember.hu/feed/ "~(news) > (Hungary) > Magyar Kurír > Új Ember"
+```
+
+### not gov-leaning
+
+```
+https://telex.hu/rss "~(news) > (Hungary) > Telex"
+https://444.hu/feed "~(news) > (Hungary) > 444"
+https://atlatszo.hu/feed/ "~(news) > (Hungary) > Átlátszó"
+https://www.portfolio.hu/rss/all.xml "~(news) > (Hungary) > Portfolio.hu"
+https://24.hu/feed/ "~(news) > (Hungary) > 24.hu"
+https://merce.hu/feed/ "~(news) > (Hungary) > Mérce"
+https://magyarnarancs.hu/rss "~(news) > (Hungary) > Magyar Narancs"
+https://nepszava.hu/feed/ "~(news) > (Hungary) > Népszava"
+```
+
+### not gov-leaning - HVG
+
+```
+https://www.hvg.hu/rss "~hvg.hu"
+https://hvg.hu/rss/itthon "~hvg.hu > Itthon"
+https://hvg.hu/rss/tudomany "~hvg.hu > Tech/Tudomány"
+https://hvg.hu/rss/kultura "~hvg.hu > Kultúra"
+https://hvg.hu/rss/cegauto "~hvg.hu > Autó"
+https://hvg.hu/rss/kkv "~hvg.hu > Vállalkozás"
+https://hvg.hu/rss/elet "~hvg.hu > Élet+Stílus"
+https://hvg.hu/rss/velemeny "~hvg.hu > Vélemény"
+https://hvg.hu/rss/sport "~hvg.hu > Sport"
+https://hvg.hu/rss/nagyitas "~hvg.hu > Nagyítás"
+https://hvg.hu/rss/hvgkonyvek "~hvg.hu > HVG Könyvek"
+https://hvg.hu/rss/vilag "~hvg.hu > Világ"
+https://hvg.hu/rss/gazdasag "~hvg.hu > Gazdaság"
+# ellenzék - HVG - blogok
+https://nyomorszele.hvgblog.hu/feed/ "~hvg.hu > (blog) > A nyomor széle"
+```
+
+### gov-leaning
+
+```
+https://index.hu/24ora/rss/ "~(news) > (Hungary) > Index > 24óra"
+https://www.origo.hu/contentpartner/rss/origoall/origo.xml "~(news) > (Hungary) > ORIGO"
+https://888.hu/rss "~(news) > (Hungary) > 888 - a három nyolcas"
+https://mandiner.hu/rss/ "~(news) > (Hungary) > Mandiner"
+https://www.magyaridok.hu/feed/? "~(news) > (Hungary) > Magyar Idők"
+https://ripost.hu/publicapi/hu/rss/ripost/articles "~(news) > (Hungary) > Ripost"
+https://www.magyarhirlap.hu/rss "~(news) > (Hungary) > Magyar Hírlap"
+https://pestisracok.hu/feed/ "~(news) > (Hungary) > PestiSrácok"
+https://figyelo.hu/feed/ "~(news) > (Hungary) > Figyelő"
+https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles "~(news) > (Hungary) > Magyar Nemzet"
+https://hirtv.hu/rss "~(news) > (Hungary) > Hír TV"
+```
+
+## Germany
+
+```
+https://www.faz.net/rss/aktuell/ "~(news) > (Germany) > FAZ > Aktuell"
+https://rss.sueddeutsche.de/rss/Topthemen "~(news) > (Germany) > SZ > Topthemen"
+```
+
+## USA
+
+```
+https://feeds.washingtonpost.com/rss/world "~Washington Post > World"
+http://feeds.washingtonpost.com/rss/entertainment "~Washington Post > Entertainment"
+http://feeds.washingtonpost.com/rss/national "~Washington Post > National"
+
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml "~NYT > World News"
+https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml "~NYT > World > Europe"
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml "~NYT > U.S. News"
+https://rss.nytimes.com/services/xml/rss/nyt/Science.xml "~NYT > Science"
+https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml "~NYT > Arts"
+```

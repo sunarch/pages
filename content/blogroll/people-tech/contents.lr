@@ -26,6 +26,14 @@ body:
 - homepage: [lucumr.pocoo.org](https://lucumr.pocoo.org) ([feed](https://lucumr.pocoo.org/feed.atom))
 - Mastodon: [@mitsuhiko@hachyderm.io](https://hachyderm.io/@mitsuhiko)
 
+### Astrelion
+
+- Medium: [@ASTRELION](https://medium.com/@ASTRELION)
+    - [feed](https://medium.com/feed/@ASTRELION)
+- Mastodon: [@astrelion@mastodon.social](https://mastodon.social/@astrelion)
+- *Dungeons* project
+    - Mastodon: [@dungeons@mastodon.social](https://mastodon.social/@dungeons)
+
 ### Baldur Bjarnason
 
 - homepage: [BaldurBjarnason.com](https://www.BaldurBjarnason.com) ([feed](https://www.BaldurBjarnason.com/index.xml))
@@ -244,6 +252,14 @@ body:
 
 - homepage: [LizKeogh.com](https://LizKeogh.com) ([feed](https://LizKeogh.com/feed/))
 
+### Lorenzo Miniero
+
+- Mastodon: [@lminiero@fosstodon.org](https://fosstodon.org/@lminiero)
+- KIAVC game engine
+    - devlog: [kiavc.wordpress.com]((https://kiavc.wordpress.com)
+        - [feed](https://kiavc.wordpress.com/feed/)
+    - Mastodon: [@kiavc@mastodon.gamedev.place](https://mastodon.gamedev.place/@kiavc)
+
 ### Manuel Odendahl (wesen / mnmlmnl / mnl)
 
 - dev.to: [wesen](https://dev.to/wesen) ([feed](https://dev.to/feed/wesen))
@@ -268,6 +284,12 @@ body:
 ### Matthias Hager
 
 - homepage: [MatthiasHager.com](https://MatthiasHager.com) ([feed](https://matthiashager.com/blog.xml))
+
+### Michał Sapka
+
+- homepage: [michal.sapka.me](https://michal.sapka.me)
+    - [blog](https://michal.sapka.me/blog/) ([feed](https://michal.sapka.me/blog/index.xml))
+
 
 ### Mike Stone
 
@@ -364,6 +386,14 @@ body:
 ### "Standalone-SysAdmin"
 
 - homepage/Medium: [standalone-sysadmin.com](https://standalone-sysadmin.com) ([feed](https://standalone-sysadmin.com/feed))
+
+### stux
+
+- mstdn.social owner/admin
+    - Mastodon: [@stux@mstdn.social](https://mstdn.social/@stux)
+    - Patreon: [mstdn](https://www.patreon.com/mstdn)
+- masto.ai owner/admin
+    - Mastodon: [@stux@masto.ai](https://masto.ai/@stux)
 
 ### Thomas Gideon
 

@@ -1,4 +1,4 @@
-title: people - Polymaths.social
+title: community - Polymaths.social
 ---
 body:
 
@@ -144,6 +144,7 @@ body:
 - homepage: [sotolf.codeberg.page](https://sotolf.codeberg.page)
     - [blog](https://sotolf.codeberg.page/posts/) ([feed](https://sotolf.codeberg.page/index.xml))
 - Codeberg: [sotolf](https://codeberg.org/sotolf)
+- demo.opengist.io: [sotolf2](https://demo.opengist.io/sotolf2)
 - Mastodon: [@sotolf@social.linux.pizza](https://social.linux.pizza/@sotolf)
 
 ### Spencer Jones
