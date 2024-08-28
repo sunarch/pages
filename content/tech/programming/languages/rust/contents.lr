@@ -100,6 +100,17 @@ body:
 blog_posts:
 
 #### link ####
+title: Rust has a HUGE supply chain security problem
+----
+url: https://kerkour.com/rust-supply-chain-security-standard-library
+----
+date: 2024-07-02
+----
+creator: Sylvain Kerkour
+----
+platform:
+
+#### link ####
 title: Rust wont save us, but its ideas will
 ----
 url: https://glitchbyte.io/posts/rust-wont-save-us/

@@ -1,0 +1,30 @@
+title: NXT programming
+---
+body:
+
+- LEGO® Education: [NXT software](https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/)
+- Wikipedia (en): [Lego Mindstorms NXT](https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT)
+    - [Lego Mindstorms NXT § Programming](https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT#Programming)
+- Wikipedia (en): [Lego Mindstorms § Programming languages](https://en.wikipedia.org/wiki/Lego_Mindstorms#Programming_languages)
+- Bricks StackEschange: [Is there any other way to program the Lego Mindstorms NXT other than the provided software?](https://bricks.stackexchange.com/questions/679/is-there-any-other-way-to-program-the-lego-mindstorms-nxt-other-than-the-provide)
+- TeamHassenplug.org: [NXT Programming Software](http://www.teamhassenplug.org/NXT/NXTSoftware.html)
+- Bricks StackEschange: [What is NXT-G number format?](https://bricks.stackexchange.com/questions/6244/what-is-nxt-g-number-format)
+
+### RobotC
+
+- homepage: [robotc.net](https://www.robotc.net)
+
+### Bricx Command Center (BricxCC)
+
+- homepage: [BricxCC.sourceforge.net](https://bricxcc.sourceforge.net)
+    - [NBC/NXC/SPC](https://bricxcc.sourceforge.net/nbc/)
+
+### Executable File Specification
+
+- ReadKong: [LEGO MINDSTORMS NXT Executable File Specification](https://www.readkong.com/page/executable-file-specification-6483095)
+- lechnology: [LEGO MINDSTORMS NXT Exacutable File Format](https://files.lechnology.com/lego/mindstorms/nxt/LEGO MINDSTORMS NXT Exacutable File Format.pdf)
+
+### other
+
+- [nxt programs .com](https://www.nxtprograms.com)
+- LEGO® Engineering: [Platform: NXT](http://legoengineering.com/platform/nxt/index.html)

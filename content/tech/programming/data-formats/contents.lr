@@ -2,3 +2,16 @@ title: data formats
 ---
 body:
 
+---
+blog_posts:
+
+#### link ####
+title: Plaintext is not a great format for (system) logs
+----
+url: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat
+----
+date: 2024-06-29
+----
+creator: Chris Siebenmann
+----
+platform: Wandering Thoughts (sysadmin) by ~cks

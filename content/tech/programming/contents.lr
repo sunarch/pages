@@ -68,6 +68,18 @@ body:
 - [Blaze](https://blaze.oat.sh) by 0atman
     - intro blog post: [Blaze: A lightweight literate programing preprocessor](https://www.0atman.com/articles/17/blaze)
 
+## ranking by energy efficiency
+
+- The New Stack: [Which Programming Languages Use the Least Electricity? ](https://thenewstack.io/which-programming-languages-use-the-least-electricity/) (2018-05-20) by David Cassel
+- paper by Pereira, Couto, Ribeiro, Rua, Cunha, Fernandes, Saraiva
+    - DOI: 10.1016/j.scico.2021.102609
+    - NYU Scholar: [Ranking programming languages by energy efficiency](https://nyuscholars.nyu.edu/en/publications/ranking-programming-languages-by-energy-efficiency) - article in the journal "Science of Computer Programming" (2021-05-01)
+    - Semantic Scholar: [Ranking programming languages by energy efficiency](https://www.semanticscholar.org/paper/Ranking-programming-languages-by-energy-efficiency-Pereira-Couto/ae17c900f9cd235f71d8e6dc13b52142f4a54fd5)
+    - ResearchGate: [Ranking programming languages by energy efficiency](https://www.researchgate.net/publication/348523926_Ranking_programming_languages_by_energy_efficiency)
+    - ScienceDirect: [Ranking programming languages by energy efficiency](https://www.sciencedirect.com/science/article/abs/pii/S0167642321000022)
+- other paper
+    - ResearchGate: [Energy efficiency across programming languages: how do energy, time, and memory relate?](https://www.researchgate.net/publication/320436353_Energy_efficiency_across_programming_languages_how_do_energy_time_and_memory_relate)
+
 ## miscellaneous
 
 - Wikipedia: [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)

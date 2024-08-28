@@ -15,3 +15,11 @@ body:
 
 - homepage: [miniflux.app](https://miniflux.app)
 - GitHub: [miniflux](https://github.com/miniflux)
+
+## QuiteRSS
+
+- homepage (downloads): [QuiteRSS.org](https://quiterss.org)
+    - feed (doesn't work anymore): `https://quiterss.org/en/rss.xml`
+- GitHub: [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss)
+- Wikipedia (en): [QuiteRSS](https://en.wikipedia.org/wiki/QuiteRSS)
+- article | It's FOSS: [QuiteRSS: A Free Open-Source RSS Reader for Linux Desktop](https://itsfoss.com/quiterss/) by Ankush Das

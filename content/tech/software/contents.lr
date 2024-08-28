@@ -2,3 +2,14 @@ title: software
 ---
 body:
 
+### Awesome-Selfhosted
+    - "A list of Free Software network services and web applications which can be hosted on your own servers"
+    - homepage: [awesome-selfhosted.net](https://awesome-selfhosted.net)
+    - GitHub: [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+## other
+
+### Keyoxide
+
+- homepage: [keyoxide.org](https://keyoxide.org)
+    - [blog](https://blog.keyoxide.org) ([feed](https://blog.keyoxide.org/atom.xml))
