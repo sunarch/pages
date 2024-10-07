@@ -109,6 +109,20 @@ creator:
 platform: Daily Dev Tips
 
 ---
+blog_posts:
+
+#### link ####
+title: The State of ES5 on the Web
+----
+url: https://philipwalton.com/articles/the-state-of-es5-on-the-web/
+----
+date: 2024-09-08
+----
+creator: Philip Walton
+----
+platform:
+
+---
 forum_entries:
 
 #### link ####

@@ -20,7 +20,6 @@ personal projects in various stages of development, mostly in early ones
 ### Odin (pre-1)
 
 - [sunrays (Odin)](https://codeberg.org/sunarch/sunrays-odin) - Raylib utils to include in Odin / Raylib projects
-- [generations](https://codeberg.org/sunarch/generations) - experimental game with Raylib (preA)
 
 ### Rust
 
@@ -97,14 +96,15 @@ personal projects in various stages of development, mostly in early ones
 
 - [webapps](https://sunarch.github.io/webapps/) - small tools and games
     - planned dev: Next Best Guess
-- [pages](https://codeberg.org/sunarch/pages) - this website, built with Lektor, an SSG in Python
-- idea:
-    - [resourcerer](https://codeberg.org/sunarch/resourcerer) - resource management game
+- [pages](https://codeberg.org/sunarch/pages) - this website, built with Lektor, an SSG in Python 
 
-## ideas with intent
+## ideas
 
 - [Tabletop DevTools](https://codeberg.org/sunarch/tabletop-devtools) - Tools for the development of tabletop games (board games, TTRPGs, etc.)
 - moonscribe - creative generator
+- games
+    - [generations](https://codeberg.org/sunarch/generations) - experimental game with Raylib
+    - [resourcerer](https://codeberg.org/sunarch/resourcerer) - resource management game
 
 ## esolangs
 

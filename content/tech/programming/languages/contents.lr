@@ -74,3 +74,17 @@ body:
 - Odin vs. Zig
     - Reddit - r/odinlang - [Odin vs Zig for a hobby project (cross-platform game client + game server)](https://www.reddit.com/r/odinlang/comments/1c7s0r0/odin_vs_zig_for_a_hobby_project_crossplatform/) by Potential_Passage_96
     - Reddit - r/Zig - [Odin vs Zig for a hobby project (cross-platform game client + game server)](https://www.reddit.com/r/Zig/comments/1c7s0pm/comment/l0a7rh3/) by Potential_Passage_96
+
+---
+blog_posts:
+
+#### link ####
+title: Why I am not yet ready to switch to Zig from Rust
+----
+url: https://turso.tech/blog/why-i-am-not-yet-ready-to-switch-to-zig-from-rust
+----
+date: 2024-06-19
+----
+creator: Pekka Enberg
+----
+platform: Turso Blog
