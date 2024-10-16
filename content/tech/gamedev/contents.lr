@@ -2,6 +2,11 @@ title: game development
 ---
 body:
 
+## tools
+
+- [Lospec Palette List](https://lospec.com/palette-list)
+- [Webtyler](https://wareya.github.io/webtyler/) by [Alexander Nadeau](https://github.com/wareya)
+
 ---
 blog_posts:
 
@@ -15,3 +20,17 @@ date: 2024-02-21
 creator:
 ----
 platform: Cliffski's Blog
+
+---
+videos:
+
+#### link ####
+title: Draw fewer tiles - by using a Dual-Grid system!
+----
+url: https://youtu.be/jEWFSv3ivTg
+----
+date: 2024-08-11
+----
+creator: jess::codes
+----
+platform: YouTube

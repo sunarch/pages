@@ -1,0 +1,61 @@
+title: AssemblyScript
+---
+_model: programming-language
+---
+homepage: https://www.assemblyscript.org
+---
+docs:
+---
+repository: https://github.com/AssemblyScript
+---
+wikipedia_de:
+---
+wikipedia_en: https://en.wikipedia.org/wiki/AssemblyScript
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2017
+---
+designed_by: Daniel Wirtz, Max Graey
+---
+latest_release: 0.27.29 (Jul 2024)
+---
+developer: The AssemblyScript Project
+---
+license: Apache License 2.0
+---
+category: preone
+---
+feature_adt:
+---
+feature_compiled: WASM
+---
+feature_context_management:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_pattern_matching:
+---
+feature_static_typing: yes
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:

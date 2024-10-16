@@ -37,6 +37,7 @@ feature_compiled: dict[str, int] = {
     'multi-step': 50,
     'BEAM VM': 30,
     'Java VM': 20,
+    'WASM': 15,
     'CLI/.NET': 10,
     'Python BC': 1,
     'bytecode': 1,

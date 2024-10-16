@@ -8,11 +8,11 @@ docs: https://webassembly.org/specs/
 ---
 repository:
 ---
-wikipedia_de:
+wikipedia_de: https://de.wikipedia.org/wiki/WebAssembly
 ---
 wikipedia_en: https://en.wikipedia.org/wiki/WebAssembly
 ---
-wikipedia_hu:
+wikipedia_hu: https://hu.wikipedia.org/wiki/WebAssembly
 ---
 wikibooks_de:
 ---

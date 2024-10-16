@@ -1,0 +1,73 @@
+title: Tidal
+---
+_model: programming-language
+---
+homepage: https://tidalcycles.org
+---
+docs: https://tidalcycles.org/docs/
+---
+repository: https://github.com/tidalcycles/Tidal
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared:
+---
+designed_by:
+---
+latest_release:
+---
+developer:
+---
+license:
+---
+category: domain
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_context_management:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_pattern_matching:
+---
+feature_static_typing:
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+## strudel
+
+- live coding platform for Tidal
+- homepage: [strudel.cc](https://strudel.cc)
+- GitHub: [tidalcycles/strudel](https://github.com/tidalcycles/strudel)
+
+## examples
+
+- 0atman: Siberspace
+    - on [Strudel](https://strudel.cc/?Vwdkb_BdxuNH)
+    - GitHub Gist: [siberspace.js](https://gist.github.com/0atman/2cc632a557fa3c8b28a4396bf28829c9)

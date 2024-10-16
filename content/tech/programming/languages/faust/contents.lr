@@ -1,0 +1,68 @@
+title: Faust
+---
+_model: programming-language
+---
+homepage: https://faust.grame.fr
+---
+docs: https://faustdoc.grame.fr
+---
+repository: https://github.com/grame-cncm/faust
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+family:
+---
+first_appeared: 2002
+---
+designed_by:
+---
+latest_release: 2.75.7 (Sep 2024)
+---
+developer: GRAME-CNCM Research Department
+---
+license: LGPLv2.1
+---
+category: domain
+---
+feature_adt:
+---
+feature_compiled:
+---
+feature_context_management:
+---
+feature_explicit_errors:
+---
+feature_hacker: --
+---
+feature_hof:
+---
+feature_immutable:
+---
+feature_jargon: --
+---
+feature_pattern_matching:
+---
+feature_static_typing:
+---
+ranking_tiobe_url:
+---
+sunarch:
+---
+body:
+
+- Faust = Functional Audio Stream
+- GRAME announcement: [Faust](https://www.grame.fr/articles/faust) *(in French)*
+- libraries: [FaustLibraries.grame.fr](https://faustlibraries.grame.fr)
+    - GitHub: [grame-cncm/FaustLibraries](https://github.com/grame-cncm/faustlibraries)
+- web IDE: [FaustIDE.grame.fr](https://faustide.grame.fr)
+- course: [Real-Time Audio Signal Processing in Faust](https://www.kadenze.com/courses/real-time-audio-signal-processing-in-faust/info) on [kadenze](https://www.kadenze.com)

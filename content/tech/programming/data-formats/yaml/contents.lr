@@ -30,3 +30,17 @@ body:
 
 - [Online YAML Tools](https://onlineyamltools.com)
 - [Markdown & YAML cheat sheet](https://learntheweb.courses/topics/markdown-yaml-cheat-sheet/#yaml)
+
+---
+blog_posts:
+
+#### link ####
+title: My wish-list for the next YAML
+----
+url: https://drewdevault.com/2021/07/28/The-next-YAML.html
+----
+date: 2021-07-28
+----
+creator: Drew DeVault
+----
+platform:
