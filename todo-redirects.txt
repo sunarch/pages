@@ -1,0 +1,5 @@
+/tech/programming/challenges/
+/tech/challenges/
+
+/world/news/feeds/
+/world/news/

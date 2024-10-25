@@ -1,0 +1,58 @@
+title: Hungary
+---
+description: world news
+---
+body:
+
+### religious
+
+- [Magyar Kurír](https://www.magyarkurir.hu) - katolikus hírportál ([feed](https://www.magyarkurir.hu/rss/))
+    - [Új Ember](https://ujember.hu) ([feed](https://ujember.hu/feed/))
+
+### not gov-leaning
+
+- [telex](https://telex.hu) ([feed](https://telex.hu/rss))
+- [444](https://444.hu) ([feed](https://444.hu/feed))
+- [Átlátszó](https://atlatszo.hu) ([feed](https://atlatszo.hu/feed/))
+- [Portfolio.hu](https://www.portfolio.hu) ([feed](https://www.portfolio.hu/rss/all.xml))
+- [168](https://168.hu)
+- [24.hu](https://24.hu) ([feed](https://24.hu/feed/))
+- [ATV](https://www.atv.hu)
+- [Mérce](https://merce.hu) ([feed](https://merce.hu/feed/))
+- [Magyar Narancs](https://magyarnarancs.hu) ([feed](https://magyarnarancs.hu/rss))
+- [Népszava](https://nepszava.hu) ([feed](https://nepszava.hu/feed/))
+
+### not gov-leaning - HVG
+
+- [hvg](https://hvg.hu) ([feed](https://www.hvg.hu/rss))
+    - other feeds:
+        - feed: [Itthon](https://hvg.hu/rss/itthon)
+        - feed: [Tech/Tudomány](https://hvg.hu/rss/tudomany)
+        - feed: [Kultúra](https://hvg.hu/rss/kultura)
+        - feed: [Autó](https://hvg.hu/rss/cegauto)
+        - feed: [Vállalkozás](https://hvg.hu/rss/kkv)
+        - feed: [Élet+Stílus](https://hvg.hu/rss/elet)
+        - feed: [Vélemény](https://hvg.hu/rss/velemeny)
+        - feed: [Sport](https://hvg.hu/rss/sport)
+        - feed: [Nagyítás](https://hvg.hu/rss/nagyitas)
+        - feed: [HVG Könyvek](https://hvg.hu/rss/hvgkonyvek)
+        - feed: [Világ](https://hvg.hu/rss/vilag)
+        - feed: [Gazdaság](https://hvg.hu/rss/gazdasag)
+    - blogs:
+        - [A nyomor széle](https://nyomorszele.hvgblog.hu) ([feed](https://nyomorszele.hvgblog.hu/feed/))
+
+### gov-leaning
+
+- [Index](https://index.hu) ([feed](https://index.hu/24ora/rss/))
+- [ORIGO](https://www.origo.hu) ([feed](https://www.origo.hu/contentpartner/rss/origoall/origo.xml))
+- [888.hu](https://888.hu) ([feed](https://888.hu/rss))
+- [Mandiner](https://mandiner.hu) ([feed](https://mandiner.hu/rss/))
+- [Magyar Idők](https://www.magyaridok.hu) - konzervatív közéleti portál ([feed](https://www.magyaridok.hu/feed/?))
+- [Ripost](https://ripost.hu) ([feed](https://ripost.hu/publicapi/hu/rss/ripost/articles))
+- [Magyar Hírlap](https://www.magyarhirlap.hu) ([feed](https://www.magyarhirlap.hu/rss))
+- [PestiSrácok](https://www.pestisracok.hu) ([feed](https://pestisracok.hu/feed/))
+- [Figyelő](https://figyelo.hu) ([feed](https://figyelo.hu/feed/))
+- [Magyar Nemzet](https://magyarnemzet.hu) - polgári napilap és hírportál ([feed](https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles))
+- [Szabad Föld](https://szabadfold.hu)
+- [Hír TV](https://hirtv.hu) ([feed](https://hirtv.hu/rss))
+

@@ -1,0 +1,24 @@
+title: countries
+---
+description: world news
+---
+body:
+
+## Germany
+
+- [FAZ](https://www.faz.net) ([feed: aktuell](https://www.faz.net/rss/aktuell/))
+- [Süddeutsche Zeitung (SZ)](https://www.sueddeutsche.de/) ([feed: Topthemen](https://rss.sueddeutsche.de/rss/Topthemen))
+
+## USA
+
+- [Washington Post](https://www.washingtonpost.com) ([feed: World](https://feeds.washingtonpost.com/rss/world))
+- [The New York Times (NYT)](https://www.nytimes.com)
+    - feed: [World](https://rss.nytimes.com/services/xml/rss/nyt/World.xml)
+    - feed: [Europe](https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml)
+    - feed: [Science](https://rss.nytimes.com/services/xml/rss/nyt/Science.xml)
+    - feed: [Arts](https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml)
+
+## other
+
+- [Al Jazeera](https://www.aljazeera.com) ([feed](https://www.aljazeera.com/xml/rss/all.xml))
+
