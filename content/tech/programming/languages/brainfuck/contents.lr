@@ -61,3 +61,24 @@ sunarch: read
 body:
 
 - [esolangs page](https://esolangs.org/wiki/Brainfuck)
+
+- history: [muppetlabs.com/~breadbox/bf/](https://www.muppetlabs.com/~breadbox/bf/)
+- basics - GitHub Gist: [roachhd/dce54bec8ba55fb17d3a](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+- online interpreter: [copy.sh/brainfuck/](https://copy.sh/brainfuck/)
+- "The world's smallest Brainfuck interpreter in C", by Kang Seonghoon
+    - post: [Brainfuck interpreter in 2 lines of C​](https://j.mearie.org/post/1181041789/brainfuck-interpreter-in-2-lines-of-c) (2010-09-25)
+    - GitHub Gist: [lifthrasiir/bf.c](https://gist.github.com/lifthrasiir/596667)
+
+---
+videos:
+
+#### link ####
+title: Brainf**k in 100 Seconds
+----
+url: https://youtu.be/hdHjjBS4cs8
+----
+date: 2021-12-10
+----
+creator: Fireship
+----
+platform: YouTube

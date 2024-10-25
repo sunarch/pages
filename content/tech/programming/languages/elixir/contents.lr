@@ -62,7 +62,25 @@ body:
 
 - on BEAM, the Erlang VM
 
+## resources
+
+- [Elixir School](https://elixirschool.com/en)
+
 ## Phoenix framework
 
-- homepage: [Phoenix Framework](https://www.phoenixframework.org/)
+- homepage: [Phoenix Framework](https://www.phoenixframework.org)
 - Wikipedia: [Phoenix (web framework)](https://en.wikipedia.org/wiki/Phoenix_(web_framework))
+
+---
+blog_posts:
+
+#### link ####
+title: How Elixir Lays Out Your Data in Memory
+----
+url: https://www.honeybadger.io/blog/elixir-memory-structure/
+----
+date: 2021-03-01
+----
+creator: Sasha Fonseca
+----
+platform: Honeybadger Developer Blog

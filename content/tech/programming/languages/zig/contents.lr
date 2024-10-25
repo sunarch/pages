@@ -63,27 +63,51 @@ body:
 - type: low level
 - standard: no
 
-- forum: [Ziggit](https://ziggit.dev)
+- forum: [Ziggit](https://ziggit.dev) - A Zig community
 - [Zig.News](https://zig.news) (built on Forem)
+- Zig User Map: [usermap.random-projects.net](https://usermap.random-projects.net)
+
+## language server
+
+- on homepage: [/learn/tools/#lsp](https://ziglang.org/learn/tools/#lsp)
+- Zig language server (non-official)
+    - GitHub: [zigtools/zls](https://github.com/zigtools/zls)
+
+## resources
+
+- [zig.guide](https://zig.guide)
+    - formerly `ziglearn.org`
+- Codeberg: [ziglings/exercises](https://codeberg.org/ziglings/exercises/)
+    - "Learn the Zig programming language by fixing tiny broken programs."
+- [Zig-By-Example.com](https://zig-by-example.com)
 
 ## games
 
 - Raylib bindings: GitHub [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig)
+- [Mach](https://machengine.org) - zig game engine & graphics toolkit
+    - by [Hexops](https://hexops.com) - the next generation of games
+        - devlog: [devlog.hexops.com](https://devlog.hexops.com)
 
 ## libs
 
 - WebUI
     - GitHub: [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui)
 
+## tools
+
+- zigup (optional) - Download and manage zig compilers.
+    - GitHub: [marler8997/zigup](https://github.com/marler8997/zigup)
+
 ## WASM
 
 - Zig version of the WASI tutorial - GitHub: [kubkon/zig-wasi-tutorial](https://github.com/kubkon/zig-wasi-tutorial) by by Jakub Konka
 - Zig + WebAssembly + JS + DOM - GitHub: [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) by Shritesh Bhattarai
 
-## articles by creator
+## some contributors
 
-- Andrew Kelley - [andrewkelley.me](https://andrewkelley.me)
-- [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) (2020-03-24)
+- Andrew Kelley (creator) - [andrewkelley.me](https://andrewkelley.me)
+    - [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) (2020-03-24)
+- Loris Cro - [kristoff.it](https://kristoff.it)
 
 ---
 articles:
@@ -101,6 +125,17 @@ platform: Zig.news
 
 ---
 videos:
+
+#### link ####
+title: What's Zig got that C, Rust and Go don't have? (with Loris Cro)
+----
+url: https://youtu.be/5_oqWE9otaE
+----
+date: 2023-11-15
+----
+creator: Developer Voices
+----
+platform: YouTube
 
 #### link ####
 title: Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022

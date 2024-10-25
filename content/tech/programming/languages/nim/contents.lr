@@ -65,6 +65,12 @@ body:
 - Uniform Function Call Syntax
     - [Wikipedia (English)](https://en.wikipedia.org/wiki/Uniform_Function_Call_Syntax)
 
+## nimble
+
+- Package manager for the Nim programming language.
+- GitHub: [nim-lang/nimble](https://github.com/nim-lang/nimble)
+- Nimble User Guide: [nim-lang.github.io/nimble/](https://nim-lang.github.io/nimble/)
+
 ## resources
 
 - ReadTheDocs.io: [Nim-Docs](https://nim-docs.ReadTheDocs.io/en/latest/)

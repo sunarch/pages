@@ -68,9 +68,12 @@ body:
 ## resources
 
 - [Go by example](https://gobyexample.com)
+- Golang.ch: [The ultimate list of Golang GUI/graphics/image-related libraries](https://golang.ch/the-ultimate-list-of-golang-gui-graphics-image-related-libraries/)
 
 ## libs
 
+- Fiber
+    - homepage: [gofiber.io](https://gofiber.io)
 - WebUI
     - GitHub: [webui-dev/go-webui](https://github.com/webui-dev/go-webui)
 

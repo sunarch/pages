@@ -14,9 +14,9 @@ wikipedia_en: https://en.wikipedia.org/wiki/Python_(programming_language)
 ---
 wikipedia_hu: https://hu.wikipedia.org/wiki/Python_(programoz%C3%A1si_nyelv)
 ---
-wikibooks_de:
+wikibooks_de: https://de.wikibooks.org/wiki/Python_unter_Linux
 ---
-wikibooks_en:
+wikibooks_en: https://en.wikibooks.org/wiki/Python_Programming
 ---
 wikibooks_hu:
 ---
@@ -86,6 +86,8 @@ scripting, readability, extensible
 ## resources
 
 - [PythonCheatsheet.org](https://www.pythoncheatsheet.org)
+- [Python Wiki](https://wiki.python.org/moin/)
+    - [Time Complexity](https://wiki.python.org/moin/TimeComplexity)
 
 ## tools
 
@@ -110,8 +112,15 @@ scripting, readability, extensible
 
 ## libs
 
+- Jinja - templating engine
+    - homepage: [jinja.palletsprojects.com](https://jinja.palletsprojects.com/en/)
+    - GitHub: [pallets/jinja](https://github.com/pallets/jinja)
+    - PyPI: [Jinja2](https://pypi.org/project/Jinja2/)
 - WebUI
     - GitHub: [webui-dev/python-webui](https://github.com/webui-dev/python-webui)
+- Textual - app dev framework (TUI & browser)
+    - GitHub: [Textualize/textual](https://github.com/Textualize/textual)
+    - PyPI: [textual](https://pypi.org/project/textual/)
 
 ## videos
 
@@ -194,4 +203,4 @@ if __debug__:
 
 - by Josh Moore
 - YouTube playlist: [snakeware](https://youtube.com/playlist?list=PLPaspA7V-G6Q3IiyPEVN6Scx0lY5zxjCT)
-
+- Hackaday: [Python Is All You’ll Ever Need In This Linux Distro | Hackaday](https://hackaday.com/2020/06/01/python-is-all-youll-ever-need-in-this-linux-distro/) by Sven Gregori (2020-06-01)

@@ -1,11 +1,32 @@
 title: Windows
 ---
+_model: tech-project
+---
+homepage: https://www.microsoft.com/en-us/windows/
+---
+docs:
+---
+repository:
+---
+wikipedia_de: https://de.wikipedia.org/wiki/Microsoft_Windows
+---
+wikipedia_en: https://en.wikipedia.org/wiki/Microsoft_Windows
+---
+wikipedia_hu: https://hu.wikipedia.org/wiki/Windows
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+tech_category:
+---
 body:
-
-- [homepage](https://www.microsoft.com/en-us/windows/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-
-- [attributes](windows-file-attributes.md)
 
 ---
 
@@ -54,6 +75,30 @@ body:
 
 - [Windows 10 & 8: Install Active Directory Users and Computers](https://www.technipages.com/windows-install-active-directory-users-and-computers) by [TechniPages](https://www.technipages.com/)
 
-## misc.
+---
+articles:
 
-- TechJunkie: [How To Disable the Keylogger in Windows 10(https://www.techjunkie.com/disable-keylogger-windows-10/)
+#### link ####
+title: How To Disable the Keylogger in Windows 10
+----
+url: https://www.techjunkie.com/disable-keylogger-windows-10/
+----
+date: 2017-03-27
+----
+creator: Random
+----
+platform: TechJunkie
+
+---
+videos:
+
+#### link ####
+title: Disable Windows 11 Telemetry, Internet Search, Data Collection, Cortana, etc.
+----
+url: https://youtu.be/Zcr95HBFgWg
+----
+date: 2024-07-12
+----
+creator: Tek Syndicate
+----
+platform: YouTube

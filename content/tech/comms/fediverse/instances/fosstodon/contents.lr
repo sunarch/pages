@@ -5,4 +5,7 @@ body:
 > Fosstodon is a Mastodon instance that is open to anyone who is interested in technology; particularly free & open source software.
 
 - homepage: [fosstodon.org](https://fosstodon.org)
+    - [Fosstodon Hub](https://hub.fosstodon.org)
+    - [status](https://status.fosstodon.org)
+    - [Patron Mattermost](https://mm.fosstodon.org)
 - software: Mastodon

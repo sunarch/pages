@@ -4,15 +4,18 @@ body:
 
 # networks
 
-- [Libera.Chat](https://libera.chat/)
+- [Libera.Chat](https://libera.chat)
     - [feed](https://libera.chat/atom.xml)
-    - [webchat](https://web.libera.chat/)
+    - [webchat](https://web.libera.chat)
     - [channels on netsplit](https://netsplit.de/channels/?net=Libera.Chat)
 - [OFTC](https://www.oftc.net/)
-    - [webchat](https://webchat.oftc.net/)
+    - [webchat](https://webchat.oftc.net)
     - [channels on netsplit](https://netsplit.de/channels/?net=OFTC)
 - [freenode](https://freenode.net/) - defunct
-    - ["Is Freenode Dead Yet?"](https://isfreenodedeadyet.com/)
+    - ["Is Freenode Dead Yet?"](https://isfreenodedeadyet.com)
+- IRCnet: [IRCnet.info](https://www.ircnet.info)
+    - IRCNet Cloaks: [cloak.ircnet.io(https://www.cloak.ircnet.io)
+    - IRCnet2: [ircnet2.com](https://www.ircnet2.com)
 
 # IRC
 
@@ -20,6 +23,7 @@ body:
 
 - IRC statistics ([ircstats.org](https://www.ircstats.org/))
 - IRC help ([irchelp.org](https://www.irchelp.org/))
+- "Modern IRC Client Protocol": [modern.ircdocs.horse](https://modern.ircdocs.horse)
 
 - Zandronum Wiki - [IRC:Channel Modes](https://wiki.zandronum.com/IRC:Channel_Modes)
 
@@ -31,26 +35,27 @@ body:
 
 ## clients
 
-- [Quassel IRC](https://quassel-irc.org/)
+- [Quassel IRC](https://quassel-irc.org)
     - Linux, Windows
     - has a distributed version
     - [Wikipedia](https://en.wikipedia.org/wiki/Quassel_IRC)
-- [WeeChat](https://weechat.org/)
+- [WeeChat](https://weechat.org)
     - Linux
     - [Wikipedia](https://en.wikipedia.org/wiki/WeeChat)
-- [HexChat](https://hexchat.github.io/)
+- [HexChat](https://hexchat.github.io)
     - Linux, Windows
     - [Wikipedia](https://en.wikipedia.org/wiki/HexChat)
-- [Pidgin](http://pidgin.im/)
+- [Pidgin](http://pidgin.im)
     - Linux, Windows
     - [Wikipedia](https://en.wikipedia.org/wiki/Pidgin_(software))
-- [mIRC](https://www.mirc.com/)
+- [mIRC](https://www.mirc.com)
 - [IRCCloud](https://www.irccloud.com/)
     - [blog](https://blog.irccloud.com) ([feed](https://blog.irccloud.com/feed.xml))
+- [Smuxi](https://smuxi.im)
 
 ### terminal-based
 
-- [irssi](https://irssi.org/)
+- [irssi](https://irssi.org)
     - Linux, Windows
     - [Wikipedia](https://en.wikipedia.org/wiki/Irssi)
 

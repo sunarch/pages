@@ -60,14 +60,22 @@ sunarch: tried
 ---
 body:
 
-- type: list
-- standard: unknown
+- other docs:
+    - [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
+    - [The Racket Guide](https://docs.racket-lang.org/guide/)
+    - [The Racket Reference](https://docs.racket-lang.org/reference/)
+- Racket Package Index: [pkgs.racket-lang.org](https://pkgs.racket-lang.org)
+- Launchpad PPA: [“Racket” team / Racket](https://launchpad.net/~plt/+archive/ubuntu/racket)
 
 ## resources
 
-- [Beautiful Racket](https://beautifulracket.com/)
+- [Beautiful Racket](https://beautifulracket.com/) by Matthew Butterick
     - an introduction to language-oriented programming using Racket
-    - by Matthew Butterick
+- [Fear of Macros](https://www.greghendershott.com/fear-of-macros/) by Greg Hendershott - A practical guide to Racket macros.
+
+## other lang-s
+
+- [Pollen](https://docs.racket-lang.org/pollen/) - the book is a program
 
 ## lang design
 

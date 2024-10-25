@@ -63,8 +63,22 @@ body:
 - type: markup
 - standard: yes
 
-## links
+- Wikipedia (en): [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- HTML Standard: [html.spec.whatwg.org](https://html.spec.whatwg.org)
+- W3Schools: [HTML](https://www.w3schools.com/html/)
+
+## tools
+
+- [Nu Html Checker](https://validator.w3.org/nu/) by W3C
+
+## resources
+
+- [HTML for people](https://htmlforpeople.com) by [Blake Watson](https://blakewatson.com)
+- ascii.cl: [HTML Codes](https://ascii.cl/htmlcodes.htm) - Table of ASCII characters and symbols
+
+## other
 
 - [The HTML Hell Page](http://catb.org/~esr/html-hell.html) by [Eric S. Raymond](../people.md)
 - HTML and RegEx:
     Stack Overflow: [It’s too late, too late, we cannot be saved!](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [How to draw a hexagonal grid on HTML Canvas](https://eperezcosano.github.io/hex-grid/)

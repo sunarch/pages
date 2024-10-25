@@ -138,3 +138,28 @@ date: 2024-08-18
 creator: ThePrimeTime
 ----
 platform: YouTube
+
+---
+video_series:
+
+#### link ####
+title: Odin in Practice
+----
+url: https://www.youtube.com/playlist?list=PLEQTpgQ9eFCEg0CTd0KkiqgUpP5V0JM4-
+----
+date:
+----
+creator: Rickard Andersson (gonz)
+----
+platform: YouTube
+
+#### link ####
+title: Security with Odin
+----
+url: https://www.youtube.com/playlist?list=PLEQTpgQ9eFCERzVqM7Nx-Yk7LDbp4-sNC
+----
+date:
+----
+creator: Rickard Andersson (gonz)
+----
+platform: YouTube

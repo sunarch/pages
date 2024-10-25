@@ -11,6 +11,10 @@ hide_subpages: true
 ---
 body:
 
+## learning resources
+
+- book: [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
+
 ## lists
 
 - Wikipedia: [List of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)

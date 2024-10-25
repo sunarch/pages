@@ -71,12 +71,14 @@ body:
 
 web. prototype-based, no I/O incl., general
 
-## static site generators
+## tools
 
-### Gatsby
+- [ESLint](https://eslint.org) - Pluggable JavaScript linter
+- [JSToolSet](https://www.jstoolset.com)
 
-- homepage: [gatsbyjs.com](https://www.gatsbyjs.com/)
-- Wikipedia: [Gatsby (JavaScript framework)](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework))
+## resources
+
+- The Modern JavaScript Tutorial - [javascript.info](https://javascript.info)
 
 ## libs
 

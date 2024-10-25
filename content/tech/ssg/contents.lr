@@ -34,6 +34,17 @@ platform: It's FOSS
 blog_posts:
 
 #### link ####
+title: The Static Site Paradox
+----
+url: https://kristoff.it/blog/static-site-paradox/
+----
+date: 2024-10-08
+----
+creator: Loris Cro
+----
+platform: 
+
+#### link ####
 title: From static site generator to static site processor
 ----
 url: https://thomasorus.com/from-static-site-generator-to-static-site-processor.html

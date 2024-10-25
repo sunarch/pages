@@ -59,3 +59,16 @@ ranking_tiobe_url:
 sunarch: plan
 ---
 body:
+
+- book on homepage: [The Scheme Programming Language, 4th Edition](https://www.scheme.com/tspl4/)
+- Cisco: [Chez Scheme Version 9 User's Guide](https://cisco.github.io/ChezScheme/csug9.5/)
+
+### tools
+
+- [Thunderchez](https://pizzahack.eu/fossil/thunderchez/home)
+- [Akku.scm - Scheme package manager](https://akkuscm.org)
+- [Snow](https://snow-fort.org)
+
+### blogs
+
+- [Scheme](https://mdhughes.tech/scheme/) on "Mark writes"

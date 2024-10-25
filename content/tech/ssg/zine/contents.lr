@@ -1,0 +1,36 @@
+title: Zine
+---
+_model: tech-project
+---
+homepage: https://zine-ssg.io/
+---
+docs: https://zine-ssg.io/docs/
+---
+repository: https://github.com/kristoff-it/zine
+---
+wikipedia_de:
+---
+wikipedia_en:
+---
+wikipedia_hu:
+---
+wikibooks_de:
+---
+wikibooks_en:
+---
+wikibooks_hu:
+---
+first_appeared:
+---
+license:
+---
+tech_category:
+---
+body:
+
+> Fast, Scalable, Flexible Static Site Generator (SSG)
+
+> Zine is pronounced like in [fan*zine*](https://en.wikipedia.org/wiki/Zine).
+
+- created by [Loris Cro](https://kristoff.it)
+- devlog: [zine-ssg.io/log/](https://zine-ssg.io/log/)

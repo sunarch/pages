@@ -73,6 +73,17 @@ body:
 - [the book](https://doc.rust-lang.org/book/)
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
+## Cargo
+
+- [The Cargo Book](https://doc.rust-lang.org/cargo/)
+    - [The Manifest Format](https://doc.rust-lang.org/cargo/reference/manifest.html)
+
+## Crates.io
+
+- [Crates.io](https://crates.io) - Rust Package Registry
+    - [Category Slugs](https://crates.io/category_slugs)
+- [Docs.rs](https://docs.rs)
+
 ## notes from the std.lib
 
 - [Macro std::include_bytes](https://doc.rust-lang.org/std/macro.include_bytes.html)
@@ -83,13 +94,25 @@ body:
 
 ## useful crates
 
-- [clap](https://docs.rs/clap/latest/clap/): Command Line Argument Parser for Rust
-- [inquire](https://docs.rs/inquire/latest/inquire/index.html): a library for building interactive prompts on terminals
+- [clap](https://docs.rs/clap/latest/clap/) - Command Line Argument Parser
+- [directories_next](https://docs.rs/directories-next/latest/directories_next/) - XDG base/user directories
+- [inquire](https://docs.rs/inquire/latest/inquire/index.html) - a library for building interactive prompts on terminals
+- [log](https://docs.rs/log/latest/log/) - a lightweight logging facade
+- [pnet](https://docs.rs/pnet/latest/pnet/) - cross-platform API for low level networking
+- [reqwest](https://docs.rs/reqwest/latest/reqwest/) - convenient, higher-level HTTP Client
+- [rusqlite](https://docs.rs/rusqlite/latest/rusqlite/) - ergonomic wrapper for using SQLite
+- [serde_json](https://docs.rs/serde_json/latest/serde_json/)
+- [walkdir](https://docs.rs/walkdir/latest/walkdir/)
+
+## crates - UI
+
+- LogRocket Blog: [The state of Rust GUI libraries](https://blog.logrocket.com/state-of-rust-gui-libraries) by Solomon Esenyi (2024-01-03)
+
+- [iced](https://docs.rs/iced/latest/iced/)
+    - "A cross-platform GUI library for Rust"
+    - homepage: [iced.rs](https://iced.rs)
 - [ratatui](https://docs.rs/ratatui/latest/ratatui/)
     - [Ratatui](https://ratatui.rs)
-
-## libs
-
 - WebUI
     - GitHub: [webui-dev/rust-webui](https://github.com/webui-dev/rust-webui)
 
@@ -101,6 +124,14 @@ body:
 ## other
 
 - togglebit.io: [Bitwise cheat sheet for Rust](https://togglebit.io/posts/rust-bitwise/) (2021-07-06)
+
+## creators
+
+- Let's Get Rusty
+    - YouTube: [@LetsGetRusty](https://www.youtube.com/c/LetsGetRusty)
+    - newsletter / homepage: [LetsGetRusty.com](https://letsgetrusty.com)
+        - newsletter / [Rust Cheet Sheet](https://letsgetrusty.com/cheatsheet/)
+    
 
 ---
 blog_posts:
@@ -139,6 +170,17 @@ creator: fasterthanlime
 platform:
 
 #### link ####
+title: The XDG base directory specification and Rust
+----
+url: https://blog.liw.fi/posts/2021/02/14/xdg-base-dirs-rust/
+----
+date: 2021-02-14
+----
+creator: Lars Wirzenius
+----
+platform: blog.liw.fi
+
+#### link ####
 title: Why does musl make my Rust code so slow?
 ----
 url: https://andygrove.io/2020/05/why-musl-extremely-slow/
@@ -160,6 +202,17 @@ url: https://youtu.be/XZtlD_m59sM
 date: 2023-04-09
 ----
 creator: Jeremy Chone
+----
+platform: YouTube
+
+#### link ####
+title: Build your entire tech stack in Rust
+----
+url: https://youtu.be/luOgEhLE2sg
+----
+date: 2023-03-03
+----
+creator: Let's Get Rusty
 ----
 platform: YouTube
 

@@ -3,9 +3,18 @@ title: Polymaths.social
 body:
 
 - homepage: [polymaths.social](https://polymaths.social)
-- software: GoToSocial
+    - [status](https://status.polymaths.social) ([feed](https://status.polymaths.social/index.xml), [JSON](https://status.polymaths.social/index.json))
+    - [waitlist](https://waitlist.polymaths.social)
 - liberapay: [@Polymaths.social](https://liberapay.com/Polymaths.social/)
+
+## software
+
+- instance: GoToSocial
+- status:
+    - cstate - Open source static (serverless) status page
+    - GitHub: [cstate/cstate](https://github.com/cstate/cstate)
 
 ## preliminary instance
 
 - [alpha.polymaths.social](https://alpha.polymaths.social)
+    - [/api/v1/instance](https://alpha.polymaths.social/api/v1/instance)
