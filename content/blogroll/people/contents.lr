@@ -24,6 +24,7 @@ body:
 ### Derek Powazek
 
 - homepage: [powazek.com](https://powazek.com)
+    - "It's pronounced poe-WAH-zek."
     - [feed](https://powazek.com/feed)
 
 ### Jack Baty
@@ -67,10 +68,13 @@ body:
 ### Tristram Oaten (Tris) (Namtao)
 
 - homepage/blog: [0atman.com](https://www.0atman.com) ([feed](https://www.0atman.com/feed.xml))
-- Tris - No Boilerplate
-    - Mastodon: [@noboilerplate@tech.lgbt](https://tech.lgbt/@noboilerplate)
-- Tris - /usr/stories
-    - WIP
+- projects
+    - No Boilerplate
+        - homepage: [NoBoilerplate.org](https://noboilerplate.org)
+        - Mastodon: [@noboilerplate@tech.lgbt](https://tech.lgbt/@noboilerplate)
+        - YouTube: [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
+    - `/usr/stories`
+        - WIP
 - Mastodon: [@0atman@mastodon.social](https://mastodon.social/@0atman)
 - other
     - the Brainmade mark: [BrainMade.org](https://brainmade.org)
@@ -85,7 +89,6 @@ body:
     - Speaker.com: [Modem Prometheus](https://www.spreaker.com/podcast/modem-prometheus--5184621)
         - [feed](https://www.spreaker.com/show/5184621/episodes/feed)
     - Mastodon: [@ModemPrometheus@wandering.shop](https://wandering.shop/@modemprometheus)
-
 
 ### Ward Hale
 

@@ -23,7 +23,7 @@ body:
 
 ### Armin Ronacher
 
-- homepage: [lucumr.pocoo.org](https://lucumr.pocoo.org) ([feed](https://lucumr.pocoo.org/feed.atom))
+- homepage: "Thoughts and Writings" - [lucumr.pocoo.org](https://lucumr.pocoo.org) ([feed](https://lucumr.pocoo.org/feed.atom))
 - Mastodon: [@mitsuhiko@hachyderm.io](https://hachyderm.io/@mitsuhiko)
 
 ### Astrelion
@@ -154,7 +154,8 @@ body:
 
 ### Eric S. Raymond
 
-- homepage: "Armed and Dangerous" - [esr.ibiblio.org](http://esr.ibiblio.org) ([feed](http://esr.ibiblio.org/?feed=rss2))
+- homepage: [catb.org/esr/](http://www.catb.org/esr/)
+    - weblog: "Armed and Dangerous" - [esr.ibiblio.org](http://esr.ibiblio.org) ([feed](http://esr.ibiblio.org/?feed=rss2))
 
 ### Eugen Rochko
 
@@ -269,6 +270,15 @@ body:
         - [feed](https://kiavc.wordpress.com/feed/)
     - Mastodon: [@kiavc@mastodon.gamedev.place](https://mastodon.gamedev.place/@kiavc)
 
+### Loris Cro
+
+- VP of Community at the [Zig Software Foundation](https://ziglang.org/zsf/)
+- homepage: [kristoff.it](https://kristoff.it)
+    - blog [feed](https://kristoff.it/index.xml)
+- GitHub: [kristoff-it](https://github.com/kristoff-it)
+- YouTube: [Zig SHOWTIME](https://www.youtube.com/c/ZigSHOWTIME)
+- Twitch: [kristoff_it](https://www.twitch.tv/kristoff_it)
+
 ### Manuel Odendahl (wesen / mnmlmnl / mnl)
 
 - dev.to: [wesen](https://dev.to/wesen) ([feed](https://dev.to/feed/wesen))
@@ -280,15 +290,26 @@ body:
 - homepage: "Mark writes" - [MDHughes.tech](https://MDHughes.tech)
     - [blog](https://mdhughes.tech/blog/) ([feed](https://MDHughes.tech/feed/))
 - Mastodon: [@MDHughes@appdot.net](https://appdot.net/@MDHughes)
+- projects:
+    - Mystic Dungeon Club
+        - homepage: [MysticDungeon.Club](https://mysticdungeon.club)
 
 ### Martin Fowler
 
 - homepage: [MartinFowler.com](https://MartinFowler.com) ([feed](https://MartinFowler.com/feed.atom))
+    - [Bliki](https://martinfowler.com/bliki/)
 - Mastodon: [@MFowler@toot.ThoughtWorks.com](https://toot.ThoughtWorks.com/@MFowler)
 
 ### Matt Rickard
 
 - homepage: [matt-rickard.com](https://matt-rickard.com) ([feed](https://matt-rickard.com/rss/))
+
+### Matthew Butterick
+
+- projects:
+    - [Beautiful Racket](https://beautifulracket.com)
+    - Butterick’s [Practical Typography](https://practicaltypography.com)
+    - [Typography for Lawyers](https://typographyforlawyers.com)
 
 ### Matthias Hager
 

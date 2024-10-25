@@ -28,6 +28,11 @@ body:
         - archived: [See With Eyes Closed](https://seewitheyesclosed.com)
         - [Fake Movie Blurbs](https://blurbs.benjaminhollon.com) ([feed](https://blurbs.benjaminhollon.com/feed/))
         - [Poems](https://benjaminhollon.com/writing/poem/1/) ([feed](https://benjaminhollon.com/writing/feeds/poetry/))
+    - [bin.](https://bin.benjaminhollon.com)
+    - other writings:
+        - suspended: [The Prodigal's Brother](https://theprodigalsbrother.com)
+- Codeberg: [BenjaminHollon](https://codeberg.org/BenjaminHollon)
+- [Liberapay](https://liberapay.com/BenjaminHollon)
 - projects
     - [Clew](https://clew.se)
         - devlog: [Building Clew](https://blog.clew.se) ([feed](https://blog.clew.se/feed/))
@@ -36,8 +41,6 @@ body:
         - Codeberg: [Freedom-to-Write](https://codeberg.org/Freedom-to-Write)
         - [readable.css](https://readable-css.FreedomToWrite.org)
     - [Writing Month](https://writingmonth.org)
-- Codeberg: [BenjaminHollon](https://codeberg.org/BenjaminHollon)
-- [Liberapay](https://liberapay.com/BenjaminHollon)
 
 ### Benedikt (@theDoctor)
 
@@ -67,10 +70,11 @@ body:
 - homepage: [ClaytonErrington.com](https://ClaytonErrington.com)
     - [blog](https://claytonerrington.com/blog/) ([feed](https://claytonerrington.com/feed.xml))
     - [Dad Jokes](https://dadjokes.claytonerrington.com)
-- other site: [Static.Quest](https://static.quest) - A dynamic webring
 - Codeberg: [CJErrington](https://codeberg.org/cjerrington)
 - GitHub: [CJErrington](https://github.com/cjerrington)
 - Mastodon: [@CJErrington@mstdn.social](https://mstdn.social/@cjerrington)
+- projects:
+    - [Static.Quest](https://static.quest) - A dynamic webring
 
 ### Dave (@dm)
 
@@ -148,6 +152,8 @@ body:
     - [blog](https://sotolf.codeberg.page/posts/) ([feed](https://sotolf.codeberg.page/index.xml))
 - Codeberg: [sotolf](https://codeberg.org/sotolf)
 - demo.opengist.io: [sotolf2](https://demo.opengist.io/sotolf2)
+- paste.sr.ht: [~sotolf](https://paste.sr.ht/~sotolf)
+    - [labeler.zig](https://paste.sr.ht/~sotolf/507a6781ee441cd0102d73ebfe968971ecd8210d)
 - Mastodon: [@sotolf@social.linux.pizza](https://social.linux.pizza/@sotolf)
 
 ### Spencer Jones
