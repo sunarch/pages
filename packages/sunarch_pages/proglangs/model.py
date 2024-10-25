@@ -5,6 +5,7 @@
 """Proglangs - model values"""
 
 PATH_PROGLANGS: str = '/tech/programming/languages'
+URL_PATH: str = f'{PATH_PROGLANGS}/'
 
 # fields
 KEY_FOR_FIRST_APPEARED: str = 'first_appeared'

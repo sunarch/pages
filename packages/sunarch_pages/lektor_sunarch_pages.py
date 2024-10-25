@@ -17,6 +17,7 @@ from common.model import KEY_FOR_TITLE
 from proglangs.common import language_pages
 from proglangs.age import calculate_age, set_age
 from proglangs.comparison import calculate_comparison_score, set_comparison_score
+import proglangs.model
 from proglangs.rankings import verify_rankings, calculate_sum_rankings, set_sum_rankings
 import competitions.y2024_uefa_euro
 
@@ -61,28 +62,30 @@ class SunarchPagesPlugin(Plugin):
         if DEBUG > 3:
             print('  => building', source.source_filename)
 
-        pad: Pad = builder.pad
-
         match source.url_path:
+
             case competitions.y2024_uefa_euro.URL_PATH:
                 competitions.y2024_uefa_euro.setup(source, debug=DEBUG)
 
-    def on_before_build_all(self, builder: Builder, **extra) -> None:
-        """Event handler: before-build-all"""
+            case proglangs.model.URL_PATH:
 
-        pad: Pad = builder.pad
+                # previously:
+                # def on_before_build_all(self, builder: Builder, **extra) -> None:
+                #     """Event handler: before-build-all"""
 
-        verify_rankings(pad, debug=DEBUG)
+                pad: Pad = builder.pad
 
-        for child in language_pages(pad):
-            if DEBUG > 0:
-                print(child[KEY_FOR_TITLE])
+                verify_rankings(pad, debug=DEBUG)
 
-            age: int = calculate_age(child, debug=DEBUG)
-            set_age(child, age, debug=DEBUG)
+                for child in language_pages(pad):
+                    if DEBUG > 0:
+                        print(child[KEY_FOR_TITLE])
 
-            comparison_score: int = calculate_comparison_score(child, debug=DEBUG)
-            set_comparison_score(child, comparison_score, debug=DEBUG)
+                    age: int = calculate_age(child, debug=DEBUG)
+                    set_age(child, age, debug=DEBUG)
 
-            sum_rankings: int = calculate_sum_rankings(child, debug=DEBUG)
-            set_sum_rankings(child, sum_rankings, debug=DEBUG)
+                    comparison_score: int = calculate_comparison_score(child, debug=DEBUG)
+                    set_comparison_score(child, comparison_score, debug=DEBUG)
+
+                    sum_rankings: int = calculate_sum_rankings(child, debug=DEBUG)
+                    set_sum_rankings(child, sum_rankings, debug=DEBUG)
