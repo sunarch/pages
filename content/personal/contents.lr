@@ -74,7 +74,7 @@ personal projects in various stages of development, mostly in early ones
 
 ### Nim
 
-> The syntax is usually said to be "as easy as Python", but it's mor smaller things I appreciate about it, e.g. how it distinguished func/proc types. Compiling to C makes it also performant and the tooling has some nice helpful options. However, I want to get away from exceptions (as opposed to errors as values) and there is also some hidden complexity that I wasn't excited to reach.
+> The syntax is usually said to be "as easy as Python", but it's more smaller things I appreciate about it, e.g. how it distinguished func/proc types. Compiling to C makes it also performant and the tooling has some nice helpful options. However, I want to get away from exceptions (as opposed to errors as values) and there is also some hidden complexity that I wasn't excited to reach.
 
 - [draftable](https://codeberg.org/sunarch/draftable) - document draft visualization (preA)
 - [placeholder](https://codeberg.org/sunarch/placeholder) - more fun placeholder texts (preA)
@@ -91,6 +91,7 @@ personal projects in various stages of development, mostly in early ones
 ### Firefox extension
 
 - [Center Body](https://codeberg.org/sunarch/center-body)
+    - Firefox Extension page: [Center Body](https://addons.mozilla.org/en-US/firefox/addon/center-body/)
 
 ### web project
 
